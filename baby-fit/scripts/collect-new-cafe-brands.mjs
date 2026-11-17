@@ -1,0 +1,28 @@
+import fs from 'node:fs';
+import {createHash} from 'node:crypto';
+import {load} from 'cheerio';
+import {clean,newKind,parseNewMeasurements,basicAttributes} from './new-brand-parsing.mjs';
+import {isComparable} from '../dist/engine.js';
+const id=process.argv[2],date='2026-11-17';
+const configs={benebene:{base:'https://www.benebene.co.kr',categories:[50,53,62,71]},susuncra:{base:'https://www.susuncra.com',categories:[132,137,138,42]}};
+const cfg=configs[id];if(!cfg)throw new Error('Unknown brand');
+const cache='research/new-brands-cache';fs.mkdirSync(cache,{recursive:true});
+async function get(url){const file=cache+'/'+createHash('sha256').update(url).digest('hex')+'.html';if(fs.existsSync(file))return fs.readFileSync(file,'utf8');const r=await fetch(url,{signal:AbortSignal.timeout(30000),headers:{'user-agent':'LittleFitResearch/1.0 (public product size charts)'}});if(!r.ok)throw new Error('HTTP '+r.status);const h=await r.text();fs.writeFileSync(file,h);return h;}
+async function pool(items,fn,n=3){let cursor=0;const out=[];await Promise.all(Array.from({length:n},async()=>{while(cursor<items.length){const i=cursor++;try{out[i]=await fn(items[i],i);}catch(error){out[i]={error:String(error),input:items[i]};}}}));return out;}
+function listItems(html,cate){const $=load(html),map=new Map();$('a[href*="product_no="]').each((_,a)=>{const link=$(a).attr('href'),u=new URL(link,cfg.base),code=u.searchParams.get('product_no');if(u.searchParams.get('cate_no')!==String(cate))return;const item=$(a).closest('li').has('img');if(!item.length)return;const img=item.find('img[src*="/product/"]').first();if(!img.length)return;let name=clean(item.find('.name').first().text()).replace(/^상품명\s*:?\s*/,'')||clean(img.attr('alt'));
+ if(!name&&id==='benebene'){const row=item.find('li').filter((_,li)=>/영문상품명/.test($(li).text())).first();name=clean(row.text()).replace(/^영문상품명\s*:?\s*/,'');}if(!name)return;
+ const imageUrl=new URL(img.attr('ec-data-src')||img.attr('src'),cfg.base).href;map.set(code,{id:id+'-'+code,brandId:id,code,name,kind:newKind(name),audience:/ADULT|MOM|DAD|성인/i.test(name)?'adult':'child',source:{url:cfg.base+'/product/detail.html?product_no='+code,checkedAt:date},imageUrl,sizeLabels:[],measurementStatus:'unavailable',reason:'공식 수치 실측 확인 전'});
+ });return [...map.values()];}
+const map=new Map(),listURLs=[],errors=[];let listPages=0;
+for(const cate of cfg.categories){const firstURL=cfg.base+'/product/list.html?cate_no='+cate,first=await get(firstURL),$=load(first);const pageNumbers=$('a[href*="page="]').map((_,a)=>Number(new URL($(a).attr('href'),firstURL).searchParams.get('page'))).get().filter(n=>n>0&&n<300);const max=Math.max(1,...pageNumbers);console.log(id,'category',cate,'pages',max);
+ const results=await pool(Array.from({length:max},(_,i)=>i+1),async page=>{const url=firstURL+'&page='+page,h=page===1?first:await get(url);return {url,items:listItems(h,cate)};});for(const r of results){if(r.error){errors.push(r);continue;}listPages++;listURLs.push(r.url);for(const item of r.items)map.set(item.code,item);}}
+const catalog=[...map.values()],products=[];let detailFetched=0;
+await pool(catalog,async item=>{const h=await get(item.source.url),$=load(h);const info=$('.infoArea,.xans-product-detaildesign').first();const tableName=$('tr').filter((_,tr)=>/^상품명$/.test(clean($(tr).find('th').text()))).first().find('td').text();const og=$('meta[property="og:title"]').attr('content');item.name=clean(tableName)|| (id==='benebene'?clean(og).replace(/\s*-\s*베네베네$/,''):item.name);item.kind=newKind(item.name);
+ const parsed=parseNewMeasurements($,item.name,id);const descriptions=$('tr').filter((_,tr)=>/상품요약정보|상품간략설명|상품 간략설명/.test($(tr).find('th').text())).map((_,tr)=>clean($(tr).find('td').text())).get();let description=descriptions.join(' '),material='',origin='';$('tr').each((_,tr)=>{const th=clean($(tr).find('th').text()),td=clean($(tr).find('td').text());if(/^소재$|제품소재|FABRIC/i.test(th)&&td)material=td;if(/^제조국$|원산지/.test(th)&&td)origin=td;});
+ item.sizeLabels=[...new Set(parsed.sizes.map(s=>s.label))];item.attributes=basicAttributes(item.name,description,material,origin,item.source);
+ if(parsed.sizes.length){const p={id:item.id,brandId:id,name:item.name,code:item.code,category:parsed.kind,kind:parsed.kind,audience:item.audience,material:material||'공식 상품 페이지 참조',attributes:item.attributes,source:item.source,measurementBasis:id==='benebene'?'공식 Chest/Waist 원문 수치(cm) · 단면 해석, 측정 지점 미확인':'공식 실측표 · 둘레 명시 값은 ÷2 환산',notes:[id==='benebene'?'Chest/Waist가 둘레라고 명시되지 않은 표의 원문 값을 그대로 기록했습니다. 단면으로 해석해 비교하며 측정 지점의 공식 확인이 필요합니다.':'공식 표에서 둘레로 명시한 가슴·허리는 원본을 보존하고 2로 나눠 비교합니다.','측정 지점·소재·제작 오차는 상품별 공식 안내를 함께 확인해 주세요.'],sizes:parsed.sizes};products.push(p);item.measurementId=p.id;item.measurementStatus='verified';item.comparable=isComparable(p);item.reason=null;}
+ else item.reason=parsed.ambiguous?'상품 구성별 치수가 서로 달라 자동 비교에서 제외':'공식 수치 실측 미공개 또는 구조화된 표 판독 불가';
+ detailFetched++;if(detailFetched%50===0){save(false);console.log(id,'details',detailFetched,'/',catalog.length,'comparable',products.filter(isComparable).length);}
+},3).then(results=>{for(const r of results)if(r?.error)errors.push(r);});save(true);
+function save(finished){fs.writeFileSync('research/catalog-'+id+'.json',JSON.stringify({brandId:id,coverage:{listURLs,listedPages:listPages,discovered:catalog.length,detailFetched,complete:finished&&errors.length===0,scope:'공식 공개 Baby·Newborn·Girl·Boy 카테고리 현재 상품. 비노출·삭제 상품 제외.',notes:errors},catalog,products},null,2));}
+console.log('DONE',id,JSON.stringify({catalog:catalog.length,products:products.length,comparable:products.filter(isComparable).length,errors:errors.length}));

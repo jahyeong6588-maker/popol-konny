@@ -1,0 +1,7 @@
+{
+  "name": "little-fit-korea",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --test tests/*.test.mjs", "start": "node server.mjs" },
+  "devDependencies": { "cheerio": "^1.1.2" }
+}

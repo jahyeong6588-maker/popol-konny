@@ -1,0 +1,15 @@
+**/node_modules/
+**/.npm-cache/
+**/.artifacts/
+**/.openai/
+.claude/
+.publish*/
+*.tar.gz
+*.tgz
+**/research/harvest/
+**/research/*-cache/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
