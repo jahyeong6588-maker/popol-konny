@@ -1,0 +1,39 @@
+/* @디자인 · Figma 54:1654. Existing login and account behavior is retained. */
+body.mobile-design::before{background-image:url('./assets/mobile/paper-stripes.png');background-size:542px 527px;opacity:.2}
+.mobile-design .figma-home-hero{min-height:0;padding:28px 24px 21px;overflow:visible}
+.figma-home-hero .hero-copy{width:342px;max-width:100%;margin:0 auto;gap:0}
+.figma-hero-title{width:316.643px;max-width:100%;display:grid;grid-template-columns:13.68px minmax(0,206px) 32.963px;gap:32px;align-items:center;height:74px}
+.mobile-design .figma-home-hero h1{display:block;min-height:0;width:100%;height:74px;max-width:none;margin:0;padding:0;text-align:center;color:#574c44}
+.mobile-design .figma-home-hero h1,.mobile-design .figma-home-hero h1 span{font-family:'Yoon Childfundkorea DaeHan',sans-serif;font-size:33px;font-weight:400;line-height:37px;letter-spacing:-2.17px}
+.figma-hero-spark{display:grid;place-items:center;flex-shrink:0}.figma-hero-spark.rose{width:13.68px;height:21.712px}.figma-hero-spark.blue{width:32.963px;height:32.296px}.figma-hero-spark img{display:block;max-width:none}.figma-hero-spark.blue img{transform:rotate(-26deg)}
+.figma-stamp-slot{position:relative;width:282px;max-width:100%;aspect-ratio:282/247;margin-top:32px;flex-shrink:0}.figma-hero-stamp{display:block;position:absolute;top:-4.26356%;left:0;width:100%;height:auto;object-fit:contain}
+.figma-hero-description{display:flex;flex-direction:column;align-items:center;gap:10px;width:311px;max-width:100%;padding:20px 0;margin-top:32px}
+.figma-hero-description h2{margin:0;font-family:var(--suit);font-size:21px;font-weight:500;line-height:23.1px;letter-spacing:-2px;color:#4c4038;white-space:nowrap}
+.mobile-design .figma-home-hero p{width:168px;max-width:100%;margin:0;font-size:11px;line-height:15px;letter-spacing:-.49px;color:#7d7167}
+.mobile-design .figma-home-hero .hero-method{display:inline-flex;align-items:center;justify-content:center;gap:4px;width:107px;height:29px;min-height:29px;padding:6px 6px 6px 8px;margin-top:10px;border:.5px solid #5f5448;border-radius:46px;background:var(--bg);color:#4c4038;font-size:9px;font-weight:500;line-height:15px;letter-spacing:-.49px;flex-shrink:0}
+.hero-method-mark{display:block;width:41px;height:9px;object-fit:contain}.hero-method-info{display:block;flex-shrink:0;max-width:none}
+/* Equal input tabs mirror the edited frame while keeping all entry paths. */
+#reference-form .inline-tabs{gap:18px;margin-top:18px;margin-bottom:0}#reference-form .inline-tabs button{flex:1;text-align:center;font-size:11px;line-height:18.15px;padding-bottom:9px}#reference-form .inline-tabs button.active{font-weight:600}#reference-form .inline-tabs button.active:after{left:0;right:0;height:2px}
+#reference-form .fit-response{background:#f4f4f4;font-size:11px;line-height:17.6px;min-height:40px}
+@media(max-width:720px){
+ .mobile-design .site-header{height:69px}.mobile-design .header-inner{padding-inline:22px}.mobile-design .logo .wordmark{width:70px;height:17px}
+ .mobile-design .figma-landing-layout>.workspace{margin:0 16px;padding-top:36px}
+ .mobile-design .figma-landing-layout .workspace-grid{border-radius:16px;border-color:#e4e4da}
+ .mobile-design .figma-landing-layout .form-panel{padding:24px 21px 19px;min-height:0}
+ .mobile-design .figma-landing-layout .form-heading{gap:10px;margin-bottom:23px;min-height:49px}
+ .mobile-design .figma-landing-layout .section-number{width:26px;min-width:26px;height:26px;margin-top:2px;font-size:10px}
+ .mobile-design .figma-landing-layout .form-heading h2{font-size:18px;line-height:25.2px;font-weight:650;letter-spacing:-1.08px;margin:0}
+ .mobile-design .figma-landing-layout .form-heading p{font-size:11px;line-height:19.8px;letter-spacing:-.49px;margin:4px 0 0}
+ .mobile-design .figma-landing-layout .segmented{margin-bottom:0;height:50px}.mobile-design .figma-landing-layout .segmented button{font-size:11px;padding:0;min-height:42px}
+ .mobile-design .figma-landing-layout #reference-form>.field-label{font-size:12px;line-height:19.8px;letter-spacing:-.49px}
+ .mobile-design .figma-landing-layout #reference-form>.field-label:first-child{margin-top:20px}
+ .mobile-design .figma-landing-layout .pick-search input{font-size:13px}
+}
+@media(max-width:360px){.figma-hero-title{gap:20px}.mobile-design .figma-home-hero h1,.mobile-design .figma-home-hero h1 span{font-size:28px;line-height:37px}.figma-hero-description h2{font-size:20px}}
+
+.mobile-design .figma-home-hero p{white-space:nowrap}.hero-method-label{display:inline-flex;align-items:center;gap:0;white-space:nowrap;flex-shrink:0}.hero-method-label .hero-method-mark{flex-shrink:0}
+
+/* Personalized variant keeps the same original artwork and title layout. */
+.mobile-design .figma-personal-hero .figma-hero-title{height:auto;min-height:74px}.mobile-design .figma-personal-hero h1{height:auto;min-height:74px}.mobile-design .figma-personal-hero h1 span{white-space:normal;overflow-wrap:anywhere}.mobile-design .figma-personal-hero p{width:282px;max-width:100%;white-space:normal;line-height:18px}.mobile-design .figma-personal-hero .account-hero-cta{margin:14px 0 0;min-height:46px;max-width:100%;font-size:12px;padding:12px 19px;border-radius:12px}.mobile-design .figma-personal-hero .hero-method{margin-top:16px}
+
+.mobile-design .figma-personal-hero .figma-hero-title{width:342px;grid-template-columns:13.68px minmax(0,1fr) 32.963px;gap:16px}.mobile-design .figma-personal-hero h1 span:last-child{white-space:nowrap}

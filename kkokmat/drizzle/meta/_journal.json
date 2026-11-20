@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1794967296446,
+      "tag": "0000_dark_the_hand",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1794980163055,
+      "tag": "0001_clean_terrax",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1795055615721,
+      "tag": "0002_cooing_vargas",
+      "breakpoints": true
+    }
+  ]
+}

@@ -1,0 +1,1194 @@
+{
+  "checkedAt": "2026-11-18",
+  "notice": "Brand logos and product photographs belong to their respective owners. Original files obtained from official brand/parent company stores and the official linked social profile for local prototype comparison; no affiliation implied.",
+  "logos": {
+    "konny": {
+      "url": "https://konny.co.kr/assets/layout/logo_konny_black.png",
+      "page": "https://konny.co.kr/",
+      "path": "./assets/brands/konny.png",
+      "bytes": 5782
+    },
+    "moimoln": {
+      "url": "https://www.hansaemk.com/assets/images/brands/logo/moimoln.svg",
+      "page": "https://www.hansaemk.com/brands/moimoln/",
+      "path": "./assets/brands/moimoln.svg",
+      "bytes": 17904
+    },
+    "agabang": {
+      "url": "https://www.agabangmall.com/morenvyimg/mh_logo_bk.svg",
+      "page": "https://www.agabangmall.com/",
+      "path": "./assets/brands/agabang.svg",
+      "bytes": 5628
+    },
+    "apricot": {
+      "url": "https://www.apricotstudios.co.kr/web/upload/category/editor/2026/11/09/3d29049cc936eab31768c9faa5390176.png",
+      "page": "https://www.apricotstudios.co.kr/",
+      "path": "./assets/brands/apricot.png",
+      "bytes": 9612
+    },
+    "susuncra": {
+      "url": "https://www.susuncra.com/web/bloom_img/main_logo.png",
+      "page": "https://www.susuncra.com/",
+      "path": "./assets/brands/susuncra.png",
+      "bytes": 1873
+    },
+    "uniqlo-baby": {
+      "url": "https://www.fastretailing.com/eng/group/strategy/images/logo_uniqlo_global.gif",
+      "page": "https://www.fastretailing.com/eng/group/strategy/europe.html",
+      "path": "./assets/brands/uniqlo-baby.gif",
+      "bytes": 1608
+    },
+    "zara": {
+      "url": "https://www.inditex.com/itxcomweb/api/media/49d280b9-4688-422a-81ce-e02033805403/Logo_Zara.zip?t=1679400310707",
+      "page": "https://www.inditex.com/itxcomweb/tm/en/press/media-gallery/logos",
+      "description": "Unmodified Logo_Zara/Logo_Zara.svg from official media download",
+      "path": "./assets/brands/zara.svg"
+    },
+    "topten-kids": {
+      "url": "https://img.goodwearmall.com/brands/MKBR/MKBR_logo.jpg",
+      "page": "https://www.goodwearmall.com/brand/toptenkids?brndCtgryNo=BDMMKBR",
+      "path": "./assets/brands/topten-kids.jpg",
+      "bytes": 24846
+    },
+    "bluedog-baby": {
+      "url": "https://ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/upload/NNEditor/20250915/51115b05c04a05630a97227fdd5c1c99.png",
+      "page": "https://looxloo.com/",
+      "description": "BLUEDOG baby 블루독 베이비",
+      "path": "./assets/brands/bluedog-baby.png",
+      "bytes": 2282
+    },
+    "minkmui": {
+      "url": "https://ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/upload/NNEditor/20250915/ac0258bee6f2d6f97b9fca4c705e9d12.png",
+      "page": "https://looxloo.com/",
+      "description": "minkmui 밍크뮤",
+      "path": "./assets/brands/minkmui.png",
+      "bytes": 1824
+    },
+    "benebene": {
+      "page": "https://www.benebene.co.kr/",
+      "description": "Original inline SVG from header .logo",
+      "path": "./assets/brands/benebene.svg"
+    },
+    "earth": {
+      "url": "https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-19/368901065_260906456808769_914312227276422553_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=GMn7-BVBfa0ES_0AAJl9m2AgSrAMbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8DmHR8BKI9sQ7kNvwFAZpAJ&_nc_oc=Adq3DPl_zzqx_o-bU0KUxFlGTxa0swZJIkohgggFEkVbdngPUyohZFB2QGE8MqLRsd8&_nc_zt=24&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_ss=7c580&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRNzqXctZsB1pr4rYvwc4AAFLC0JORUJtWF4y-sdMl8Fg&oe=6B03060D",
+      "page": "https://www.instagram.com/earthstore.kr/",
+      "officialLinkSource": "https://earthstore.kr/",
+      "title": "EARTH THE ARCHIVE (@earthstore.kr) • Instagram photos and videos",
+      "path": "./assets/brands/earth.jpg",
+      "description": "Official Instagram profile logo; account linked from official store footer, inspected original image."
+    }
+  },
+  "products": [
+    {
+      "id": "konny-relax",
+      "path": "./assets/products/konny-relax.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/konnybaby/web/product/medium/202608/35b9ac185103f1c374f9f0d1ba78fc0f.jpg",
+      "source": "https://konny.co.kr/product/detail.html?cate_no=0&display_group=128&product_no=750",
+      "bytes": 169040
+    },
+    {
+      "id": "konny-1126",
+      "path": "./assets/products/konny-1126.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/konnybaby/web/product/medium/202608/f278f0b840c8ad28d64a9189034fef99.jpg",
+      "source": "https://konny.co.kr/product/detail.html?product_no=1126",
+      "bytes": 170243
+    },
+    {
+      "id": "konny-835",
+      "path": "./assets/products/konny-835.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/konnybaby/web/product/medium/202610/6ee8420ad35997e9cdde6f80c87168f2.jpg",
+      "source": "https://konny.co.kr/product/detail.html?product_no=835",
+      "bytes": 218342
+    },
+    {
+      "id": "konny-1136",
+      "path": "./assets/products/konny-1136.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/konnybaby/web/product/medium/202611/634fdde75bb14807b441241d2240dd2a.jpg",
+      "source": "https://konny.co.kr/product/detail.html?product_no=1136",
+      "bytes": 193092
+    },
+    {
+      "id": "konny-1184",
+      "path": "./assets/products/konny-1184.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/konnybaby/web/product/medium/202609/dcba502b5c87f14f347b4d090acc4bc0.jpg",
+      "source": "https://konny.co.kr/product/detail.html?product_no=1184",
+      "bytes": 194308
+    },
+    {
+      "id": "bluedog-baby-13976",
+      "path": "./assets/products/bluedog-baby-13976.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20261029/e6e99d8a0de448d45299a25e2dfe92e6.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=13976",
+      "bytes": 26070
+    },
+    {
+      "id": "bluedog-baby-13496",
+      "path": "./assets/products/bluedog-baby-13496.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20261029/dddf321242eaf815db972a89abec2584.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=13496",
+      "bytes": 42560
+    },
+    {
+      "id": "bluedog-baby-13978",
+      "path": "./assets/products/bluedog-baby-13978.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20261029/ca4df3a83d1831ecdc89d42ded768f4f.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=13978",
+      "bytes": 28016
+    },
+    {
+      "id": "bluedog-baby-13495",
+      "path": "./assets/products/bluedog-baby-13495.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20261029/63d7fc409aad4aa340130b35163a987c.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=13495",
+      "bytes": 59506
+    },
+    {
+      "id": "bluedog-baby-13494",
+      "path": "./assets/products/bluedog-baby-13494.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20261029/1cebd9e550c5ff998d3df03fe91751c9.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=13494",
+      "bytes": 81070
+    },
+    {
+      "id": "bluedog-baby-12810",
+      "path": "./assets/products/bluedog-baby-12810.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20261021/7434220aa98bb82c2d8c5bf96e1152ee.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=12810",
+      "bytes": 47622
+    },
+    {
+      "id": "konny-388",
+      "path": "./assets/products/konny-388.png",
+      "imageUrl": "https://cafe24img.poxo.com/konnybaby/web/product/medium/202610/094a7decd3f2ea0d3b9ecc8f0940253a.png",
+      "source": "https://konny.co.kr/product/detail.html?product_no=388",
+      "bytes": 1519786
+    },
+    {
+      "id": "bluedog-baby-13977",
+      "path": "./assets/products/bluedog-baby-13977.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20261029/7cdb4e6007c3d465f8801b9b0fb7e505.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=13977",
+      "bytes": 28118
+    },
+    {
+      "id": "bluedog-baby-13493",
+      "path": "./assets/products/bluedog-baby-13493.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20261029/db940737579a23bc1095d7bd27ec42ba.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=13493",
+      "bytes": 77503
+    },
+    {
+      "id": "bluedog-baby-12808",
+      "path": "./assets/products/bluedog-baby-12808.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20261021/4bfbe8f80b6f733d0e7e98338a981a72.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=12808",
+      "bytes": 53315
+    },
+    {
+      "id": "bluedog-baby-12805",
+      "path": "./assets/products/bluedog-baby-12805.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20261021/e02eabab6d0cd67191bb4c30a1a5c3fd.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=12805",
+      "bytes": 51061
+    },
+    {
+      "id": "bluedog-baby-12809",
+      "path": "./assets/products/bluedog-baby-12809.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20261021/269c585c6d54238697d643cf30e0026f.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=12809",
+      "bytes": 45040
+    },
+    {
+      "id": "konny-ultra",
+      "path": "./assets/products/konny-ultra.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/konnybaby/web/product/medium/202611/a572217861e19843c6029865b5cdeff2.jpg",
+      "source": "https://konny.co.kr/product/detail.html?cate_no=407&display_group=1&product_no=25",
+      "bytes": 310768
+    },
+    {
+      "id": "bluedog-baby-12807",
+      "path": "./assets/products/bluedog-baby-12807.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20261021/a4a6627361e97363662a0d8242d4d8da.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=12807",
+      "bytes": 69325
+    },
+    {
+      "id": "bluedog-baby-12806",
+      "path": "./assets/products/bluedog-baby-12806.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20261021/3d4fecc4a22837ecd7b383b9a82b7050.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=12806",
+      "bytes": 54125
+    },
+    {
+      "id": "bluedog-baby-11257",
+      "path": "./assets/products/bluedog-baby-11257.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260709/cb7453e7dbe2a827a2ab3d519d34666c.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=11257",
+      "bytes": 54095
+    },
+    {
+      "id": "bluedog-baby-12804",
+      "path": "./assets/products/bluedog-baby-12804.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20261021/35c696475181d35bb2a0eeacf9511d7e.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=12804",
+      "bytes": 49279
+    },
+    {
+      "id": "bluedog-baby-10832",
+      "path": "./assets/products/bluedog-baby-10832.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260703/454e5941d659e674783d1b2e450e6fab.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10832",
+      "bytes": 40358
+    },
+    {
+      "id": "bluedog-baby-11256",
+      "path": "./assets/products/bluedog-baby-11256.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260709/d7c47ab93b953b213a146a3d2f84cf17.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=11256",
+      "bytes": 54514
+    },
+    {
+      "id": "bluedog-baby-10831",
+      "path": "./assets/products/bluedog-baby-10831.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260703/e22bf4c2a5a7efc10d1941803bb4ea93.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10831",
+      "bytes": 65300
+    },
+    {
+      "id": "bluedog-baby-10834",
+      "path": "./assets/products/bluedog-baby-10834.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260703/ffe7cd7db7e903229b240032344da620.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10834",
+      "bytes": 54160
+    },
+    {
+      "id": "bluedog-baby-10833",
+      "path": "./assets/products/bluedog-baby-10833.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260703/5bf162119f145d355ef0261e850b2bd1.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10833",
+      "bytes": 86052
+    },
+    {
+      "id": "bluedog-baby-10828",
+      "path": "./assets/products/bluedog-baby-10828.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260703/1f20a0b62b7405a224253d3c3dfcd512.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10828",
+      "bytes": 50771
+    },
+    {
+      "id": "bluedog-baby-10666",
+      "path": "./assets/products/bluedog-baby-10666.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260623/d7953b30b85199d1f5bb2fa50c61029c.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10666",
+      "bytes": 104384
+    },
+    {
+      "id": "bluedog-baby-10667",
+      "path": "./assets/products/bluedog-baby-10667.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260623/b2ee86de7ce99705196b69d6603cfa30.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10667",
+      "bytes": 41823
+    },
+    {
+      "id": "bluedog-baby-10664",
+      "path": "./assets/products/bluedog-baby-10664.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260623/1376fde790b7f493100c05dd01d04054.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10664",
+      "bytes": 55979
+    },
+    {
+      "id": "bluedog-baby-10830",
+      "path": "./assets/products/bluedog-baby-10830.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260703/ad65d6518b3f8775e2a8cf799598287a.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10830",
+      "bytes": 62481
+    },
+    {
+      "id": "bluedog-baby-10835",
+      "path": "./assets/products/bluedog-baby-10835.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260703/84bed475b5e75a7c37b7d848ab5dcbc5.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10835",
+      "bytes": 120267
+    },
+    {
+      "id": "bluedog-baby-10444",
+      "path": "./assets/products/bluedog-baby-10444.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260615/abf700065a41815dd826f8f6d547f340.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10444",
+      "bytes": 41851
+    },
+    {
+      "id": "bluedog-baby-10441",
+      "path": "./assets/products/bluedog-baby-10441.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260615/e91d11ed5623a3dabebaa7a5bc221169.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10441",
+      "bytes": 54260
+    },
+    {
+      "id": "bluedog-baby-10662",
+      "path": "./assets/products/bluedog-baby-10662.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260623/e5597267e83e55971ea5b20090354b1e.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10662",
+      "bytes": 49792
+    },
+    {
+      "id": "bluedog-baby-10663",
+      "path": "./assets/products/bluedog-baby-10663.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260623/17c27b490f01dd0dcb544e835ea0e008.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10663",
+      "bytes": 51089
+    },
+    {
+      "id": "bluedog-baby-10440",
+      "path": "./assets/products/bluedog-baby-10440.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260615/031852be829bc33b131c258aff7e3afa.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10440",
+      "bytes": 57280
+    },
+    {
+      "id": "bluedog-baby-10665",
+      "path": "./assets/products/bluedog-baby-10665.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260623/ea350a865501b1c47ed988fe48d86c73.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10665",
+      "bytes": 44265
+    },
+    {
+      "id": "bluedog-baby-10438",
+      "path": "./assets/products/bluedog-baby-10438.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260615/290fd92bf7cca0acccc9393dfb9a859c.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10438",
+      "bytes": 42753
+    },
+    {
+      "id": "bluedog-baby-10439",
+      "path": "./assets/products/bluedog-baby-10439.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260615/115dcf7d3ca10f0147afac1b8f8c63d7.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10439",
+      "bytes": 52628
+    },
+    {
+      "id": "bluedog-baby-10442",
+      "path": "./assets/products/bluedog-baby-10442.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260615/e08fdf08dc4a55f3c139bfec4d497aee.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10442",
+      "bytes": 41690
+    },
+    {
+      "id": "bluedog-baby-10437",
+      "path": "./assets/products/bluedog-baby-10437.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260615/8c4c13ede2e848d1d3903cdb74c788f6.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10437",
+      "bytes": 43187
+    },
+    {
+      "id": "bluedog-baby-10350",
+      "path": "./assets/products/bluedog-baby-10350.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260526/b3ec2f57033614c92e76a789426a8820.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10350",
+      "bytes": 43236
+    },
+    {
+      "id": "bluedog-baby-8082",
+      "path": "./assets/products/bluedog-baby-8082.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260219/69e43885d322fcd19a3cb38c6fa881fc.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=8082",
+      "bytes": 54953
+    },
+    {
+      "id": "bluedog-baby-8081",
+      "path": "./assets/products/bluedog-baby-8081.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260219/5839821e1147a042019517241a87e5e0.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=8081",
+      "bytes": 81255
+    },
+    {
+      "id": "bluedog-baby-8080",
+      "path": "./assets/products/bluedog-baby-8080.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260219/f6e92e0050b05087fb37e5bb2b8774e3.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=8080",
+      "bytes": 75959
+    },
+    {
+      "id": "bluedog-baby-6071",
+      "path": "./assets/products/bluedog-baby-6071.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260202/2f6b42c9a292a58cb591006d8dace3db.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=6071",
+      "bytes": 76985
+    },
+    {
+      "id": "bluedog-baby-8079",
+      "path": "./assets/products/bluedog-baby-8079.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260219/d1a94c829cf124d84363046990df39ba.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=8079",
+      "bytes": 54569
+    },
+    {
+      "id": "bluedog-baby-6070",
+      "path": "./assets/products/bluedog-baby-6070.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260129/5a33d1d3160e145ad530075f9b8ddee2.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=6070",
+      "bytes": 77762
+    },
+    {
+      "id": "konny-749",
+      "path": "./assets/products/konny-749.png",
+      "imageUrl": "https://cafe24img.poxo.com/konnybaby/web/product/medium/202611/039bc08ce3566edba4399c6e8ec3cf4c.png",
+      "source": "https://konny.co.kr/product/detail.html?product_no=749",
+      "bytes": 2099717
+    },
+    {
+      "id": "konny-1193",
+      "path": "./assets/products/konny-1193.png",
+      "imageUrl": "https://cafe24img.poxo.com/konnybaby/web/product/medium/202608/8284342ef6e5a3f55c8a3e1e0e0beee1.png",
+      "source": "https://konny.co.kr/product/detail.html?product_no=1193",
+      "bytes": 1202611
+    },
+    {
+      "id": "bluedog-baby-5892",
+      "path": "./assets/products/bluedog-baby-5892.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260119/441e569e60097c18563abeff91f3c22b.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=5892",
+      "bytes": 65604
+    },
+    {
+      "id": "bluedog-baby-6069",
+      "path": "./assets/products/bluedog-baby-6069.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260121/85f3afeb9e44e6aea32067b08a136695.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=6069",
+      "bytes": 85617
+    },
+    {
+      "id": "bluedog-baby-1998",
+      "path": "./assets/products/bluedog-baby-1998.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260205/c716ab9e7ef6c7b4ed558d97495dd76b.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=1998",
+      "bytes": 48426
+    },
+    {
+      "id": "bluedog-baby-1986",
+      "path": "./assets/products/bluedog-baby-1986.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260209/de79d86118287ee5aac8ce82c8907b87.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=1986",
+      "bytes": 24629
+    },
+    {
+      "id": "bluedog-baby-12686",
+      "path": "./assets/products/bluedog-baby-12686.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260811/ecbc93eeefd382cdc9bcd49b6626d471.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=12686",
+      "bytes": 48734
+    },
+    {
+      "id": "bluedog-baby-5891",
+      "path": "./assets/products/bluedog-baby-5891.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260115/6b494e2b73d8340134e284c1d46f1d6f.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=5891",
+      "bytes": 67465
+    },
+    {
+      "id": "bluedog-baby-4741",
+      "path": "./assets/products/bluedog-baby-4741.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20251216/173b48f821470993ca825c32dab9c714.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=4741",
+      "bytes": 103360
+    },
+    {
+      "id": "bluedog-baby-1993",
+      "path": "./assets/products/bluedog-baby-1993.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260715/179235ec4f93a056a81365df2479e200.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=1993",
+      "bytes": 73996
+    },
+    {
+      "id": "bluedog-baby-4743",
+      "path": "./assets/products/bluedog-baby-4743.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260103/e5216c907dc62697088d4a2e25606d5f.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=4743",
+      "bytes": 74644
+    },
+    {
+      "id": "bluedog-baby-5426",
+      "path": "./assets/products/bluedog-baby-5426.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260118/d9afb99dd9770cba3d5ff977b6178405.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=5426",
+      "bytes": 42755
+    },
+    {
+      "id": "bluedog-dino-45A7005416",
+      "path": "./assets/products/bluedog-dino-45A7005416.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260715/ce78c8cf170bfa9cef01d53800b5b9af.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=1994",
+      "bytes": 41193
+    },
+    {
+      "id": "bluedog-baby-4348",
+      "path": "./assets/products/bluedog-baby-4348.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260113/553c0903115bf07207e5347d1bcded8f.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=4348",
+      "bytes": 237182
+    },
+    {
+      "id": "bluedog-baby-1997",
+      "path": "./assets/products/bluedog-baby-1997.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260728/414c92e3c6cde74598cf515cc6442756.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=1997",
+      "bytes": 45760
+    },
+    {
+      "id": "bluedog-baby-1992",
+      "path": "./assets/products/bluedog-baby-1992.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260715/7dfed2ddf03c611e2716921517adcabd.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=1992",
+      "bytes": 64377
+    },
+    {
+      "id": "bluedog-baby-1996",
+      "path": "./assets/products/bluedog-baby-1996.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260728/302322d9681ad270a0431fbc8e6ecdf9.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=1996",
+      "bytes": 43200
+    },
+    {
+      "id": "minkmui-12790",
+      "path": "./assets/products/minkmui-12790.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260812/25e933e3f5f7107105876efa714db2aa.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=12790",
+      "bytes": 43545
+    },
+    {
+      "id": "bluedog-baby-1991",
+      "path": "./assets/products/bluedog-baby-1991.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260715/71dc417be2d66c9636bcb566586b5603.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=1991",
+      "bytes": 203894
+    },
+    {
+      "id": "bluedog-baby-1990",
+      "path": "./assets/products/bluedog-baby-1990.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260715/09fc66f86670a451d97b410290ec4f53.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=1990",
+      "bytes": 40619
+    },
+    {
+      "id": "bluedog-baby-1984",
+      "path": "./assets/products/bluedog-baby-1984.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260715/2fbd195d48e66ebfba83a8300d288eb1.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=1984",
+      "bytes": 40543
+    },
+    {
+      "id": "bluedog-baby-1743",
+      "path": "./assets/products/bluedog-baby-1743.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20250917/a295f319376c1d10aff3e2e33d489eed.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=1743",
+      "bytes": 102638
+    },
+    {
+      "id": "minkmui-14381",
+      "path": "./assets/products/minkmui-14381.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20261029/357180ab5066faf57e90b63bcd6f29a7.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=14381",
+      "bytes": 163328
+    },
+    {
+      "id": "minkmui-12416",
+      "path": "./assets/products/minkmui-12416.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260805/f446a9f7f836cfaa144547d47ef5fc18.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=12416",
+      "bytes": 84857
+    },
+    {
+      "id": "bluedog-baby-1817",
+      "path": "./assets/products/bluedog-baby-1817.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260102/4e0a2993992f550bc4153d287267e763.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=1817",
+      "bytes": 228535
+    },
+    {
+      "id": "minkmui-10790",
+      "path": "./assets/products/minkmui-10790.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260703/32a95d2198125c175d96bacc2f131de5.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10790",
+      "bytes": 81695
+    },
+    {
+      "id": "minkmui-11280",
+      "path": "./assets/products/minkmui-11280.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260713/f10cd06756c70197891b7e66944ec156.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=11280",
+      "bytes": 49313
+    },
+    {
+      "id": "minkmui-10612",
+      "path": "./assets/products/minkmui-10612.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260623/3b6891850100ed2f9c9a71f85ee296ad.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10612",
+      "bytes": 68777
+    },
+    {
+      "id": "minkmui-10614",
+      "path": "./assets/products/minkmui-10614.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260716/586b31f7ab0ef453ebffb7bca5ef177b.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10614",
+      "bytes": 175801
+    },
+    {
+      "id": "minkmui-10613",
+      "path": "./assets/products/minkmui-10613.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260623/46985925f7206dff4eae6372660c4ea6.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10613",
+      "bytes": 96132
+    },
+    {
+      "id": "minkmui-10611",
+      "path": "./assets/products/minkmui-10611.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260623/2e0e5af104a82b89dc6e31995a2063a7.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10611",
+      "bytes": 63496
+    },
+    {
+      "id": "minkmui-10610",
+      "path": "./assets/products/minkmui-10610.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260623/e0bfa877be2267ea96099c6369a61149.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10610",
+      "bytes": 68986
+    },
+    {
+      "id": "minkmui-10615",
+      "path": "./assets/products/minkmui-10615.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260623/858118c4d44bb78df9df290f1c9002e1.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10615",
+      "bytes": 80166
+    },
+    {
+      "id": "minkmui-12417",
+      "path": "./assets/products/minkmui-12417.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260805/0450a8724c938c1b2ad33cd96df1bd39.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=12417",
+      "bytes": 229107
+    },
+    {
+      "id": "minkmui-10506",
+      "path": "./assets/products/minkmui-10506.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260615/b12076634f438d4f541865abefb57949.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10506",
+      "bytes": 29686
+    },
+    {
+      "id": "minkmui-10505",
+      "path": "./assets/products/minkmui-10505.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260615/f84d9be95ee762198efcafb66914cf9c.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10505",
+      "bytes": 72208
+    },
+    {
+      "id": "minkmui-10504",
+      "path": "./assets/products/minkmui-10504.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260713/67ec6d9fa3dcd6ff07d9fa645bba51b2.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10504",
+      "bytes": 34546
+    },
+    {
+      "id": "minkmui-10503",
+      "path": "./assets/products/minkmui-10503.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260615/f6503febaa6bc87b3feab0c7ef79f24f.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10503",
+      "bytes": 54315
+    },
+    {
+      "id": "minkmui-10502",
+      "path": "./assets/products/minkmui-10502.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260716/c5feb0eeb490aedd4a910d74b03b0f18.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10502",
+      "bytes": 176273
+    },
+    {
+      "id": "minkmui-10499",
+      "path": "./assets/products/minkmui-10499.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260615/6f59d34e1135d93d0f59dcff8fc14d6e.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10499",
+      "bytes": 31128
+    },
+    {
+      "id": "minkmui-10500",
+      "path": "./assets/products/minkmui-10500.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260615/970221bdd50b9bdaf48dfcb3fd7005ee.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10500",
+      "bytes": 49937
+    },
+    {
+      "id": "minkmui-10497",
+      "path": "./assets/products/minkmui-10497.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260615/ec1440b8fb57211e2cd8e7e1b34a861e.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10497",
+      "bytes": 34057
+    },
+    {
+      "id": "minkmui-10498",
+      "path": "./assets/products/minkmui-10498.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260716/bc2ff39fa7c814dbd9811bbd397aae77.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10498",
+      "bytes": 148634
+    },
+    {
+      "id": "minkmui-7716",
+      "path": "./assets/products/minkmui-7716.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260213/6b2d33f4696d4065103e356fd23a92a9.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=7716",
+      "bytes": 38979
+    },
+    {
+      "id": "minkmui-7074",
+      "path": "./assets/products/minkmui-7074.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260208/41e6ece1d3e9d1b2d8d33664d3e7ce02.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=7074",
+      "bytes": 36669
+    },
+    {
+      "id": "minkmui-6773",
+      "path": "./assets/products/minkmui-6773.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260205/627ceaeb3eb558d08cf74e98a852c0d3.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=6773",
+      "bytes": 33638
+    },
+    {
+      "id": "minkmui-10501",
+      "path": "./assets/products/minkmui-10501.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260615/026382a72c84fe2bb9f1a76e842ae9db.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10501",
+      "bytes": 48120
+    },
+    {
+      "id": "minkmui-5390",
+      "path": "./assets/products/minkmui-5390.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260205/63d753549d4475b4a2547fbc3d3f28de.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=5390",
+      "bytes": 39101
+    },
+    {
+      "id": "minkmui-10366",
+      "path": "./assets/products/minkmui-10366.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260526/109a5d193cc01752f00db648ebe02b7c.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10366",
+      "bytes": 68910
+    },
+    {
+      "id": "minkmui-805",
+      "path": "./assets/products/minkmui-805.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260203/ca4b2a45624637ff4b55510c81c33bbc.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=805",
+      "bytes": 34057
+    },
+    {
+      "id": "minkmui-759",
+      "path": "./assets/products/minkmui-759.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260204/794a44179b9bc8cd35ab8763e6906e6a.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=759",
+      "bytes": 44632
+    },
+    {
+      "id": "minkmui-5587",
+      "path": "./assets/products/minkmui-5587.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260205/8d4efef66ee40e434f8473f692dce5cf.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=5587",
+      "bytes": 39348
+    },
+    {
+      "id": "minkmui-essential-36170054A1",
+      "path": "./assets/products/minkmui-essential-36170054A1.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20261029/02370bf0f365d195b526cc04973218b0.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=5761",
+      "bytes": 163328
+    },
+    {
+      "id": "minkmui-780",
+      "path": "./assets/products/minkmui-780.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260716/e095a5486aa847f012025c1eb9477757.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=780",
+      "bytes": 39007
+    },
+    {
+      "id": "minkmui-916",
+      "path": "./assets/products/minkmui-916.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260204/39253b2e5634847daf8c688b2b3b40cc.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=916",
+      "bytes": 48137
+    },
+    {
+      "id": "minkmui-4079",
+      "path": "./assets/products/minkmui-4079.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260106/20f7e0e4d3c0f7beca177b61f6f7bd9e.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=4079",
+      "bytes": 57257
+    },
+    {
+      "id": "minkmui-796",
+      "path": "./assets/products/minkmui-796.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260202/f6cd23ddc710db9c30cead155f389c9e.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=796",
+      "bytes": 64630
+    },
+    {
+      "id": "minkmui-774",
+      "path": "./assets/products/minkmui-774.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20261116/ede61e55f86af4fc6f4746299cdde158.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=774",
+      "bytes": 89918
+    },
+    {
+      "id": "minkmui-787",
+      "path": "./assets/products/minkmui-787.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260209/fc5afe7f86e8d2e0a1896ccec015cee0.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=787",
+      "bytes": 108670
+    },
+    {
+      "id": "minkmui-771",
+      "path": "./assets/products/minkmui-771.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260208/0a6a5f0a89f60023ebe0fa718fa4191a.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=771",
+      "bytes": 46690
+    },
+    {
+      "id": "minkmui-762",
+      "path": "./assets/products/minkmui-762.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20261116/b67e7d088c30432316865030b1f4808b.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=762",
+      "bytes": 87947
+    },
+    {
+      "id": "minkmui-10728",
+      "path": "./assets/products/minkmui-10728.jpg",
+      "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg2014b63687684000/looxloo27/web/product/medium/20260701/0d5c4dbe7321738dfab0d2f024d88b36.jpg",
+      "source": "https://looxloo.com/product/detail.html?product_no=10728",
+      "bytes": 48274
+    },
+    {
+      "id": "apricot-3599",
+      "path": "./assets/products/apricot-3599.jpg",
+      "imageUrl": "https://apricotstudios.co.kr/web/product/medium/202611/784195cf1c5d6eeb53db0ffb4f18493f.jpg",
+      "source": "https://apricotstudios.co.kr/product/detail.html?product_no=3599",
+      "bytes": 105085
+    },
+    {
+      "id": "apricot-3833",
+      "path": "./assets/products/apricot-3833.jpg",
+      "imageUrl": "https://apricotstudios.co.kr/web/product/medium/202611/ad03629f6015318ba31563840878c220.jpg",
+      "source": "https://apricotstudios.co.kr/product/detail.html?product_no=3833",
+      "bytes": 69729
+    },
+    {
+      "id": "apricot-3582",
+      "path": "./assets/products/apricot-3582.jpg",
+      "imageUrl": "https://apricotstudios.co.kr/web/product/medium/202611/9a1b67343f0dd52c2acc95308a7beb5f.jpg",
+      "source": "https://apricotstudios.co.kr/product/detail.html?product_no=3582",
+      "bytes": 58182
+    },
+    {
+      "id": "apricot-merry-homewear",
+      "path": "./assets/products/apricot-merry-homewear.jpg",
+      "imageUrl": "https://apricotstudios.co.kr/web/product/medium/202611/23afdd6e0da6540d919a8c72bb9d3ee9.jpg",
+      "source": "https://www.apricotstudios.co.kr/product/%EB%A9%94%EB%A6%AC-%EC%8B%A4%EB%82%B4%EB%B3%B5/3849/category/1/display/2/?icid=MAIN.product_listmain_1",
+      "bytes": 687730
+    },
+    {
+      "id": "benebene-9455",
+      "path": "./assets/products/benebene-9455.jpg",
+      "imageUrl": "https://cafe24.poxo.com/ec01/ouibene2023/3Edgez7aTEs2uDezllWuL9PJGVY+ouxYF62vbywZgylRcyKuJX7AxfHwjfYFXkewBP/F8YI3+cxQE+vZiOUS+Q==/_/web/product/medium/202512/ade2a2adee9fcc939ebdcc19f0a89390.jpg",
+      "source": "https://www.benebene.co.kr/product/detail.html?product_no=9455",
+      "bytes": 126199
+    },
+    {
+      "id": "uniqlo-baby-E486427-000-00",
+      "path": "./assets/products/uniqlo-baby-E486427-000-00.jpg",
+      "imageUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/486427/item/goods_32_486427_3x4.jpg",
+      "source": "https://www.uniqlo.com/kr/ko/products/E486427-000/00",
+      "bytes": 144446
+    },
+    {
+      "id": "uniqlo-baby-E486428-000-00",
+      "path": "./assets/products/uniqlo-baby-E486428-000-00.jpg",
+      "imageUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/486428/item/goods_43_486428_3x4.jpg",
+      "source": "https://www.uniqlo.com/kr/ko/products/E486428-000/00",
+      "bytes": 85225
+    },
+    {
+      "id": "uniqlo-baby-E486426-000-00",
+      "path": "./assets/products/uniqlo-baby-E486426-000-00.jpg",
+      "imageUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/486426/item/goods_10_486426_3x4.jpg",
+      "source": "https://www.uniqlo.com/kr/ko/products/E486426-000/00",
+      "bytes": 119639
+    },
+    {
+      "id": "uniqlo-baby-E489540-000-00",
+      "path": "./assets/products/uniqlo-baby-E489540-000-00.jpg",
+      "imageUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/489540/item/goods_12_489540_3x4.jpg",
+      "source": "https://www.uniqlo.com/kr/ko/products/E489540-000/00",
+      "bytes": 230060
+    },
+    {
+      "id": "uniqlo-baby-E486449-000-00",
+      "path": "./assets/products/uniqlo-baby-E486449-000-00.jpg",
+      "imageUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/486449/item/goods_67_486449_3x4.jpg",
+      "source": "https://www.uniqlo.com/kr/ko/products/E486449-000/00",
+      "bytes": 192353
+    },
+    {
+      "id": "uniqlo-baby-E486450-000-00",
+      "path": "./assets/products/uniqlo-baby-E486450-000-00.jpg",
+      "imageUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/486450/item/goods_32_486450_3x4.jpg",
+      "source": "https://www.uniqlo.com/kr/ko/products/E486450-000/00",
+      "bytes": 187346
+    },
+    {
+      "id": "uniqlo-baby-E486452-000-00",
+      "path": "./assets/products/uniqlo-baby-E486452-000-00.jpg",
+      "imageUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/486452/item/goods_68_486452_3x4.jpg",
+      "source": "https://www.uniqlo.com/kr/ko/products/E486452-000/00",
+      "bytes": 266812
+    },
+    {
+      "id": "uniqlo-baby-E486451-000-00",
+      "path": "./assets/products/uniqlo-baby-E486451-000-00.jpg",
+      "imageUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/486451/item/goods_43_486451_3x4.jpg",
+      "source": "https://www.uniqlo.com/kr/ko/products/E486451-000/00",
+      "bytes": 140672
+    },
+    {
+      "id": "uniqlo-baby-E486425-000-00",
+      "path": "./assets/products/uniqlo-baby-E486425-000-00.jpg",
+      "imageUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/486425/item/goods_53_486425_3x4.jpg",
+      "source": "https://www.uniqlo.com/kr/ko/products/E486425-000/00",
+      "bytes": 80722
+    },
+    {
+      "id": "uniqlo-baby-E488643-000-00",
+      "path": "./assets/products/uniqlo-baby-E488643-000-00.jpg",
+      "imageUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/488643/item/goods_14_488643_3x4.jpg",
+      "source": "https://www.uniqlo.com/kr/ko/products/E488643-000/00",
+      "bytes": 155546
+    },
+    {
+      "id": "uniqlo-baby-E486448-000-00",
+      "path": "./assets/products/uniqlo-baby-E486448-000-00.jpg",
+      "imageUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/486448/item/goods_34_486448_3x4.jpg",
+      "source": "https://www.uniqlo.com/kr/ko/products/E486448-000/00",
+      "bytes": 225840
+    },
+    {
+      "id": "uniqlo-baby-E488642-000-00",
+      "path": "./assets/products/uniqlo-baby-E488642-000-00.jpg",
+      "imageUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/488642/item/goods_61_488642_3x4.jpg",
+      "source": "https://www.uniqlo.com/kr/ko/products/E488642-000/00",
+      "bytes": 81898
+    },
+    {
+      "id": "uniqlo-baby-E486453-000-00",
+      "path": "./assets/products/uniqlo-baby-E486453-000-00.jpg",
+      "imageUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/486453/item/goods_35_486453_3x4.jpg",
+      "source": "https://www.uniqlo.com/kr/ko/products/E486453-000/00",
+      "bytes": 290521
+    },
+    {
+      "id": "uniqlo-baby-E490411-000-00",
+      "path": "./assets/products/uniqlo-baby-E490411-000-00.jpg",
+      "imageUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/490411/item/goods_60_490411_3x4.jpg",
+      "source": "https://www.uniqlo.com/kr/ko/products/E490411-000/00",
+      "bytes": 50745
+    },
+    {
+      "id": "uniqlo-baby-E490412-000-00",
+      "path": "./assets/products/uniqlo-baby-E490412-000-00.jpg",
+      "imageUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/490412/item/goods_10_490412_3x4.jpg",
+      "source": "https://www.uniqlo.com/kr/ko/products/E490412-000/00",
+      "bytes": 88155
+    },
+    {
+      "id": "uniqlo-baby-E489541-000-00",
+      "path": "./assets/products/uniqlo-baby-E489541-000-00.jpg",
+      "imageUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/489541/item/goods_22_489541_3x4.jpg",
+      "source": "https://www.uniqlo.com/kr/ko/products/E489541-000/00",
+      "bytes": 220085
+    },
+    {
+      "id": "topten-kids-MOH5UI3403MGR",
+      "path": "./assets/products/topten-kids-MOH5UI3403MGR.jpg",
+      "imageUrl": "https://img.goodwearmall.com/goods/MOH5UI/MOH5UI3403MGR_M.jpg",
+      "source": "https://www.goodwearmall.com/product/MOH5UI3403MGR/detail?trackNo=search&trackDtl=search_gwear",
+      "bytes": 133960
+    },
+    {
+      "id": "topten-kids-MOH5UI3402MT",
+      "path": "./assets/products/topten-kids-MOH5UI3402MT.jpg",
+      "imageUrl": "https://img.goodwearmall.com/goods/MOH5UI/MOH5UI3402MT_M.jpg",
+      "source": "https://www.goodwearmall.com/product/MOH5UI3402MT/detail?trackNo=search&trackDtl=search_gwear",
+      "bytes": 159202
+    },
+    {
+      "id": "topten-kids-MKH5UI3401BK",
+      "path": "./assets/products/topten-kids-MKH5UI3401BK.jpg",
+      "imageUrl": "https://img.goodwearmall.com/goods/MKH5UI/MKH5UI3401BK_M.jpg",
+      "source": "https://www.goodwearmall.com/product/MKH5UI3401BK/detail?trackNo=search&trackDtl=search_gwear",
+      "bytes": 87982
+    },
+    {
+      "id": "topten-kids-MKH5UI3401NVM",
+      "path": "./assets/products/topten-kids-MKH5UI3401NVM.jpg",
+      "imageUrl": "https://img.goodwearmall.com/goods/MKH5UI/MKH5UI3401NVM_M.jpg",
+      "source": "https://www.goodwearmall.com/product/MKH5UI3401NVM/detail?trackNo=search&trackDtl=search_gwear",
+      "bytes": 212250
+    },
+    {
+      "id": "topten-kids-MKH5UI3401BR",
+      "path": "./assets/products/topten-kids-MKH5UI3401BR.jpg",
+      "imageUrl": "https://img.goodwearmall.com/goods/MKH5UI/MKH5UI3401BR_M.jpg",
+      "source": "https://www.goodwearmall.com/product/MKH5UI3401BR/detail?trackNo=search&trackDtl=search_gwear",
+      "bytes": 98933
+    },
+    {
+      "id": "topten-kids-MKH5UI3491NVP",
+      "path": "./assets/products/topten-kids-MKH5UI3491NVP.jpg",
+      "imageUrl": "https://img.goodwearmall.com/goods/MKH5UI/MKH5UI3491NVP_M.jpg",
+      "source": "https://www.goodwearmall.com/product/MKH5UI3491NVP/detail?trackNo=search&trackDtl=search_gwear",
+      "bytes": 162509
+    },
+    {
+      "id": "topten-kids-MOH5UI3403MTP",
+      "path": "./assets/products/topten-kids-MOH5UI3403MTP.jpg",
+      "imageUrl": "https://img.goodwearmall.com/goods/MOH5UI/MOH5UI3403MTP_M.jpg",
+      "source": "https://www.goodwearmall.com/product/MOH5UI3403MTP/detail?trackNo=search&trackDtl=search_gwear",
+      "bytes": 100485
+    },
+    {
+      "id": "topten-kids-MKH5UI3493CR",
+      "path": "./assets/products/topten-kids-MKH5UI3493CR.jpg",
+      "imageUrl": "https://img.goodwearmall.com/goods/MKH5UI/MKH5UI3493CR_M.jpg",
+      "source": "https://www.goodwearmall.com/product/MKH5UI3493CR/detail?trackNo=search&trackDtl=search_gwear",
+      "bytes": 103029
+    },
+    {
+      "id": "topten-kids-MKH5UI3403YEP",
+      "path": "./assets/products/topten-kids-MKH5UI3403YEP.jpg",
+      "imageUrl": "https://img.goodwearmall.com/goods/MKH5UI/MKH5UI3403YEP_M.jpg",
+      "source": "https://www.goodwearmall.com/product/MKH5UI3403YEP/detail?trackNo=search&trackDtl=search_gwear",
+      "bytes": 531992
+    },
+    {
+      "id": "topten-kids-MKH5UI3403BEP",
+      "path": "./assets/products/topten-kids-MKH5UI3403BEP.jpg",
+      "imageUrl": "https://img.goodwearmall.com/goods/MKH5UI/MKH5UI3403BEP_M.jpg",
+      "source": "https://www.goodwearmall.com/product/MKH5UI3403BEP/detail?trackNo=search&trackDtl=search_gwear",
+      "bytes": 650526
+    },
+    {
+      "id": "topten-kids-MKH5UI3493MGR",
+      "path": "./assets/products/topten-kids-MKH5UI3493MGR.jpg",
+      "imageUrl": "https://img.goodwearmall.com/goods/MKH5UI/MKH5UI3493MGR_M.jpg",
+      "source": "https://www.goodwearmall.com/product/MKH5UI3493MGR/detail?trackNo=search&trackDtl=search_gwear",
+      "bytes": 165495
+    },
+    {
+      "id": "M261NNN17P",
+      "path": "./assets/products/M261NNN17P.jpg",
+      "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20251229/M261NNN17P_RE_01.jpg",
+      "source": "https://www.style24.com/goods/detail/form?goodsCd=M261NNN17P",
+      "bytes": 84699
+    },
+    {
+      "id": "moimoln-M264NNN15P",
+      "path": "./assets/products/moimoln-M264NNN15P.jpg",
+      "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260831/M264NNN15P_CE_01.jpg",
+      "source": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN15P",
+      "bytes": 108496
+    },
+    {
+      "id": "M263NNN10P",
+      "path": "./assets/products/M263NNN10P.jpg",
+      "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260628/M263NNN10P_PI_01.jpg",
+      "source": "https://www.style24.com/goods/detail/form?goodsCd=M263NNN10P",
+      "bytes": 89324
+    },
+    {
+      "id": "moimoln-M264NNN20P",
+      "path": "./assets/products/moimoln-M264NNN20P.jpg",
+      "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260831/M264NNN20P_PU_01.jpg",
+      "source": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN20P",
+      "bytes": 107118
+    },
+    {
+      "id": "moimoln-M264NNN16P",
+      "path": "./assets/products/moimoln-M264NNN16P.jpg",
+      "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260831/M264NNN16P_GN_01.jpg",
+      "source": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN16P",
+      "bytes": 157665
+    },
+    {
+      "id": "moimoln-M264NNN21P",
+      "path": "./assets/products/moimoln-M264NNN21P.jpg",
+      "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260917/M264NNN21P_BE_01.jpg",
+      "source": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN21P",
+      "bytes": 158139
+    },
+    {
+      "id": "moimoln-M264NNN10P",
+      "path": "./assets/products/moimoln-M264NNN10P.jpg",
+      "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20261019/M264NNN10P_CE_01.jpg",
+      "source": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN10P",
+      "bytes": 223199
+    },
+    {
+      "id": "moimoln-M264NNN22P",
+      "path": "./assets/products/moimoln-M264NNN22P.jpg",
+      "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260831/M264NNN22P_YE_01.jpg",
+      "source": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN22P",
+      "bytes": 82478
+    },
+    {
+      "id": "moimoln-M264NNN25P",
+      "path": "./assets/products/moimoln-M264NNN25P.jpg",
+      "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260831/M264NNN25P_BR_01.jpg",
+      "source": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN25P",
+      "bytes": 147572
+    },
+    {
+      "id": "moimoln-M264NNN27P",
+      "path": "./assets/products/moimoln-M264NNN27P.jpg",
+      "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260831/M264NNN27P_CE_01.jpg",
+      "source": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN27P",
+      "bytes": 212062
+    },
+    {
+      "id": "uniqlo-baby-E490410-000-00",
+      "path": "./assets/products/uniqlo-baby-E490410-000-00.jpg",
+      "imageUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/490410/item/goods_01_490410_3x4.jpg",
+      "source": "https://www.uniqlo.com/kr/ko/products/E490410-000/00",
+      "bytes": 66018
+    },
+    {
+      "id": "moimoln-M264NNH43P",
+      "path": "./assets/products/moimoln-M264NNH43P.jpg",
+      "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260917/M264NNH43P_BR_01.jpg",
+      "source": "https://www.style24.com/goods/detail/form?goodsCd=M264NNH43P",
+      "bytes": 139318
+    },
+    {
+      "id": "moimoln-M264NNN17P",
+      "path": "./assets/products/moimoln-M264NNN17P.jpg",
+      "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260831/M264NNN17P_PI_01.jpg",
+      "source": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN17P",
+      "bytes": 140167
+    },
+    {
+      "id": "apricot-asana-homewear",
+      "path": "./assets/products/apricot-asana-homewear.jpg",
+      "imageUrl": "https://apricotstudios.co.kr/web/product/big/202611/2e0490777a5c97f69e179a71e5a095b1.jpg",
+      "source": "https://apricotstudios.co.kr/product/%EC%95%84%EC%82%AC%EB%82%98-%EC%8B%A4%EB%82%B4%EB%B3%B5-by-meltingcloud%C2%AE/3124/category/1748/display/1/",
+      "bytes": 52918
+    }
+  ],
+  "unavailable": [],
+  "releaseDates": {
+    "status": "not-published",
+    "explanation": "Product/collection numbers and CDN asset dates are not treated as product release dates."
+  }
+}

@@ -1,0 +1,16 @@
+.artifacts/
+node_modules/
+*.tar.gz
+*.tgz
+.npm-cache/
+research/harvest/
+research/*-cache/
+.wrangler/
+.sites-runtime/
+dist/
+
+.dev.vars
+.dev.vars.*
+.env
+.env.*
+!.env.example

@@ -1,0 +1,20 @@
+{
+  "fileKey": "6Fd42BXNdGVPF8LnNr2hOH",
+  "page": "54:1653",
+  "screen": "54:1654",
+  "assets": {
+    "hero-stamp.png": "54:1673",
+    "hero-spark-rose.svg": "54:1666",
+    "hero-spark-blue.svg": "54:1670",
+    "hero-info.svg": "54:1737"
+  },
+  "reusedAssets": {
+    "assets/mobile/logo.png": "Identical bytes to the original image fill b7e450ca9f39b4ba81238bf598df5a40126877af",
+    "assets/mobile/paper-stripes.png": "Existing rendered tile for pattern source 40:892; its detached source export is transparent"
+  },
+  "exceptions": [
+    "Retain the existing login button, per user clarification",
+    "Method badge opens the existing official-data explanation dialog",
+    "Do not reproduce the fixed navigation capture overlay in the middle of the form"
+  ]
+}

@@ -13,3 +13,15 @@
 !.env.example
 *.pem
 *.key
+
+# Account runtime and credentials
+**/.dev.vars
+**/.dev.vars.*
+**/.wrangler/
+**/.sites-runtime/
+**/.env
+**/.env.*
+!**/.env.example
+!kkokmat/.openai/
+kkokmat/.openai/*
+!kkokmat/.openai/hosting.example.json

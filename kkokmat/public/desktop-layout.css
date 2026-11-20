@@ -1,0 +1,27 @@
+/* Layout only. All colors, typography, artwork and copy come from the shared mobile screen. */
+@media (min-width:721px){
+ .mobile-design .header-inner{max-width:1104px;padding-inline:24px;gap:20px}
+ .mobile-design .desktop-nav{display:flex;gap:6px;flex-wrap:wrap;justify-content:center}
+ .mobile-design .desktop-nav .nav-item{padding:10px 12px}
+ .mobile-design .mobile-nav{display:none}
+ .mobile-design main{padding-bottom:32px}
+ .mobile-design .comparison-layout{padding:24px 24px 0}
+ .mobile-design .comparison-layout .workspace{margin:0 auto;max-width:620px;width:100%}
+ .mobile-design .workspace-grid,.mobile-design .form-panel{min-width:0}
+ .mobile-design .compare-aside{display:none}
+ .mobile-design .results-workspace{margin:32px 24px 0}
+ .mobile-design .comparison-layout:has(.results-workspace) .workspace{max-width:none}
+ .mobile-design .results-grid,.mobile-design .body-results,.mobile-design .saved-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;align-items:start}
+ .mobile-design .result-card,.mobile-design .body-result,.mobile-design .saved-card{margin-bottom:0;min-width:0}
+ .mobile-design .results-header{flex-direction:row;align-items:flex-end;justify-content:space-between}
+ .mobile-design .results-header>div{min-width:0}
+ .mobile-design .results-header>.secondary{flex-shrink:0}
+ .mobile-design .catalog-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+ .mobile-design .site-footer{padding-bottom:40px}
+ .mobile-design .toast{bottom:28px}
+}
+@media (min-width:960px){
+ .mobile-design .comparison-layout.with-hero{display:grid;grid-template-columns:minmax(0,.85fr) minmax(0,1.15fr);align-items:start;gap:32px;padding-top:36px}
+ .mobile-design .comparison-layout.with-hero>.mobile-hero{position:sticky;top:32px;align-self:start;padding-inline:0}
+ .mobile-design .comparison-layout.with-hero>.workspace{max-width:none}
+}

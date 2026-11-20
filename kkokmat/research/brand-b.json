@@ -1,0 +1,556 @@
+{
+  "checkedAt": "2026-11-16",
+  "provenancePolicy": "공식 브랜드몰에서 확인한 값만 수록. 신체 권장치와 상품 치수를 분리. null은 미확인값이며 임의 보간 금지.",
+  "brands": [
+    {
+      "id": "agabang",
+      "name": "아가방",
+      "sourceType": "official_brand_store"
+    },
+    {
+      "id": "bluedog-baby",
+      "name": "블루독베이비",
+      "sourceType": "official_operator_store",
+      "operator": "서양네트웍스",
+      "store": "룩스루"
+    },
+    {
+      "id": "minkmui",
+      "name": "밍크뮤",
+      "sourceType": "official_operator_store",
+      "operator": "서양네트웍스",
+      "store": "룩스루"
+    }
+  ],
+  "bodyGuides": [
+    {
+      "id": "agabang-body",
+      "brandId": "agabang",
+      "kind": "body_reference",
+      "scope": "의류 > NEWBORN / BABY, TODDLER 브랜드 권장표",
+      "checkedAt": "2026-11-16",
+      "sourceUrl": "https://www.agabangmall.com/product/detail.html?product_no=55573",
+      "sourceTitle": "아가방 ON)베이지스트라이프내의 상품 내 아가방 권장 브랜드 사이즈표",
+      "units": {
+        "height": "cm",
+        "weight": "kg",
+        "age": "months"
+      },
+      "notes": [
+        "신장은 범위가 아닌 단일 기준치. 상한이나 허용범위로 변환하지 말 것.",
+        "영아 체중 열은 호칭 7개에 값 6개라 열 매핑을 확정하지 않고 모두 null 처리. TODDLER 값은 열 수가 일치해 수록."
+      ],
+      "sizes": [
+        {
+          "label": "1M",
+          "ageMonths": [
+            1,
+            1
+          ],
+          "heightCm": 48,
+          "weightKg": null
+        },
+        {
+          "label": "3M",
+          "ageMonths": [
+            3,
+            3
+          ],
+          "heightCm": 54,
+          "weightKg": null
+        },
+        {
+          "label": "6M (60)",
+          "ageMonths": [
+            3,
+            6
+          ],
+          "heightCm": 60,
+          "weightKg": null
+        },
+        {
+          "label": "9M",
+          "ageMonths": [
+            6,
+            9
+          ],
+          "heightCm": 68,
+          "weightKg": null
+        },
+        {
+          "label": "75",
+          "ageMonths": [
+            7,
+            10
+          ],
+          "heightCm": 72,
+          "weightKg": null
+        },
+        {
+          "label": "80",
+          "ageMonths": [
+            9,
+            12
+          ],
+          "heightCm": 76,
+          "weightKg": null
+        },
+        {
+          "label": "90 (M)",
+          "ageMonths": [
+            12,
+            24
+          ],
+          "heightCm": 84,
+          "weightKg": null
+        },
+        {
+          "label": "100 (L)",
+          "ageMonths": [
+            36,
+            36
+          ],
+          "heightCm": 92,
+          "weightKg": 13.7
+        },
+        {
+          "label": "110",
+          "ageMonths": [
+            48,
+            48
+          ],
+          "heightCm": 101,
+          "weightKg": 15.7
+        },
+        {
+          "label": "120",
+          "ageMonths": [
+            60,
+            60
+          ],
+          "heightCm": 110,
+          "weightKg": 19.7
+        },
+        {
+          "label": "130",
+          "ageMonths": [
+            72,
+            72
+          ],
+          "heightCm": 119,
+          "weightKg": 23.6
+        }
+      ]
+    },
+    {
+      "id": "bluedog-baby-body",
+      "brandId": "bluedog-baby",
+      "kind": "body_range",
+      "scope": "공식 상품 페이지 공통 의류/내의 기준치수",
+      "checkedAt": "2026-11-16",
+      "sourceUrl": "https://looxloo.com/product/detail.html?product_no=1994",
+      "sourceTitle": "블루독베이비 디노프렌즈내의 공식 상품 내 사이즈 정보",
+      "units": {
+        "height": "cm",
+        "weight": "kg",
+        "age": "months"
+      },
+      "notes": [
+        "신체 권장범위이며 옷 실측과 직접 뺄셈 비교하지 말 것.",
+        "인접 구간 경계와 체중 범위가 겹침. 복수 후보 허용."
+      ],
+      "sizes": [
+        {
+          "label": "3개월",
+          "nominalLabel": "70",
+          "ageMonths": [
+            0,
+            3
+          ],
+          "heightCm": [
+            60,
+            65
+          ],
+          "weightKg": [
+            5,
+            7
+          ]
+        },
+        {
+          "label": "6개월",
+          "nominalLabel": "75",
+          "ageMonths": [
+            3,
+            6
+          ],
+          "heightCm": [
+            65,
+            70
+          ],
+          "weightKg": [
+            7,
+            9
+          ]
+        },
+        {
+          "label": "12개월",
+          "nominalLabel": "80",
+          "ageMonths": [
+            6,
+            12
+          ],
+          "heightCm": [
+            70,
+            75
+          ],
+          "weightKg": [
+            9,
+            11
+          ]
+        },
+        {
+          "label": "18개월",
+          "nominalLabel": "85",
+          "ageMonths": [
+            12,
+            18
+          ],
+          "heightCm": [
+            75,
+            80
+          ],
+          "weightKg": [
+            10,
+            12
+          ]
+        },
+        {
+          "label": "24개월",
+          "nominalLabel": "90",
+          "ageMonths": [
+            18,
+            24
+          ],
+          "heightCm": [
+            80,
+            85
+          ],
+          "weightKg": [
+            11,
+            13
+          ]
+        },
+        {
+          "label": "3세",
+          "nominalLabel": "100",
+          "ageMonths": [
+            24,
+            36
+          ],
+          "heightCm": [
+            90,
+            95
+          ],
+          "weightKg": [
+            13,
+            15
+          ]
+        },
+        {
+          "label": "4세",
+          "nominalLabel": "110~120",
+          "ageMonths": [
+            36,
+            48
+          ],
+          "heightCm": [
+            95,
+            105
+          ],
+          "weightKg": [
+            15,
+            18
+          ]
+        },
+        {
+          "label": "6세",
+          "nominalLabel": "120~130",
+          "ageMonths": [
+            60,
+            72
+          ],
+          "heightCm": [
+            105,
+            112
+          ],
+          "weightKg": [
+            18,
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "id": "minkmui-body",
+      "brandId": "minkmui",
+      "kind": "body_range",
+      "scope": "공식 상품 페이지 의류/내의 기준치수 중 영아 5개 구간",
+      "checkedAt": "2026-11-16",
+      "sourceUrl": "https://looxloo.com/product/detail.html?product_no=14706",
+      "sourceTitle": "밍크뮤 아미엘뮤목폴라팬츠세트 상품 내 사이즈 정보",
+      "units": {
+        "height": "cm",
+        "weight": "kg",
+        "age": "months"
+      },
+      "notes": [
+        "같은 페이지의 WEAR 표와 하단 공통표에 3세 신장 값 불일치(90~95 vs95~105)가 있어 3세 이상은 추천 데이터에서 제외.",
+        "영아 70~90 구간은 두 표 신장값 일치."
+      ],
+      "sizes": [
+        {
+          "label": "3개월",
+          "nominalLabel": "70",
+          "ageMonths": [
+            0,
+            3
+          ],
+          "heightCm": [
+            60,
+            65
+          ],
+          "weightKg": [
+            5,
+            7
+          ]
+        },
+        {
+          "label": "6개월",
+          "nominalLabel": "75",
+          "ageMonths": [
+            3,
+            6
+          ],
+          "heightCm": [
+            65,
+            70
+          ],
+          "weightKg": [
+            7,
+            9
+          ]
+        },
+        {
+          "label": "12개월",
+          "nominalLabel": "80",
+          "ageMonths": [
+            6,
+            12
+          ],
+          "heightCm": [
+            70,
+            75
+          ],
+          "weightKg": [
+            9,
+            11
+          ]
+        },
+        {
+          "label": "18개월",
+          "nominalLabel": "85",
+          "ageMonths": [
+            12,
+            18
+          ],
+          "heightCm": [
+            75,
+            80
+          ],
+          "weightKg": [
+            10,
+            12
+          ]
+        },
+        {
+          "label": "24개월",
+          "nominalLabel": "90",
+          "ageMonths": [
+            18,
+            24
+          ],
+          "heightCm": [
+            80,
+            85
+          ],
+          "weightKg": [
+            11,
+            13
+          ]
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": "bluedog-dino-45A7005416",
+      "brandId": "bluedog-baby",
+      "name": "디노프렌즈내의",
+      "productCode": "45A70-054-16",
+      "category": "내의 상하세트",
+      "material": "면 100%",
+      "manufactured": "2025-04",
+      "sourceUrl": "https://looxloo.com/product/detail.html?product_no=1994",
+      "sourceTitle": "블루독베이비 디노프렌즈내의 공식 상품 페이지",
+      "checkedAt": "2026-11-16",
+      "measurementType": "official_product_dimensions",
+      "unit": "cm",
+      "measurementNote": "공식 상품 치수표의 가슴·허리·엉덩이는 둘레. flatEquivalent 필드는 둘레/2 산술 변환값으로 직접 단면 실측을 의미하지 않음. 측정지점 도해 미확인. 핏, 신축성, 세탁 후 치수 변화는 추천에 단정 반영하지 말 것.",
+      "sizes": [
+        {
+          "label": "6개월",
+          "bodyGuideLabel": "6개월",
+          "chestCircumference": 50,
+          "topLength": 32,
+          "sleeveLength": 24,
+          "shoulderWidth": 20,
+          "waistCircumference": 37.5,
+          "hipCircumference": 56,
+          "pantsLength": 40,
+          "chestFlatEquivalent": 25,
+          "waistFlatEquivalent": 18.75,
+          "hipFlatEquivalent": 28
+        },
+        {
+          "label": "12개월",
+          "bodyGuideLabel": "12개월",
+          "chestCircumference": 52,
+          "topLength": 34,
+          "sleeveLength": 26.5,
+          "shoulderWidth": 21,
+          "waistCircumference": 39,
+          "hipCircumference": 58,
+          "pantsLength": 43.5,
+          "chestFlatEquivalent": 26,
+          "waistFlatEquivalent": 19.5,
+          "hipFlatEquivalent": 29
+        },
+        {
+          "label": "24개월",
+          "bodyGuideLabel": "24개월",
+          "chestCircumference": 54,
+          "topLength": 36,
+          "sleeveLength": 29,
+          "shoulderWidth": 22,
+          "waistCircumference": 40.5,
+          "hipCircumference": 60,
+          "pantsLength": 47,
+          "chestFlatEquivalent": 27,
+          "waistFlatEquivalent": 20.25,
+          "hipFlatEquivalent": 30
+        },
+        {
+          "label": "3세",
+          "bodyGuideLabel": "3세",
+          "chestCircumference": 57.5,
+          "topLength": 39,
+          "sleeveLength": 32.25,
+          "shoulderWidth": 23.5,
+          "waistCircumference": 43,
+          "hipCircumference": 64,
+          "pantsLength": 53,
+          "chestFlatEquivalent": 28.75,
+          "waistFlatEquivalent": 21.5,
+          "hipFlatEquivalent": 32
+        },
+        {
+          "label": "4세",
+          "bodyGuideLabel": "4세",
+          "chestCircumference": 61,
+          "topLength": 42,
+          "sleeveLength": 35.5,
+          "shoulderWidth": 25,
+          "waistCircumference": 45.5,
+          "hipCircumference": 68,
+          "pantsLength": 59,
+          "chestFlatEquivalent": 30.5,
+          "waistFlatEquivalent": 22.75,
+          "hipFlatEquivalent": 34
+        }
+      ]
+    },
+    {
+      "id": "minkmui-essential-36170054A1",
+      "brandId": "minkmui",
+      "name": "아미엘에센셜긴팔내의",
+      "productCode": "36170-054-A1",
+      "category": "긴팔 내의 상하세트",
+      "material": "면 59%, 모달(레이온) 36%, 폴리우레탄 5%",
+      "manufactured": "2025-12",
+      "sourceUrl": "https://looxloo.com/product/detail.html?product_no=5761",
+      "sourceTitle": "밍크뮤 아미엘에센셜긴팔내의 공식 상품 페이지",
+      "checkedAt": "2026-11-16",
+      "measurementType": "official_product_dimensions",
+      "unit": "cm",
+      "measurementNote": "공식 상품 치수표의 가슴·허리·엉덩이는 둘레. flatEquivalent 필드는 둘레/2 산술 변환값으로 직접 단면 실측을 의미하지 않음. 측정지점 도해 미확인. 핏, 신축성, 세탁 후 치수 변화는 추천에 단정 반영하지 말 것.",
+      "sizes": [
+        {
+          "label": "12개월",
+          "bodyGuideLabel": "12개월",
+          "chestCircumference": 50,
+          "topLength": 33,
+          "sleeveLength": 26,
+          "shoulderWidth": 20,
+          "waistCircumference": 39,
+          "hipCircumference": 58.5,
+          "pantsLength": 42,
+          "chestFlatEquivalent": 25,
+          "waistFlatEquivalent": 19.5,
+          "hipFlatEquivalent": 29.25
+        },
+        {
+          "label": "24개월",
+          "bodyGuideLabel": "24개월",
+          "chestCircumference": 52,
+          "topLength": 35,
+          "sleeveLength": 28.5,
+          "shoulderWidth": 21,
+          "waistCircumference": 40.5,
+          "hipCircumference": 60.5,
+          "pantsLength": 46,
+          "chestFlatEquivalent": 26,
+          "waistFlatEquivalent": 20.25,
+          "hipFlatEquivalent": 30.25
+        },
+        {
+          "label": "3세",
+          "bodyGuideLabel": null,
+          "chestCircumference": 55.5,
+          "topLength": 38,
+          "sleeveLength": 31.75,
+          "shoulderWidth": 22.5,
+          "waistCircumference": 43,
+          "hipCircumference": 64.5,
+          "pantsLength": 51.5,
+          "chestFlatEquivalent": 27.75,
+          "waistFlatEquivalent": 21.5,
+          "hipFlatEquivalent": 32.25
+        },
+        {
+          "label": "4세",
+          "bodyGuideLabel": null,
+          "chestCircumference": 59,
+          "topLength": 41,
+          "sleeveLength": 35,
+          "shoulderWidth": 24,
+          "waistCircumference": 45.5,
+          "hipCircumference": 68.5,
+          "pantsLength": 57.5,
+          "chestFlatEquivalent": 29.5,
+          "waistFlatEquivalent": 22.75,
+          "hipFlatEquivalent": 34.25
+        }
+      ]
+    }
+  ]
+}
