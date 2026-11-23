@@ -196328,7 +196328,8 @@
       "measurementCaution": "공식 표는 가슴·허리를 '둘레'로 적지만 평평하게 놓고 잰 값이에요. 단면으로 비교했어요.",
       "notes": [
         "한국 공식 상품 페이지의 '제품 사이즈' 표를 화면에서 직접 읽어 옮겼습니다. 공식 안내는 '평평하게 펼쳐놓은 상태로 측정'이며, 표의 '둘레' 표기 값도 그 상태의 가로 치수라 2로 나누지 않고 단면으로 기록했습니다.",
-        "공식 안내: 제조 과정으로 치수에 약간의 차이가 있을 수 있습니다."
+        "공식 안내: 제조 과정으로 치수에 약간의 차이가 있을 수 있습니다.",
+        "등 너비와 어깨너비, 팔 너비와 소매 길이는 별도 부위로 비교합니다. 기존 공식 평면 실측의 가로 너비 값을 그대로 보존합니다."
       ],
       "sizes": [
         {
@@ -196342,7 +196343,9 @@
           },
           "chestWidth": 27,
           "sleeveLength": 9,
-          "topLength": 29
+          "topLength": 29,
+          "backWidth": 26.5,
+          "armWidth": 10
         },
         {
           "label": "6–9개월",
@@ -196355,7 +196358,9 @@
           },
           "chestWidth": 29,
           "sleeveLength": 9.5,
-          "topLength": 31.5
+          "topLength": 31.5,
+          "backWidth": 28.5,
+          "armWidth": 10.5
         },
         {
           "label": "9–12개월",
@@ -196368,7 +196373,9 @@
           },
           "chestWidth": 31,
           "sleeveLength": 10,
-          "topLength": 34
+          "topLength": 34,
+          "backWidth": 30.5,
+          "armWidth": 11
         },
         {
           "label": "12–18개월",
@@ -196381,7 +196388,9 @@
           },
           "chestWidth": 33,
           "sleeveLength": 10.5,
-          "topLength": 36.5
+          "topLength": 36.5,
+          "backWidth": 32.5,
+          "armWidth": 11.5
         }
       ]
     },
@@ -196416,7 +196425,8 @@
       "measurementCaution": "공식 표는 가슴·허리를 '둘레'로 적지만 평평하게 놓고 잰 값이에요. 단면으로 비교했어요.",
       "notes": [
         "한국 공식 상품 페이지의 '제품 사이즈' 표를 화면에서 직접 읽어 옮겼습니다. 공식 안내는 '평평하게 펼쳐놓은 상태로 측정'이며, 표의 '둘레' 표기 값도 그 상태의 가로 치수라 2로 나누지 않고 단면으로 기록했습니다.",
-        "공식 안내: 제조 과정으로 치수에 약간의 차이가 있을 수 있습니다."
+        "공식 안내: 제조 과정으로 치수에 약간의 차이가 있을 수 있습니다.",
+        "등 너비와 어깨너비, 팔 너비와 소매 길이는 별도 부위로 비교합니다. 기존 공식 평면 실측의 가로 너비 값을 그대로 보존합니다."
       ],
       "sizes": [
         {
@@ -196433,7 +196443,9 @@
           "chestWidth": 22.5,
           "waistWidth": 25,
           "sleeveLength": 24,
-          "topLength": 34
+          "topLength": 34,
+          "backWidth": 18,
+          "armWidth": 10.5
         },
         {
           "label": "6–9개월",
@@ -196449,7 +196461,9 @@
           "chestWidth": 24,
           "waistWidth": 28,
           "sleeveLength": 26,
-          "topLength": 37
+          "topLength": 37,
+          "backWidth": 20,
+          "armWidth": 11
         },
         {
           "label": "9–12개월",
@@ -196465,7 +196479,9 @@
           "chestWidth": 25.5,
           "waistWidth": 31,
           "sleeveLength": 28,
-          "topLength": 40
+          "topLength": 40,
+          "backWidth": 22,
+          "armWidth": 11.5
         },
         {
           "label": "12–18개월",
@@ -196481,7 +196497,9 @@
           "chestWidth": 27,
           "waistWidth": 34,
           "sleeveLength": 30,
-          "topLength": 43
+          "topLength": 43,
+          "backWidth": 24,
+          "armWidth": 12
         }
       ]
     },
@@ -196516,7 +196534,8 @@
       "measurementCaution": "공식 표는 가슴·허리를 '둘레'로 적지만 평평하게 놓고 잰 값이에요. 단면으로 비교했어요.",
       "notes": [
         "한국 공식 상품 페이지의 '제품 사이즈' 표를 화면에서 직접 읽어 옮겼습니다. 공식 안내는 '평평하게 펼쳐놓은 상태로 측정'이며, 표의 '둘레' 표기 값도 그 상태의 가로 치수라 2로 나누지 않고 단면으로 기록했습니다.",
-        "공식 안내: 제조 과정으로 치수에 약간의 차이가 있을 수 있습니다."
+        "공식 안내: 제조 과정으로 치수에 약간의 차이가 있을 수 있습니다.",
+        "등 너비와 어깨너비, 팔 너비와 소매 길이는 별도 부위로 비교합니다. 기존 공식 평면 실측의 가로 너비 값을 그대로 보존합니다."
       ],
       "sizes": [
         {
@@ -196530,7 +196549,9 @@
           },
           "chestWidth": 28,
           "sleeveLength": 18.5,
-          "topLength": 29.5
+          "topLength": 29.5,
+          "backWidth": 25.5,
+          "armWidth": 11
         },
         {
           "label": "6–9개월",
@@ -196543,7 +196564,9 @@
           },
           "chestWidth": 30,
           "sleeveLength": 20.5,
-          "topLength": 32
+          "topLength": 32,
+          "backWidth": 28,
+          "armWidth": 11.5
         },
         {
           "label": "9–12개월",
@@ -196556,7 +196579,9 @@
           },
           "chestWidth": 32,
           "sleeveLength": 22.5,
-          "topLength": 34.5
+          "topLength": 34.5,
+          "backWidth": 30.5,
+          "armWidth": 12
         },
         {
           "label": "12–18개월",
@@ -196569,7 +196594,9 @@
           },
           "chestWidth": 34,
           "sleeveLength": 24.5,
-          "topLength": 37
+          "topLength": 37,
+          "backWidth": 33,
+          "armWidth": 12.5
         }
       ]
     },
@@ -196604,7 +196631,8 @@
       "measurementCaution": "공식 표는 가슴·허리를 '둘레'로 적지만 평평하게 놓고 잰 값이에요. 단면으로 비교했어요.",
       "notes": [
         "한국 공식 상품 페이지의 '제품 사이즈' 표를 화면에서 직접 읽어 옮겼습니다. 공식 안내는 '평평하게 펼쳐놓은 상태로 측정'이며, 표의 '둘레' 표기 값도 그 상태의 가로 치수라 2로 나누지 않고 단면으로 기록했습니다.",
-        "공식 안내: 제조 과정으로 치수에 약간의 차이가 있을 수 있습니다."
+        "공식 안내: 제조 과정으로 치수에 약간의 차이가 있을 수 있습니다.",
+        "등 너비와 어깨너비, 팔 너비와 소매 길이는 별도 부위로 비교합니다. 기존 공식 평면 실측의 가로 너비 값을 그대로 보존합니다."
       ],
       "sizes": [
         {
@@ -196615,7 +196643,8 @@
             "등 너비": 34
           },
           "chestWidth": 37,
-          "topLength": 44
+          "topLength": 44,
+          "backWidth": 34
         },
         {
           "label": "2세",
@@ -196625,7 +196654,8 @@
             "등 너비": 35
           },
           "chestWidth": 39,
-          "topLength": 45
+          "topLength": 45,
+          "backWidth": 35
         },
         {
           "label": "3세",
@@ -196635,7 +196665,8 @@
             "등 너비": 36
           },
           "chestWidth": 41,
-          "topLength": 46
+          "topLength": 46,
+          "backWidth": 36
         },
         {
           "label": "4세",
@@ -196645,7 +196676,8 @@
             "등 너비": 37
           },
           "chestWidth": 43,
-          "topLength": 47
+          "topLength": 47,
+          "backWidth": 37
         },
         {
           "label": "5세",
@@ -196655,7 +196687,8 @@
             "등 너비": 38
           },
           "chestWidth": 45,
-          "topLength": 48
+          "topLength": 48,
+          "backWidth": 38
         },
         {
           "label": "6세",
@@ -196665,7 +196698,8 @@
             "등 너비": 39
           },
           "chestWidth": 47,
-          "topLength": 49
+          "topLength": 49,
+          "backWidth": 39
         }
       ]
     },
@@ -196700,7 +196734,8 @@
       "measurementCaution": "공식 표는 가슴·허리를 '둘레'로 적지만 평평하게 놓고 잰 값이에요. 단면으로 비교했어요.",
       "notes": [
         "한국 공식 상품 페이지의 '제품 사이즈' 표를 화면에서 직접 읽어 옮겼습니다. 공식 안내는 '평평하게 펼쳐놓은 상태로 측정'이며, 표의 '둘레' 표기 값도 그 상태의 가로 치수라 2로 나누지 않고 단면으로 기록했습니다.",
-        "공식 안내: 제조 과정으로 치수에 약간의 차이가 있을 수 있습니다."
+        "공식 안내: 제조 과정으로 치수에 약간의 차이가 있을 수 있습니다.",
+        "등 너비와 어깨너비, 팔 너비와 소매 길이는 별도 부위로 비교합니다. 기존 공식 평면 실측의 가로 너비 값을 그대로 보존합니다."
       ],
       "sizes": [
         {
@@ -196711,7 +196746,8 @@
             "등 너비": 31
           },
           "chestWidth": 38,
-          "topLength": 36
+          "topLength": 36,
+          "backWidth": 31
         },
         {
           "label": "2세",
@@ -196721,7 +196757,8 @@
             "등 너비": 32
           },
           "chestWidth": 39,
-          "topLength": 38
+          "topLength": 38,
+          "backWidth": 32
         },
         {
           "label": "3세",
@@ -196731,7 +196768,8 @@
             "등 너비": 33
           },
           "chestWidth": 40,
-          "topLength": 40
+          "topLength": 40,
+          "backWidth": 33
         },
         {
           "label": "4세",
@@ -196741,7 +196779,8 @@
             "등 너비": 34
           },
           "chestWidth": 41,
-          "topLength": 42
+          "topLength": 42,
+          "backWidth": 34
         },
         {
           "label": "5세",
@@ -196751,7 +196790,8 @@
             "등 너비": 35
           },
           "chestWidth": 42,
-          "topLength": 44
+          "topLength": 44,
+          "backWidth": 35
         },
         {
           "label": "6세",
@@ -196761,7 +196801,8 @@
             "등 너비": 36
           },
           "chestWidth": 43,
-          "topLength": 46
+          "topLength": 46,
+          "backWidth": 36
         }
       ]
     },
@@ -196796,7 +196837,8 @@
       "measurementCaution": "공식 표는 가슴·허리를 '둘레'로 적지만 평평하게 놓고 잰 값이에요. 단면으로 비교했어요.",
       "notes": [
         "한국 공식 상품 페이지의 '제품 사이즈' 표를 화면에서 직접 읽어 옮겼습니다. 공식 안내는 '평평하게 펼쳐놓은 상태로 측정'이며, 표의 '둘레' 표기 값도 그 상태의 가로 치수라 2로 나누지 않고 단면으로 기록했습니다.",
-        "공식 안내: 제조 과정으로 치수에 약간의 차이가 있을 수 있습니다."
+        "공식 안내: 제조 과정으로 치수에 약간의 차이가 있을 수 있습니다.",
+        "등 너비와 어깨너비, 팔 너비와 소매 길이는 별도 부위로 비교합니다. 기존 공식 평면 실측의 가로 너비 값을 그대로 보존합니다."
       ],
       "sizes": [
         {
@@ -196809,7 +196851,8 @@
             "뒷면 밑위": 23
           },
           "waistWidth": 17,
-          "pantsLength": 41
+          "pantsLength": 41,
+          "hipWidth": 35
         },
         {
           "label": "2세",
@@ -196821,7 +196864,8 @@
             "뒷면 밑위": 23.5
           },
           "waistWidth": 18,
-          "pantsLength": 45
+          "pantsLength": 45,
+          "hipWidth": 37
         },
         {
           "label": "3세",
@@ -196833,7 +196877,8 @@
             "뒷면 밑위": 24
           },
           "waistWidth": 19,
-          "pantsLength": 49
+          "pantsLength": 49,
+          "hipWidth": 39
         },
         {
           "label": "4세",
@@ -196845,7 +196890,8 @@
             "뒷면 밑위": 24.5
           },
           "waistWidth": 20,
-          "pantsLength": 53
+          "pantsLength": 53,
+          "hipWidth": 41
         },
         {
           "label": "5세",
@@ -196857,7 +196903,8 @@
             "뒷면 밑위": 25
           },
           "waistWidth": 21,
-          "pantsLength": 57
+          "pantsLength": 57,
+          "hipWidth": 43
         },
         {
           "label": "6세",
@@ -196869,7 +196916,8 @@
             "뒷면 밑위": 25.5
           },
           "waistWidth": 22,
-          "pantsLength": 61
+          "pantsLength": 61,
+          "hipWidth": 45
         }
       ]
     },
@@ -196904,7 +196952,8 @@
       "measurementCaution": "공식 표는 가슴·허리를 '둘레'로 적지만 평평하게 놓고 잰 값이에요. 단면으로 비교했어요.",
       "notes": [
         "한국 공식 상품 페이지의 '제품 사이즈' 표를 화면에서 직접 읽어 옮겼습니다. 공식 안내는 '평평하게 펼쳐놓은 상태로 측정'이며, 표의 '둘레' 표기 값도 그 상태의 가로 치수라 2로 나누지 않고 단면으로 기록했습니다.",
-        "공식 안내: 제조 과정으로 치수에 약간의 차이가 있을 수 있습니다."
+        "공식 안내: 제조 과정으로 치수에 약간의 차이가 있을 수 있습니다.",
+        "등 너비와 어깨너비, 팔 너비와 소매 길이는 별도 부위로 비교합니다. 기존 공식 평면 실측의 가로 너비 값을 그대로 보존합니다."
       ],
       "sizes": [
         {
@@ -196918,7 +196967,9 @@
           },
           "chestWidth": 32.5,
           "sleeveLength": 31,
-          "topLength": 40
+          "topLength": 40,
+          "backWidth": 26.5,
+          "armWidth": 11.5
         },
         {
           "label": "2세",
@@ -196931,7 +196982,9 @@
           },
           "chestWidth": 34,
           "sleeveLength": 32,
-          "topLength": 41
+          "topLength": 41,
+          "backWidth": 28.5,
+          "armWidth": 12
         },
         {
           "label": "3세",
@@ -196944,7 +196997,9 @@
           },
           "chestWidth": 35.5,
           "sleeveLength": 33,
-          "topLength": 42
+          "topLength": 42,
+          "backWidth": 30.5,
+          "armWidth": 12.5
         },
         {
           "label": "4세",
@@ -196957,7 +197012,9 @@
           },
           "chestWidth": 37,
           "sleeveLength": 34,
-          "topLength": 43
+          "topLength": 43,
+          "backWidth": 32.5,
+          "armWidth": 13
         },
         {
           "label": "5세",
@@ -196970,7 +197027,9 @@
           },
           "chestWidth": 38.5,
           "sleeveLength": 35,
-          "topLength": 44
+          "topLength": 44,
+          "backWidth": 34.5,
+          "armWidth": 13.5
         },
         {
           "label": "6세",
@@ -196983,7 +197042,9 @@
           },
           "chestWidth": 40,
           "sleeveLength": 36,
-          "topLength": 45
+          "topLength": 45,
+          "backWidth": 36.5,
+          "armWidth": 14
         }
       ]
     },
@@ -197018,7 +197079,8 @@
       "measurementCaution": "공식 표는 가슴·허리를 '둘레'로 적지만 평평하게 놓고 잰 값이에요. 단면으로 비교했어요.",
       "notes": [
         "한국 공식 상품 페이지의 '제품 사이즈' 표를 화면에서 직접 읽어 옮겼습니다. 공식 안내는 '평평하게 펼쳐놓은 상태로 측정'이며, 표의 '둘레' 표기 값도 그 상태의 가로 치수라 2로 나누지 않고 단면으로 기록했습니다.",
-        "공식 안내: 제조 과정으로 치수에 약간의 차이가 있을 수 있습니다."
+        "공식 안내: 제조 과정으로 치수에 약간의 차이가 있을 수 있습니다.",
+        "등 너비와 어깨너비, 팔 너비와 소매 길이는 별도 부위로 비교합니다. 기존 공식 평면 실측의 가로 너비 값을 그대로 보존합니다."
       ],
       "sizes": [
         {
@@ -197032,7 +197094,9 @@
           },
           "chestWidth": 28,
           "sleeveLength": 31,
-          "topLength": 34
+          "topLength": 34,
+          "backWidth": 23.5,
+          "armWidth": 9
         },
         {
           "label": "2세",
@@ -197045,7 +197109,9 @@
           },
           "chestWidth": 29,
           "sleeveLength": 32,
-          "topLength": 35
+          "topLength": 35,
+          "backWidth": 24.5,
+          "armWidth": 10
         },
         {
           "label": "3세",
@@ -197058,7 +197124,9 @@
           },
           "chestWidth": 30,
           "sleeveLength": 33,
-          "topLength": 36
+          "topLength": 36,
+          "backWidth": 25.5,
+          "armWidth": 11
         },
         {
           "label": "4세",
@@ -197071,7 +197139,9 @@
           },
           "chestWidth": 31,
           "sleeveLength": 34,
-          "topLength": 37
+          "topLength": 37,
+          "backWidth": 26.5,
+          "armWidth": 12
         },
         {
           "label": "5세",
@@ -197084,7 +197154,9 @@
           },
           "chestWidth": 32,
           "sleeveLength": 35,
-          "topLength": 38
+          "topLength": 38,
+          "backWidth": 27.5,
+          "armWidth": 13
         },
         {
           "label": "6세",
@@ -197097,7 +197169,9 @@
           },
           "chestWidth": 33,
           "sleeveLength": 36,
-          "topLength": 39
+          "topLength": 39,
+          "backWidth": 28.5,
+          "armWidth": 14
         }
       ]
     },
@@ -197132,7 +197206,8 @@
       "measurementCaution": "공식 표는 가슴·허리를 '둘레'로 적지만 평평하게 놓고 잰 값이에요. 단면으로 비교했어요.",
       "notes": [
         "한국 공식 상품 페이지의 '제품 사이즈' 표를 화면에서 직접 읽어 옮겼습니다. 공식 안내는 '평평하게 펼쳐놓은 상태로 측정'이며, 표의 '둘레' 표기 값도 그 상태의 가로 치수라 2로 나누지 않고 단면으로 기록했습니다.",
-        "공식 안내: 제조 과정으로 치수에 약간의 차이가 있을 수 있습니다."
+        "공식 안내: 제조 과정으로 치수에 약간의 차이가 있을 수 있습니다.",
+        "등 너비와 어깨너비, 팔 너비와 소매 길이는 별도 부위로 비교합니다. 기존 공식 평면 실측의 가로 너비 값을 그대로 보존합니다."
       ],
       "sizes": [
         {
@@ -197146,7 +197221,9 @@
           },
           "chestWidth": 28.5,
           "sleeveLength": 28,
-          "topLength": 29.5
+          "topLength": 29.5,
+          "backWidth": 24,
+          "armWidth": 9
         },
         {
           "label": "2세",
@@ -197159,7 +197236,9 @@
           },
           "chestWidth": 29.5,
           "sleeveLength": 30,
-          "topLength": 32
+          "topLength": 32,
+          "backWidth": 25,
+          "armWidth": 10
         },
         {
           "label": "3세",
@@ -197172,7 +197251,9 @@
           },
           "chestWidth": 30.5,
           "sleeveLength": 32,
-          "topLength": 34.5
+          "topLength": 34.5,
+          "backWidth": 26,
+          "armWidth": 11
         },
         {
           "label": "4세",
@@ -197185,7 +197266,9 @@
           },
           "chestWidth": 31.5,
           "sleeveLength": 34,
-          "topLength": 37
+          "topLength": 37,
+          "backWidth": 27,
+          "armWidth": 12
         },
         {
           "label": "5세",
@@ -197198,7 +197281,9 @@
           },
           "chestWidth": 32.5,
           "sleeveLength": 36,
-          "topLength": 39.5
+          "topLength": 39.5,
+          "backWidth": 28,
+          "armWidth": 13
         },
         {
           "label": "6세",
@@ -197211,7 +197296,9 @@
           },
           "chestWidth": 33.5,
           "sleeveLength": 38,
-          "topLength": 42
+          "topLength": 42,
+          "backWidth": 29,
+          "armWidth": 14
         }
       ]
     },
@@ -197246,7 +197333,8 @@
       "measurementCaution": "공식 표는 가슴·허리를 '둘레'로 적지만 평평하게 놓고 잰 값이에요. 단면으로 비교했어요.",
       "notes": [
         "한국 공식 상품 페이지의 '제품 사이즈' 표를 화면에서 직접 읽어 옮겼습니다. 공식 안내는 '평평하게 펼쳐놓은 상태로 측정'이며, 표의 '둘레' 표기 값도 그 상태의 가로 치수라 2로 나누지 않고 단면으로 기록했습니다.",
-        "공식 안내: 제조 과정으로 치수에 약간의 차이가 있을 수 있습니다."
+        "공식 안내: 제조 과정으로 치수에 약간의 차이가 있을 수 있습니다.",
+        "등 너비와 어깨너비, 팔 너비와 소매 길이는 별도 부위로 비교합니다. 기존 공식 평면 실측의 가로 너비 값을 그대로 보존합니다."
       ],
       "sizes": [
         {
@@ -197260,7 +197348,9 @@
           },
           "chestWidth": 34,
           "sleeveLength": 23.5,
-          "topLength": 37
+          "topLength": 37,
+          "backWidth": 35,
+          "armWidth": 11.5
         },
         {
           "label": "2세",
@@ -197273,7 +197363,9 @@
           },
           "chestWidth": 36,
           "sleeveLength": 26,
-          "topLength": 39
+          "topLength": 39,
+          "backWidth": 36.5,
+          "armWidth": 12.5
         },
         {
           "label": "3세",
@@ -197286,7 +197378,9 @@
           },
           "chestWidth": 38,
           "sleeveLength": 28.5,
-          "topLength": 41
+          "topLength": 41,
+          "backWidth": 38,
+          "armWidth": 13.5
         },
         {
           "label": "4세",
@@ -197299,7 +197393,9 @@
           },
           "chestWidth": 40,
           "sleeveLength": 31,
-          "topLength": 43
+          "topLength": 43,
+          "backWidth": 39.5,
+          "armWidth": 14.5
         },
         {
           "label": "5세",
@@ -197312,7 +197408,9 @@
           },
           "chestWidth": 42,
           "sleeveLength": 33.5,
-          "topLength": 45
+          "topLength": 45,
+          "backWidth": 41,
+          "armWidth": 15.5
         },
         {
           "label": "6세",
@@ -197325,7 +197423,9 @@
           },
           "chestWidth": 44,
           "sleeveLength": 36,
-          "topLength": 47
+          "topLength": 47,
+          "backWidth": 42.5,
+          "armWidth": 16.5
         }
       ]
     },
@@ -197360,7 +197460,8 @@
       "measurementCaution": "공식 표는 가슴·허리를 '둘레'로 적지만 평평하게 놓고 잰 값이에요. 단면으로 비교했어요.",
       "notes": [
         "한국 공식 상품 페이지의 '제품 사이즈' 표를 화면에서 직접 읽어 옮겼습니다. 공식 안내는 '평평하게 펼쳐놓은 상태로 측정'이며, 표의 '둘레' 표기 값도 그 상태의 가로 치수라 2로 나누지 않고 단면으로 기록했습니다.",
-        "공식 안내: 제조 과정으로 치수에 약간의 차이가 있을 수 있습니다."
+        "공식 안내: 제조 과정으로 치수에 약간의 차이가 있을 수 있습니다.",
+        "등 너비와 어깨너비, 팔 너비와 소매 길이는 별도 부위로 비교합니다. 기존 공식 평면 실측의 가로 너비 값을 그대로 보존합니다."
       ],
       "sizes": [
         {
@@ -197374,7 +197475,9 @@
           },
           "chestWidth": 36.5,
           "sleeveLength": 26.5,
-          "topLength": 36
+          "topLength": 36,
+          "backWidth": 35.5,
+          "armWidth": 13.5
         },
         {
           "label": "2세",
@@ -197387,7 +197490,9 @@
           },
           "chestWidth": 37.5,
           "sleeveLength": 28,
-          "topLength": 38.5
+          "topLength": 38.5,
+          "backWidth": 36.5,
+          "armWidth": 14
         },
         {
           "label": "3세",
@@ -197400,7 +197505,9 @@
           },
           "chestWidth": 38.5,
           "sleeveLength": 29.5,
-          "topLength": 41
+          "topLength": 41,
+          "backWidth": 37.5,
+          "armWidth": 14.5
         },
         {
           "label": "4세",
@@ -197413,7 +197520,9 @@
           },
           "chestWidth": 39.5,
           "sleeveLength": 31,
-          "topLength": 43.5
+          "topLength": 43.5,
+          "backWidth": 38.5,
+          "armWidth": 15
         },
         {
           "label": "5세",
@@ -197426,7 +197535,9 @@
           },
           "chestWidth": 40.5,
           "sleeveLength": 32.5,
-          "topLength": 46
+          "topLength": 46,
+          "backWidth": 39.5,
+          "armWidth": 15.5
         },
         {
           "label": "6세",
@@ -197439,7 +197550,9 @@
           },
           "chestWidth": 41.5,
           "sleeveLength": 34,
-          "topLength": 48.5
+          "topLength": 48.5,
+          "backWidth": 40.5,
+          "armWidth": 16
         }
       ]
     },
@@ -197474,7 +197587,8 @@
       "measurementCaution": "공식 표는 가슴·허리를 '둘레'로 적지만 평평하게 놓고 잰 값이에요. 단면으로 비교했어요.",
       "notes": [
         "한국 공식 상품 페이지의 '제품 사이즈' 표를 화면에서 직접 읽어 옮겼습니다. 공식 안내는 '평평하게 펼쳐놓은 상태로 측정'이며, 표의 '둘레' 표기 값도 그 상태의 가로 치수라 2로 나누지 않고 단면으로 기록했습니다.",
-        "공식 안내: 제조 과정으로 치수에 약간의 차이가 있을 수 있습니다."
+        "공식 안내: 제조 과정으로 치수에 약간의 차이가 있을 수 있습니다.",
+        "등 너비와 어깨너비, 팔 너비와 소매 길이는 별도 부위로 비교합니다. 기존 공식 평면 실측의 가로 너비 값을 그대로 보존합니다."
       ],
       "sizes": [
         {
@@ -197488,7 +197602,9 @@
           },
           "chestWidth": 35,
           "sleeveLength": 27,
-          "topLength": 37
+          "topLength": 37,
+          "backWidth": 35.5,
+          "armWidth": 12.5
         },
         {
           "label": "2세",
@@ -197501,7 +197617,9 @@
           },
           "chestWidth": 36,
           "sleeveLength": 28.5,
-          "topLength": 38.5
+          "topLength": 38.5,
+          "backWidth": 36.5,
+          "armWidth": 13
         },
         {
           "label": "3세",
@@ -197514,7 +197632,9 @@
           },
           "chestWidth": 37,
           "sleeveLength": 30,
-          "topLength": 40
+          "topLength": 40,
+          "backWidth": 37.5,
+          "armWidth": 13.5
         },
         {
           "label": "4세",
@@ -197527,7 +197647,9 @@
           },
           "chestWidth": 38,
           "sleeveLength": 31.5,
-          "topLength": 41.5
+          "topLength": 41.5,
+          "backWidth": 38.5,
+          "armWidth": 14
         },
         {
           "label": "5세",
@@ -197540,7 +197662,9 @@
           },
           "chestWidth": 39,
           "sleeveLength": 33,
-          "topLength": 43
+          "topLength": 43,
+          "backWidth": 39.5,
+          "armWidth": 14.5
         },
         {
           "label": "6세",
@@ -197553,7 +197677,9 @@
           },
           "chestWidth": 40,
           "sleeveLength": 34.5,
-          "topLength": 44.5
+          "topLength": 44.5,
+          "backWidth": 40.5,
+          "armWidth": 15
         }
       ]
     },
@@ -197588,7 +197714,8 @@
       "measurementCaution": "공식 표는 가슴·허리를 '둘레'로 적지만 평평하게 놓고 잰 값이에요. 단면으로 비교했어요.",
       "notes": [
         "한국 공식 상품 페이지의 '제품 사이즈' 표를 화면에서 직접 읽어 옮겼습니다. 공식 안내는 '평평하게 펼쳐놓은 상태로 측정'이며, 표의 '둘레' 표기 값도 그 상태의 가로 치수라 2로 나누지 않고 단면으로 기록했습니다.",
-        "공식 안내: 제조 과정으로 치수에 약간의 차이가 있을 수 있습니다."
+        "공식 안내: 제조 과정으로 치수에 약간의 차이가 있을 수 있습니다.",
+        "등 너비와 어깨너비, 팔 너비와 소매 길이는 별도 부위로 비교합니다. 기존 공식 평면 실측의 가로 너비 값을 그대로 보존합니다."
       ],
       "sizes": [
         {
@@ -197602,7 +197729,9 @@
           },
           "chestWidth": 34,
           "sleeveLength": 23,
-          "topLength": 33.5
+          "topLength": 33.5,
+          "backWidth": 33.5,
+          "armWidth": 13
         },
         {
           "label": "2세",
@@ -197615,7 +197744,9 @@
           },
           "chestWidth": 35,
           "sleeveLength": 26,
-          "topLength": 36.5
+          "topLength": 36.5,
+          "backWidth": 34.5,
+          "armWidth": 13.5
         },
         {
           "label": "3세",
@@ -197628,7 +197759,9 @@
           },
           "chestWidth": 36,
           "sleeveLength": 29,
-          "topLength": 39.5
+          "topLength": 39.5,
+          "backWidth": 35.5,
+          "armWidth": 14
         },
         {
           "label": "4세",
@@ -197641,7 +197774,9 @@
           },
           "chestWidth": 37,
           "sleeveLength": 32,
-          "topLength": 42.5
+          "topLength": 42.5,
+          "backWidth": 36.5,
+          "armWidth": 14.5
         },
         {
           "label": "5세",
@@ -197654,7 +197789,9 @@
           },
           "chestWidth": 38,
           "sleeveLength": 35,
-          "topLength": 45.5
+          "topLength": 45.5,
+          "backWidth": 37.5,
+          "armWidth": 15
         },
         {
           "label": "6세",
@@ -197667,7 +197804,9 @@
           },
           "chestWidth": 39,
           "sleeveLength": 38,
-          "topLength": 48.5
+          "topLength": 48.5,
+          "backWidth": 38.5,
+          "armWidth": 15.5
         }
       ]
     },
@@ -197702,7 +197841,8 @@
       "measurementCaution": "공식 표는 가슴·허리를 '둘레'로 적지만 평평하게 놓고 잰 값이에요. 단면으로 비교했어요.",
       "notes": [
         "한국 공식 상품 페이지의 '제품 사이즈' 표를 화면에서 직접 읽어 옮겼습니다. 공식 안내는 '평평하게 펼쳐놓은 상태로 측정'이며, 표의 '둘레' 표기 값도 그 상태의 가로 치수라 2로 나누지 않고 단면으로 기록했습니다.",
-        "공식 안내: 제조 과정으로 치수에 약간의 차이가 있을 수 있습니다."
+        "공식 안내: 제조 과정으로 치수에 약간의 차이가 있을 수 있습니다.",
+        "등 너비와 어깨너비, 팔 너비와 소매 길이는 별도 부위로 비교합니다. 기존 공식 평면 실측의 가로 너비 값을 그대로 보존합니다."
       ],
       "sizes": [
         {
@@ -197716,7 +197856,9 @@
           },
           "chestWidth": 36,
           "sleeveLength": 22.5,
-          "topLength": 35
+          "topLength": 35,
+          "backWidth": 40,
+          "armWidth": 13.5
         },
         {
           "label": "2세",
@@ -197729,7 +197871,9 @@
           },
           "chestWidth": 38,
           "sleeveLength": 24.5,
-          "topLength": 37.5
+          "topLength": 37.5,
+          "backWidth": 41,
+          "armWidth": 14.5
         },
         {
           "label": "3세",
@@ -197742,7 +197886,9 @@
           },
           "chestWidth": 40,
           "sleeveLength": 26.5,
-          "topLength": 40
+          "topLength": 40,
+          "backWidth": 42,
+          "armWidth": 15.5
         },
         {
           "label": "4세",
@@ -197755,7 +197901,9 @@
           },
           "chestWidth": 42,
           "sleeveLength": 28.5,
-          "topLength": 42.5
+          "topLength": 42.5,
+          "backWidth": 43,
+          "armWidth": 16.5
         },
         {
           "label": "5세",
@@ -197768,7 +197916,9 @@
           },
           "chestWidth": 44,
           "sleeveLength": 30.5,
-          "topLength": 45
+          "topLength": 45,
+          "backWidth": 44,
+          "armWidth": 17.5
         },
         {
           "label": "6세",
@@ -197781,7 +197931,9 @@
           },
           "chestWidth": 46,
           "sleeveLength": 32.5,
-          "topLength": 47.5
+          "topLength": 47.5,
+          "backWidth": 45,
+          "armWidth": 18.5
         }
       ]
     },
@@ -197818,7 +197970,8 @@
       "measurementCaution": "공식 표는 가슴·허리를 '둘레'로 적지만 평평하게 놓고 잰 값이에요. 단면으로 비교했어요.",
       "notes": [
         "한국 공식 상품 페이지의 '제품 사이즈' 표를 화면에서 직접 읽어 옮겼습니다. 공식 안내는 '평평하게 펼쳐놓은 상태로 측정'이며, 표의 '둘레' 표기 값도 그 상태의 가로 치수라 2로 나누지 않고 단면으로 기록했습니다.",
-        "공식 안내: 제조 과정으로 치수에 약간의 차이가 있을 수 있습니다."
+        "공식 안내: 제조 과정으로 치수에 약간의 차이가 있을 수 있습니다.",
+        "등 너비와 어깨너비, 팔 너비와 소매 길이는 별도 부위로 비교합니다. 기존 공식 평면 실측의 가로 너비 값을 그대로 보존합니다."
       ],
       "sizes": [
         {
@@ -197832,7 +197985,9 @@
           },
           "chestWidth": 35,
           "sleeveLength": 28,
-          "topLength": 35.5
+          "topLength": 35.5,
+          "backWidth": 38,
+          "armWidth": 14.5
         },
         {
           "label": "2세",
@@ -197845,7 +198000,9 @@
           },
           "chestWidth": 37,
           "sleeveLength": 28.5,
-          "topLength": 37.5
+          "topLength": 37.5,
+          "backWidth": 39,
+          "armWidth": 15
         },
         {
           "label": "3세",
@@ -197858,7 +198015,9 @@
           },
           "chestWidth": 39,
           "sleeveLength": 29,
-          "topLength": 39.5
+          "topLength": 39.5,
+          "backWidth": 40,
+          "armWidth": 15.5
         },
         {
           "label": "4세",
@@ -197871,7 +198030,9 @@
           },
           "chestWidth": 41,
           "sleeveLength": 29.5,
-          "topLength": 41.5
+          "topLength": 41.5,
+          "backWidth": 41,
+          "armWidth": 16
         },
         {
           "label": "5세",
@@ -197884,7 +198045,9 @@
           },
           "chestWidth": 43,
           "sleeveLength": 30,
-          "topLength": 43.5
+          "topLength": 43.5,
+          "backWidth": 42,
+          "armWidth": 16.5
         },
         {
           "label": "6세",
@@ -197897,7 +198060,9 @@
           },
           "chestWidth": 45,
           "sleeveLength": 30.5,
-          "topLength": 45.5
+          "topLength": 45.5,
+          "backWidth": 43,
+          "armWidth": 17
         }
       ]
     },
@@ -197932,7 +198097,8 @@
       "measurementCaution": "공식 표는 가슴·허리를 '둘레'로 적지만 평평하게 놓고 잰 값이에요. 단면으로 비교했어요.",
       "notes": [
         "한국 공식 상품 페이지의 '제품 사이즈' 표를 화면에서 직접 읽어 옮겼습니다. 공식 안내는 '평평하게 펼쳐놓은 상태로 측정'이며, 표의 '둘레' 표기 값도 그 상태의 가로 치수라 2로 나누지 않고 단면으로 기록했습니다.",
-        "공식 안내: 제조 과정으로 치수에 약간의 차이가 있을 수 있습니다."
+        "공식 안내: 제조 과정으로 치수에 약간의 차이가 있을 수 있습니다.",
+        "등 너비와 어깨너비, 팔 너비와 소매 길이는 별도 부위로 비교합니다. 기존 공식 평면 실측의 가로 너비 값을 그대로 보존합니다."
       ],
       "sizes": [
         {
@@ -197946,7 +198112,9 @@
           },
           "chestWidth": 37,
           "sleeveLength": 25,
-          "topLength": 39
+          "topLength": 39,
+          "backWidth": 37,
+          "armWidth": 14
         },
         {
           "label": "2세",
@@ -197959,7 +198127,9 @@
           },
           "chestWidth": 38,
           "sleeveLength": 27,
-          "topLength": 40
+          "topLength": 40,
+          "backWidth": 38,
+          "armWidth": 15
         },
         {
           "label": "3세",
@@ -197972,7 +198142,9 @@
           },
           "chestWidth": 39,
           "sleeveLength": 29,
-          "topLength": 41
+          "topLength": 41,
+          "backWidth": 39,
+          "armWidth": 16
         },
         {
           "label": "4세",
@@ -197985,7 +198157,9 @@
           },
           "chestWidth": 40,
           "sleeveLength": 31,
-          "topLength": 42
+          "topLength": 42,
+          "backWidth": 40,
+          "armWidth": 17
         },
         {
           "label": "5세",
@@ -197998,7 +198172,9 @@
           },
           "chestWidth": 41,
           "sleeveLength": 33,
-          "topLength": 43
+          "topLength": 43,
+          "backWidth": 41,
+          "armWidth": 18
         },
         {
           "label": "6세",
@@ -198011,7 +198187,9 @@
           },
           "chestWidth": 42,
           "sleeveLength": 35,
-          "topLength": 44
+          "topLength": 44,
+          "backWidth": 42,
+          "armWidth": 19
         }
       ]
     },
@@ -198046,7 +198224,8 @@
       "measurementCaution": "공식 표는 가슴·허리를 '둘레'로 적지만 평평하게 놓고 잰 값이에요. 단면으로 비교했어요.",
       "notes": [
         "한국 공식 상품 페이지의 '제품 사이즈' 표를 화면에서 직접 읽어 옮겼습니다. 공식 안내는 '평평하게 펼쳐놓은 상태로 측정'이며, 표의 '둘레' 표기 값도 그 상태의 가로 치수라 2로 나누지 않고 단면으로 기록했습니다.",
-        "공식 안내: 제조 과정으로 치수에 약간의 차이가 있을 수 있습니다."
+        "공식 안내: 제조 과정으로 치수에 약간의 차이가 있을 수 있습니다.",
+        "등 너비와 어깨너비, 팔 너비와 소매 길이는 별도 부위로 비교합니다. 기존 공식 평면 실측의 가로 너비 값을 그대로 보존합니다."
       ],
       "sizes": [
         {
@@ -198060,7 +198239,9 @@
           },
           "chestWidth": 37,
           "sleeveLength": 23,
-          "topLength": 34
+          "topLength": 34,
+          "backWidth": 32,
+          "armWidth": 13
         },
         {
           "label": "2세",
@@ -198073,7 +198254,9 @@
           },
           "chestWidth": 38,
           "sleeveLength": 26,
-          "topLength": 36
+          "topLength": 36,
+          "backWidth": 34,
+          "armWidth": 14
         },
         {
           "label": "3세",
@@ -198086,7 +198269,9 @@
           },
           "chestWidth": 39,
           "sleeveLength": 29,
-          "topLength": 38
+          "topLength": 38,
+          "backWidth": 36,
+          "armWidth": 15
         },
         {
           "label": "4세",
@@ -198099,7 +198284,9 @@
           },
           "chestWidth": 40,
           "sleeveLength": 32,
-          "topLength": 40
+          "topLength": 40,
+          "backWidth": 38,
+          "armWidth": 16
         },
         {
           "label": "5세",
@@ -198112,7 +198299,9 @@
           },
           "chestWidth": 41,
           "sleeveLength": 35,
-          "topLength": 42
+          "topLength": 42,
+          "backWidth": 40,
+          "armWidth": 17
         },
         {
           "label": "6세",
@@ -198125,7 +198314,9 @@
           },
           "chestWidth": 42,
           "sleeveLength": 38,
-          "topLength": 44
+          "topLength": 44,
+          "backWidth": 42,
+          "armWidth": 18
         }
       ]
     },
@@ -198166,7 +198357,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -198175,11 +198367,13 @@
             "label": "90(90)",
             "가슴둘레": 70,
             "소매길이": 28,
-            "총기장": 36
+            "총기장": 36,
+            "어깨너비": 29.5
           },
           "chestWidth": 35,
           "sleeveLength": 28,
-          "topLength": 36
+          "topLength": 36,
+          "shoulderWidth": 29.5
         },
         {
           "label": "100",
@@ -198187,11 +198381,13 @@
             "label": "100(100)",
             "가슴둘레": 74,
             "소매길이": 31.7,
-            "총기장": 39.5
+            "총기장": 39.5,
+            "어깨너비": 31.1
           },
           "chestWidth": 37,
           "sleeveLength": 31.7,
-          "topLength": 39.5
+          "topLength": 39.5,
+          "shoulderWidth": 31.1
         },
         {
           "label": "110",
@@ -198199,11 +198395,13 @@
             "label": "110(110)",
             "가슴둘레": 78,
             "소매길이": 35.4,
-            "총기장": 43
+            "총기장": 43,
+            "어깨너비": 32.7
           },
           "chestWidth": 39,
           "sleeveLength": 35.4,
-          "topLength": 43
+          "topLength": 43,
+          "shoulderWidth": 32.7
         }
       ]
     },
@@ -198247,7 +198445,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -198255,50 +198454,70 @@
           "raw": {
             "label": "80(80)",
             "가슴둘레": 65,
-            "허리둘레": 40
+            "허리둘레": 40,
+            "어깨너비": 30.6,
+            "엉덩이둘레": 62
           },
           "chestWidth": 32.5,
-          "waistWidth": 20
+          "waistWidth": 20,
+          "shoulderWidth": 30.6,
+          "hipWidth": 31
         },
         {
           "label": "90",
           "raw": {
             "label": "90(90)",
             "가슴둘레": 68,
-            "허리둘레": 42
+            "허리둘레": 42,
+            "어깨너비": 32,
+            "엉덩이둘레": 65
           },
           "chestWidth": 34,
-          "waistWidth": 21
+          "waistWidth": 21,
+          "shoulderWidth": 32,
+          "hipWidth": 32.5
         },
         {
           "label": "100",
           "raw": {
             "label": "100(100)",
             "가슴둘레": 72,
-            "허리둘레": 44
+            "허리둘레": 44,
+            "어깨너비": 33.8,
+            "엉덩이둘레": 69
           },
           "chestWidth": 36,
-          "waistWidth": 22
+          "waistWidth": 22,
+          "shoulderWidth": 33.8,
+          "hipWidth": 34.5
         },
         {
           "label": "110",
           "raw": {
             "label": "110(110)",
             "가슴둘레": 76,
-            "허리둘레": 46
+            "허리둘레": 46,
+            "어깨너비": 35.6,
+            "엉덩이둘레": 73
           },
           "chestWidth": 38,
-          "waistWidth": 23
+          "waistWidth": 23,
+          "shoulderWidth": 35.6,
+          "hipWidth": 36.5
         },
         {
           "label": "120",
           "raw": {
             "label": "120(120)",
             "가슴둘레": 80,
-            "허리둘레": 48
+            "허리둘레": 48,
+            "어깨너비": 37.4,
+            "엉덩이둘레": 77
           },
           "chestWidth": 40,
-          "waistWidth": 24
+          "waistWidth": 24,
+          "shoulderWidth": 37.4,
+          "hipWidth": 38.5
         }
       ]
     },
@@ -198339,7 +198558,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -198347,40 +198567,48 @@
           "raw": {
             "label": "80(80)",
             "가슴둘레": 57,
-            "총기장": 31.5
+            "총기장": 31.5,
+            "어깨너비": 27.6
           },
           "chestWidth": 28.5,
-          "topLength": 31.5
+          "topLength": 31.5,
+          "shoulderWidth": 27.6
         },
         {
           "label": "90",
           "raw": {
             "label": "90(90)",
             "가슴둘레": 60,
-            "총기장": 34
+            "총기장": 34,
+            "어깨너비": 29
           },
           "chestWidth": 30,
-          "topLength": 34
+          "topLength": 34,
+          "shoulderWidth": 29
         },
         {
           "label": "100",
           "raw": {
             "label": "100(100)",
             "가슴둘레": 64,
-            "총기장": 37.5
+            "총기장": 37.5,
+            "어깨너비": 30.8
           },
           "chestWidth": 32,
-          "topLength": 37.5
+          "topLength": 37.5,
+          "shoulderWidth": 30.8
         },
         {
           "label": "110",
           "raw": {
             "label": "110(110)",
             "가슴둘레": 68,
-            "총기장": 41
+            "총기장": 41,
+            "어깨너비": 32.6
           },
           "chestWidth": 34,
-          "topLength": 41
+          "topLength": 41,
+          "shoulderWidth": 32.6
         }
       ]
     },
@@ -198422,7 +198650,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -198430,50 +198659,70 @@
           "raw": {
             "label": "80(80)",
             "가슴둘레": 65,
-            "허리둘레": 40
+            "허리둘레": 40,
+            "어깨너비": 30.1,
+            "엉덩이둘레": 62
           },
           "chestWidth": 32.5,
-          "waistWidth": 20
+          "waistWidth": 20,
+          "shoulderWidth": 30.1,
+          "hipWidth": 31
         },
         {
           "label": "90",
           "raw": {
             "label": "90(90)",
             "가슴둘레": 68,
-            "허리둘레": 42
+            "허리둘레": 42,
+            "어깨너비": 31.5,
+            "엉덩이둘레": 65
           },
           "chestWidth": 34,
-          "waistWidth": 21
+          "waistWidth": 21,
+          "shoulderWidth": 31.5,
+          "hipWidth": 32.5
         },
         {
           "label": "100",
           "raw": {
             "label": "100(100)",
             "가슴둘레": 72,
-            "허리둘레": 44
+            "허리둘레": 44,
+            "어깨너비": 33.3,
+            "엉덩이둘레": 69
           },
           "chestWidth": 36,
-          "waistWidth": 22
+          "waistWidth": 22,
+          "shoulderWidth": 33.3,
+          "hipWidth": 34.5
         },
         {
           "label": "110",
           "raw": {
             "label": "110(110)",
             "가슴둘레": 76,
-            "허리둘레": 46
+            "허리둘레": 46,
+            "어깨너비": 35.1,
+            "엉덩이둘레": 73
           },
           "chestWidth": 38,
-          "waistWidth": 23
+          "waistWidth": 23,
+          "shoulderWidth": 35.1,
+          "hipWidth": 36.5
         },
         {
           "label": "120",
           "raw": {
             "label": "120(120)",
             "가슴둘레": 80,
-            "허리둘레": 48
+            "허리둘레": 48,
+            "어깨너비": 36.9,
+            "엉덩이둘레": 77
           },
           "chestWidth": 40,
-          "waistWidth": 24
+          "waistWidth": 24,
+          "shoulderWidth": 36.9,
+          "hipWidth": 38.5
         }
       ]
     },
@@ -198517,7 +198766,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -198525,50 +198775,70 @@
           "raw": {
             "label": "80(80)",
             "가슴둘레": 65,
-            "허리둘레": 40
+            "허리둘레": 40,
+            "어깨너비": 30.6,
+            "엉덩이둘레": 62
           },
           "chestWidth": 32.5,
-          "waistWidth": 20
+          "waistWidth": 20,
+          "shoulderWidth": 30.6,
+          "hipWidth": 31
         },
         {
           "label": "90",
           "raw": {
             "label": "90(90)",
             "가슴둘레": 68,
-            "허리둘레": 42
+            "허리둘레": 42,
+            "어깨너비": 32,
+            "엉덩이둘레": 65
           },
           "chestWidth": 34,
-          "waistWidth": 21
+          "waistWidth": 21,
+          "shoulderWidth": 32,
+          "hipWidth": 32.5
         },
         {
           "label": "100",
           "raw": {
             "label": "100(100)",
             "가슴둘레": 72,
-            "허리둘레": 44
+            "허리둘레": 44,
+            "어깨너비": 33.8,
+            "엉덩이둘레": 69
           },
           "chestWidth": 36,
-          "waistWidth": 22
+          "waistWidth": 22,
+          "shoulderWidth": 33.8,
+          "hipWidth": 34.5
         },
         {
           "label": "110",
           "raw": {
             "label": "110(110)",
             "가슴둘레": 76,
-            "허리둘레": 46
+            "허리둘레": 46,
+            "어깨너비": 35.6,
+            "엉덩이둘레": 73
           },
           "chestWidth": 38,
-          "waistWidth": 23
+          "waistWidth": 23,
+          "shoulderWidth": 35.6,
+          "hipWidth": 36.5
         },
         {
           "label": "120",
           "raw": {
             "label": "120(120)",
             "가슴둘레": 80,
-            "허리둘레": 48
+            "허리둘레": 48,
+            "어깨너비": 37.4,
+            "엉덩이둘레": 77
           },
           "chestWidth": 40,
-          "waistWidth": 24
+          "waistWidth": 24,
+          "shoulderWidth": 37.4,
+          "hipWidth": 38.5
         }
       ]
     },
@@ -198617,7 +198887,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -198625,40 +198896,48 @@
           "raw": {
             "label": "80(80)",
             "허리둘레": 39,
-            "총기장": 39
+            "총기장": 39,
+            "엉덩이둘레": 73
           },
           "waistWidth": 19.5,
-          "pantsLength": 39
+          "pantsLength": 39,
+          "hipWidth": 36.5
         },
         {
           "label": "90",
           "raw": {
             "label": "90(90)",
             "허리둘레": 41,
-            "총기장": 44
+            "총기장": 44,
+            "엉덩이둘레": 76
           },
           "waistWidth": 20.5,
-          "pantsLength": 44
+          "pantsLength": 44,
+          "hipWidth": 38
         },
         {
           "label": "100",
           "raw": {
             "label": "100(100)",
             "허리둘레": 43,
-            "총기장": 51
+            "총기장": 51,
+            "엉덩이둘레": 80
           },
           "waistWidth": 21.5,
-          "pantsLength": 51
+          "pantsLength": 51,
+          "hipWidth": 40
         },
         {
           "label": "110",
           "raw": {
             "label": "110(110)",
             "허리둘레": 45,
-            "총기장": 58
+            "총기장": 58,
+            "엉덩이둘레": 84
           },
           "waistWidth": 22.5,
-          "pantsLength": 58
+          "pantsLength": 58,
+          "hipWidth": 42
         }
       ]
     },
@@ -198701,7 +198980,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -198709,50 +198989,70 @@
           "raw": {
             "label": "80(80)",
             "가슴둘레": 65,
-            "허리둘레": 40
+            "허리둘레": 40,
+            "어깨너비": 30.1,
+            "엉덩이둘레": 62
           },
           "chestWidth": 32.5,
-          "waistWidth": 20
+          "waistWidth": 20,
+          "shoulderWidth": 30.1,
+          "hipWidth": 31
         },
         {
           "label": "90",
           "raw": {
             "label": "90(90)",
             "가슴둘레": 68,
-            "허리둘레": 42
+            "허리둘레": 42,
+            "어깨너비": 31.5,
+            "엉덩이둘레": 65
           },
           "chestWidth": 34,
-          "waistWidth": 21
+          "waistWidth": 21,
+          "shoulderWidth": 31.5,
+          "hipWidth": 32.5
         },
         {
           "label": "100",
           "raw": {
             "label": "100(100)",
             "가슴둘레": 72,
-            "허리둘레": 44
+            "허리둘레": 44,
+            "어깨너비": 33.3,
+            "엉덩이둘레": 69
           },
           "chestWidth": 36,
-          "waistWidth": 22
+          "waistWidth": 22,
+          "shoulderWidth": 33.3,
+          "hipWidth": 34.5
         },
         {
           "label": "110",
           "raw": {
             "label": "110(110)",
             "가슴둘레": 76,
-            "허리둘레": 46
+            "허리둘레": 46,
+            "어깨너비": 35.1,
+            "엉덩이둘레": 73
           },
           "chestWidth": 38,
-          "waistWidth": 23
+          "waistWidth": 23,
+          "shoulderWidth": 35.1,
+          "hipWidth": 36.5
         },
         {
           "label": "120",
           "raw": {
             "label": "120(120)",
             "가슴둘레": 80,
-            "허리둘레": 48
+            "허리둘레": 48,
+            "어깨너비": 36.9,
+            "엉덩이둘레": 77
           },
           "chestWidth": 40,
-          "waistWidth": 24
+          "waistWidth": 24,
+          "shoulderWidth": 36.9,
+          "hipWidth": 38.5
         }
       ]
     },
@@ -198793,7 +199093,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -198801,50 +199102,70 @@
           "raw": {
             "label": "80(80)",
             "가슴둘레": 67,
-            "허리둘레": 39
+            "허리둘레": 39,
+            "어깨너비": 30.1,
+            "엉덩이둘레": 69
           },
           "chestWidth": 33.5,
-          "waistWidth": 19.5
+          "waistWidth": 19.5,
+          "shoulderWidth": 30.1,
+          "hipWidth": 34.5
         },
         {
           "label": "90",
           "raw": {
             "label": "90(90)",
             "가슴둘레": 70,
-            "허리둘레": 41
+            "허리둘레": 41,
+            "어깨너비": 31.5,
+            "엉덩이둘레": 72
           },
           "chestWidth": 35,
-          "waistWidth": 20.5
+          "waistWidth": 20.5,
+          "shoulderWidth": 31.5,
+          "hipWidth": 36
         },
         {
           "label": "100",
           "raw": {
             "label": "100(100)",
             "가슴둘레": 74,
-            "허리둘레": 43
+            "허리둘레": 43,
+            "어깨너비": 33.3,
+            "엉덩이둘레": 76
           },
           "chestWidth": 37,
-          "waistWidth": 21.5
+          "waistWidth": 21.5,
+          "shoulderWidth": 33.3,
+          "hipWidth": 38
         },
         {
           "label": "110",
           "raw": {
             "label": "110(110)",
             "가슴둘레": 78,
-            "허리둘레": 45
+            "허리둘레": 45,
+            "어깨너비": 35.1,
+            "엉덩이둘레": 80
           },
           "chestWidth": 39,
-          "waistWidth": 22.5
+          "waistWidth": 22.5,
+          "shoulderWidth": 35.1,
+          "hipWidth": 40
         },
         {
           "label": "120",
           "raw": {
             "label": "120(120)",
             "가슴둘레": 82,
-            "허리둘레": 47
+            "허리둘레": 47,
+            "어깨너비": 36.9,
+            "엉덩이둘레": 84
           },
           "chestWidth": 41,
-          "waistWidth": 23.5
+          "waistWidth": 23.5,
+          "shoulderWidth": 36.9,
+          "hipWidth": 42
         }
       ]
     },
@@ -198888,7 +199209,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -198896,50 +199218,70 @@
           "raw": {
             "label": "80(80)",
             "가슴둘레": 65,
-            "허리둘레": 40
+            "허리둘레": 40,
+            "어깨너비": 30.6,
+            "엉덩이둘레": 62
           },
           "chestWidth": 32.5,
-          "waistWidth": 20
+          "waistWidth": 20,
+          "shoulderWidth": 30.6,
+          "hipWidth": 31
         },
         {
           "label": "90",
           "raw": {
             "label": "90(90)",
             "가슴둘레": 68,
-            "허리둘레": 42
+            "허리둘레": 42,
+            "어깨너비": 32,
+            "엉덩이둘레": 65
           },
           "chestWidth": 34,
-          "waistWidth": 21
+          "waistWidth": 21,
+          "shoulderWidth": 32,
+          "hipWidth": 32.5
         },
         {
           "label": "100",
           "raw": {
             "label": "100(100)",
             "가슴둘레": 72,
-            "허리둘레": 44
+            "허리둘레": 44,
+            "어깨너비": 33.8,
+            "엉덩이둘레": 69
           },
           "chestWidth": 36,
-          "waistWidth": 22
+          "waistWidth": 22,
+          "shoulderWidth": 33.8,
+          "hipWidth": 34.5
         },
         {
           "label": "110",
           "raw": {
             "label": "110(110)",
             "가슴둘레": 76,
-            "허리둘레": 46
+            "허리둘레": 46,
+            "어깨너비": 35.6,
+            "엉덩이둘레": 73
           },
           "chestWidth": 38,
-          "waistWidth": 23
+          "waistWidth": 23,
+          "shoulderWidth": 35.6,
+          "hipWidth": 36.5
         },
         {
           "label": "120",
           "raw": {
             "label": "120(120)",
             "가슴둘레": 80,
-            "허리둘레": 48
+            "허리둘레": 48,
+            "어깨너비": 37.4,
+            "엉덩이둘레": 77
           },
           "chestWidth": 40,
-          "waistWidth": 24
+          "waistWidth": 24,
+          "shoulderWidth": 37.4,
+          "hipWidth": 38.5
         }
       ]
     },
@@ -198980,7 +199322,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -198989,11 +199332,13 @@
             "label": "90(90)",
             "가슴둘레": 70,
             "소매길이": 28.5,
-            "총기장": 37
+            "총기장": 37,
+            "어깨너비": 29
           },
           "chestWidth": 35,
           "sleeveLength": 28.5,
-          "topLength": 37
+          "topLength": 37,
+          "shoulderWidth": 29
         },
         {
           "label": "100",
@@ -199001,11 +199346,13 @@
             "label": "100(100)",
             "가슴둘레": 74,
             "소매길이": 32.2,
-            "총기장": 40.5
+            "총기장": 40.5,
+            "어깨너비": 30.6
           },
           "chestWidth": 37,
           "sleeveLength": 32.2,
-          "topLength": 40.5
+          "topLength": 40.5,
+          "shoulderWidth": 30.6
         },
         {
           "label": "110",
@@ -199013,11 +199360,13 @@
             "label": "110(110)",
             "가슴둘레": 78,
             "소매길이": 35.9,
-            "총기장": 44
+            "총기장": 44,
+            "어깨너비": 32.2
           },
           "chestWidth": 39,
           "sleeveLength": 35.9,
-          "topLength": 44
+          "topLength": 44,
+          "shoulderWidth": 32.2
         }
       ]
     },
@@ -199061,7 +199410,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -199069,50 +199419,70 @@
           "raw": {
             "label": "80(80)",
             "가슴둘레": 65,
-            "허리둘레": 40
+            "허리둘레": 40,
+            "어깨너비": 30.6,
+            "엉덩이둘레": 62
           },
           "chestWidth": 32.5,
-          "waistWidth": 20
+          "waistWidth": 20,
+          "shoulderWidth": 30.6,
+          "hipWidth": 31
         },
         {
           "label": "90",
           "raw": {
             "label": "90(90)",
             "가슴둘레": 68,
-            "허리둘레": 42
+            "허리둘레": 42,
+            "어깨너비": 32,
+            "엉덩이둘레": 65
           },
           "chestWidth": 34,
-          "waistWidth": 21
+          "waistWidth": 21,
+          "shoulderWidth": 32,
+          "hipWidth": 32.5
         },
         {
           "label": "100",
           "raw": {
             "label": "100(100)",
             "가슴둘레": 72,
-            "허리둘레": 44
+            "허리둘레": 44,
+            "어깨너비": 33.8,
+            "엉덩이둘레": 69
           },
           "chestWidth": 36,
-          "waistWidth": 22
+          "waistWidth": 22,
+          "shoulderWidth": 33.8,
+          "hipWidth": 34.5
         },
         {
           "label": "110",
           "raw": {
             "label": "110(110)",
             "가슴둘레": 76,
-            "허리둘레": 46
+            "허리둘레": 46,
+            "어깨너비": 35.6,
+            "엉덩이둘레": 73
           },
           "chestWidth": 38,
-          "waistWidth": 23
+          "waistWidth": 23,
+          "shoulderWidth": 35.6,
+          "hipWidth": 36.5
         },
         {
           "label": "120",
           "raw": {
             "label": "120(120)",
             "가슴둘레": 80,
-            "허리둘레": 48
+            "허리둘레": 48,
+            "어깨너비": 37.4,
+            "엉덩이둘레": 77
           },
           "chestWidth": 40,
-          "waistWidth": 24
+          "waistWidth": 24,
+          "shoulderWidth": 37.4,
+          "hipWidth": 38.5
         }
       ]
     },
@@ -199153,7 +199523,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -199161,40 +199532,48 @@
           "raw": {
             "label": "80(80)",
             "허리둘레": 40,
-            "총기장": 37
+            "총기장": 37,
+            "엉덩이둘레": 48
           },
           "waistWidth": 20,
-          "pantsLength": 37
+          "pantsLength": 37,
+          "hipWidth": 24
         },
         {
           "label": "90",
           "raw": {
             "label": "90(90)",
             "허리둘레": 42,
-            "총기장": 42
+            "총기장": 42,
+            "엉덩이둘레": 51
           },
           "waistWidth": 21,
-          "pantsLength": 42
+          "pantsLength": 42,
+          "hipWidth": 25.5
         },
         {
           "label": "100",
           "raw": {
             "label": "100(100)",
             "허리둘레": 44,
-            "총기장": 49
+            "총기장": 49,
+            "엉덩이둘레": 54
           },
           "waistWidth": 22,
-          "pantsLength": 49
+          "pantsLength": 49,
+          "hipWidth": 27
         },
         {
           "label": "110",
           "raw": {
             "label": "110(110)",
             "허리둘레": 46,
-            "총기장": 56
+            "총기장": 56,
+            "엉덩이둘레": 57
           },
           "waistWidth": 23,
-          "pantsLength": 56
+          "pantsLength": 56,
+          "hipWidth": 28.5
         }
       ]
     },
@@ -199235,7 +199614,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -199243,20 +199623,24 @@
           "raw": {
             "label": "81(81)",
             "가슴둘레": 72,
-            "총기장": 56
+            "총기장": 56,
+            "어깨너비": 24
           },
           "chestWidth": 36,
-          "topLength": 56
+          "topLength": 56,
+          "shoulderWidth": 24
         },
         {
           "label": "101",
           "raw": {
             "label": "101(101)",
             "가슴둘레": 77,
-            "총기장": 62
+            "총기장": 62,
+            "어깨너비": 25.5
           },
           "chestWidth": 38.5,
-          "topLength": 62
+          "topLength": 62,
+          "shoulderWidth": 25.5
         }
       ]
     },
@@ -199298,7 +199682,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -199306,40 +199691,48 @@
           "raw": {
             "label": "80(80)",
             "가슴둘레": 54,
-            "총기장": 31.5
+            "총기장": 31.5,
+            "어깨너비": 20.8
           },
           "chestWidth": 27,
-          "topLength": 31.5
+          "topLength": 31.5,
+          "shoulderWidth": 20.8
         },
         {
           "label": "90",
           "raw": {
             "label": "90(90)",
             "가슴둘레": 57,
-            "총기장": 34
+            "총기장": 34,
+            "어깨너비": 22
           },
           "chestWidth": 28.5,
-          "topLength": 34
+          "topLength": 34,
+          "shoulderWidth": 22
         },
         {
           "label": "100",
           "raw": {
             "label": "100(100)",
             "가슴둘레": 61,
-            "총기장": 37.5
+            "총기장": 37.5,
+            "어깨너비": 23.4
           },
           "chestWidth": 30.5,
-          "topLength": 37.5
+          "topLength": 37.5,
+          "shoulderWidth": 23.4
         },
         {
           "label": "110",
           "raw": {
             "label": "110(110)",
             "가슴둘레": 65,
-            "총기장": 41
+            "총기장": 41,
+            "어깨너비": 24.8
           },
           "chestWidth": 32.5,
-          "topLength": 41
+          "topLength": 41,
+          "shoulderWidth": 24.8
         }
       ]
     },
@@ -199382,7 +199775,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -199390,30 +199784,42 @@
           "raw": {
             "label": "70(70)",
             "가슴둘레": 46.5,
-            "총기장": 41
+            "총기장": 41,
+            "어깨너비": 19,
+            "엉덩이둘레": 47.5
           },
           "chestWidth": 23.25,
-          "topLength": 41
+          "topLength": 41,
+          "shoulderWidth": 19,
+          "hipWidth": 23.75
         },
         {
           "label": "80",
           "raw": {
             "label": "80(80)",
             "가슴둘레": 49,
-            "총기장": 43
+            "총기장": 43,
+            "어깨너비": 20,
+            "엉덩이둘레": 50
           },
           "chestWidth": 24.5,
-          "topLength": 43
+          "topLength": 43,
+          "shoulderWidth": 20,
+          "hipWidth": 25
         },
         {
           "label": "90",
           "raw": {
             "label": "90(90)",
             "가슴둘레": 51.5,
-            "총기장": 45
+            "총기장": 45,
+            "어깨너비": 21,
+            "엉덩이둘레": 52.5
           },
           "chestWidth": 25.75,
-          "topLength": 45
+          "topLength": 45,
+          "shoulderWidth": 21,
+          "hipWidth": 26.25
         }
       ]
     },
@@ -199454,7 +199860,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -199462,40 +199869,48 @@
           "raw": {
             "label": "80(80)",
             "가슴둘레": 62,
-            "총기장": 32
+            "총기장": 32,
+            "어깨너비": 24.5
           },
           "chestWidth": 31,
-          "topLength": 32
+          "topLength": 32,
+          "shoulderWidth": 24.5
         },
         {
           "label": "90",
           "raw": {
             "label": "90(90)",
             "가슴둘레": 65,
-            "총기장": 34.5
+            "총기장": 34.5,
+            "어깨너비": 25.5
           },
           "chestWidth": 32.5,
-          "topLength": 34.5
+          "topLength": 34.5,
+          "shoulderWidth": 25.5
         },
         {
           "label": "100",
           "raw": {
             "label": "100(100)",
             "가슴둘레": 69,
-            "총기장": 38
+            "총기장": 38,
+            "어깨너비": 26.9
           },
           "chestWidth": 34.5,
-          "topLength": 38
+          "topLength": 38,
+          "shoulderWidth": 26.9
         },
         {
           "label": "110",
           "raw": {
             "label": "110(110)",
             "가슴둘레": 73,
-            "총기장": 41.5
+            "총기장": 41.5,
+            "어깨너비": 28.3
           },
           "chestWidth": 36.5,
-          "topLength": 41.5
+          "topLength": 41.5,
+          "shoulderWidth": 28.3
         }
       ]
     },
@@ -199537,7 +199952,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -199545,50 +199961,70 @@
           "raw": {
             "label": "80(80)",
             "가슴둘레": 65,
-            "허리둘레": 40
+            "허리둘레": 40,
+            "어깨너비": 30.1,
+            "엉덩이둘레": 62
           },
           "chestWidth": 32.5,
-          "waistWidth": 20
+          "waistWidth": 20,
+          "shoulderWidth": 30.1,
+          "hipWidth": 31
         },
         {
           "label": "90",
           "raw": {
             "label": "90(90)",
             "가슴둘레": 68,
-            "허리둘레": 42
+            "허리둘레": 42,
+            "어깨너비": 31.5,
+            "엉덩이둘레": 65
           },
           "chestWidth": 34,
-          "waistWidth": 21
+          "waistWidth": 21,
+          "shoulderWidth": 31.5,
+          "hipWidth": 32.5
         },
         {
           "label": "100",
           "raw": {
             "label": "100(100)",
             "가슴둘레": 72,
-            "허리둘레": 44
+            "허리둘레": 44,
+            "어깨너비": 33.3,
+            "엉덩이둘레": 69
           },
           "chestWidth": 36,
-          "waistWidth": 22
+          "waistWidth": 22,
+          "shoulderWidth": 33.3,
+          "hipWidth": 34.5
         },
         {
           "label": "110",
           "raw": {
             "label": "110(110)",
             "가슴둘레": 76,
-            "허리둘레": 46
+            "허리둘레": 46,
+            "어깨너비": 35.1,
+            "엉덩이둘레": 73
           },
           "chestWidth": 38,
-          "waistWidth": 23
+          "waistWidth": 23,
+          "shoulderWidth": 35.1,
+          "hipWidth": 36.5
         },
         {
           "label": "120",
           "raw": {
             "label": "120(120)",
             "가슴둘레": 80,
-            "허리둘레": 48
+            "허리둘레": 48,
+            "어깨너비": 36.9,
+            "엉덩이둘레": 77
           },
           "chestWidth": 40,
-          "waistWidth": 24
+          "waistWidth": 24,
+          "shoulderWidth": 36.9,
+          "hipWidth": 38.5
         }
       ]
     },
@@ -199629,7 +200065,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -199637,30 +200074,36 @@
           "raw": {
             "label": "90(90)",
             "가슴둘레": 70,
-            "총기장": 35
+            "총기장": 35,
+            "어깨너비": 27
           },
           "chestWidth": 35,
-          "topLength": 35
+          "topLength": 35,
+          "shoulderWidth": 27
         },
         {
           "label": "100",
           "raw": {
             "label": "100(100)",
             "가슴둘레": 74,
-            "총기장": 38.5
+            "총기장": 38.5,
+            "어깨너비": 28.2
           },
           "chestWidth": 37,
-          "topLength": 38.5
+          "topLength": 38.5,
+          "shoulderWidth": 28.2
         },
         {
           "label": "110",
           "raw": {
             "label": "110(110)",
             "가슴둘레": 78,
-            "총기장": 42
+            "총기장": 42,
+            "어깨너비": 29.4
           },
           "chestWidth": 39,
-          "topLength": 42
+          "topLength": 42,
+          "shoulderWidth": 29.4
         }
       ]
     },
@@ -199702,7 +200145,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -199710,50 +200154,70 @@
           "raw": {
             "label": "80(80)",
             "가슴둘레": 67,
-            "허리둘레": 39
+            "허리둘레": 39,
+            "어깨너비": 30.1,
+            "엉덩이둘레": 69
           },
           "chestWidth": 33.5,
-          "waistWidth": 19.5
+          "waistWidth": 19.5,
+          "shoulderWidth": 30.1,
+          "hipWidth": 34.5
         },
         {
           "label": "90",
           "raw": {
             "label": "90(90)",
             "가슴둘레": 70,
-            "허리둘레": 41
+            "허리둘레": 41,
+            "어깨너비": 31.5,
+            "엉덩이둘레": 72
           },
           "chestWidth": 35,
-          "waistWidth": 20.5
+          "waistWidth": 20.5,
+          "shoulderWidth": 31.5,
+          "hipWidth": 36
         },
         {
           "label": "100",
           "raw": {
             "label": "100(100)",
             "가슴둘레": 74,
-            "허리둘레": 43
+            "허리둘레": 43,
+            "어깨너비": 33.3,
+            "엉덩이둘레": 76
           },
           "chestWidth": 37,
-          "waistWidth": 21.5
+          "waistWidth": 21.5,
+          "shoulderWidth": 33.3,
+          "hipWidth": 38
         },
         {
           "label": "110",
           "raw": {
             "label": "110(110)",
             "가슴둘레": 78,
-            "허리둘레": 45
+            "허리둘레": 45,
+            "어깨너비": 35.1,
+            "엉덩이둘레": 80
           },
           "chestWidth": 39,
-          "waistWidth": 22.5
+          "waistWidth": 22.5,
+          "shoulderWidth": 35.1,
+          "hipWidth": 40
         },
         {
           "label": "120",
           "raw": {
             "label": "120(120)",
             "가슴둘레": 82,
-            "허리둘레": 47
+            "허리둘레": 47,
+            "어깨너비": 36.9,
+            "엉덩이둘레": 84
           },
           "chestWidth": 41,
-          "waistWidth": 23.5
+          "waistWidth": 23.5,
+          "shoulderWidth": 36.9,
+          "hipWidth": 42
         }
       ]
     },
@@ -199794,7 +200258,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -199802,40 +200267,48 @@
           "raw": {
             "label": "80(80)",
             "가슴둘레": 69,
-            "총기장": 33.5
+            "총기장": 33.5,
+            "어깨너비": 30.8
           },
           "chestWidth": 34.5,
-          "topLength": 33.5
+          "topLength": 33.5,
+          "shoulderWidth": 30.8
         },
         {
           "label": "90",
           "raw": {
             "label": "90(90)",
             "가슴둘레": 72,
-            "총기장": 36
+            "총기장": 36,
+            "어깨너비": 32
           },
           "chestWidth": 36,
-          "topLength": 36
+          "topLength": 36,
+          "shoulderWidth": 32
         },
         {
           "label": "100",
           "raw": {
             "label": "100(100)",
             "가슴둘레": 76,
-            "총기장": 39.5
+            "총기장": 39.5,
+            "어깨너비": 33.6
           },
           "chestWidth": 38,
-          "topLength": 39.5
+          "topLength": 39.5,
+          "shoulderWidth": 33.6
         },
         {
           "label": "110",
           "raw": {
             "label": "110(110)",
             "가슴둘레": 80,
-            "총기장": 43
+            "총기장": 43,
+            "어깨너비": 35.2
           },
           "chestWidth": 40,
-          "topLength": 43
+          "topLength": 43,
+          "shoulderWidth": 35.2
         }
       ]
     },
@@ -199877,7 +200350,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -199886,11 +200360,15 @@
             "label": "80(80)",
             "가슴둘레": 50,
             "소매길이": 26.1,
-            "허리둘레": 28
+            "허리둘레": 28,
+            "어깨너비": 20.6,
+            "엉덩이둘레": 44
           },
           "chestWidth": 25,
           "sleeveLength": 26.1,
-          "waistWidth": 14
+          "waistWidth": 14,
+          "shoulderWidth": 20.6,
+          "hipWidth": 22
         },
         {
           "label": "90",
@@ -199898,11 +200376,15 @@
             "label": "90(90)",
             "가슴둘레": 53,
             "소매길이": 28.5,
-            "허리둘레": 30
+            "허리둘레": 30,
+            "어깨너비": 21.8,
+            "엉덩이둘레": 47
           },
           "chestWidth": 26.5,
           "sleeveLength": 28.5,
-          "waistWidth": 15
+          "waistWidth": 15,
+          "shoulderWidth": 21.8,
+          "hipWidth": 23.5
         },
         {
           "label": "100",
@@ -199910,11 +200392,15 @@
             "label": "100(100)",
             "가슴둘레": 57,
             "소매길이": 31.7,
-            "허리둘레": 32
+            "허리둘레": 32,
+            "어깨너비": 23.4,
+            "엉덩이둘레": 51
           },
           "chestWidth": 28.5,
           "sleeveLength": 31.7,
-          "waistWidth": 16
+          "waistWidth": 16,
+          "shoulderWidth": 23.4,
+          "hipWidth": 25.5
         },
         {
           "label": "110",
@@ -199922,11 +200408,15 @@
             "label": "110(110)",
             "가슴둘레": 61,
             "소매길이": 34.9,
-            "허리둘레": 34
+            "허리둘레": 34,
+            "어깨너비": 25,
+            "엉덩이둘레": 55
           },
           "chestWidth": 30.5,
           "sleeveLength": 34.9,
-          "waistWidth": 17
+          "waistWidth": 17,
+          "shoulderWidth": 25,
+          "hipWidth": 27.5
         }
       ]
     },
@@ -199968,7 +200458,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -199976,50 +200467,70 @@
           "raw": {
             "label": "80(80)",
             "가슴둘레": 65,
-            "허리둘레": 40
+            "허리둘레": 40,
+            "어깨너비": 30.1,
+            "엉덩이둘레": 62
           },
           "chestWidth": 32.5,
-          "waistWidth": 20
+          "waistWidth": 20,
+          "shoulderWidth": 30.1,
+          "hipWidth": 31
         },
         {
           "label": "90",
           "raw": {
             "label": "90(90)",
             "가슴둘레": 68,
-            "허리둘레": 42
+            "허리둘레": 42,
+            "어깨너비": 31.5,
+            "엉덩이둘레": 65
           },
           "chestWidth": 34,
-          "waistWidth": 21
+          "waistWidth": 21,
+          "shoulderWidth": 31.5,
+          "hipWidth": 32.5
         },
         {
           "label": "100",
           "raw": {
             "label": "100(100)",
             "가슴둘레": 72,
-            "허리둘레": 44
+            "허리둘레": 44,
+            "어깨너비": 33.3,
+            "엉덩이둘레": 69
           },
           "chestWidth": 36,
-          "waistWidth": 22
+          "waistWidth": 22,
+          "shoulderWidth": 33.3,
+          "hipWidth": 34.5
         },
         {
           "label": "110",
           "raw": {
             "label": "110(110)",
             "가슴둘레": 76,
-            "허리둘레": 46
+            "허리둘레": 46,
+            "어깨너비": 35.1,
+            "엉덩이둘레": 73
           },
           "chestWidth": 38,
-          "waistWidth": 23
+          "waistWidth": 23,
+          "shoulderWidth": 35.1,
+          "hipWidth": 36.5
         },
         {
           "label": "120",
           "raw": {
             "label": "120(120)",
             "가슴둘레": 80,
-            "허리둘레": 48
+            "허리둘레": 48,
+            "어깨너비": 36.9,
+            "엉덩이둘레": 77
           },
           "chestWidth": 40,
-          "waistWidth": 24
+          "waistWidth": 24,
+          "shoulderWidth": 36.9,
+          "hipWidth": 38.5
         }
       ]
     },
@@ -200063,7 +200574,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -200071,50 +200583,70 @@
           "raw": {
             "label": "80(80)",
             "가슴둘레": 65,
-            "허리둘레": 40
+            "허리둘레": 40,
+            "어깨너비": 30.6,
+            "엉덩이둘레": 62
           },
           "chestWidth": 32.5,
-          "waistWidth": 20
+          "waistWidth": 20,
+          "shoulderWidth": 30.6,
+          "hipWidth": 31
         },
         {
           "label": "90",
           "raw": {
             "label": "90(90)",
             "가슴둘레": 68,
-            "허리둘레": 42
+            "허리둘레": 42,
+            "어깨너비": 32,
+            "엉덩이둘레": 65
           },
           "chestWidth": 34,
-          "waistWidth": 21
+          "waistWidth": 21,
+          "shoulderWidth": 32,
+          "hipWidth": 32.5
         },
         {
           "label": "100",
           "raw": {
             "label": "100(100)",
             "가슴둘레": 72,
-            "허리둘레": 44
+            "허리둘레": 44,
+            "어깨너비": 33.8,
+            "엉덩이둘레": 69
           },
           "chestWidth": 36,
-          "waistWidth": 22
+          "waistWidth": 22,
+          "shoulderWidth": 33.8,
+          "hipWidth": 34.5
         },
         {
           "label": "110",
           "raw": {
             "label": "110(110)",
             "가슴둘레": 76,
-            "허리둘레": 46
+            "허리둘레": 46,
+            "어깨너비": 35.6,
+            "엉덩이둘레": 73
           },
           "chestWidth": 38,
-          "waistWidth": 23
+          "waistWidth": 23,
+          "shoulderWidth": 35.6,
+          "hipWidth": 36.5
         },
         {
           "label": "120",
           "raw": {
             "label": "120(120)",
             "가슴둘레": 80,
-            "허리둘레": 48
+            "허리둘레": 48,
+            "어깨너비": 37.4,
+            "엉덩이둘레": 77
           },
           "chestWidth": 40,
-          "waistWidth": 24
+          "waistWidth": 24,
+          "shoulderWidth": 37.4,
+          "hipWidth": 38.5
         }
       ]
     },
@@ -200157,7 +200689,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -200166,11 +200699,13 @@
             "label": "80(80)",
             "가슴둘레": 62,
             "소매길이": 23.2,
-            "총기장": 33.5
+            "총기장": 33.5,
+            "어깨너비": 29.6
           },
           "chestWidth": 31,
           "sleeveLength": 23.2,
-          "topLength": 33.5
+          "topLength": 33.5,
+          "shoulderWidth": 29.6
         },
         {
           "label": "90",
@@ -200178,11 +200713,13 @@
             "label": "90(90)",
             "가슴둘레": 65,
             "소매길이": 26,
-            "총기장": 36
+            "총기장": 36,
+            "어깨너비": 31
           },
           "chestWidth": 32.5,
           "sleeveLength": 26,
-          "topLength": 36
+          "topLength": 36,
+          "shoulderWidth": 31
         },
         {
           "label": "100",
@@ -200190,11 +200727,13 @@
             "label": "100(100)",
             "가슴둘레": 69,
             "소매길이": 29.6,
-            "총기장": 39.5
+            "총기장": 39.5,
+            "어깨너비": 32.8
           },
           "chestWidth": 34.5,
           "sleeveLength": 29.6,
-          "topLength": 39.5
+          "topLength": 39.5,
+          "shoulderWidth": 32.8
         },
         {
           "label": "110",
@@ -200202,11 +200741,13 @@
             "label": "110(110)",
             "가슴둘레": 73,
             "소매길이": 33.2,
-            "총기장": 43
+            "총기장": 43,
+            "어깨너비": 34.6
           },
           "chestWidth": 36.5,
           "sleeveLength": 33.2,
-          "topLength": 43
+          "topLength": 43,
+          "shoulderWidth": 34.6
         }
       ]
     },
@@ -200254,7 +200795,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -200263,11 +200805,13 @@
             "label": "90(90)",
             "가슴둘레": 67,
             "소매길이": 25,
-            "총기장": 35
+            "총기장": 35,
+            "어깨너비": 31
           },
           "chestWidth": 33.5,
           "sleeveLength": 25,
-          "topLength": 35
+          "topLength": 35,
+          "shoulderWidth": 31
         },
         {
           "label": "100",
@@ -200275,11 +200819,13 @@
             "label": "100(100)",
             "가슴둘레": 71,
             "소매길이": 28.6,
-            "총기장": 38.5
+            "총기장": 38.5,
+            "어깨너비": 32.8
           },
           "chestWidth": 35.5,
           "sleeveLength": 28.6,
-          "topLength": 38.5
+          "topLength": 38.5,
+          "shoulderWidth": 32.8
         },
         {
           "label": "110",
@@ -200287,11 +200833,13 @@
             "label": "110(110)",
             "가슴둘레": 75,
             "소매길이": 32.2,
-            "총기장": 42
+            "총기장": 42,
+            "어깨너비": 34.6
           },
           "chestWidth": 37.5,
           "sleeveLength": 32.2,
-          "topLength": 42
+          "topLength": 42,
+          "shoulderWidth": 34.6
         },
         {
           "label": "120",
@@ -200299,11 +200847,13 @@
             "label": "120(120)",
             "가슴둘레": 79,
             "소매길이": 35.8,
-            "총기장": 45.5
+            "총기장": 45.5,
+            "어깨너비": 36.4
           },
           "chestWidth": 39.5,
           "sleeveLength": 35.8,
-          "topLength": 45.5
+          "topLength": 45.5,
+          "shoulderWidth": 36.4
         }
       ]
     },
@@ -200346,7 +200896,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -200354,30 +200905,42 @@
           "raw": {
             "label": "70(70)",
             "가슴둘레": 46.5,
-            "총기장": 41
+            "총기장": 41,
+            "어깨너비": 19,
+            "엉덩이둘레": 47.5
           },
           "chestWidth": 23.25,
-          "topLength": 41
+          "topLength": 41,
+          "shoulderWidth": 19,
+          "hipWidth": 23.75
         },
         {
           "label": "80",
           "raw": {
             "label": "80(80)",
             "가슴둘레": 49,
-            "총기장": 43
+            "총기장": 43,
+            "어깨너비": 20,
+            "엉덩이둘레": 50
           },
           "chestWidth": 24.5,
-          "topLength": 43
+          "topLength": 43,
+          "shoulderWidth": 20,
+          "hipWidth": 25
         },
         {
           "label": "90",
           "raw": {
             "label": "90(90)",
             "가슴둘레": 51.5,
-            "총기장": 45
+            "총기장": 45,
+            "어깨너비": 21,
+            "엉덩이둘레": 52.5
           },
           "chestWidth": 25.75,
-          "topLength": 45
+          "topLength": 45,
+          "shoulderWidth": 21,
+          "hipWidth": 26.25
         }
       ]
     },
@@ -200419,7 +200982,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -200427,30 +200991,42 @@
           "raw": {
             "label": "80(80)",
             "가슴둘레": 50,
-            "허리둘레": 40
+            "허리둘레": 40,
+            "어깨너비": 20.6,
+            "엉덩이둘레": 47
           },
           "chestWidth": 25,
-          "waistWidth": 20
+          "waistWidth": 20,
+          "shoulderWidth": 20.6,
+          "hipWidth": 23.5
         },
         {
           "label": "90",
           "raw": {
             "label": "90(90)",
             "가슴둘레": 53,
-            "허리둘레": 42
+            "허리둘레": 42,
+            "어깨너비": 21.8,
+            "엉덩이둘레": 50
           },
           "chestWidth": 26.5,
-          "waistWidth": 21
+          "waistWidth": 21,
+          "shoulderWidth": 21.8,
+          "hipWidth": 25
         },
         {
           "label": "100",
           "raw": {
             "label": "100(100)",
             "가슴둘레": 57,
-            "허리둘레": 44
+            "허리둘레": 44,
+            "어깨너비": 23.4,
+            "엉덩이둘레": 54
           },
           "chestWidth": 28.5,
-          "waistWidth": 22
+          "waistWidth": 22,
+          "shoulderWidth": 23.4,
+          "hipWidth": 27
         }
       ]
     },
@@ -200491,7 +201067,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -200499,40 +201076,56 @@
           "raw": {
             "label": "90(90)",
             "허리둘레": 42,
-            "총기장": 42
+            "총기장": 42,
+            "엉덩이둘레": 58,
+            "밑단둘레": 28
           },
           "waistWidth": 21,
-          "pantsLength": 42
+          "pantsLength": 42,
+          "hipWidth": 29,
+          "hemWidth": 14
         },
         {
           "label": "100",
           "raw": {
             "label": "100(100)",
             "허리둘레": 44,
-            "총기장": 49
+            "총기장": 49,
+            "엉덩이둘레": 62,
+            "밑단둘레": 29.4
           },
           "waistWidth": 22,
-          "pantsLength": 49
+          "pantsLength": 49,
+          "hipWidth": 31,
+          "hemWidth": 14.7
         },
         {
           "label": "110",
           "raw": {
             "label": "110(110)",
             "허리둘레": 46,
-            "총기장": 57
+            "총기장": 57,
+            "엉덩이둘레": 66,
+            "밑단둘레": 30.8
           },
           "waistWidth": 23,
-          "pantsLength": 57
+          "pantsLength": 57,
+          "hipWidth": 33,
+          "hemWidth": 15.4
         },
         {
           "label": "120",
           "raw": {
             "label": "120(120)",
             "허리둘레": 48,
-            "총기장": 65
+            "총기장": 65,
+            "엉덩이둘레": 70,
+            "밑단둘레": 32.2
           },
           "waistWidth": 24,
-          "pantsLength": 65
+          "pantsLength": 65,
+          "hipWidth": 35,
+          "hemWidth": 16.1
         }
       ]
     },
@@ -200574,7 +201167,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -200583,11 +201177,13 @@
             "label": "80(80)",
             "가슴둘레": 65,
             "소매길이": 22.2,
-            "총기장": 31.5
+            "총기장": 31.5,
+            "어깨너비": 30.6
           },
           "chestWidth": 32.5,
           "sleeveLength": 22.2,
-          "topLength": 31.5
+          "topLength": 31.5,
+          "shoulderWidth": 30.6
         },
         {
           "label": "90",
@@ -200595,11 +201191,13 @@
             "label": "90(90)",
             "가슴둘레": 68,
             "소매길이": 25,
-            "총기장": 34
+            "총기장": 34,
+            "어깨너비": 32
           },
           "chestWidth": 34,
           "sleeveLength": 25,
-          "topLength": 34
+          "topLength": 34,
+          "shoulderWidth": 32
         },
         {
           "label": "100",
@@ -200607,11 +201205,13 @@
             "label": "100(100)",
             "가슴둘레": 72,
             "소매길이": 28.6,
-            "총기장": 37.5
+            "총기장": 37.5,
+            "어깨너비": 33.8
           },
           "chestWidth": 36,
           "sleeveLength": 28.6,
-          "topLength": 37.5
+          "topLength": 37.5,
+          "shoulderWidth": 33.8
         },
         {
           "label": "110",
@@ -200619,11 +201219,13 @@
             "label": "110(110)",
             "가슴둘레": 76,
             "소매길이": 32.2,
-            "총기장": 41
+            "총기장": 41,
+            "어깨너비": 35.6
           },
           "chestWidth": 38,
           "sleeveLength": 32.2,
-          "topLength": 41
+          "topLength": 41,
+          "shoulderWidth": 35.6
         }
       ]
     },
@@ -200665,7 +201267,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -200673,30 +201276,42 @@
           "raw": {
             "label": "80(80)",
             "가슴둘레": 50,
-            "허리둘레": 40
+            "허리둘레": 40,
+            "어깨너비": 20.6,
+            "엉덩이둘레": 47
           },
           "chestWidth": 25,
-          "waistWidth": 20
+          "waistWidth": 20,
+          "shoulderWidth": 20.6,
+          "hipWidth": 23.5
         },
         {
           "label": "90",
           "raw": {
             "label": "90(90)",
             "가슴둘레": 53,
-            "허리둘레": 42
+            "허리둘레": 42,
+            "어깨너비": 21.8,
+            "엉덩이둘레": 50
           },
           "chestWidth": 26.5,
-          "waistWidth": 21
+          "waistWidth": 21,
+          "shoulderWidth": 21.8,
+          "hipWidth": 25
         },
         {
           "label": "100",
           "raw": {
             "label": "100(100)",
             "가슴둘레": 57,
-            "허리둘레": 44
+            "허리둘레": 44,
+            "어깨너비": 23.4,
+            "엉덩이둘레": 54
           },
           "chestWidth": 28.5,
-          "waistWidth": 22
+          "waistWidth": 22,
+          "shoulderWidth": 23.4,
+          "hipWidth": 27
         }
       ]
     },
@@ -200744,7 +201359,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -200753,11 +201369,13 @@
             "label": "80(80)",
             "가슴둘레": 63,
             "소매길이": 20.7,
-            "총기장": 33
+            "총기장": 33,
+            "어깨너비": 30.6
           },
           "chestWidth": 31.5,
           "sleeveLength": 20.7,
-          "topLength": 33
+          "topLength": 33,
+          "shoulderWidth": 30.6
         },
         {
           "label": "90",
@@ -200765,11 +201383,13 @@
             "label": "90(90)",
             "가슴둘레": 66,
             "소매길이": 23.5,
-            "총기장": 35.5
+            "총기장": 35.5,
+            "어깨너비": 32
           },
           "chestWidth": 33,
           "sleeveLength": 23.5,
-          "topLength": 35.5
+          "topLength": 35.5,
+          "shoulderWidth": 32
         },
         {
           "label": "100",
@@ -200777,11 +201397,13 @@
             "label": "100(100)",
             "가슴둘레": 70,
             "소매길이": 27.1,
-            "총기장": 39
+            "총기장": 39,
+            "어깨너비": 33.8
           },
           "chestWidth": 35,
           "sleeveLength": 27.1,
-          "topLength": 39
+          "topLength": 39,
+          "shoulderWidth": 33.8
         },
         {
           "label": "110",
@@ -200789,11 +201411,13 @@
             "label": "110(110)",
             "가슴둘레": 74,
             "소매길이": 30.7,
-            "총기장": 42.5
+            "총기장": 42.5,
+            "어깨너비": 35.6
           },
           "chestWidth": 37,
           "sleeveLength": 30.7,
-          "topLength": 42.5
+          "topLength": 42.5,
+          "shoulderWidth": 35.6
         }
       ]
     },
@@ -200835,7 +201459,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -200843,40 +201468,48 @@
           "raw": {
             "label": "80(80)",
             "허리둘레": 40,
-            "총기장": 37
+            "총기장": 37,
+            "엉덩이둘레": 50
           },
           "waistWidth": 20,
-          "pantsLength": 37
+          "pantsLength": 37,
+          "hipWidth": 25
         },
         {
           "label": "90",
           "raw": {
             "label": "90(90)",
             "허리둘레": 42,
-            "총기장": 42
+            "총기장": 42,
+            "엉덩이둘레": 53
           },
           "waistWidth": 21,
-          "pantsLength": 42
+          "pantsLength": 42,
+          "hipWidth": 26.5
         },
         {
           "label": "100",
           "raw": {
             "label": "100(100)",
             "허리둘레": 44,
-            "총기장": 49
+            "총기장": 49,
+            "엉덩이둘레": 57
           },
           "waistWidth": 22,
-          "pantsLength": 49
+          "pantsLength": 49,
+          "hipWidth": 28.5
         },
         {
           "label": "110",
           "raw": {
             "label": "110(110)",
             "허리둘레": 46,
-            "총기장": 57
+            "총기장": 57,
+            "엉덩이둘레": 61
           },
           "waistWidth": 23,
-          "pantsLength": 57
+          "pantsLength": 57,
+          "hipWidth": 30.5
         }
       ]
     },
@@ -200918,48 +201551,69 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
           "label": "80",
           "raw": {
             "label": "80(80)",
-            "가슴둘레": 65
+            "가슴둘레": 65,
+            "어깨너비": 30.1,
+            "엉덩이둘레": 62
           },
-          "chestWidth": 32.5
+          "chestWidth": 32.5,
+          "shoulderWidth": 30.1,
+          "hipWidth": 31
         },
         {
           "label": "90",
           "raw": {
             "label": "90(90)",
-            "가슴둘레": 68
+            "가슴둘레": 68,
+            "어깨너비": 31.5,
+            "엉덩이둘레": 65
           },
-          "chestWidth": 34
+          "chestWidth": 34,
+          "shoulderWidth": 31.5,
+          "hipWidth": 32.5
         },
         {
           "label": "100",
           "raw": {
             "label": "100(100)",
-            "가슴둘레": 72
+            "가슴둘레": 72,
+            "어깨너비": 33.3,
+            "엉덩이둘레": 69
           },
-          "chestWidth": 36
+          "chestWidth": 36,
+          "shoulderWidth": 33.3,
+          "hipWidth": 34.5
         },
         {
           "label": "110",
           "raw": {
             "label": "110(110)",
-            "가슴둘레": 76
+            "가슴둘레": 76,
+            "어깨너비": 35.1,
+            "엉덩이둘레": 73
           },
-          "chestWidth": 38
+          "chestWidth": 38,
+          "shoulderWidth": 35.1,
+          "hipWidth": 36.5
         },
         {
           "label": "120",
           "raw": {
             "label": "120(120)",
-            "가슴둘레": 80
+            "가슴둘레": 80,
+            "어깨너비": 36.9,
+            "엉덩이둘레": 77
           },
-          "chestWidth": 40
+          "chestWidth": 40,
+          "shoulderWidth": 36.9,
+          "hipWidth": 38.5
         }
       ]
     },
@@ -201001,7 +201655,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -201009,40 +201664,56 @@
           "raw": {
             "label": "80(80)",
             "허리둘레": 40,
-            "총기장": 36.5
+            "총기장": 36.5,
+            "엉덩이둘레": 61,
+            "밑단둘레": 23.8
           },
           "waistWidth": 20,
-          "pantsLength": 36.5
+          "pantsLength": 36.5,
+          "hipWidth": 30.5,
+          "hemWidth": 11.9
         },
         {
           "label": "90",
           "raw": {
             "label": "90(90)",
             "허리둘레": 42,
-            "총기장": 41
+            "총기장": 41,
+            "엉덩이둘레": 64,
+            "밑단둘레": 25
           },
           "waistWidth": 21,
-          "pantsLength": 41
+          "pantsLength": 41,
+          "hipWidth": 32,
+          "hemWidth": 12.5
         },
         {
           "label": "100",
           "raw": {
             "label": "100(100)",
             "허리둘레": 44,
-            "총기장": 47.5
+            "총기장": 47.5,
+            "엉덩이둘레": 68,
+            "밑단둘레": 26.4
           },
           "waistWidth": 22,
-          "pantsLength": 47.5
+          "pantsLength": 47.5,
+          "hipWidth": 34,
+          "hemWidth": 13.2
         },
         {
           "label": "110",
           "raw": {
             "label": "110(110)",
             "허리둘레": 46,
-            "총기장": 54
+            "총기장": 54,
+            "엉덩이둘레": 72,
+            "밑단둘레": 27.8
           },
           "waistWidth": 23,
-          "pantsLength": 54
+          "pantsLength": 54,
+          "hipWidth": 36,
+          "hemWidth": 13.9
         }
       ]
     },
@@ -201084,7 +201755,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -201092,40 +201764,48 @@
           "raw": {
             "label": "90(90)",
             "허리둘레": 42,
-            "총기장": 44
+            "총기장": 44,
+            "엉덩이둘레": 68
           },
           "waistWidth": 21,
-          "pantsLength": 44
+          "pantsLength": 44,
+          "hipWidth": 34
         },
         {
           "label": "100",
           "raw": {
             "label": "100(100)",
             "허리둘레": 44,
-            "총기장": 51
+            "총기장": 51,
+            "엉덩이둘레": 72
           },
           "waistWidth": 22,
-          "pantsLength": 51
+          "pantsLength": 51,
+          "hipWidth": 36
         },
         {
           "label": "110",
           "raw": {
             "label": "110(110)",
             "허리둘레": 46,
-            "총기장": 59
+            "총기장": 59,
+            "엉덩이둘레": 76
           },
           "waistWidth": 23,
-          "pantsLength": 59
+          "pantsLength": 59,
+          "hipWidth": 38
         },
         {
           "label": "120",
           "raw": {
             "label": "120(120)",
             "허리둘레": 48,
-            "총기장": 67
+            "총기장": 67,
+            "엉덩이둘레": 80
           },
           "waistWidth": 24,
-          "pantsLength": 67
+          "pantsLength": 67,
+          "hipWidth": 40
         }
       ]
     },
@@ -201167,7 +201847,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -201175,40 +201856,48 @@
           "raw": {
             "label": "80(80)",
             "허리둘레": 39,
-            "총기장": 37
+            "총기장": 37,
+            "엉덩이둘레": 47
           },
           "waistWidth": 19.5,
-          "pantsLength": 37
+          "pantsLength": 37,
+          "hipWidth": 23.5
         },
         {
           "label": "90",
           "raw": {
             "label": "90(90)",
             "허리둘레": 41,
-            "총기장": 42
+            "총기장": 42,
+            "엉덩이둘레": 50
           },
           "waistWidth": 20.5,
-          "pantsLength": 42
+          "pantsLength": 42,
+          "hipWidth": 25
         },
         {
           "label": "100",
           "raw": {
             "label": "100(100)",
             "허리둘레": 43,
-            "총기장": 49
+            "총기장": 49,
+            "엉덩이둘레": 53
           },
           "waistWidth": 21.5,
-          "pantsLength": 49
+          "pantsLength": 49,
+          "hipWidth": 26.5
         },
         {
           "label": "110",
           "raw": {
             "label": "110(110)",
             "허리둘레": 45,
-            "총기장": 56
+            "총기장": 56,
+            "엉덩이둘레": 56
           },
           "waistWidth": 22.5,
-          "pantsLength": 56
+          "pantsLength": 56,
+          "hipWidth": 28
         }
       ]
     },
@@ -201250,7 +201939,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -201259,11 +201949,15 @@
             "label": "70(70)",
             "가슴둘레": 46.5,
             "소매길이": 24,
-            "허리둘레": 37
+            "허리둘레": 37,
+            "어깨너비": 20,
+            "엉덩이둘레": 47.5
           },
           "chestWidth": 23.25,
           "sleeveLength": 24,
-          "waistWidth": 18.5
+          "waistWidth": 18.5,
+          "shoulderWidth": 20,
+          "hipWidth": 23.75
         },
         {
           "label": "80",
@@ -201271,11 +201965,15 @@
             "label": "80(80)",
             "가슴둘레": 49,
             "소매길이": 26.5,
-            "허리둘레": 39
+            "허리둘레": 39,
+            "어깨너비": 21,
+            "엉덩이둘레": 48.5
           },
           "chestWidth": 24.5,
           "sleeveLength": 26.5,
-          "waistWidth": 19.5
+          "waistWidth": 19.5,
+          "shoulderWidth": 21,
+          "hipWidth": 24.25
         },
         {
           "label": "90",
@@ -201283,11 +201981,15 @@
             "label": "90(90)",
             "가슴둘레": 51.5,
             "소매길이": 29,
-            "허리둘레": 41
+            "허리둘레": 41,
+            "어깨너비": 22,
+            "엉덩이둘레": 52.5
           },
           "chestWidth": 25.75,
           "sleeveLength": 29,
-          "waistWidth": 20.5
+          "waistWidth": 20.5,
+          "shoulderWidth": 22,
+          "hipWidth": 26.25
         }
       ]
     },
@@ -201329,7 +202031,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -201337,30 +202040,36 @@
           "raw": {
             "label": "90(90)",
             "가슴둘레": 70,
-            "총기장": 35
+            "총기장": 35,
+            "어깨너비": 34
           },
           "chestWidth": 35,
-          "topLength": 35
+          "topLength": 35,
+          "shoulderWidth": 34
         },
         {
           "label": "100",
           "raw": {
             "label": "100(100)",
             "가슴둘레": 74,
-            "총기장": 38.5
+            "총기장": 38.5,
+            "어깨너비": 35.8
           },
           "chestWidth": 37,
-          "topLength": 38.5
+          "topLength": 38.5,
+          "shoulderWidth": 35.8
         },
         {
           "label": "110",
           "raw": {
             "label": "110(110)",
             "가슴둘레": 78,
-            "총기장": 42
+            "총기장": 42,
+            "어깨너비": 37.6
           },
           "chestWidth": 39,
-          "topLength": 42
+          "topLength": 42,
+          "shoulderWidth": 37.6
         }
       ]
     },
@@ -201402,7 +202111,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -201411,11 +202121,13 @@
             "label": "90(90)",
             "가슴둘레": 68,
             "소매길이": 26,
-            "총기장": 34
+            "총기장": 34,
+            "어깨너비": 31
           },
           "chestWidth": 34,
           "sleeveLength": 26,
-          "topLength": 34
+          "topLength": 34,
+          "shoulderWidth": 31
         },
         {
           "label": "100",
@@ -201423,11 +202135,13 @@
             "label": "100(100)",
             "가슴둘레": 72,
             "소매길이": 29.6,
-            "총기장": 37.5
+            "총기장": 37.5,
+            "어깨너비": 32.8
           },
           "chestWidth": 36,
           "sleeveLength": 29.6,
-          "topLength": 37.5
+          "topLength": 37.5,
+          "shoulderWidth": 32.8
         },
         {
           "label": "110",
@@ -201435,11 +202149,13 @@
             "label": "110(110)",
             "가슴둘레": 76,
             "소매길이": 33.2,
-            "총기장": 41
+            "총기장": 41,
+            "어깨너비": 34.6
           },
           "chestWidth": 38,
           "sleeveLength": 33.2,
-          "topLength": 41
+          "topLength": 41,
+          "shoulderWidth": 34.6
         },
         {
           "label": "120",
@@ -201447,11 +202163,13 @@
             "label": "120(120)",
             "가슴둘레": 80,
             "소매길이": 36.8,
-            "총기장": 44.5
+            "총기장": 44.5,
+            "어깨너비": 36.4
           },
           "chestWidth": 40,
           "sleeveLength": 36.8,
-          "topLength": 44.5
+          "topLength": 44.5,
+          "shoulderWidth": 36.4
         }
       ]
     },
@@ -201493,7 +202211,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -201501,40 +202220,48 @@
           "raw": {
             "label": "80(80)",
             "가슴둘레": 65,
-            "총기장": 39.5
+            "총기장": 39.5,
+            "어깨너비": 28.8
           },
           "chestWidth": 32.5,
-          "topLength": 39.5
+          "topLength": 39.5,
+          "shoulderWidth": 28.8
         },
         {
           "label": "90",
           "raw": {
             "label": "90(90)",
             "가슴둘레": 68,
-            "총기장": 42.5
+            "총기장": 42.5,
+            "어깨너비": 30
           },
           "chestWidth": 34,
-          "topLength": 42.5
+          "topLength": 42.5,
+          "shoulderWidth": 30
         },
         {
           "label": "100",
           "raw": {
             "label": "100(100)",
             "가슴둘레": 72,
-            "총기장": 48.5
+            "총기장": 48.5,
+            "어깨너비": 31.8
           },
           "chestWidth": 36,
-          "topLength": 48.5
+          "topLength": 48.5,
+          "shoulderWidth": 31.8
         },
         {
           "label": "110",
           "raw": {
             "label": "110(110)",
             "가슴둘레": 76,
-            "총기장": 54.5
+            "총기장": 54.5,
+            "어깨너비": 33.6
           },
           "chestWidth": 38,
-          "topLength": 54.5
+          "topLength": 54.5,
+          "shoulderWidth": 33.6
         }
       ]
     },
@@ -201575,7 +202302,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -201583,30 +202311,42 @@
           "raw": {
             "label": "80(80)",
             "허리둘레": 40,
-            "총기장": 37
+            "총기장": 37,
+            "엉덩이둘레": 46,
+            "밑단둘레": 15.5
           },
           "waistWidth": 20,
-          "pantsLength": 37
+          "pantsLength": 37,
+          "hipWidth": 23,
+          "hemWidth": 7.75
         },
         {
           "label": "90",
           "raw": {
             "label": "90(90)",
             "허리둘레": 42,
-            "총기장": 42
+            "총기장": 42,
+            "엉덩이둘레": 49,
+            "밑단둘레": 16
           },
           "waistWidth": 21,
-          "pantsLength": 42
+          "pantsLength": 42,
+          "hipWidth": 24.5,
+          "hemWidth": 8
         },
         {
           "label": "100",
           "raw": {
             "label": "100(100)",
             "허리둘레": 44,
-            "총기장": 49
+            "총기장": 49,
+            "엉덩이둘레": 53,
+            "밑단둘레": 16.8
           },
           "waistWidth": 22,
-          "pantsLength": 49
+          "pantsLength": 49,
+          "hipWidth": 26.5,
+          "hemWidth": 8.4
         }
       ]
     },
@@ -201648,7 +202388,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -201657,11 +202398,15 @@
             "label": "70(70)",
             "가슴둘레": 46.5,
             "소매길이": 24,
-            "총기장": 40
+            "총기장": 40,
+            "어깨너비": 20,
+            "엉덩이둘레": 47.5
           },
           "chestWidth": 23.25,
           "sleeveLength": 24,
-          "topLength": 40
+          "topLength": 40,
+          "shoulderWidth": 20,
+          "hipWidth": 23.75
         },
         {
           "label": "80",
@@ -201669,11 +202414,15 @@
             "label": "80(80)",
             "가슴둘레": 49,
             "소매길이": 26.5,
-            "총기장": 42
+            "총기장": 42,
+            "어깨너비": 21,
+            "엉덩이둘레": 50
           },
           "chestWidth": 24.5,
           "sleeveLength": 26.5,
-          "topLength": 42
+          "topLength": 42,
+          "shoulderWidth": 21,
+          "hipWidth": 25
         },
         {
           "label": "90",
@@ -201681,11 +202430,15 @@
             "label": "90(90)",
             "가슴둘레": 51.5,
             "소매길이": 29,
-            "총기장": 44
+            "총기장": 44,
+            "어깨너비": 22,
+            "엉덩이둘레": 52.5
           },
           "chestWidth": 25.75,
           "sleeveLength": 29,
-          "topLength": 44
+          "topLength": 44,
+          "shoulderWidth": 22,
+          "hipWidth": 26.25
         }
       ]
     },
@@ -201728,7 +202481,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -201736,30 +202490,42 @@
           "raw": {
             "label": "70(70)",
             "가슴둘레": 46.5,
-            "총기장": 41
+            "총기장": 41,
+            "어깨너비": 19,
+            "엉덩이둘레": 47.5
           },
           "chestWidth": 23.25,
-          "topLength": 41
+          "topLength": 41,
+          "shoulderWidth": 19,
+          "hipWidth": 23.75
         },
         {
           "label": "80",
           "raw": {
             "label": "80(80)",
             "가슴둘레": 49,
-            "총기장": 43
+            "총기장": 43,
+            "어깨너비": 20,
+            "엉덩이둘레": 50
           },
           "chestWidth": 24.5,
-          "topLength": 43
+          "topLength": 43,
+          "shoulderWidth": 20,
+          "hipWidth": 25
         },
         {
           "label": "90",
           "raw": {
             "label": "90(90)",
             "가슴둘레": 51.5,
-            "총기장": 45
+            "총기장": 45,
+            "어깨너비": 21,
+            "엉덩이둘레": 52.5
           },
           "chestWidth": 25.75,
-          "topLength": 45
+          "topLength": 45,
+          "shoulderWidth": 21,
+          "hipWidth": 26.25
         }
       ]
     },
@@ -201801,7 +202567,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -201810,11 +202577,13 @@
             "label": "90(90)",
             "가슴둘레": 63,
             "소매길이": 26.5,
-            "총기장": 33
+            "총기장": 33,
+            "어깨너비": 29
           },
           "chestWidth": 31.5,
           "sleeveLength": 26.5,
-          "topLength": 33
+          "topLength": 33,
+          "shoulderWidth": 29
         },
         {
           "label": "100",
@@ -201822,11 +202591,13 @@
             "label": "100(100)",
             "가슴둘레": 67,
             "소매길이": 30.1,
-            "총기장": 36.5
+            "총기장": 36.5,
+            "어깨너비": 30.8
           },
           "chestWidth": 33.5,
           "sleeveLength": 30.1,
-          "topLength": 36.5
+          "topLength": 36.5,
+          "shoulderWidth": 30.8
         },
         {
           "label": "110",
@@ -201834,11 +202605,13 @@
             "label": "110(110)",
             "가슴둘레": 71,
             "소매길이": 33.7,
-            "총기장": 40
+            "총기장": 40,
+            "어깨너비": 32.6
           },
           "chestWidth": 35.5,
           "sleeveLength": 33.7,
-          "topLength": 40
+          "topLength": 40,
+          "shoulderWidth": 32.6
         }
       ]
     },
@@ -201880,7 +202653,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -201889,11 +202663,13 @@
             "label": "90(90)",
             "가슴둘레": 65,
             "소매길이": 26,
-            "총기장": 35
+            "총기장": 35,
+            "어깨너비": 30
           },
           "chestWidth": 32.5,
           "sleeveLength": 26,
-          "topLength": 35
+          "topLength": 35,
+          "shoulderWidth": 30
         },
         {
           "label": "100",
@@ -201901,11 +202677,13 @@
             "label": "100(100)",
             "가슴둘레": 69,
             "소매길이": 29.6,
-            "총기장": 38.5
+            "총기장": 38.5,
+            "어깨너비": 31.8
           },
           "chestWidth": 34.5,
           "sleeveLength": 29.6,
-          "topLength": 38.5
+          "topLength": 38.5,
+          "shoulderWidth": 31.8
         },
         {
           "label": "110",
@@ -201913,11 +202691,13 @@
             "label": "110(110)",
             "가슴둘레": 73,
             "소매길이": 33.2,
-            "총기장": 42
+            "총기장": 42,
+            "어깨너비": 33.6
           },
           "chestWidth": 36.5,
           "sleeveLength": 33.2,
-          "topLength": 42
+          "topLength": 42,
+          "shoulderWidth": 33.6
         }
       ]
     },
@@ -201960,7 +202740,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -201969,11 +202750,13 @@
             "label": "90(90)",
             "가슴둘레": 72,
             "소매길이": 24,
-            "총기장": 34.5
+            "총기장": 34.5,
+            "어깨너비": 34
           },
           "chestWidth": 36,
           "sleeveLength": 24,
-          "topLength": 34.5
+          "topLength": 34.5,
+          "shoulderWidth": 34
         },
         {
           "label": "100",
@@ -201981,11 +202764,13 @@
             "label": "100(100)",
             "가슴둘레": 76,
             "소매길이": 27.6,
-            "총기장": 38
+            "총기장": 38,
+            "어깨너비": 35.8
           },
           "chestWidth": 38,
           "sleeveLength": 27.6,
-          "topLength": 38
+          "topLength": 38,
+          "shoulderWidth": 35.8
         },
         {
           "label": "110",
@@ -201993,11 +202778,13 @@
             "label": "110(110)",
             "가슴둘레": 80,
             "소매길이": 31.2,
-            "총기장": 41.5
+            "총기장": 41.5,
+            "어깨너비": 37.6
           },
           "chestWidth": 40,
           "sleeveLength": 31.2,
-          "topLength": 41.5
+          "topLength": 41.5,
+          "shoulderWidth": 37.6
         }
       ]
     },
@@ -202039,7 +202826,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -202047,30 +202835,42 @@
           "raw": {
             "label": "80(80)",
             "허리둘레": 40,
-            "총기장": 36.5
+            "총기장": 36.5,
+            "엉덩이둘레": 61,
+            "밑단둘레": 23.8
           },
           "waistWidth": 20,
-          "pantsLength": 36.5
+          "pantsLength": 36.5,
+          "hipWidth": 30.5,
+          "hemWidth": 11.9
         },
         {
           "label": "90",
           "raw": {
             "label": "90(90)",
             "허리둘레": 42,
-            "총기장": 41
+            "총기장": 41,
+            "엉덩이둘레": 64,
+            "밑단둘레": 25
           },
           "waistWidth": 21,
-          "pantsLength": 41
+          "pantsLength": 41,
+          "hipWidth": 32,
+          "hemWidth": 12.5
         },
         {
           "label": "100",
           "raw": {
             "label": "100(100)",
             "허리둘레": 44,
-            "총기장": 47.5
+            "총기장": 47.5,
+            "엉덩이둘레": 68,
+            "밑단둘레": 26.4
           },
           "waistWidth": 22,
-          "pantsLength": 47.5
+          "pantsLength": 47.5,
+          "hipWidth": 34,
+          "hemWidth": 13.2
         }
       ]
     },
@@ -202112,7 +202912,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -202121,11 +202922,13 @@
             "label": "90(90)",
             "가슴둘레": 68,
             "소매길이": 25.5,
-            "총기장": 45
+            "총기장": 45,
+            "어깨너비": 31.5
           },
           "chestWidth": 34,
           "sleeveLength": 25.5,
-          "topLength": 45
+          "topLength": 45,
+          "shoulderWidth": 31.5
         },
         {
           "label": "100",
@@ -202133,11 +202936,13 @@
             "label": "100(100)",
             "가슴둘레": 72,
             "소매길이": 29.1,
-            "총기장": 51
+            "총기장": 51,
+            "어깨너비": 33.3
           },
           "chestWidth": 36,
           "sleeveLength": 29.1,
-          "topLength": 51
+          "topLength": 51,
+          "shoulderWidth": 33.3
         },
         {
           "label": "110",
@@ -202145,11 +202950,13 @@
             "label": "110(110)",
             "가슴둘레": 76,
             "소매길이": 32.7,
-            "총기장": 57
+            "총기장": 57,
+            "어깨너비": 35.1
           },
           "chestWidth": 38,
           "sleeveLength": 32.7,
-          "topLength": 57
+          "topLength": 57,
+          "shoulderWidth": 35.1
         },
         {
           "label": "120",
@@ -202157,11 +202964,13 @@
             "label": "120(120)",
             "가슴둘레": 80,
             "소매길이": 36.3,
-            "총기장": 63
+            "총기장": 63,
+            "어깨너비": 36.9
           },
           "chestWidth": 40,
           "sleeveLength": 36.3,
-          "topLength": 63
+          "topLength": 63,
+          "shoulderWidth": 36.9
         }
       ]
     },
@@ -202209,7 +203018,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -202218,11 +203028,15 @@
             "label": "110(110)",
             "가슴둘레": 72,
             "소매길이": 17.2,
-            "허리둘레": 48
+            "허리둘레": 48,
+            "어깨너비": 33.6,
+            "엉덩이둘레": 76
           },
           "chestWidth": 36,
           "sleeveLength": 17.2,
-          "waistWidth": 24
+          "waistWidth": 24,
+          "shoulderWidth": 33.6,
+          "hipWidth": 38
         },
         {
           "label": "120",
@@ -202230,11 +203044,15 @@
             "label": "120(120)",
             "가슴둘레": 77,
             "소매길이": 18.6,
-            "허리둘레": 50
+            "허리둘레": 50,
+            "어깨너비": 35.8,
+            "엉덩이둘레": 81
           },
           "chestWidth": 38.5,
           "sleeveLength": 18.6,
-          "waistWidth": 25
+          "waistWidth": 25,
+          "shoulderWidth": 35.8,
+          "hipWidth": 40.5
         },
         {
           "label": "130",
@@ -202242,11 +203060,15 @@
             "label": "130(130)",
             "가슴둘레": 82,
             "소매길이": 20,
-            "허리둘레": 52
+            "허리둘레": 52,
+            "어깨너비": 38,
+            "엉덩이둘레": 86
           },
           "chestWidth": 41,
           "sleeveLength": 20,
-          "waistWidth": 26
+          "waistWidth": 26,
+          "shoulderWidth": 38,
+          "hipWidth": 43
         },
         {
           "label": "140",
@@ -202254,11 +203076,15 @@
             "label": "140(140)",
             "가슴둘레": 87,
             "소매길이": 21.4,
-            "허리둘레": 55
+            "허리둘레": 55,
+            "어깨너비": 40.2,
+            "엉덩이둘레": 91
           },
           "chestWidth": 43.5,
           "sleeveLength": 21.4,
-          "waistWidth": 27.5
+          "waistWidth": 27.5,
+          "shoulderWidth": 40.2,
+          "hipWidth": 45.5
         },
         {
           "label": "150",
@@ -202266,11 +203092,15 @@
             "label": "150(150)",
             "가슴둘레": 92,
             "소매길이": 22.8,
-            "허리둘레": 58
+            "허리둘레": 58,
+            "어깨너비": 42.4,
+            "엉덩이둘레": 96
           },
           "chestWidth": 46,
           "sleeveLength": 22.8,
-          "waistWidth": 29
+          "waistWidth": 29,
+          "shoulderWidth": 42.4,
+          "hipWidth": 48
         },
         {
           "label": "160",
@@ -202278,11 +203108,15 @@
             "label": "160(160)",
             "가슴둘레": 97,
             "소매길이": 24.2,
-            "허리둘레": 61
+            "허리둘레": 61,
+            "어깨너비": 44.6,
+            "엉덩이둘레": 101
           },
           "chestWidth": 48.5,
           "sleeveLength": 24.2,
-          "waistWidth": 30.5
+          "waistWidth": 30.5,
+          "shoulderWidth": 44.6,
+          "hipWidth": 50.5
         },
         {
           "label": "170",
@@ -202290,11 +203124,15 @@
             "label": "170(170)",
             "가슴둘레": 104,
             "소매길이": 25.2,
-            "허리둘레": 65
+            "허리둘레": 65,
+            "어깨너비": 47.6,
+            "엉덩이둘레": 108
           },
           "chestWidth": 52,
           "sleeveLength": 25.2,
-          "waistWidth": 32.5
+          "waistWidth": 32.5,
+          "shoulderWidth": 47.6,
+          "hipWidth": 54
         }
       ]
     },
@@ -202336,7 +203174,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -202345,11 +203184,15 @@
             "label": "80(80)",
             "가슴둘레": 50,
             "소매길이": 25.6,
-            "허리둘레": 30
+            "허리둘레": 30,
+            "어깨너비": 20.8,
+            "엉덩이둘레": 44
           },
           "chestWidth": 25,
           "sleeveLength": 25.6,
-          "waistWidth": 15
+          "waistWidth": 15,
+          "shoulderWidth": 20.8,
+          "hipWidth": 22
         },
         {
           "label": "90",
@@ -202357,11 +203200,15 @@
             "label": "90(90)",
             "가슴둘레": 53,
             "소매길이": 28,
-            "허리둘레": 32
+            "허리둘레": 32,
+            "어깨너비": 22,
+            "엉덩이둘레": 47
           },
           "chestWidth": 26.5,
           "sleeveLength": 28,
-          "waistWidth": 16
+          "waistWidth": 16,
+          "shoulderWidth": 22,
+          "hipWidth": 23.5
         },
         {
           "label": "100",
@@ -202369,11 +203216,15 @@
             "label": "100(100)",
             "가슴둘레": 56,
             "소매길이": 31.4,
-            "허리둘레": 34
+            "허리둘레": 34,
+            "어깨너비": 23.2,
+            "엉덩이둘레": 50
           },
           "chestWidth": 28,
           "sleeveLength": 31.4,
-          "waistWidth": 17
+          "waistWidth": 17,
+          "shoulderWidth": 23.2,
+          "hipWidth": 25
         },
         {
           "label": "110",
@@ -202381,11 +203232,15 @@
             "label": "110(110)",
             "가슴둘레": 59,
             "소매길이": 34.8,
-            "허리둘레": 36
+            "허리둘레": 36,
+            "어깨너비": 24.4,
+            "엉덩이둘레": 53
           },
           "chestWidth": 29.5,
           "sleeveLength": 34.8,
-          "waistWidth": 18
+          "waistWidth": 18,
+          "shoulderWidth": 24.4,
+          "hipWidth": 26.5
         }
       ]
     },
@@ -202433,7 +203288,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -202441,30 +203297,42 @@
           "raw": {
             "label": "80(80)",
             "가슴둘레": 57,
-            "허리둘레": 40
+            "허리둘레": 40,
+            "어깨너비": 24.4,
+            "엉덩이둘레": 59
           },
           "chestWidth": 28.5,
-          "waistWidth": 20
+          "waistWidth": 20,
+          "shoulderWidth": 24.4,
+          "hipWidth": 29.5
         },
         {
           "label": "90",
           "raw": {
             "label": "90(90)",
             "가슴둘레": 60,
-            "허리둘레": 42
+            "허리둘레": 42,
+            "어깨너비": 25.6,
+            "엉덩이둘레": 62
           },
           "chestWidth": 30,
-          "waistWidth": 21
+          "waistWidth": 21,
+          "shoulderWidth": 25.6,
+          "hipWidth": 31
         },
         {
           "label": "100",
           "raw": {
             "label": "100(100)",
             "가슴둘레": 63,
-            "허리둘레": 44
+            "허리둘레": 44,
+            "어깨너비": 26.8,
+            "엉덩이둘레": 65
           },
           "chestWidth": 31.5,
-          "waistWidth": 22
+          "waistWidth": 22,
+          "shoulderWidth": 26.8,
+          "hipWidth": 32.5
         }
       ]
     },
@@ -202512,7 +203380,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -202521,11 +203390,13 @@
             "label": "80(80)",
             "가슴둘레": 61,
             "소매길이": 24.7,
-            "허리둘레": 40
+            "허리둘레": 40,
+            "엉덩이둘레": 62
           },
           "chestWidth": 30.5,
           "sleeveLength": 24.7,
-          "waistWidth": 20
+          "waistWidth": 20,
+          "hipWidth": 31
         },
         {
           "label": "90",
@@ -202533,11 +203404,13 @@
             "label": "90(90)",
             "가슴둘레": 64,
             "소매길이": 27,
-            "허리둘레": 42
+            "허리둘레": 42,
+            "엉덩이둘레": 65
           },
           "chestWidth": 32,
           "sleeveLength": 27,
-          "waistWidth": 21
+          "waistWidth": 21,
+          "hipWidth": 32.5
         },
         {
           "label": "100",
@@ -202545,11 +203418,13 @@
             "label": "100(100)",
             "가슴둘레": 67,
             "소매길이": 29.8,
-            "허리둘레": 44
+            "허리둘레": 44,
+            "엉덩이둘레": 68
           },
           "chestWidth": 33.5,
           "sleeveLength": 29.8,
-          "waistWidth": 22
+          "waistWidth": 22,
+          "hipWidth": 34
         },
         {
           "label": "110",
@@ -202557,11 +203432,13 @@
             "label": "110(110)",
             "가슴둘레": 70,
             "소매길이": 32.6,
-            "허리둘레": 46
+            "허리둘레": 46,
+            "엉덩이둘레": 71
           },
           "chestWidth": 35,
           "sleeveLength": 32.6,
-          "waistWidth": 23
+          "waistWidth": 23,
+          "hipWidth": 35.5
         }
       ]
     },
@@ -202603,7 +203480,8 @@
       "notes": [
         "한국 공식몰 상품별 실측표를 사용하며 둘레 원본을 보존했습니다.",
         "단위 cm · 공식 안내 측정 오차 1~3cm.",
-        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다."
+        "세트에서 상의·하의 총장이 구분되지 않으면 길이를 임의 배정하지 않습니다.",
+        "확인된 어깨너비·엉덩이 등 동일 부위만 비교합니다. 엉덩이 둘레는 2로 나누며, 세트의 총기장 한 항목은 상·하의에 임의 배정하지 않습니다."
       ],
       "sizes": [
         {
@@ -202612,11 +203490,15 @@
             "label": "70(70)",
             "가슴둘레": 48.5,
             "소매길이": 24,
-            "총기장": 55.5
+            "총기장": 55.5,
+            "어깨너비": 19.5,
+            "엉덩이둘레": 59
           },
           "chestWidth": 24.25,
           "sleeveLength": 24,
-          "topLength": 55.5
+          "topLength": 55.5,
+          "shoulderWidth": 19.5,
+          "hipWidth": 29.5
         },
         {
           "label": "80",
@@ -202624,11 +203506,15 @@
             "label": "80(80)",
             "가슴둘레": 51,
             "소매길이": 26.5,
-            "총기장": 59.5
+            "총기장": 59.5,
+            "어깨너비": 20.5,
+            "엉덩이둘레": 62
           },
           "chestWidth": 25.5,
           "sleeveLength": 26.5,
-          "topLength": 59.5
+          "topLength": 59.5,
+          "shoulderWidth": 20.5,
+          "hipWidth": 31
         },
         {
           "label": "90",
@@ -202636,11 +203522,15 @@
             "label": "90(90)",
             "가슴둘레": 53.5,
             "소매길이": 29,
-            "총기장": 64
+            "총기장": 64,
+            "어깨너비": 21.5,
+            "엉덩이둘레": 65
           },
           "chestWidth": 26.75,
           "sleeveLength": 29,
-          "topLength": 64
+          "topLength": 64,
+          "shoulderWidth": 21.5,
+          "hipWidth": 32.5
         }
       ]
     },
@@ -224149,6 +225039,459 @@
         }
       },
       "policy": "동일 종류·동일 측정 부위만 비교. 한쪽에 없는 치수는 미확인. 인심과 총장, 소매 측정 기준 간 환산 없음."
+    },
+    "zaraToptenShared20261123": {
+      "reviewedAt": "2026-11-23",
+      "source": "research/zara-topten-shared-source-20261123.json",
+      "sourceCheckedAt": {
+        "zara": "2026-11-17",
+        "topten": "2026-11-17"
+      },
+      "before": {
+        "zara": {
+          "products": 17,
+          "sizeRows": 96
+        },
+        "topten-kids": {
+          "products": 52,
+          "sizeRows": 202
+        }
+      },
+      "after": {
+        "zara": {
+          "products": 17,
+          "sizeRows": 96
+        },
+        "topten-kids": {
+          "products": 53,
+          "sizeRows": 207
+        }
+      },
+      "updates": [
+        {
+          "productId": "zara-04805614",
+          "brandId": "zara",
+          "name": "포켓 콤비 티셔츠",
+          "addedValues": 8
+        },
+        {
+          "productId": "zara-06303561",
+          "brandId": "zara",
+          "name": "자수 코듀로이 원피스",
+          "addedValues": 8
+        },
+        {
+          "productId": "zara-06224615",
+          "brandId": "zara",
+          "name": "스트라이프 폴로 스웨트셔츠",
+          "addedValues": 8
+        },
+        {
+          "productId": "zara-00187550",
+          "brandId": "zara",
+          "name": "워터프루프 후드 패딩 코트",
+          "addedValues": 6
+        },
+        {
+          "productId": "zara-01255600",
+          "brandId": "zara",
+          "name": "워터프루프 보아 칼라 패딩 재킷",
+          "addedValues": 6
+        },
+        {
+          "productId": "zara-08574507",
+          "brandId": "zara",
+          "name": "코듀로이 벌룬 플랫 프론트 팬츠",
+          "addedValues": 6
+        },
+        {
+          "productId": "zara-03253551",
+          "brandId": "zara",
+          "name": "플레인 터틀넥 티셔츠",
+          "addedValues": 12
+        },
+        {
+          "productId": "zara-05048308",
+          "brandId": "zara",
+          "name": "터틀넥 스트라이프 티셔츠",
+          "addedValues": 12
+        },
+        {
+          "productId": "zara-05048309",
+          "brandId": "zara",
+          "name": "플레인 폴라넥 티셔츠",
+          "addedValues": 12
+        },
+        {
+          "productId": "zara-00722580",
+          "brandId": "zara",
+          "name": "인터록 플레인 티셔츠",
+          "addedValues": 12
+        },
+        {
+          "productId": "zara-05048590",
+          "brandId": "zara",
+          "name": "무지 와플 티셔츠",
+          "addedValues": 12
+        },
+        {
+          "productId": "zara-01887552",
+          "brandId": "zara",
+          "name": "플레인 티셔츠",
+          "addedValues": 12
+        },
+        {
+          "productId": "zara-00722214",
+          "brandId": "zara",
+          "name": "플레인 헨리넥 티셔츠",
+          "addedValues": 12
+        },
+        {
+          "productId": "zara-01880558",
+          "brandId": "zara",
+          "name": "플레인 스웨트셔츠",
+          "addedValues": 12
+        },
+        {
+          "productId": "zara-02878572",
+          "brandId": "zara",
+          "name": "플리스 안감 패치 스웨트셔츠",
+          "addedValues": 12
+        },
+        {
+          "productId": "zara-05871503",
+          "brandId": "zara",
+          "name": "자수 스웨트셔츠",
+          "addedValues": 12
+        },
+        {
+          "productId": "zara-04174974",
+          "brandId": "zara",
+          "name": "플레인 지퍼 스웨트셔츠",
+          "addedValues": 12
+        },
+        {
+          "productId": "topten-kids-MOG4KP3402PKP",
+          "brandId": "topten-kids",
+          "name": "공용)유아 AIRTECH 파카",
+          "addedValues": 3
+        },
+        {
+          "productId": "topten-kids-MOG4IP3401CR",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 플리스 세트",
+          "addedValues": 10
+        },
+        {
+          "productId": "topten-kids-MOG4TU3401IV",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 모크넥 T",
+          "addedValues": 4
+        },
+        {
+          "productId": "topten-kids-MOG3IP3392MGP",
+          "brandId": "topten-kids",
+          "name": "공용) [월레스와그로밋] 유아 더블니트 세트",
+          "addedValues": 10
+        },
+        {
+          "productId": "topten-kids-MOG4IP3401LBL",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 플리스 세트",
+          "addedValues": 10
+        },
+        {
+          "productId": "topten-kids-MOH1PT3401DBR",
+          "brandId": "topten-kids",
+          "name": "유아) 소프트 플리스 조거팬츠",
+          "addedValues": 4
+        },
+        {
+          "productId": "topten-kids-MOG4IP3402BEP",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 플러피플리스 세트",
+          "addedValues": 10
+        },
+        {
+          "productId": "topten-kids-MOG4IP3403MT",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 코듀로이 벨루어 세트",
+          "addedValues": 10
+        },
+        {
+          "productId": "topten-kids-MOG4IP3401RD",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 플리스 세트",
+          "addedValues": 10
+        },
+        {
+          "productId": "topten-kids-MOG4KP3401MT",
+          "brandId": "topten-kids",
+          "name": "공용)유아 AIRTECH 라이트 재킷",
+          "addedValues": 3
+        },
+        {
+          "productId": "topten-kids-MOG4IP3401MGR",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 플리스 세트",
+          "addedValues": 10
+        },
+        {
+          "productId": "topten-kids-MOG5PT3504MGR",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 브러시드 레깅스",
+          "addedValues": 4
+        },
+        {
+          "productId": "topten-kids-MOH5UI3504BLP",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 벨루어 수면 베스트",
+          "addedValues": 2
+        },
+        {
+          "productId": "topten-kids-MOG3TS3301IVP",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 립 T",
+          "addedValues": 4
+        },
+        {
+          "productId": "topten-kids-MOG5UI3306BL",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 [테스] 메쉬 바디수트 (반팔,2PACK)",
+          "addedValues": 6
+        },
+        {
+          "productId": "topten-kids-MOG4TC3401IV",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 쉘파 베스트",
+          "addedValues": 4
+        },
+        {
+          "productId": "topten-kids-MOG3IP3392IVP",
+          "brandId": "topten-kids",
+          "name": "공용) [월레스와그로밋] 유아 더블니트 세트",
+          "addedValues": 10
+        },
+        {
+          "productId": "topten-kids-MOG4VP3401LBE",
+          "brandId": "topten-kids",
+          "name": "공용)유아 AIRTECH 라이트 베스트",
+          "addedValues": 3
+        },
+        {
+          "productId": "topten-kids-MOG4IP3403IV",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 코듀로이 벨루어 세트",
+          "addedValues": 10
+        },
+        {
+          "productId": "topten-kids-MOG4TC3403BEP",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 쉘파 후드집업",
+          "addedValues": 4
+        },
+        {
+          "productId": "topten-kids-MOH5UI3402MT",
+          "brandId": "topten-kids",
+          "name": "유아) ON Air 배앓이방지 세트",
+          "addedValues": 8
+        },
+        {
+          "productId": "topten-kids-MOG3IP3392BL",
+          "brandId": "topten-kids",
+          "name": "공용) [월레스와그로밋] 유아 더블니트 세트",
+          "addedValues": 10
+        },
+        {
+          "productId": "topten-kids-MOG4IP3401MGP",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 플리스 세트",
+          "addedValues": 10
+        },
+        {
+          "productId": "topten-kids-MOG4TC3402IVP",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 플러피 플리스 집업",
+          "addedValues": 4
+        },
+        {
+          "productId": "topten-kids-MOG4EC3401IVP",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 소프트 터치 가디건",
+          "addedValues": 4
+        },
+        {
+          "productId": "topten-kids-MOG5UI3305BL",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 메쉬 바디수트 (반팔,2PACK)",
+          "addedValues": 6
+        },
+        {
+          "productId": "topten-kids-MOH5UI3403MTP",
+          "brandId": "topten-kids",
+          "name": "유아) ON Air 립 세트",
+          "addedValues": 6
+        },
+        {
+          "productId": "topten-kids-MOG4PT3403IV",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 스트레이트 팬츠",
+          "addedValues": 8
+        },
+        {
+          "productId": "topten-kids-MOG2TR3301YEP",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 테리 스웨트셔츠",
+          "addedValues": 4
+        },
+        {
+          "productId": "topten-kids-MOH5UI3403MGR",
+          "brandId": "topten-kids",
+          "name": "유아) ON Air 립 세트",
+          "addedValues": 6
+        },
+        {
+          "productId": "topten-kids-MOG4ER3401RDP",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 소프트 터치 스웨터",
+          "addedValues": 4
+        },
+        {
+          "productId": "topten-kids-MOG5PT3301BL",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 저지 레깅스(9부)",
+          "addedValues": 4
+        },
+        {
+          "productId": "topten-kids-MOG2IP3301IVP",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 [피너츠] 더블니트 셋업",
+          "addedValues": 10
+        },
+        {
+          "productId": "topten-kids-MOG3PT3303DBL",
+          "brandId": "topten-kids",
+          "name": "유아) 데님 라이크 팬츠",
+          "addedValues": 8
+        },
+        {
+          "productId": "topten-kids-MOG3PT3302CH",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 테리 조거팬츠",
+          "addedValues": 4
+        },
+        {
+          "productId": "topten-kids-MOG5PT3503IV",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 립 레깅스",
+          "addedValues": 4
+        },
+        {
+          "productId": "topten-kids-MKG5UI3382MT",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 레깅스 9부 바디수트 셋업",
+          "addedValues": 6
+        },
+        {
+          "productId": "topten-kids-MOG3TC3391DBL",
+          "brandId": "topten-kids",
+          "name": "공용) [월레스와그로밋] 유아 후드집업",
+          "addedValues": 3
+        },
+        {
+          "productId": "topten-kids-MOG3TR3391RDP",
+          "brandId": "topten-kids",
+          "name": "공용) [월레스와그로밋] 유아 럭비셔츠",
+          "addedValues": 4
+        },
+        {
+          "productId": "topten-kids-MOG2OO2301RDP",
+          "brandId": "topten-kids",
+          "name": "여아) 유아 [피너츠] 테리 레이어드 원피스",
+          "addedValues": 4
+        },
+        {
+          "productId": "topten-kids-MOG5PT2301LGR",
+          "brandId": "topten-kids",
+          "name": "여아) 유아 포인텔 9부 레깅스",
+          "addedValues": 6
+        },
+        {
+          "productId": "topten-kids-MKG5UI3381RDP",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 9부 바디수트 (2PACK)",
+          "addedValues": 6
+        },
+        {
+          "productId": "topten-kids-MOG5UI3307BE",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 [테스] 메쉬 바디수트 (민소매,2PACK)",
+          "addedValues": 6
+        },
+        {
+          "productId": "topten-kids-MOG2TS3301RD",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 [피너츠] 모달코튼 티(9부)",
+          "addedValues": 3
+        },
+        {
+          "productId": "topten-kids-MOG2EC3301RDP",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 [피너츠] 스웨터",
+          "addedValues": 3
+        },
+        {
+          "productId": "topten-kids-MOG2TC3301BL",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 [피너츠] 후드집업",
+          "addedValues": 3
+        },
+        {
+          "productId": "topten-kids-MOG2PT3301LBL",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 데님라이크 팬츠",
+          "addedValues": 6
+        },
+        {
+          "productId": "topten-kids-MOG3OO2392IVP",
+          "brandId": "topten-kids",
+          "name": "여아) [월레스와그로밋] 유아 니트 원피스",
+          "addedValues": 4
+        },
+        {
+          "productId": "topten-kids-MKG5UI3901IVP",
+          "brandId": "topten-kids",
+          "name": "공용) 소프트모달 7부 셋업",
+          "addedValues": 14
+        },
+        {
+          "productId": "topten-kids-MKG5UI3303IV",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 배앓이방지 셋업",
+          "addedValues": 8
+        },
+        {
+          "productId": "topten-kids-MKG5UI3301IVP",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 소프트모달 7부 셋업",
+          "addedValues": 6
+        },
+        {
+          "productId": "topten-kids-MKG5UI3302NV",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 소프트모달 9부 셋업",
+          "addedValues": 4
+        },
+        {
+          "productId": "topten-kids-MKG5UI3383MTP",
+          "brandId": "topten-kids",
+          "name": "공용) 유아 커버올 (1PACK)",
+          "addedValues": 6
+        }
+      ],
+      "addedValues": 497,
+      "withheld": [],
+      "policy": "검증된 원문 재사용. 색상·상품 ID 중복 추가 없음. 미확인·비일관적 치수는 추정하지 않음."
     }
   }
 }

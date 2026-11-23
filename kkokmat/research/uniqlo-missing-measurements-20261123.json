@@ -3774,6 +3774,14 @@
         {
           "key": "sleeveLength",
           "label": "소매 길이"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E488826-000/00"
@@ -3810,6 +3818,14 @@
         {
           "key": "sleeveLength",
           "label": "소매 길이"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E488826-000/00"
@@ -3846,6 +3862,14 @@
         {
           "key": "sleeveLength",
           "label": "소매 길이"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E488826-000/00"
@@ -3915,6 +3939,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E489540-000/00"
@@ -3984,6 +4016,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E489540-000/00"
@@ -4053,6 +4093,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E489540-000/00"
@@ -4122,6 +4170,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E489540-000/00"
@@ -4559,6 +4615,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486426-000/00"
@@ -4628,6 +4692,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486426-000/00"
@@ -4697,6 +4769,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486426-000/00"
@@ -4766,6 +4846,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486426-000/00"
@@ -4835,6 +4923,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486428-000/00"
@@ -4904,6 +5000,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486428-000/00"
@@ -4973,6 +5077,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486428-000/00"
@@ -5042,6 +5154,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486428-000/00"
@@ -5111,6 +5231,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E488643-000/00"
@@ -5180,6 +5308,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E488643-000/00"
@@ -5249,6 +5385,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E488643-000/00"
@@ -5318,6 +5462,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E488643-000/00"
@@ -5387,6 +5539,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486427-000/00"
@@ -5456,6 +5616,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486427-000/00"
@@ -5525,6 +5693,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486427-000/00"
@@ -5594,6 +5770,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486427-000/00"
@@ -5629,6 +5813,14 @@
         {
           "key": "backNeckSleeveLength",
           "label": "등 중심~소매 끝"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E481801-000/00"
@@ -5664,6 +5856,14 @@
         {
           "key": "backNeckSleeveLength",
           "label": "등 중심~소매 끝"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E481801-000/00"
@@ -5699,6 +5899,14 @@
         {
           "key": "backNeckSleeveLength",
           "label": "등 중심~소매 끝"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E481801-000/00"
@@ -5734,6 +5942,14 @@
         {
           "key": "backNeckSleeveLength",
           "label": "등 중심~소매 끝"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E481801-000/00"
@@ -5769,6 +5985,14 @@
         {
           "key": "backNeckSleeveLength",
           "label": "등 중심~소매 끝"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E481801-000/00"
@@ -5805,6 +6029,14 @@
         {
           "key": "sleeveLength",
           "label": "소매 길이"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486444-000/00"
@@ -5841,6 +6073,14 @@
         {
           "key": "sleeveLength",
           "label": "소매 길이"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486444-000/00"
@@ -5877,6 +6117,14 @@
         {
           "key": "sleeveLength",
           "label": "소매 길이"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486444-000/00"
@@ -5913,6 +6161,14 @@
         {
           "key": "sleeveLength",
           "label": "소매 길이"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486443-000/00"
@@ -5949,6 +6205,14 @@
         {
           "key": "sleeveLength",
           "label": "소매 길이"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486443-000/00"
@@ -5985,6 +6249,14 @@
         {
           "key": "sleeveLength",
           "label": "소매 길이"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486443-000/00"
@@ -6021,6 +6293,14 @@
         {
           "key": "sleeveLength",
           "label": "소매 길이"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E478434-000/00"
@@ -6057,6 +6337,14 @@
         {
           "key": "sleeveLength",
           "label": "소매 길이"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E478434-000/00"
@@ -6093,6 +6381,14 @@
         {
           "key": "sleeveLength",
           "label": "소매 길이"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E478434-000/00"
@@ -6162,6 +6458,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486448-000/00"
@@ -6231,6 +6535,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486448-000/00"
@@ -6300,6 +6612,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486448-000/00"
@@ -6369,6 +6689,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486448-000/00"
@@ -6438,6 +6766,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486449-000/00"
@@ -6507,6 +6843,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486449-000/00"
@@ -6576,6 +6920,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486449-000/00"
@@ -6645,6 +6997,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486449-000/00"
@@ -6714,6 +7074,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E489541-000/00"
@@ -6783,6 +7151,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E489541-000/00"
@@ -6852,6 +7228,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E489541-000/00"
@@ -6921,6 +7305,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E489541-000/00"
@@ -6990,6 +7382,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486451-000/00"
@@ -7059,6 +7459,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486451-000/00"
@@ -7128,6 +7536,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486451-000/00"
@@ -7197,6 +7613,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486451-000/00"
@@ -7266,6 +7690,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486450-000/00"
@@ -7335,6 +7767,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486450-000/00"
@@ -7404,6 +7844,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486450-000/00"
@@ -7473,6 +7921,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486450-000/00"
@@ -7542,6 +7998,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486452-000/00"
@@ -7611,6 +8075,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486452-000/00"
@@ -7680,6 +8152,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486452-000/00"
@@ -7749,6 +8229,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486452-000/00"
@@ -7818,6 +8306,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486453-000/00"
@@ -7887,6 +8383,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486453-000/00"
@@ -7956,6 +8460,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486453-000/00"
@@ -8025,6 +8537,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486453-000/00"
@@ -8094,6 +8614,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486425-000/00"
@@ -8163,6 +8691,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486425-000/00"
@@ -8232,6 +8768,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486425-000/00"
@@ -8301,6 +8845,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486425-000/00"
@@ -8370,6 +8922,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E488642-000/00"
@@ -8439,6 +8999,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E488642-000/00"
@@ -8508,6 +9076,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E488642-000/00"
@@ -8577,6 +9153,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E488642-000/00"
@@ -8646,6 +9230,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E490412-000/00"
@@ -8715,6 +9307,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E490412-000/00"
@@ -8784,6 +9384,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E490412-000/00"
@@ -8853,6 +9461,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E490412-000/00"
@@ -8922,6 +9538,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E490411-000/00"
@@ -8991,6 +9615,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E490411-000/00"
@@ -9060,6 +9692,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E490411-000/00"
@@ -9129,6 +9769,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E490411-000/00"
@@ -9198,6 +9846,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E490410-000/00"
@@ -9267,6 +9923,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E490410-000/00"
@@ -9336,6 +10000,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E490410-000/00"
@@ -9405,6 +10077,14 @@
         {
           "key": "waistWidth",
           "label": "허리 단면"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E490410-000/00"
@@ -9441,6 +10121,14 @@
         {
           "key": "sleeveLength",
           "label": "소매 길이"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E478444-000/00"
@@ -9477,6 +10165,14 @@
         {
           "key": "sleeveLength",
           "label": "소매 길이"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E478444-000/00"
@@ -9513,6 +10209,14 @@
         {
           "key": "sleeveLength",
           "label": "소매 길이"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E478444-000/00"
@@ -9548,6 +10252,14 @@
         {
           "key": "backNeckSleeveLength",
           "label": "등 중심~소매 끝"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E481800-000/00"
@@ -9583,6 +10295,14 @@
         {
           "key": "backNeckSleeveLength",
           "label": "등 중심~소매 끝"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E481800-000/00"
@@ -9618,6 +10338,14 @@
         {
           "key": "backNeckSleeveLength",
           "label": "등 중심~소매 끝"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E481800-000/00"
@@ -9653,6 +10381,14 @@
         {
           "key": "backNeckSleeveLength",
           "label": "등 중심~소매 끝"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E481800-000/00"
@@ -9688,6 +10424,14 @@
         {
           "key": "backNeckSleeveLength",
           "label": "등 중심~소매 끝"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E481800-000/00"
@@ -9723,6 +10467,14 @@
         {
           "key": "backNeckSleeveLength",
           "label": "등 중심~소매 끝"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E464637-000/00"
@@ -9758,6 +10510,14 @@
         {
           "key": "backNeckSleeveLength",
           "label": "등 중심~소매 끝"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E464637-000/00"
@@ -9793,6 +10553,14 @@
         {
           "key": "backNeckSleeveLength",
           "label": "등 중심~소매 끝"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E464637-000/00"
@@ -9828,6 +10596,14 @@
         {
           "key": "backNeckSleeveLength",
           "label": "등 중심~소매 끝"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E464637-000/00"
@@ -9863,6 +10639,14 @@
         {
           "key": "backNeckSleeveLength",
           "label": "등 중심~소매 끝"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E464637-000/00"
@@ -11187,6 +11971,14 @@
         {
           "key": "sleeveLength",
           "label": "소매 길이"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486412-000/00"
@@ -11223,6 +12015,14 @@
         {
           "key": "sleeveLength",
           "label": "소매 길이"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486412-000/00"
@@ -11259,6 +12059,14 @@
         {
           "key": "sleeveLength",
           "label": "소매 길이"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E486412-000/00"
@@ -11295,6 +12103,14 @@
         {
           "key": "sleeveLength",
           "label": "소매 길이"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E489012-000/00"
@@ -11331,6 +12147,14 @@
         {
           "key": "sleeveLength",
           "label": "소매 길이"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E489012-000/00"
@@ -11367,6 +12191,14 @@
         {
           "key": "sleeveLength",
           "label": "소매 길이"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E489012-000/00"
@@ -11403,6 +12235,14 @@
         {
           "key": "sleeveLength",
           "label": "소매 길이"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E494027-000/00"
@@ -11439,6 +12279,14 @@
         {
           "key": "sleeveLength",
           "label": "소매 길이"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E494027-000/00"
@@ -11475,6 +12323,14 @@
         {
           "key": "sleeveLength",
           "label": "소매 길이"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E494027-000/00"
@@ -11511,6 +12367,14 @@
         {
           "key": "sleeveLength",
           "label": "소매 길이"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E494026-000/00"
@@ -11547,6 +12411,14 @@
         {
           "key": "sleeveLength",
           "label": "소매 길이"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E494026-000/00"
@@ -11583,6 +12455,14 @@
         {
           "key": "sleeveLength",
           "label": "소매 길이"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E494026-000/00"
@@ -11619,6 +12499,14 @@
         {
           "key": "sleeveLength",
           "label": "소매 길이"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E494022-000/00"
@@ -11655,6 +12543,14 @@
         {
           "key": "sleeveLength",
           "label": "소매 길이"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E494022-000/00"
@@ -11691,6 +12587,14 @@
         {
           "key": "sleeveLength",
           "label": "소매 길이"
+        },
+        {
+          "key": "backWidth",
+          "label": "등 너비"
+        },
+        {
+          "key": "armWidth",
+          "label": "팔 단면"
         }
       ],
       "source": "https://www.uniqlo.com/kr/ko/products/E494022-000/00"

@@ -1,7 +1,7 @@
 import {fabricProfile,hasDifferentFabric,matchesSeason} from './traits.js';
 export const DIMENSIONS = {chestWidth:'가슴 단면',topLength:'상의 길이',sleeveLength:'소매 길이',pantsLength:'바지 총장',waistWidth:'허리 단면'};
-export const ALL_DIMENSIONS={...DIMENSIONS,inseam:'바지 안쪽 길이(인심)',hipWidth:'엉덩이 단면',thighWidth:'허벅지 단면',riseLength:'밑위 길이',hemWidth:'바지 밑단 단면',shoulderWidth:'어깨너비',backNeckSleeveLength:'등 중심~소매 끝',headCircumference:'머리 둘레',footLength:'발 길이'};
-const upperFields=['chestWidth','topLength','sleeveLength','shoulderWidth','backNeckSleeveLength'];
+export const ALL_DIMENSIONS={...DIMENSIONS,inseam:'바지 안쪽 길이(인심)',hipWidth:'엉덩이 단면',thighWidth:'허벅지 단면',riseLength:'밑위 길이',hemWidth:'바지 밑단 단면',backWidth: "등 너비",armWidth: "팔 단면",shoulderWidth:'어깨너비',backNeckSleeveLength:'등 중심~소매 끝',headCircumference:'머리 둘레',footLength:'발 길이'};
+const upperFields=['chestWidth','topLength','sleeveLength','shoulderWidth','backNeckSleeveLength',"backWidth","armWidth"];
 const lowerFields=['waistWidth','pantsLength','inseam','hipWidth','thighWidth','riseLength','hemWidth'];
 export const KINDS={
  'homewear-set':{label:'실내복·내의 세트',fields:[...Object.keys(DIMENSIONS),...upperFields.slice(3),...lowerFields.slice(2)],required:['chestWidth','topLength','pantsLength']},

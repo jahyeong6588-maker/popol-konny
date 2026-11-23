@@ -1,0 +1,453 @@
+{
+  "reviewedAt": "2026-11-23",
+  "source": "research/zara-topten-shared-source-20261123.json",
+  "sourceCheckedAt": {
+    "zara": "2026-11-17",
+    "topten": "2026-11-17"
+  },
+  "before": {
+    "zara": {
+      "products": 17,
+      "sizeRows": 96
+    },
+    "topten-kids": {
+      "products": 52,
+      "sizeRows": 202
+    }
+  },
+  "after": {
+    "zara": {
+      "products": 17,
+      "sizeRows": 96
+    },
+    "topten-kids": {
+      "products": 53,
+      "sizeRows": 207
+    }
+  },
+  "updates": [
+    {
+      "productId": "zara-04805614",
+      "brandId": "zara",
+      "name": "포켓 콤비 티셔츠",
+      "addedValues": 8
+    },
+    {
+      "productId": "zara-06303561",
+      "brandId": "zara",
+      "name": "자수 코듀로이 원피스",
+      "addedValues": 8
+    },
+    {
+      "productId": "zara-06224615",
+      "brandId": "zara",
+      "name": "스트라이프 폴로 스웨트셔츠",
+      "addedValues": 8
+    },
+    {
+      "productId": "zara-00187550",
+      "brandId": "zara",
+      "name": "워터프루프 후드 패딩 코트",
+      "addedValues": 6
+    },
+    {
+      "productId": "zara-01255600",
+      "brandId": "zara",
+      "name": "워터프루프 보아 칼라 패딩 재킷",
+      "addedValues": 6
+    },
+    {
+      "productId": "zara-08574507",
+      "brandId": "zara",
+      "name": "코듀로이 벌룬 플랫 프론트 팬츠",
+      "addedValues": 6
+    },
+    {
+      "productId": "zara-03253551",
+      "brandId": "zara",
+      "name": "플레인 터틀넥 티셔츠",
+      "addedValues": 12
+    },
+    {
+      "productId": "zara-05048308",
+      "brandId": "zara",
+      "name": "터틀넥 스트라이프 티셔츠",
+      "addedValues": 12
+    },
+    {
+      "productId": "zara-05048309",
+      "brandId": "zara",
+      "name": "플레인 폴라넥 티셔츠",
+      "addedValues": 12
+    },
+    {
+      "productId": "zara-00722580",
+      "brandId": "zara",
+      "name": "인터록 플레인 티셔츠",
+      "addedValues": 12
+    },
+    {
+      "productId": "zara-05048590",
+      "brandId": "zara",
+      "name": "무지 와플 티셔츠",
+      "addedValues": 12
+    },
+    {
+      "productId": "zara-01887552",
+      "brandId": "zara",
+      "name": "플레인 티셔츠",
+      "addedValues": 12
+    },
+    {
+      "productId": "zara-00722214",
+      "brandId": "zara",
+      "name": "플레인 헨리넥 티셔츠",
+      "addedValues": 12
+    },
+    {
+      "productId": "zara-01880558",
+      "brandId": "zara",
+      "name": "플레인 스웨트셔츠",
+      "addedValues": 12
+    },
+    {
+      "productId": "zara-02878572",
+      "brandId": "zara",
+      "name": "플리스 안감 패치 스웨트셔츠",
+      "addedValues": 12
+    },
+    {
+      "productId": "zara-05871503",
+      "brandId": "zara",
+      "name": "자수 스웨트셔츠",
+      "addedValues": 12
+    },
+    {
+      "productId": "zara-04174974",
+      "brandId": "zara",
+      "name": "플레인 지퍼 스웨트셔츠",
+      "addedValues": 12
+    },
+    {
+      "productId": "topten-kids-MOG4KP3402PKP",
+      "brandId": "topten-kids",
+      "name": "공용)유아 AIRTECH 파카",
+      "addedValues": 3
+    },
+    {
+      "productId": "topten-kids-MOG4IP3401CR",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 플리스 세트",
+      "addedValues": 10
+    },
+    {
+      "productId": "topten-kids-MOG4TU3401IV",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 모크넥 T",
+      "addedValues": 4
+    },
+    {
+      "productId": "topten-kids-MOG3IP3392MGP",
+      "brandId": "topten-kids",
+      "name": "공용) [월레스와그로밋] 유아 더블니트 세트",
+      "addedValues": 10
+    },
+    {
+      "productId": "topten-kids-MOG4IP3401LBL",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 플리스 세트",
+      "addedValues": 10
+    },
+    {
+      "productId": "topten-kids-MOH1PT3401DBR",
+      "brandId": "topten-kids",
+      "name": "유아) 소프트 플리스 조거팬츠",
+      "addedValues": 4
+    },
+    {
+      "productId": "topten-kids-MOG4IP3402BEP",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 플러피플리스 세트",
+      "addedValues": 10
+    },
+    {
+      "productId": "topten-kids-MOG4IP3403MT",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 코듀로이 벨루어 세트",
+      "addedValues": 10
+    },
+    {
+      "productId": "topten-kids-MOG4IP3401RD",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 플리스 세트",
+      "addedValues": 10
+    },
+    {
+      "productId": "topten-kids-MOG4KP3401MT",
+      "brandId": "topten-kids",
+      "name": "공용)유아 AIRTECH 라이트 재킷",
+      "addedValues": 3
+    },
+    {
+      "productId": "topten-kids-MOG4IP3401MGR",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 플리스 세트",
+      "addedValues": 10
+    },
+    {
+      "productId": "topten-kids-MOG5PT3504MGR",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 브러시드 레깅스",
+      "addedValues": 4
+    },
+    {
+      "productId": "topten-kids-MOH5UI3504BLP",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 벨루어 수면 베스트",
+      "addedValues": 2
+    },
+    {
+      "productId": "topten-kids-MOG3TS3301IVP",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 립 T",
+      "addedValues": 4
+    },
+    {
+      "productId": "topten-kids-MOG5UI3306BL",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 [테스] 메쉬 바디수트 (반팔,2PACK)",
+      "addedValues": 6
+    },
+    {
+      "productId": "topten-kids-MOG4TC3401IV",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 쉘파 베스트",
+      "addedValues": 4
+    },
+    {
+      "productId": "topten-kids-MOG3IP3392IVP",
+      "brandId": "topten-kids",
+      "name": "공용) [월레스와그로밋] 유아 더블니트 세트",
+      "addedValues": 10
+    },
+    {
+      "productId": "topten-kids-MOG4VP3401LBE",
+      "brandId": "topten-kids",
+      "name": "공용)유아 AIRTECH 라이트 베스트",
+      "addedValues": 3
+    },
+    {
+      "productId": "topten-kids-MOG4IP3403IV",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 코듀로이 벨루어 세트",
+      "addedValues": 10
+    },
+    {
+      "productId": "topten-kids-MOG4TC3403BEP",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 쉘파 후드집업",
+      "addedValues": 4
+    },
+    {
+      "productId": "topten-kids-MOH5UI3402MT",
+      "brandId": "topten-kids",
+      "name": "유아) ON Air 배앓이방지 세트",
+      "addedValues": 8
+    },
+    {
+      "productId": "topten-kids-MOG3IP3392BL",
+      "brandId": "topten-kids",
+      "name": "공용) [월레스와그로밋] 유아 더블니트 세트",
+      "addedValues": 10
+    },
+    {
+      "productId": "topten-kids-MOG4IP3401MGP",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 플리스 세트",
+      "addedValues": 10
+    },
+    {
+      "productId": "topten-kids-MOG4TC3402IVP",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 플러피 플리스 집업",
+      "addedValues": 4
+    },
+    {
+      "productId": "topten-kids-MOG4EC3401IVP",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 소프트 터치 가디건",
+      "addedValues": 4
+    },
+    {
+      "productId": "topten-kids-MOG5UI3305BL",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 메쉬 바디수트 (반팔,2PACK)",
+      "addedValues": 6
+    },
+    {
+      "productId": "topten-kids-MOH5UI3403MTP",
+      "brandId": "topten-kids",
+      "name": "유아) ON Air 립 세트",
+      "addedValues": 6
+    },
+    {
+      "productId": "topten-kids-MOG4PT3403IV",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 스트레이트 팬츠",
+      "addedValues": 8
+    },
+    {
+      "productId": "topten-kids-MOG2TR3301YEP",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 테리 스웨트셔츠",
+      "addedValues": 4
+    },
+    {
+      "productId": "topten-kids-MOH5UI3403MGR",
+      "brandId": "topten-kids",
+      "name": "유아) ON Air 립 세트",
+      "addedValues": 6
+    },
+    {
+      "productId": "topten-kids-MOG4ER3401RDP",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 소프트 터치 스웨터",
+      "addedValues": 4
+    },
+    {
+      "productId": "topten-kids-MOG5PT3301BL",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 저지 레깅스(9부)",
+      "addedValues": 4
+    },
+    {
+      "productId": "topten-kids-MOG2IP3301IVP",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 [피너츠] 더블니트 셋업",
+      "addedValues": 10
+    },
+    {
+      "productId": "topten-kids-MOG3PT3303DBL",
+      "brandId": "topten-kids",
+      "name": "유아) 데님 라이크 팬츠",
+      "addedValues": 8
+    },
+    {
+      "productId": "topten-kids-MOG3PT3302CH",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 테리 조거팬츠",
+      "addedValues": 4
+    },
+    {
+      "productId": "topten-kids-MOG5PT3503IV",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 립 레깅스",
+      "addedValues": 4
+    },
+    {
+      "productId": "topten-kids-MKG5UI3382MT",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 레깅스 9부 바디수트 셋업",
+      "addedValues": 6
+    },
+    {
+      "productId": "topten-kids-MOG3TC3391DBL",
+      "brandId": "topten-kids",
+      "name": "공용) [월레스와그로밋] 유아 후드집업",
+      "addedValues": 3
+    },
+    {
+      "productId": "topten-kids-MOG3TR3391RDP",
+      "brandId": "topten-kids",
+      "name": "공용) [월레스와그로밋] 유아 럭비셔츠",
+      "addedValues": 4
+    },
+    {
+      "productId": "topten-kids-MOG2OO2301RDP",
+      "brandId": "topten-kids",
+      "name": "여아) 유아 [피너츠] 테리 레이어드 원피스",
+      "addedValues": 4
+    },
+    {
+      "productId": "topten-kids-MOG5PT2301LGR",
+      "brandId": "topten-kids",
+      "name": "여아) 유아 포인텔 9부 레깅스",
+      "addedValues": 6
+    },
+    {
+      "productId": "topten-kids-MKG5UI3381RDP",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 9부 바디수트 (2PACK)",
+      "addedValues": 6
+    },
+    {
+      "productId": "topten-kids-MOG5UI3307BE",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 [테스] 메쉬 바디수트 (민소매,2PACK)",
+      "addedValues": 6
+    },
+    {
+      "productId": "topten-kids-MOG2TS3301RD",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 [피너츠] 모달코튼 티(9부)",
+      "addedValues": 3
+    },
+    {
+      "productId": "topten-kids-MOG2EC3301RDP",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 [피너츠] 스웨터",
+      "addedValues": 3
+    },
+    {
+      "productId": "topten-kids-MOG2TC3301BL",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 [피너츠] 후드집업",
+      "addedValues": 3
+    },
+    {
+      "productId": "topten-kids-MOG2PT3301LBL",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 데님라이크 팬츠",
+      "addedValues": 6
+    },
+    {
+      "productId": "topten-kids-MOG3OO2392IVP",
+      "brandId": "topten-kids",
+      "name": "여아) [월레스와그로밋] 유아 니트 원피스",
+      "addedValues": 4
+    },
+    {
+      "productId": "topten-kids-MKG5UI3901IVP",
+      "brandId": "topten-kids",
+      "name": "공용) 소프트모달 7부 셋업",
+      "addedValues": 14
+    },
+    {
+      "productId": "topten-kids-MKG5UI3303IV",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 배앓이방지 셋업",
+      "addedValues": 8
+    },
+    {
+      "productId": "topten-kids-MKG5UI3301IVP",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 소프트모달 7부 셋업",
+      "addedValues": 6
+    },
+    {
+      "productId": "topten-kids-MKG5UI3302NV",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 소프트모달 9부 셋업",
+      "addedValues": 4
+    },
+    {
+      "productId": "topten-kids-MKG5UI3383MTP",
+      "brandId": "topten-kids",
+      "name": "공용) 유아 커버올 (1PACK)",
+      "addedValues": 6
+    }
+  ],
+  "addedValues": 497,
+  "withheld": [],
+  "policy": "검증된 원문 재사용. 색상·상품 ID 중복 추가 없음. 미확인·비일관적 치수는 추정하지 않음."
+}
