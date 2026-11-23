@@ -34,7 +34,7 @@ test('all matched products can be returned for progressive display without dupli
  const p=data.products.find(p=>p.id==='konny-353');const r=garmentCandidates(data,{...p.sizes[0],kind:p.kind,productId:p.id},{limit:Infinity});assert.ok(r.length>12);assert.equal(new Set(r.map(c=>c.productId)).size,r.length);
 });
 test('reviewed Moimoln measurements expand usable indoor sets and retain raw circumference',()=>{
- const products=data.products.filter(p=>p.brandId==='moimoln'&&isComparable(p));assert.equal(products.length,12);
+ const products=data.products.filter(p=>p.brandId==='moimoln'&&isComparable(p));assert.ok(products.length>=12);
  const p=products.find(p=>p.code==='M264NNN15P'),r=p.sizes.find(s=>s.label==='110');assert.equal(r.raw.chestCircumference,57.5);assert.equal(r.chestWidth,28.75);assert.equal(r.topLength,39.5);assert.equal(r.pantsLength,53);assert.match(p.source.imageUrl,/_I1\.jpg/);
  const longSleeve=products.find(p=>p.code==='M264NNN21P').sizes.find(s=>s.label==='130');assert.equal(longSleeve.sleeveLength,53);assert.equal(longSleeve.pantsLength,65.5);
 });

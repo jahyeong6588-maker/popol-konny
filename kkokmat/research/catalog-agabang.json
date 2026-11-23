@@ -40,7 +40,8 @@
     "detailFetched": 1014,
     "complete": true,
     "scope": "공식 공개 카테고리 및 현재 노출 상품. 비노출·삭제 상품 제외.",
-    "notes": []
+    "notes": [],
+    "measurementReviewedAt": "2026-11-23"
   },
   "catalog": [
     {
@@ -2415,7 +2416,7 @@
       "category": "homewear-set",
       "source": {
         "url": "https://www.agabangmall.com/product/detail.html?product_no=55665",
-        "checkedAt": "2026-11-16"
+        "checkedAt": "2026-11-23"
       },
       "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg1809b04426769076/agabang2025/web/product/medium/20261029/2e0f509c0470d6c9107ca01520d4c0a9.jpg",
       "sizeLabels": [
@@ -2425,8 +2426,17 @@
         "100"
       ],
       "measurementStatus": "unavailable",
-      "reason": "구조화된 상품 실측 미공개 또는 자동 판독 불가",
-      "audience": "child"
+      "reason": "공식 상세 이미지를 확인했으나 사이즈 호칭만 제공되고 상품별 가슴·총장·바지 길이 실측표는 확인되지 않음.",
+      "audience": "child",
+      "comparable": false,
+      "measurementReview": {
+        "checkedAt": "2026-11-23",
+        "status": "product-measurements-not-found",
+        "detailImages": [
+          "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T01765303.jpg"
+        ],
+        "commonBodyGuide": "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/agabang_bottom_new.jpg"
+      }
     },
     {
       "id": "agabang-55664",
@@ -2615,7 +2625,7 @@
       "category": "homewear-set",
       "source": {
         "url": "https://www.agabangmall.com/product/detail.html?product_no=55656",
-        "checkedAt": "2026-11-16"
+        "checkedAt": "2026-11-23"
       },
       "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg1809b04426769076/agabang2025/web/product/medium/20261029/1bf0b8dbccc52a0ed4e388795a04dc3d.jpg",
       "sizeLabels": [
@@ -2624,8 +2634,17 @@
         "90"
       ],
       "measurementStatus": "unavailable",
-      "reason": "구조화된 상품 실측 미공개 또는 자동 판독 불가",
-      "audience": "child"
+      "reason": "공식 상세 이미지를 확인했으나 사이즈 호칭만 제공되고 상품별 가슴·총장·바지 길이 실측표는 확인되지 않음.",
+      "audience": "child",
+      "comparable": false,
+      "measurementReview": {
+        "checkedAt": "2026-11-23",
+        "status": "product-measurements-not-found",
+        "detailImages": [
+          "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T71760176.jpg"
+        ],
+        "commonBodyGuide": "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/agabang_bottom_new.jpg"
+      }
     },
     {
       "id": "agabang-55655",
@@ -3442,7 +3461,7 @@
       "category": "homewear-set",
       "source": {
         "url": "https://www.agabangmall.com/product/detail.html?product_no=55574",
-        "checkedAt": "2026-11-16"
+        "checkedAt": "2026-11-23"
       },
       "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg1809b04426769076/agabang2025/web/product/medium/20261020/52381eaf8459713a711ae26dc7b733da.jpg",
       "sizeLabels": [
@@ -3452,8 +3471,17 @@
         "120"
       ],
       "measurementStatus": "unavailable",
-      "reason": "구조화된 상품 실측 미공개 또는 자동 판독 불가",
-      "audience": "child"
+      "reason": "공식 상세 이미지를 확인했으나 사이즈 호칭만 제공되고 상품별 가슴·총장·바지 길이 실측표는 확인되지 않음.",
+      "audience": "child",
+      "comparable": false,
+      "measurementReview": {
+        "checkedAt": "2026-11-23",
+        "status": "product-measurements-not-found",
+        "detailImages": [
+          "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T81761314.jpg"
+        ],
+        "commonBodyGuide": "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/agabang_bottom_new.jpg"
+      }
     },
     {
       "id": "agabang-55573",
@@ -3464,7 +3492,7 @@
       "category": "homewear-set",
       "source": {
         "url": "https://www.agabangmall.com/product/detail.html?product_no=55573",
-        "checkedAt": "2026-11-16"
+        "checkedAt": "2026-11-23"
       },
       "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg1809b04426769076/agabang2025/web/product/medium/20261022/6cc3cb542a915cbd8e043b8c0e0d83d1.jpg",
       "sizeLabels": [
@@ -3474,8 +3502,17 @@
         "120"
       ],
       "measurementStatus": "unavailable",
-      "reason": "구조화된 상품 실측 미공개 또는 자동 판독 불가",
-      "audience": "child"
+      "reason": "공식 상세 이미지를 확인했으나 사이즈 호칭만 제공되고 상품별 가슴·총장·바지 길이 실측표는 확인되지 않음.",
+      "audience": "child",
+      "comparable": false,
+      "measurementReview": {
+        "checkedAt": "2026-11-23",
+        "status": "product-measurements-not-found",
+        "detailImages": [
+          "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T81761521.jpg"
+        ],
+        "commonBodyGuide": "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/agabang_bottom_new.jpg"
+      }
     },
     {
       "id": "agabang-55572",
@@ -3486,7 +3523,7 @@
       "category": "homewear-set",
       "source": {
         "url": "https://www.agabangmall.com/product/detail.html?product_no=55572",
-        "checkedAt": "2026-11-16"
+        "checkedAt": "2026-11-23"
       },
       "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg1809b04426769076/agabang2025/web/product/medium/20261020/f04d4a2209374f52d8af38572ce81dd3.jpg",
       "sizeLabels": [
@@ -3496,8 +3533,18 @@
         "120"
       ],
       "measurementStatus": "unavailable",
-      "reason": "구조화된 상품 실측 미공개 또는 자동 판독 불가",
-      "audience": "child"
+      "reason": "공식 상세 이미지를 확인했으나 사이즈 호칭만 제공되고 상품별 가슴·총장·바지 길이 실측표는 확인되지 않음.",
+      "audience": "child",
+      "comparable": false,
+      "measurementReview": {
+        "checkedAt": "2026-11-23",
+        "status": "product-measurements-not-found",
+        "detailImages": [
+          "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T81761102.jpg",
+          "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T81761158.jpg"
+        ],
+        "commonBodyGuide": "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/agabang_bottom_new.jpg"
+      }
     },
     {
       "id": "agabang-55571",
@@ -3530,7 +3577,7 @@
       "category": "homewear-set",
       "source": {
         "url": "https://www.agabangmall.com/product/detail.html?product_no=55570",
-        "checkedAt": "2026-11-16"
+        "checkedAt": "2026-11-23"
       },
       "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg1809b04426769076/agabang2025/web/product/medium/20261020/bd97b0e619da8a6bfc1895d6417e3b22.jpg",
       "sizeLabels": [
@@ -3540,8 +3587,19 @@
         "110"
       ],
       "measurementStatus": "unavailable",
-      "reason": "구조화된 상품 실측 미공개 또는 자동 판독 불가",
-      "audience": "child"
+      "reason": "공식 상세 이미지를 확인했으나 사이즈 호칭만 제공되고 상품별 가슴·총장·바지 길이 실측표는 확인되지 않음.",
+      "audience": "child",
+      "comparable": false,
+      "measurementReview": {
+        "checkedAt": "2026-11-23",
+        "status": "product-measurements-not-found",
+        "detailImages": [
+          "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T81761687.jpg",
+          "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T81761642.jpg",
+          "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T81761658.jpg"
+        ],
+        "commonBodyGuide": "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/agabang_bottom_new.jpg"
+      }
     },
     {
       "id": "agabang-55569",
@@ -3552,7 +3610,7 @@
       "category": "homewear-set",
       "source": {
         "url": "https://www.agabangmall.com/product/detail.html?product_no=55569",
-        "checkedAt": "2026-11-16"
+        "checkedAt": "2026-11-23"
       },
       "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg1809b04426769076/agabang2025/web/product/medium/20261020/fbd110634857d93490df38b814029f8c.jpg",
       "sizeLabels": [
@@ -3562,8 +3620,17 @@
         "110"
       ],
       "measurementStatus": "unavailable",
-      "reason": "구조화된 상품 실측 미공개 또는 자동 판독 불가",
-      "audience": "child"
+      "reason": "공식 상세 이미지를 확인했으나 사이즈 호칭만 제공되고 상품별 가슴·총장·바지 길이 실측표는 확인되지 않음.",
+      "audience": "child",
+      "comparable": false,
+      "measurementReview": {
+        "checkedAt": "2026-11-23",
+        "status": "product-measurements-not-found",
+        "detailImages": [
+          "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T81761201.jpg"
+        ],
+        "commonBodyGuide": "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/agabang_bottom_new.jpg"
+      }
     },
     {
       "id": "agabang-55568",
@@ -3574,7 +3641,7 @@
       "category": "homewear-set",
       "source": {
         "url": "https://www.agabangmall.com/product/detail.html?product_no=55568",
-        "checkedAt": "2026-11-16"
+        "checkedAt": "2026-11-23"
       },
       "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg1809b04426769076/agabang2025/web/product/medium/20261020/bd94a0d41bc7ecfee1f75e729372cd04.jpg",
       "sizeLabels": [
@@ -3584,8 +3651,17 @@
         "110"
       ],
       "measurementStatus": "unavailable",
-      "reason": "구조화된 상품 실측 미공개 또는 자동 판독 불가",
-      "audience": "child"
+      "reason": "공식 상세 이미지를 확인했으나 사이즈 호칭만 제공되고 상품별 가슴·총장·바지 길이 실측표는 확인되지 않음.",
+      "audience": "child",
+      "comparable": false,
+      "measurementReview": {
+        "checkedAt": "2026-11-23",
+        "status": "product-measurements-not-found",
+        "detailImages": [
+          "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T81761021.jpg"
+        ],
+        "commonBodyGuide": "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/agabang_bottom_new.jpg"
+      }
     },
     {
       "id": "agabang-55567",
@@ -4404,7 +4480,7 @@
       "category": "homewear-set",
       "source": {
         "url": "https://www.agabangmall.com/product/detail.html?product_no=55510",
-        "checkedAt": "2026-11-16"
+        "checkedAt": "2026-11-23"
       },
       "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg1809b04426769076/agabang2025/web/product/medium/20261014/adb46822564336a58b1f50e8ebaed5db.jpg",
       "sizeLabels": [
@@ -4415,8 +4491,19 @@
         "120"
       ],
       "measurementStatus": "unavailable",
-      "reason": "구조화된 상품 실측 미공개 또는 자동 판독 불가",
-      "audience": "child"
+      "reason": "공식 상세 이미지를 확인했으나 사이즈 호칭만 제공되고 상품별 가슴·총장·바지 길이 실측표는 확인되지 않음.",
+      "audience": "child",
+      "comparable": false,
+      "measurementReview": {
+        "checkedAt": "2026-11-23",
+        "status": "product-measurements-not-found",
+        "detailImages": [
+          "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T75760642.jpg",
+          "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T75760601.jpg",
+          "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T75760658.jpg"
+        ],
+        "commonBodyGuide": "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/agabang_bottom_new.jpg"
+      }
     },
     {
       "id": "agabang-55509",
@@ -4427,7 +4514,7 @@
       "category": "homewear-set",
       "source": {
         "url": "https://www.agabangmall.com/product/detail.html?product_no=55509",
-        "checkedAt": "2026-11-16"
+        "checkedAt": "2026-11-23"
       },
       "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg1809b04426769076/agabang2025/web/product/medium/20261014/52fd2acc55a16216cd6e4489a8862cb8.jpg",
       "sizeLabels": [
@@ -4438,8 +4525,17 @@
         "120"
       ],
       "measurementStatus": "unavailable",
-      "reason": "구조화된 상품 실측 미공개 또는 자동 판독 불가",
-      "audience": "child"
+      "reason": "공식 상세 이미지를 확인했으나 사이즈 호칭만 제공되고 상품별 가슴·총장·바지 길이 실측표는 확인되지 않음.",
+      "audience": "child",
+      "comparable": false,
+      "measurementReview": {
+        "checkedAt": "2026-11-23",
+        "status": "product-measurements-not-found",
+        "detailImages": [
+          "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T75785158.jpg"
+        ],
+        "commonBodyGuide": "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/agabang_bottom_new.jpg"
+      }
     },
     {
       "id": "agabang-55508",
@@ -4450,7 +4546,7 @@
       "category": "homewear-set",
       "source": {
         "url": "https://www.agabangmall.com/product/detail.html?product_no=55508",
-        "checkedAt": "2026-11-16"
+        "checkedAt": "2026-11-23"
       },
       "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg1809b04426769076/agabang2025/web/product/medium/20261014/dd09a37fe61440843949c8a5e81ed112.jpg",
       "sizeLabels": [
@@ -4460,8 +4556,18 @@
         "110"
       ],
       "measurementStatus": "unavailable",
-      "reason": "구조화된 상품 실측 미공개 또는 자동 판독 불가",
-      "audience": "child"
+      "reason": "공식 상세 이미지를 확인했으나 사이즈 호칭만 제공되고 상품별 가슴·총장·바지 길이 실측표는 확인되지 않음.",
+      "audience": "child",
+      "comparable": false,
+      "measurementReview": {
+        "checkedAt": "2026-11-23",
+        "status": "product-measurements-not-found",
+        "detailImages": [
+          "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T71761601.jpg",
+          "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T71761621.jpg"
+        ],
+        "commonBodyGuide": "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/agabang_bottom_new.jpg"
+      }
     },
     {
       "id": "agabang-55507",
@@ -6052,7 +6158,7 @@
       "category": "homewear-set",
       "source": {
         "url": "https://www.agabangmall.com/product/detail.html?product_no=55378",
-        "checkedAt": "2026-11-16"
+        "checkedAt": "2026-11-23"
       },
       "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg1809b04426769076/agabang2025/web/product/medium/20260915/58782c387adafd564fb43cf4993a8c45.jpg",
       "sizeLabels": [
@@ -6061,8 +6167,17 @@
         "90"
       ],
       "measurementStatus": "unavailable",
-      "reason": "구조화된 상품 실측 미공개 또는 자동 판독 불가",
-      "audience": "child"
+      "reason": "공식 상세 이미지를 확인했으나 사이즈 호칭만 제공되고 상품별 가슴·총장·바지 길이 실측표는 확인되지 않음.",
+      "audience": "child",
+      "comparable": false,
+      "measurementReview": {
+        "checkedAt": "2026-11-23",
+        "status": "product-measurements-not-found",
+        "detailImages": [
+          "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T71760287.jpg"
+        ],
+        "commonBodyGuide": "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/agabang_bottom_new.jpg"
+      }
     },
     {
       "id": "agabang-55377",
@@ -6115,7 +6230,7 @@
       "category": "homewear-set",
       "source": {
         "url": "https://www.agabangmall.com/product/detail.html?product_no=55375",
-        "checkedAt": "2026-11-16"
+        "checkedAt": "2026-11-23"
       },
       "imageUrl": "https://cafe24img.poxo.com/ecimg.cafe24img.com/pg1809b04426769076/agabang2025/web/product/medium/20260915/bbab9cfaed04d4b71ea8b53b20622a64.jpg",
       "sizeLabels": [
@@ -6124,8 +6239,17 @@
         "90"
       ],
       "measurementStatus": "unavailable",
-      "reason": "구조화된 상품 실측 미공개 또는 자동 판독 불가",
-      "audience": "child"
+      "reason": "공식 상세 이미지를 확인했으나 사이즈 호칭만 제공되고 상품별 가슴·총장·바지 길이 실측표는 확인되지 않음.",
+      "audience": "child",
+      "comparable": false,
+      "measurementReview": {
+        "checkedAt": "2026-11-23",
+        "status": "product-measurements-not-found",
+        "detailImages": [
+          "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T71761242.jpg"
+        ],
+        "commonBodyGuide": "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/agabang_bottom_new.jpg"
+      }
     },
     {
       "id": "agabang-55374",

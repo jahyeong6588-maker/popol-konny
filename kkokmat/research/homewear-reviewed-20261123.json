@@ -1,0 +1,1652 @@
+{
+  "checkedAt": "2026-11-23",
+  "verification": "공식 상품 상세에서 연결된 상품 코드별 실측 이미지 직접 판독. 상의·하의 사이즈 열을 각각 대조하고 가슴·허리 둘레는 원본을 보존한 뒤 단면 비교값으로만 2분의 1 환산한다. 어깨 봉제선 기준 팔길이를 소매 길이로 기록한다. 제품별 실제 착용감이나 신체 권장 범위로 확대하지 않는다.",
+  "unit": "cm",
+  "products": [
+    {
+      "code": "M264NNN07P",
+      "labels": [
+        70,
+        80,
+        90,
+        100,
+        110,
+        120
+      ],
+      "topLength": [
+        29.5,
+        31,
+        33.5,
+        36,
+        39.5,
+        43
+      ],
+      "chestCircumference": [
+        48,
+        49.5,
+        52,
+        54.5,
+        57.5,
+        61
+      ],
+      "sleeveLength": [
+        23.5,
+        25,
+        27.5,
+        30,
+        33,
+        36.5
+      ],
+      "pantsLength": [
+        38.5,
+        41,
+        44.5,
+        48,
+        53,
+        59
+      ],
+      "waistCircumference": [
+        30,
+        31.5,
+        33.5,
+        35.5,
+        38,
+        40.8
+      ],
+      "brandId": "moimoln",
+      "id": "moimoln-M264NNN07P",
+      "name": "[모이몰른] 루나면모달스판배바지실내복 [26 겨울]",
+      "source": {
+        "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN07P",
+        "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260914/M264NNN07P_CE_I1.jpg",
+        "checkedAt": "2026-11-23"
+      },
+      "evidence": {
+        "imageSHA256": "b2d7a5609d7064bf37506496028a98645ee7f280daad751d9da1bda4dadcbbff",
+        "pageSHA256": "e9aa08a8eaa97b8045a5da8d6fd22d2776334e80ef6c70e9c775bdd200e678fb",
+        "productCode": "M264NNN07P",
+        "pageTitle": "[모이몰른] 루나면모달스판배바지실내복 [26 겨울]",
+        "originalImageLinkedAt": "2026-11-17",
+        "readMethod": "direct-visual-transcription-and-second-pass-check"
+      },
+      "attributes": {
+        "fibers": [
+          "cotton",
+          "modal"
+        ],
+        "fabricLabel": "(겉감)면57%,레이온(모달)38%,폴리우레탄5%",
+        "weave": "",
+        "seasons": [
+          "spring",
+          "autumn"
+        ],
+        "seasonEvidence": [
+          "공식 간절기 표현"
+        ],
+        "features": [],
+        "origins": [],
+        "description": "간절기 베이비 배앓이 방지 루나 면모달 스판 배바지 실내복 상하세트",
+        "material": "(겉감)면57%,레이온(모달)38%,폴리우레탄5%",
+        "source": {
+          "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN07P",
+          "checkedAt": "2026-11-23"
+        }
+      }
+    },
+    {
+      "code": "M264NNN06P",
+      "labels": [
+        70,
+        80,
+        90,
+        100,
+        110,
+        120
+      ],
+      "topLength": [
+        29.5,
+        31,
+        33.5,
+        36,
+        39.5,
+        43
+      ],
+      "chestCircumference": [
+        50,
+        51.5,
+        54,
+        56.5,
+        59.5,
+        62.5
+      ],
+      "sleeveLength": [
+        23.5,
+        25,
+        27.5,
+        30,
+        33,
+        36
+      ],
+      "pantsLength": [
+        38.5,
+        41,
+        44.5,
+        48,
+        53,
+        58
+      ],
+      "waistCircumference": [
+        37,
+        38,
+        40,
+        42,
+        44,
+        46
+      ],
+      "brandId": "moimoln",
+      "id": "moimoln-M264NNN06P",
+      "name": "[모이몰른] 루나양면여아실내복 [26 겨울]",
+      "source": {
+        "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN06P",
+        "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260914/M264NNN06P_CE_I1.jpg",
+        "checkedAt": "2026-11-23"
+      },
+      "evidence": {
+        "imageSHA256": "d2e3938e6de987b3bc8beabc5090e3231763d8a4e820c6369a0d29e03c26f718",
+        "pageSHA256": "5db941a07b8a18f6b94cedd33ea2d2a9f4da1843f30cf06b080bef23c2b3d845",
+        "productCode": "M264NNN06P",
+        "pageTitle": "[모이몰른] 루나양면여아실내복 [26 겨울]",
+        "originalImageLinkedAt": "2026-11-17",
+        "readMethod": "direct-visual-transcription-and-second-pass-check"
+      },
+      "attributes": {
+        "fibers": [
+          "cotton"
+        ],
+        "fabricLabel": "(겉감/배색)면100%",
+        "weave": "",
+        "seasons": [
+          "spring",
+          "autumn"
+        ],
+        "seasonEvidence": [
+          "공식 간절기 표현"
+        ],
+        "features": [],
+        "origins": [],
+        "description": "간절기 베이비 나무 나염 프릴 루나 양면 여아 실내복 상하세트",
+        "material": "(겉감/배색)면100%",
+        "source": {
+          "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN06P",
+          "checkedAt": "2026-11-23"
+        }
+      }
+    },
+    {
+      "code": "M264NNN24P",
+      "labels": [
+        80,
+        90,
+        100,
+        110,
+        120,
+        130
+      ],
+      "topLength": [
+        31,
+        33.5,
+        36,
+        39.5,
+        43,
+        46.5
+      ],
+      "chestCircumference": [
+        49.5,
+        52,
+        54.5,
+        57.5,
+        61,
+        64.5
+      ],
+      "sleeveLength": [
+        24.5,
+        27,
+        29.5,
+        32.5,
+        36,
+        39.5
+      ],
+      "pantsLength": [
+        40,
+        43.5,
+        47,
+        52,
+        58,
+        64
+      ],
+      "waistCircumference": [
+        38,
+        40,
+        42,
+        44,
+        46,
+        48
+      ],
+      "brandId": "moimoln",
+      "id": "moimoln-M264NNN24P",
+      "name": "[모이몰른] C르엘후라이스실내복 [26 겨울]",
+      "source": {
+        "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN24P",
+        "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20261029/M264NNN24P_GN_I1.jpg",
+        "checkedAt": "2026-11-23"
+      },
+      "evidence": {
+        "imageSHA256": "28390f4a8703105ca9f7526bc5e0e182b9e07715d0f034556fd9fceaf3b6c9eb",
+        "pageSHA256": "cbc3f7c736614a8ffb46303249d811bb1907d91b21bc3523793e8a2b49fb24d9",
+        "productCode": "M264NNN24P",
+        "pageTitle": "[모이몰른] C르엘후라이스실내복 [26 겨울]",
+        "originalImageLinkedAt": "2026-11-17",
+        "readMethod": "direct-visual-transcription-and-second-pass-check"
+      },
+      "attributes": {
+        "fibers": [
+          "cotton"
+        ],
+        "fabricLabel": "(겉감/배색)면100%",
+        "weave": "",
+        "seasons": [],
+        "seasonEvidence": [],
+        "features": [
+          {
+            "key": "soft",
+            "label": "부드러운 원단",
+            "evidence": "[모이몰른] C르엘후라이스실내복 [26 겨울] 부드러운 후라이스 소재에 잔잔한 스트라이프 플라워 패턴을 더한 내의 상하세트"
+          }
+        ],
+        "origins": [],
+        "description": "부드러운 후라이스 소재에 잔잔한 스트라이프 플라워 패턴을 더한 내의 상하세트",
+        "material": "(겉감/배색)면100%",
+        "source": {
+          "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN24P",
+          "checkedAt": "2026-11-23"
+        }
+      }
+    },
+    {
+      "code": "M264NNN23P",
+      "labels": [
+        80,
+        90,
+        100,
+        110,
+        120
+      ],
+      "topLength": [
+        31,
+        33.5,
+        36,
+        39.5,
+        43
+      ],
+      "chestCircumference": [
+        52.5,
+        55,
+        57.5,
+        60.5,
+        63.5
+      ],
+      "sleeveLength": [
+        25,
+        27.5,
+        30,
+        33,
+        36
+      ],
+      "pantsLength": [
+        41,
+        44.5,
+        48,
+        53,
+        58
+      ],
+      "waistCircumference": [
+        38,
+        40,
+        42,
+        44,
+        46
+      ],
+      "brandId": "moimoln",
+      "id": "moimoln-M264NNN23P",
+      "name": "[모이몰른] C르네양면실내복 [26 겨울]",
+      "source": {
+        "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN23P",
+        "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20261029/M264NNN23P_CG_I1.jpg",
+        "checkedAt": "2026-11-23"
+      },
+      "evidence": {
+        "imageSHA256": "582bef35ddbb7256fc0c24b7d3c34c8aa5a304989cd074c6b83e4277dd05deef",
+        "pageSHA256": "14cd564a874e8a0affea8ea51fbdd957363260aa6059c0508d09690f6f4b136a",
+        "productCode": "M264NNN23P",
+        "pageTitle": "[모이몰른] C르네양면실내복 [26 겨울]",
+        "originalImageLinkedAt": "2026-11-17",
+        "readMethod": "direct-visual-transcription-and-second-pass-check"
+      },
+      "attributes": {
+        "fibers": [
+          "cotton"
+        ],
+        "fabricLabel": "(겉감/배색1)면100%(배색2)면95%,폴리우레탄5%",
+        "weave": "",
+        "seasons": [
+          "spring",
+          "autumn"
+        ],
+        "seasonEvidence": [
+          "공식 간절기 표현"
+        ],
+        "features": [
+          {
+            "key": "soft",
+            "label": "부드러운 원단",
+            "evidence": "[모이몰른] C르네양면실내복 [26 겨울] 감각적인 패턴의 부드러운 40수 양면 소재로 간절기에 쾌적하게 착용하기 좋은 내의 상하세트"
+          }
+        ],
+        "origins": [],
+        "description": "감각적인 패턴의 부드러운 40수 양면 소재로 간절기에 쾌적하게 착용하기 좋은 내의 상하세트",
+        "material": "(겉감/배색1)면100%(배색2)면95%,폴리우레탄5%",
+        "source": {
+          "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN23P",
+          "checkedAt": "2026-11-23"
+        }
+      }
+    },
+    {
+      "code": "M264NNN14P",
+      "labels": [
+        70,
+        80,
+        90,
+        100,
+        110
+      ],
+      "topLength": [
+        29.5,
+        31,
+        33.5,
+        37,
+        40.5
+      ],
+      "chestCircumference": [
+        58.5,
+        60,
+        62.5,
+        65.5,
+        68.5
+      ],
+      "sleeveLength": [
+        27.5,
+        30,
+        32.8,
+        36.1,
+        39.4
+      ],
+      "pantsLength": [
+        38.5,
+        41,
+        44.5,
+        49.5,
+        54.5
+      ],
+      "waistCircumference": [
+        37,
+        38,
+        40,
+        42,
+        44
+      ],
+      "brandId": "moimoln",
+      "id": "moimoln-M264NNN14P",
+      "name": "[모이몰른] 라무이중지실내복 [26 겨울]",
+      "source": {
+        "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN14P",
+        "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20261029/M264NNN14P_CE_I1.jpg",
+        "checkedAt": "2026-11-23"
+      },
+      "evidence": {
+        "imageSHA256": "053d3aa2c9366cd6e6cea7898b72627c1563fb0d02854f63171588424392b5a1",
+        "pageSHA256": "32bdc8134c059b38a5af8db1a43fc28f78a0070ba3ade893eb5137104fd402f1",
+        "productCode": "M264NNN14P",
+        "pageTitle": "[모이몰른] 라무이중지실내복 [26 겨울]",
+        "originalImageLinkedAt": "2026-11-17",
+        "readMethod": "direct-visual-transcription-and-second-pass-check"
+      },
+      "attributes": {
+        "fibers": [
+          "cotton"
+        ],
+        "fabricLabel": "(겉감)면100%",
+        "weave": "",
+        "seasons": [],
+        "seasonEvidence": [],
+        "features": [],
+        "origins": [],
+        "description": "겨울 모티브 전판나염과 포근한 이중지 소재로 따뜻하게 입기 좋은 내의 상하세트",
+        "material": "(겉감)면100%",
+        "source": {
+          "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN14P",
+          "checkedAt": "2026-11-23"
+        }
+      }
+    },
+    {
+      "code": "M264NNN12P",
+      "labels": [
+        70,
+        80,
+        90,
+        100,
+        110,
+        120
+      ],
+      "topLength": [
+        29.5,
+        31,
+        33.5,
+        36,
+        39.5,
+        43
+      ],
+      "chestCircumference": [
+        53,
+        54.5,
+        57,
+        59.5,
+        62.5,
+        65.5
+      ],
+      "sleeveLength": [
+        23.5,
+        25,
+        27.5,
+        30,
+        33,
+        36
+      ],
+      "pantsLength": [
+        39.5,
+        42,
+        45.5,
+        49,
+        54,
+        59
+      ],
+      "waistCircumference": [
+        37,
+        38,
+        40,
+        42,
+        44,
+        46
+      ],
+      "brandId": "moimoln",
+      "id": "moimoln-M264NNN12P",
+      "name": "[모이몰른] 노노바이중지실내복 [26 겨울]",
+      "source": {
+        "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN12P",
+        "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20261029/M264NNN12P_CE_I1.jpg",
+        "checkedAt": "2026-11-23"
+      },
+      "evidence": {
+        "imageSHA256": "fe68e10584c8cafd6a06350fdde0ad6c643a898080831f248ece8e10ad4c6c31",
+        "pageSHA256": "ece4d86b957801b17ad99de4bb802b2fb4f534dbec5c6b838735cf4d8f23017e",
+        "productCode": "M264NNN12P",
+        "pageTitle": "[모이몰른] 노노바이중지실내복 [26 겨울]",
+        "originalImageLinkedAt": "2026-11-17",
+        "readMethod": "direct-visual-transcription-and-second-pass-check"
+      },
+      "attributes": {
+        "fibers": [
+          "cotton"
+        ],
+        "fabricLabel": "(겉감)면100%",
+        "weave": "",
+        "seasons": [
+          "winter"
+        ],
+        "seasonEvidence": [
+          "도톰한 이중지 소재와 카라 연출이 가능한 턱받이 세트로 겨울철 따뜻하게 입히기 좋은 실내복 상하세트"
+        ],
+        "features": [],
+        "origins": [],
+        "description": "도톰한 이중지 소재와 카라 연출이 가능한 턱받이 세트로 겨울철 따뜻하게 입히기 좋은 실내복 상하세트",
+        "material": "(겉감)면100%",
+        "source": {
+          "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN12P",
+          "checkedAt": "2026-11-23"
+        }
+      }
+    },
+    {
+      "code": "M264NNN09P",
+      "labels": [
+        70,
+        80,
+        90,
+        100,
+        110,
+        120
+      ],
+      "topLength": [
+        29.5,
+        31,
+        33.5,
+        36,
+        39.5,
+        43
+      ],
+      "chestCircumference": [
+        48,
+        49.5,
+        52,
+        54.5,
+        57.5,
+        61
+      ],
+      "sleeveLength": [
+        23,
+        24.5,
+        27,
+        29.5,
+        32.5,
+        36
+      ],
+      "pantsLength": [
+        37.5,
+        40,
+        43.5,
+        47,
+        52,
+        58
+      ],
+      "waistCircumference": [
+        37,
+        38,
+        40,
+        42,
+        44,
+        46
+      ],
+      "brandId": "moimoln",
+      "id": "moimoln-M264NNN09P",
+      "name": "[모이몰른] 루아와플스판실내복 [26 겨울]",
+      "source": {
+        "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN09P",
+        "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20261029/M264NNN09P_CE_I1.jpg",
+        "checkedAt": "2026-11-23"
+      },
+      "evidence": {
+        "imageSHA256": "ce68e77b593c595328b63936939dc28f1a66e4c450aef2698006af8741daf86c",
+        "pageSHA256": "1fd5c22c5ed7d961aa2eee37c9817830205e9bb4cb1452d0fc746e08853c305a",
+        "productCode": "M264NNN09P",
+        "pageTitle": "[모이몰른] 루아와플스판실내복 [26 겨울]",
+        "originalImageLinkedAt": "2026-11-17",
+        "readMethod": "direct-visual-transcription-and-second-pass-check"
+      },
+      "attributes": {
+        "fibers": [
+          "cotton",
+          "polyester"
+        ],
+        "fabricLabel": "(겉감)면75%,폴리에스터22%,폴리우레탄3%",
+        "weave": "",
+        "seasons": [],
+        "seasonEvidence": [],
+        "features": [],
+        "origins": [],
+        "description": "입체감 있는 와플스판 소재와 아기자기한 열매 패턴에 피콧 배색 포인트를 더한 데일리 실내복",
+        "material": "(겉감)면75%,폴리에스터22%,폴리우레탄3%",
+        "source": {
+          "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN09P",
+          "checkedAt": "2026-11-23"
+        }
+      }
+    },
+    {
+      "code": "M264NNN05P",
+      "labels": [
+        70,
+        80,
+        90,
+        100,
+        110,
+        120
+      ],
+      "topLength": [
+        29.5,
+        31,
+        33.5,
+        36,
+        39.5,
+        43
+      ],
+      "chestCircumference": [
+        51,
+        52.5,
+        55,
+        57.5,
+        60.5,
+        63.5
+      ],
+      "sleeveLength": [
+        23.5,
+        25,
+        27.5,
+        30,
+        33,
+        36
+      ],
+      "pantsLength": [
+        39.5,
+        42,
+        45.5,
+        49,
+        54,
+        59
+      ],
+      "waistCircumference": [
+        37,
+        38,
+        40,
+        42,
+        44,
+        46
+      ],
+      "brandId": "moimoln",
+      "id": "moimoln-M264NNN05P",
+      "name": "[모이몰른] 루나양면실내복 [26 겨울]",
+      "source": {
+        "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN05P",
+        "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20261029/M264NNN05P_CE_I1.jpg",
+        "checkedAt": "2026-11-23"
+      },
+      "evidence": {
+        "imageSHA256": "a9da4826d417dee71a2d774bf5fa83700193d2b17108404c18508e1555452aa9",
+        "pageSHA256": "44353fb2323ec8ae8c7858057d739c3768aae4fed59893a5b0ec6af697e7a108",
+        "productCode": "M264NNN05P",
+        "pageTitle": "[모이몰른] 루나양면실내복 [26 겨울]",
+        "originalImageLinkedAt": "2026-11-17",
+        "readMethod": "direct-visual-transcription-and-second-pass-check"
+      },
+      "attributes": {
+        "fibers": [
+          "cotton"
+        ],
+        "fabricLabel": "(겉감/배색1/배색2)면100%(배색3)면95%,폴리우레탄5%",
+        "weave": "",
+        "seasons": [],
+        "seasonEvidence": [],
+        "features": [],
+        "origins": [],
+        "description": "분위기 있는 나무 모티브 전판나염과 단정한 카라 디자인을 더한 40수 양면 내의 상하세트",
+        "material": "(겉감/배색1/배색2)면100%(배색3)면95%,폴리우레탄5%",
+        "source": {
+          "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN05P",
+          "checkedAt": "2026-11-23"
+        }
+      }
+    },
+    {
+      "code": "M264NNN03P",
+      "labels": [
+        70,
+        80,
+        90,
+        100,
+        110,
+        120
+      ],
+      "topLength": [
+        29.5,
+        31,
+        33.5,
+        36,
+        39.5,
+        43
+      ],
+      "chestCircumference": [
+        51,
+        52.5,
+        55,
+        57.5,
+        60.5,
+        63.5
+      ],
+      "sleeveLength": [
+        23.5,
+        25,
+        27.5,
+        30,
+        33,
+        36
+      ],
+      "pantsLength": [
+        39.5,
+        42,
+        45.5,
+        49,
+        54,
+        59
+      ],
+      "waistCircumference": [
+        37,
+        38,
+        40,
+        42,
+        44,
+        46
+      ],
+      "brandId": "moimoln",
+      "id": "moimoln-M264NNN03P",
+      "name": "[모이몰른] 라비밤부양면실내복 [26 겨울]",
+      "source": {
+        "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN03P",
+        "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20261029/M264NNN03P_CE_I1.jpg",
+        "checkedAt": "2026-11-23"
+      },
+      "evidence": {
+        "imageSHA256": "7d218f8ac02fa6b2a8563903833e66f8234b73fdca339d108da14e50bd566c7b",
+        "pageSHA256": "384c106ac3d37ecb7523a0cc8eaa40867703d3eb7c785aaf41d26eab307c2dda",
+        "productCode": "M264NNN03P",
+        "pageTitle": "[모이몰른] 라비밤부양면실내복 [26 겨울]",
+        "originalImageLinkedAt": "2026-11-17",
+        "readMethod": "direct-visual-transcription-and-second-pass-check"
+      },
+      "attributes": {
+        "fibers": [
+          "cotton",
+          "bamboo"
+        ],
+        "fabricLabel": "(겉감)레이온(밤부)60%,면40%(배색1/배색2)면100%(배색3)면95%,폴리우레탄5%",
+        "weave": "",
+        "seasons": [],
+        "seasonEvidence": [],
+        "features": [],
+        "origins": [],
+        "description": "향균소취가 우수한 밤부 소재와 단정한 카라 디자인으로 활동부터 수면까지 편안한 내의 상하세트",
+        "material": "(겉감)레이온(밤부)60%,면40%(배색1/배색2)면100%(배색3)면95%,폴리우레탄5%",
+        "source": {
+          "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN03P",
+          "checkedAt": "2026-11-23"
+        }
+      }
+    },
+    {
+      "code": "M264NNN02P",
+      "labels": [
+        70,
+        80,
+        90,
+        100,
+        110,
+        120
+      ],
+      "topLength": [
+        29.5,
+        31,
+        33.5,
+        36,
+        39.5,
+        43
+      ],
+      "chestCircumference": [
+        48,
+        49.5,
+        52,
+        54.5,
+        57.5,
+        61
+      ],
+      "sleeveLength": [
+        24,
+        25.5,
+        28,
+        30.5,
+        33.5,
+        36.5
+      ],
+      "pantsLength": [
+        39.5,
+        42,
+        45.5,
+        49,
+        54,
+        59
+      ],
+      "waistCircumference": [
+        37,
+        38,
+        40,
+        42,
+        44,
+        46
+      ],
+      "brandId": "moimoln",
+      "id": "moimoln-M264NNN02P",
+      "name": "[모이몰른] 미니모이 보들 여아실내복 [26 겨울]",
+      "source": {
+        "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN02P",
+        "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20261111/M264NNN02P_YE_I1.jpg",
+        "checkedAt": "2026-11-23"
+      },
+      "evidence": {
+        "imageSHA256": "9cf55db692a203e2a74ec2d618d8fa6e83d9ac56c53af5dafc821632907b1076",
+        "pageSHA256": "27f652e309837f050f724f03f1dd41d2d959c949da1fb9e37c279de4b409c106",
+        "productCode": "M264NNN02P",
+        "pageTitle": "[모이몰른] 미니모이 보들 여아실내복 [26 겨울]",
+        "originalImageLinkedAt": "2026-11-17",
+        "readMethod": "direct-visual-transcription-and-second-pass-check"
+      },
+      "attributes": {
+        "fibers": [
+          "cotton",
+          "modal"
+        ],
+        "fabricLabel": "(겉감)면56%,모달44%",
+        "weave": "",
+        "seasons": [],
+        "seasonEvidence": [],
+        "features": [
+          {
+            "key": "soft",
+            "label": "부드러운 원단",
+            "evidence": "[모이몰른] 미니모이 보들 여아실내복 [26 겨울] 부드럽고 촉촉한 천연 콜라겐 필라젠 소재와 프릴 디테일의 여아 실내복 상하세트"
+          }
+        ],
+        "origins": [],
+        "description": "부드럽고 촉촉한 천연 콜라겐 필라젠 소재와 프릴 디테일의 여아 실내복 상하세트",
+        "material": "(겉감)면56%,모달44%",
+        "source": {
+          "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN02P",
+          "checkedAt": "2026-11-23"
+        }
+      }
+    },
+    {
+      "code": "M264NNN01P",
+      "labels": [
+        70,
+        80,
+        90
+      ],
+      "topLength": [
+        29.5,
+        31,
+        33.5
+      ],
+      "chestCircumference": [
+        48,
+        49.5,
+        52
+      ],
+      "sleeveLength": [
+        23.5,
+        25,
+        27.5
+      ],
+      "pantsLength": [
+        39,
+        41.5,
+        45
+      ],
+      "waistCircumference": [
+        37,
+        38,
+        40
+      ],
+      "brandId": "moimoln",
+      "id": "moimoln-M264NNN01P",
+      "name": "[모이몰른] 미니모이 보들 실내복 [26 겨울]",
+      "source": {
+        "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN01P",
+        "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20261111/M264NNN01P_OW_I1.jpg",
+        "checkedAt": "2026-11-23"
+      },
+      "evidence": {
+        "imageSHA256": "1624d8c0a7499cc3b2ec0edb03f3c9973030b2085fd256b73bf5d85d41a57443",
+        "pageSHA256": "a975549ab53642d2b0f913cf0b359e8960004cb4029d08b5a5b1ccdfd13fe1fe",
+        "productCode": "M264NNN01P",
+        "pageTitle": "[모이몰른] 미니모이 보들 실내복 [26 겨울]",
+        "originalImageLinkedAt": "2026-11-17",
+        "readMethod": "direct-visual-transcription-and-second-pass-check"
+      },
+      "attributes": {
+        "fibers": [
+          "cotton",
+          "modal"
+        ],
+        "fabricLabel": "(겉감)면56%,모달44%",
+        "weave": "",
+        "seasons": [],
+        "seasonEvidence": [],
+        "features": [
+          {
+            "key": "soft",
+            "label": "부드러운 원단",
+            "evidence": "[모이몰른] 미니모이 보들 실내복 [26 겨울] 부드럽고 촉촉한 천연 콜라겐 필라젠 소재와 허릿단 프릴 디테일의 실내복 상하세트"
+          }
+        ],
+        "origins": [],
+        "description": "부드럽고 촉촉한 천연 콜라겐 필라젠 소재와 허릿단 프릴 디테일의 실내복 상하세트",
+        "material": "(겉감)면56%,모달44%",
+        "source": {
+          "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN01P",
+          "checkedAt": "2026-11-23"
+        }
+      }
+    },
+    {
+      "code": "M264NNH41P",
+      "labels": [
+        80,
+        90,
+        100,
+        110,
+        120,
+        130
+      ],
+      "topLength": [
+        31,
+        33.5,
+        36.5,
+        39.5,
+        43,
+        46.5
+      ],
+      "chestCircumference": [
+        58,
+        60.5,
+        63.5,
+        66.5,
+        70,
+        73.5
+      ],
+      "sleeveLength": [
+        30.5,
+        33.3,
+        36.6,
+        39.9,
+        43.7,
+        47.5
+      ],
+      "pantsLength": [
+        41,
+        44.5,
+        49.5,
+        54.5,
+        60.5,
+        66.5
+      ],
+      "waistCircumference": [
+        38,
+        40,
+        42,
+        44,
+        46,
+        48
+      ],
+      "brandId": "moimoln",
+      "id": "moimoln-M264NNH41P",
+      "name": "[모이몰른] SOFT&안토와플스판안심실내복 [26 겨울]",
+      "source": {
+        "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNH41P",
+        "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260821/M264NNH41P_BL_I1.jpg",
+        "checkedAt": "2026-11-23"
+      },
+      "evidence": {
+        "imageSHA256": "c8d93e1dc6f9cb4165f48e034714c6592cee71fd09ae72201ab16055fb1bb8b4",
+        "pageSHA256": "c4009d868988162a413de2069f05f767bc9f4f5a9e05e27c1ca6d7568ad9d06e",
+        "productCode": "M264NNH41P",
+        "pageTitle": "[모이몰른] SOFT&안토와플스판안심실내복 [26 겨울]",
+        "originalImageLinkedAt": "2026-11-17",
+        "readMethod": "direct-visual-transcription-and-second-pass-check"
+      },
+      "attributes": {
+        "fibers": [
+          "cotton",
+          "polyester"
+        ],
+        "fabricLabel": "(겉감)면75%,폴리에스터22%,폴리우레탄3%",
+        "weave": "",
+        "seasons": [],
+        "seasonEvidence": [],
+        "features": [
+          {
+            "key": "soft",
+            "label": "부드러운 원단",
+            "evidence": "[모이몰른] SOFT&안토와플스판안심실내복 [26 겨울] 무시접 봉제와 배색 와펜 포인트의 와플스판 안심실내복 상하세트"
+          }
+        ],
+        "origins": [],
+        "description": "무시접 봉제와 배색 와펜 포인트의 와플스판 안심실내복 상하세트",
+        "material": "(겉감)면75%,폴리에스터22%,폴리우레탄3%",
+        "source": {
+          "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNH41P",
+          "checkedAt": "2026-11-23"
+        }
+      }
+    },
+    {
+      "code": "M264NNN18P",
+      "labels": [
+        70,
+        80,
+        90,
+        100,
+        110,
+        120
+      ],
+      "topLength": [
+        29.5,
+        31,
+        33.5,
+        36,
+        39.5,
+        43
+      ],
+      "chestCircumference": [
+        48,
+        49.5,
+        52,
+        54.5,
+        57.5,
+        61
+      ],
+      "sleeveLength": [
+        23.5,
+        25,
+        27.5,
+        30,
+        33,
+        36.5
+      ],
+      "pantsLength": [
+        38.5,
+        41,
+        44.5,
+        48,
+        53,
+        59
+      ],
+      "waistCircumference": [
+        30,
+        31.5,
+        33.5,
+        35.5,
+        38,
+        40.8
+      ],
+      "brandId": "moimoln",
+      "id": "moimoln-M264NNN18P",
+      "name": "[모이몰른] 모니르면모달스판배바지실내복 [26 겨울]",
+      "source": {
+        "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN18P",
+        "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20261111/M264NNN18P_OR_I1.jpg",
+        "checkedAt": "2026-11-23"
+      },
+      "evidence": {
+        "imageSHA256": "90f0b593ba48bc6c436458c80fcbb072209db4f5d8440e963574dee37e770331",
+        "pageSHA256": "fc091c9592188200017620452af9ab3d3a49ff6b90a085e6b5c0137926ef45ac",
+        "productCode": "M264NNN18P",
+        "pageTitle": "[모이몰른] 모니르면모달스판배바지실내복 [26 겨울]",
+        "originalImageLinkedAt": "2026-11-17",
+        "readMethod": "direct-visual-transcription-and-second-pass-check"
+      },
+      "attributes": {
+        "fibers": [
+          "cotton",
+          "modal"
+        ],
+        "fabricLabel": "(겉감/배색3)면57%,레이온(모달)38%,폴리우레탄5%(배색1/배색2)면100%",
+        "weave": "",
+        "seasons": [],
+        "seasonEvidence": [],
+        "features": [
+          {
+            "key": "soft",
+            "label": "부드러운 원단",
+            "evidence": "[모이몰른] 모니르면모달스판배바지실내복 [26 겨울] 부드러운 면모달 스판 소재로 배를 따뜻하게 감싸주는 배바지 실내복 상하세트"
+          }
+        ],
+        "origins": [],
+        "description": "부드러운 면모달 스판 소재로 배를 따뜻하게 감싸주는 배바지 실내복 상하세트",
+        "material": "(겉감/배색3)면57%,레이온(모달)38%,폴리우레탄5%(배색1/배색2)면100%",
+        "source": {
+          "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN18P",
+          "checkedAt": "2026-11-23"
+        }
+      }
+    },
+    {
+      "code": "M264NNN11P",
+      "labels": [
+        70,
+        80,
+        90,
+        100,
+        110,
+        120
+      ],
+      "topLength": [
+        29.5,
+        31,
+        33.5,
+        36,
+        39.5,
+        43
+      ],
+      "chestCircumference": [
+        48,
+        49.5,
+        52,
+        54.5,
+        57.5,
+        61
+      ],
+      "sleeveLength": [
+        24,
+        25.5,
+        28,
+        30.5,
+        33.5,
+        37
+      ],
+      "pantsLength": [
+        38.5,
+        41,
+        44.5,
+        48,
+        53,
+        59
+      ],
+      "waistCircumference": [
+        30.5,
+        31.5,
+        33.5,
+        35.5,
+        38,
+        40.8
+      ],
+      "brandId": "moimoln",
+      "id": "moimoln-M264NNN11P",
+      "name": "[모이몰른] 도리밤부골지스판배바지실내복 [26 겨울]",
+      "source": {
+        "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN11P",
+        "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20261111/M264NNN11P_PU_I1.jpg",
+        "checkedAt": "2026-11-23"
+      },
+      "evidence": {
+        "imageSHA256": "f60481cf09fe933091eb169d70fcf86faddc0075935817934c2adc986808d23a",
+        "pageSHA256": "1b286b49b81a3a8ce8f6dee456c1b4a0f6d5e1f5c7426453b99e9a5d401e2e7b",
+        "productCode": "M264NNN11P",
+        "pageTitle": "[모이몰른] 도리밤부골지스판배바지실내복 [26 겨울]",
+        "originalImageLinkedAt": "2026-11-17",
+        "readMethod": "direct-visual-transcription-and-second-pass-check"
+      },
+      "attributes": {
+        "fibers": [
+          "cotton",
+          "bamboo"
+        ],
+        "fabricLabel": "(겉감)레이온58%,면38%,폴리우레탄4%(배색)면100%",
+        "weave": "rib",
+        "seasons": [],
+        "seasonEvidence": [],
+        "features": [
+          {
+            "key": "soft",
+            "label": "부드러운 원단",
+            "evidence": "[모이몰른] 도리밤부골지스판배바지실내복 [26 겨울] 부드러운 밤부 골지 스판 소재의 배앓이 방지 배바지 실내복 상하세트"
+          }
+        ],
+        "origins": [],
+        "description": "부드러운 밤부 골지 스판 소재의 배앓이 방지 배바지 실내복 상하세트",
+        "material": "(겉감)레이온58%,면38%,폴리우레탄4%(배색)면100%",
+        "source": {
+          "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN11P",
+          "checkedAt": "2026-11-23"
+        },
+        "fiberEvidence": "공식 상품명과 설명에 밤부 골지 스판으로 명시. 혼용률 원문은 레이온58%,면38%,폴리우레탄4%로 보존."
+      }
+    },
+    {
+      "code": "M264NNN08P",
+      "labels": [
+        70,
+        80,
+        90,
+        100,
+        110,
+        120
+      ],
+      "topLength": [
+        29.5,
+        31,
+        33.5,
+        37,
+        40.5,
+        44
+      ],
+      "chestCircumference": [
+        58.5,
+        60,
+        62.5,
+        65.5,
+        68.5,
+        72
+      ],
+      "sleeveLength": [
+        27.5,
+        30,
+        32.8,
+        36.1,
+        39.4,
+        43.2
+      ],
+      "pantsLength": [
+        38.5,
+        41,
+        44.5,
+        49.5,
+        54.5,
+        60.5
+      ],
+      "waistCircumference": [
+        37,
+        38,
+        40,
+        42,
+        44,
+        46
+      ],
+      "brandId": "moimoln",
+      "id": "moimoln-M264NNN08P",
+      "name": "[모이몰른] 커비양면실내복 [26 겨울]",
+      "source": {
+        "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN08P",
+        "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20261111/M264NNN08P_BL_I1.jpg",
+        "checkedAt": "2026-11-23"
+      },
+      "evidence": {
+        "imageSHA256": "08e47658b84c31f5d4c926c0772e021f184b326503f42c01700fd92824cebe5a",
+        "pageSHA256": "3a4a2beb202ac918014cb06d46ec932aaf5e6aab404472a7c3f072fc2b8657e1",
+        "productCode": "M264NNN08P",
+        "pageTitle": "[모이몰른] 커비양면실내복 [26 겨울]",
+        "originalImageLinkedAt": "2026-11-17",
+        "readMethod": "direct-visual-transcription-and-second-pass-check"
+      },
+      "attributes": {
+        "fibers": [
+          "cotton"
+        ],
+        "fabricLabel": "(겉감)면100%",
+        "weave": "",
+        "seasons": [
+          "spring",
+          "autumn"
+        ],
+        "seasonEvidence": [
+          "공식 간절기 표현"
+        ],
+        "features": [
+          {
+            "key": "soft",
+            "label": "부드러운 원단",
+            "evidence": "[모이몰른] 커비양면실내복 [26 겨울] 부드러운 40수 양면 소재와 컬러 배색 유니크 패턴의 간절기 내의 상하세트"
+          }
+        ],
+        "origins": [],
+        "description": "부드러운 40수 양면 소재와 컬러 배색 유니크 패턴의 간절기 내의 상하세트",
+        "material": "(겉감)면100%",
+        "source": {
+          "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN08P",
+          "checkedAt": "2026-11-23"
+        }
+      }
+    },
+    {
+      "code": "M264NNN04P",
+      "labels": [
+        70,
+        80,
+        90,
+        100,
+        110,
+        120
+      ],
+      "topLength": [
+        29.5,
+        31,
+        33.5,
+        36,
+        39.5,
+        43
+      ],
+      "chestCircumference": [
+        48,
+        49.5,
+        52,
+        54.5,
+        57.5,
+        61
+      ],
+      "sleeveLength": [
+        23.5,
+        25,
+        27.5,
+        30,
+        33,
+        36.5
+      ],
+      "pantsLength": [
+        38.5,
+        41,
+        44.5,
+        48,
+        53,
+        59
+      ],
+      "waistCircumference": [
+        30,
+        31.5,
+        33.5,
+        35.5,
+        38,
+        40.8
+      ],
+      "brandId": "moimoln",
+      "id": "moimoln-M264NNN04P",
+      "name": "[모이몰른] 라비면모달스판배바지실내복 [26 겨울]",
+      "source": {
+        "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN04P",
+        "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20261111/M264NNN04P_CE_I1.jpg",
+        "checkedAt": "2026-11-23"
+      },
+      "evidence": {
+        "imageSHA256": "90f0b593ba48bc6c436458c80fcbb072209db4f5d8440e963574dee37e770331",
+        "pageSHA256": "c285eab9f730ea0e541554d394b8eb6be2bd8a45308c7ae54b60ff849e1dcca1",
+        "productCode": "M264NNN04P",
+        "pageTitle": "[모이몰른] 라비면모달스판배바지실내복 [26 겨울]",
+        "originalImageLinkedAt": "2026-11-17",
+        "readMethod": "direct-visual-transcription-and-second-pass-check"
+      },
+      "attributes": {
+        "fibers": [
+          "cotton",
+          "modal"
+        ],
+        "fabricLabel": "(겉감/배색)면57%,레이온(모달)38%,폴리우레탄5%",
+        "weave": "",
+        "seasons": [],
+        "seasonEvidence": [],
+        "features": [
+          {
+            "key": "soft",
+            "label": "부드러운 원단",
+            "evidence": "[모이몰른] 라비면모달스판배바지실내복 [26 겨울] 부드러운 면모달 스판 소재의 전판 나염 배앓이 방지 배바지 실내복 상하세트"
+          }
+        ],
+        "origins": [],
+        "description": "부드러운 면모달 스판 소재의 전판 나염 배앓이 방지 배바지 실내복 상하세트",
+        "material": "(겉감/배색)면57%,레이온(모달)38%,폴리우레탄5%",
+        "source": {
+          "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN04P",
+          "checkedAt": "2026-11-23"
+        }
+      }
+    }
+  ],
+  "agabang": {
+    "scope": "주요 겨울 내의 12종과 7부 내의 1종의 공식 상세 이미지 확인. 브랜드 전상품에 대한 판정이 아님.",
+    "commonGuide": {
+      "url": "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/agabang_bottom_new.jpg",
+      "type": "brand-body-guide",
+      "imageSHA256": "8ab14dd7e2db668f76412193a2ee35389d6b522a77a567ddd28c83bdaa214284",
+      "note": "아이 신장·몸무게 참고값이며 옷 실측으로 사용하지 않음."
+    },
+    "products": [
+      {
+        "id": "agabang-55656",
+        "name": "[아가방 겨울신상]하이오픈내의(L/GREEN)_01T71760176 - 아가방",
+        "source": {
+          "url": "https://www.agabangmall.com/product/detail.html?product_no=55656",
+          "checkedAt": "2026-11-23"
+        },
+        "status": "product-measurements-not-found",
+        "reason": "공식 상세 이미지를 확인했으나 사이즈 호칭만 제공되고 상품별 가슴·총장·바지 길이 실측표는 확인되지 않음.",
+        "images": [
+          {
+            "url": "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T71760176.jpg",
+            "imageSHA256": "88cd7c023cb9406e58769ea16a83159bfbb7dd9ba2ab3bb6140ce28bc8924186"
+          }
+        ]
+      },
+      {
+        "id": "agabang-55574",
+        "name": "[아가방 겨울신상]ON)물결스트라이프내의(GREY)_01T81761314 - 아가방",
+        "source": {
+          "url": "https://www.agabangmall.com/product/detail.html?product_no=55574",
+          "checkedAt": "2026-11-23"
+        },
+        "status": "product-measurements-not-found",
+        "reason": "공식 상세 이미지를 확인했으나 사이즈 호칭만 제공되고 상품별 가슴·총장·바지 길이 실측표는 확인되지 않음.",
+        "images": [
+          {
+            "url": "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T81761314.jpg",
+            "imageSHA256": "5a940490f86dcddc3f1cd899ec54f5ae9e365ca499c4af99b1d61fd9bd4ce71c"
+          }
+        ]
+      },
+      {
+        "id": "agabang-55573",
+        "name": "[아가방 겨울신상]ON)베이지스트라이프내의(BEIGE)_01T81761521 - 아가방",
+        "source": {
+          "url": "https://www.agabangmall.com/product/detail.html?product_no=55573",
+          "checkedAt": "2026-11-23"
+        },
+        "status": "product-measurements-not-found",
+        "reason": "공식 상세 이미지를 확인했으나 사이즈 호칭만 제공되고 상품별 가슴·총장·바지 길이 실측표는 확인되지 않음.",
+        "images": [
+          {
+            "url": "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T81761521.jpg",
+            "imageSHA256": "7706cbd1282a92e9aa790c0f2e72a4e1226f53ba5eb097012b515a35c14c6c30"
+          }
+        ]
+      },
+      {
+        "id": "agabang-55572",
+        "name": "[아가방 겨울신상]ON)허니콤누빔내의(IVORY,PINK)_01T817611 - 아가방",
+        "source": {
+          "url": "https://www.agabangmall.com/product/detail.html?product_no=55572",
+          "checkedAt": "2026-11-23"
+        },
+        "status": "product-measurements-not-found",
+        "reason": "공식 상세 이미지를 확인했으나 사이즈 호칭만 제공되고 상품별 가슴·총장·바지 길이 실측표는 확인되지 않음.",
+        "images": [
+          {
+            "url": "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T81761102.jpg",
+            "imageSHA256": "86cc06cf2a70964a8da941b9107edebea96750e432681cdf1048c8c33edd73ee"
+          },
+          {
+            "url": "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T81761158.jpg",
+            "imageSHA256": "5e415bfd23769f269321d15c612b72c35241ca06d7c61c7d6d8b7079680ce1a5"
+          }
+        ]
+      },
+      {
+        "id": "agabang-55570",
+        "name": "[아가방 겨울신상]ON)솔리드양면내의(YELLOW,BLUE,PINK)_01T817616 - 아가방",
+        "source": {
+          "url": "https://www.agabangmall.com/product/detail.html?product_no=55570",
+          "checkedAt": "2026-11-23"
+        },
+        "status": "product-measurements-not-found",
+        "reason": "공식 상세 이미지를 확인했으나 사이즈 호칭만 제공되고 상품별 가슴·총장·바지 길이 실측표는 확인되지 않음.",
+        "images": [
+          {
+            "url": "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T81761687.jpg",
+            "imageSHA256": "cc0c10869f2a38b11dafbaed50523439712157bcd14c76fa171d9b45e637eb05"
+          },
+          {
+            "url": "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T81761642.jpg",
+            "imageSHA256": "efbde4ae835a0c51607239c2b519581b3d1e50c320e760a122b682762afc8034"
+          },
+          {
+            "url": "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T81761658.jpg",
+            "imageSHA256": "0aa9f1de881d2cd2fc3bcd15299a8ce55791e46116b40ec2b0d6a637cfc95165"
+          }
+        ]
+      },
+      {
+        "id": "agabang-55569",
+        "name": "[아가방 겨울신상]ON)퍼피와플내의(CREAM)_01T81761201 - 아가방",
+        "source": {
+          "url": "https://www.agabangmall.com/product/detail.html?product_no=55569",
+          "checkedAt": "2026-11-23"
+        },
+        "status": "product-measurements-not-found",
+        "reason": "공식 상세 이미지를 확인했으나 사이즈 호칭만 제공되고 상품별 가슴·총장·바지 길이 실측표는 확인되지 않음.",
+        "images": [
+          {
+            "url": "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T81761201.jpg",
+            "imageSHA256": "751c6ad02b7a782aba99cf426a3b5b6d0a11c16b072566a398eb2345288f5eb2"
+          }
+        ]
+      },
+      {
+        "id": "agabang-55568",
+        "name": "[아가방 겨울신상]ON)포근베어내의(BEIGE)_01T81761021 - 아가방",
+        "source": {
+          "url": "https://www.agabangmall.com/product/detail.html?product_no=55568",
+          "checkedAt": "2026-11-23"
+        },
+        "status": "product-measurements-not-found",
+        "reason": "공식 상세 이미지를 확인했으나 사이즈 호칭만 제공되고 상품별 가슴·총장·바지 길이 실측표는 확인되지 않음.",
+        "images": [
+          {
+            "url": "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T81761021.jpg",
+            "imageSHA256": "2c67a2528828e26e7097bd8860d1a27fa11785f3772f64db5a970659b3d103c2"
+          }
+        ]
+      },
+      {
+        "id": "agabang-55510",
+        "name": "[아가방 겨울신상]윈터내의(BLUE,CREAM,PINK)_01T757606 - 아가방",
+        "source": {
+          "url": "https://www.agabangmall.com/product/detail.html?product_no=55510",
+          "checkedAt": "2026-11-23"
+        },
+        "status": "product-measurements-not-found",
+        "reason": "공식 상세 이미지를 확인했으나 사이즈 호칭만 제공되고 상품별 가슴·총장·바지 길이 실측표는 확인되지 않음.",
+        "images": [
+          {
+            "url": "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T75760642.jpg",
+            "imageSHA256": "59ca7601a08b634d277f88be4a96692205ecd81ba5dd0210aa4775075cf33d9a"
+          },
+          {
+            "url": "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T75760601.jpg",
+            "imageSHA256": "39f346565cbee8686295e999562858d4d4a5f11e53a1969c2ebbeecd70d33401"
+          },
+          {
+            "url": "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T75760658.jpg",
+            "imageSHA256": "646a5462bb34015b9c7f60a3f4abf3b01e5b793bd21495f19f2b252e8768ad23"
+          }
+        ]
+      },
+      {
+        "id": "agabang-55509",
+        "name": "[아가방 겨울신상]플리파자마(PINK)_01T75785158 - 아가방",
+        "source": {
+          "url": "https://www.agabangmall.com/product/detail.html?product_no=55509",
+          "checkedAt": "2026-11-23"
+        },
+        "status": "product-measurements-not-found",
+        "reason": "공식 상세 이미지를 확인했으나 사이즈 호칭만 제공되고 상품별 가슴·총장·바지 길이 실측표는 확인되지 않음.",
+        "images": [
+          {
+            "url": "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T75785158.jpg",
+            "imageSHA256": "7f370ed390a33c06b203adb4365d7b7e2bf4581d3273835486639da314351e02"
+          }
+        ]
+      },
+      {
+        "id": "agabang-55508",
+        "name": "[아가방 겨울신상]소프트컬러배색오픈내의(CREAM,BEIGE)_01T717616 - 아가방",
+        "source": {
+          "url": "https://www.agabangmall.com/product/detail.html?product_no=55508",
+          "checkedAt": "2026-11-23"
+        },
+        "status": "product-measurements-not-found",
+        "reason": "공식 상세 이미지를 확인했으나 사이즈 호칭만 제공되고 상품별 가슴·총장·바지 길이 실측표는 확인되지 않음.",
+        "images": [
+          {
+            "url": "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T71761601.jpg",
+            "imageSHA256": "00d374268ff58eca23190ca1fad0832efe58e076a971c59b3b93a3b07d3993cc"
+          },
+          {
+            "url": "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T71761621.jpg",
+            "imageSHA256": "10c422933cd1e42f3f7fe778da15b73096496b920d5fbb4d9303a302c23ea8d5"
+          }
+        ]
+      },
+      {
+        "id": "agabang-55378",
+        "name": "[아가방 겨울신상]쟈베스모달오픈내의(YELLOW)_01T71760287 - 아가방",
+        "source": {
+          "url": "https://www.agabangmall.com/product/detail.html?product_no=55378",
+          "checkedAt": "2026-11-23"
+        },
+        "status": "product-measurements-not-found",
+        "reason": "공식 상세 이미지를 확인했으나 사이즈 호칭만 제공되고 상품별 가슴·총장·바지 길이 실측표는 확인되지 않음.",
+        "images": [
+          {
+            "url": "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T71760287.jpg",
+            "imageSHA256": "2f4eb79c07d7551015c46f0ff66b1185b15941a15fc8a19a689324ba5b028e5a"
+          }
+        ]
+      },
+      {
+        "id": "agabang-55375",
+        "name": "[아가방 겨울신상]베이모달오픈내의(BLUE)_01T71761242 - 아가방",
+        "source": {
+          "url": "https://www.agabangmall.com/product/detail.html?product_no=55375",
+          "checkedAt": "2026-11-23"
+        },
+        "status": "product-measurements-not-found",
+        "reason": "공식 상세 이미지를 확인했으나 사이즈 호칭만 제공되고 상품별 가슴·총장·바지 길이 실측표는 확인되지 않음.",
+        "images": [
+          {
+            "url": "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T71761242.jpg",
+            "imageSHA256": "5a55f21a46ab6f93438361111e19d9e5c9f662906c6fd1535cbc9a84ef1101df"
+          }
+        ]
+      },
+      {
+        "id": "agabang-55665",
+        "name": "[아가방 신상]쁘띠블루7부내의(O/WHITE)_01T01765303 - 아가방",
+        "source": {
+          "url": "https://www.agabangmall.com/product/detail.html?product_no=55665",
+          "checkedAt": "2026-11-23"
+        },
+        "status": "product-measurements-not-found",
+        "reason": "공식 상세 이미지를 확인했으나 사이즈 호칭만 제공되고 상품별 가슴·총장·바지 길이 실측표는 확인되지 않음.",
+        "images": [
+          {
+            "url": "https://item.nextmom.co.kr/magaline_img/goods/agabang/2026/01T01765303.jpg",
+            "imageSHA256": "50d47b68e7717851775d4c0ebbf198eb42fc7fa61edf83ea1c579794734603b5"
+          }
+        ]
+      }
+    ]
+  }
+}

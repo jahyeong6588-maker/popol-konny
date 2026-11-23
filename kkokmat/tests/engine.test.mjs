@@ -5,7 +5,7 @@ import {renderCatalogCards} from '../public/catalog.js';
 import {garmentCandidates,bodyCandidates,DIMENSIONS,ALL_DIMENSIONS,KINDS,isComparable} from '../public/engine.js';
 const data=JSON.parse(fs.readFileSync(new URL('../public/data.json',import.meta.url),'utf8'));
 test('every published measurement is finite and positive, while missing dimensions remain missing',()=>{
- for(const p of data.products){assert.match(p.source.url,/^https:\/\//);assert.ok(['2026-11-16','2026-11-17'].includes(p.source.checkedAt));for(const s of p.sizes)for(const k of Object.keys(ALL_DIMENSIONS))if(s[k]!=null)assert.ok(Number.isFinite(s[k])&&s[k]>0,`${p.id} ${s.label} ${k}`);}
+ for(const p of data.products){assert.match(p.source.url,/^https:\/\//);assert.match(p.source.checkedAt,/^\d{4}-\d{2}-\d{2}$/);assert.equal(new Date(p.source.checkedAt+'T00:00:00Z').toISOString().slice(0,10),p.source.checkedAt);assert.ok(p.source.checkedAt<=data.checkedAt);for(const s of p.sizes)for(const k of Object.keys(ALL_DIMENSIONS))if(s[k]!=null)assert.ok(Number.isFinite(s[k])&&s[k]>0,`${p.id} ${s.label} ${k}`);}
 });
 test('circumference is normalized once, retaining original data',()=>{
  const p=data.products.find(p=>p.id==='bluedog-dino-45A7005416'),s=p.sizes[0];assert.equal(s.raw.chestCircumference,50);assert.equal(s.chestWidth,25);

@@ -45,7 +45,8 @@
       "실측 이미지의 숫자를 자동 추측하지 않습니다.",
       "공식몰의 타 브랜드(VULLADI·IGOR·오이오이) 44개 및 상품 코드 없는 목록 항목 1개를 제외했습니다."
     ],
-    "excludedOtherBrandsAndNonProducts": 45
+    "excludedOtherBrandsAndNonProducts": 45,
+    "measurementReviewedAt": "2026-11-23"
   },
   "catalog": [
     {
@@ -4920,19 +4921,29 @@
       "category": "homewear-set",
       "source": {
         "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN07P",
-        "checkedAt": "2026-11-16"
+        "checkedAt": "2026-11-23"
       },
       "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260831/M264NNN07P_CE_01.jpg",
       "sizeLabels": [
         "70",
         "80",
-        "90"
+        "90",
+        "100",
+        "110",
+        "120"
       ],
-      "measurementStatus": "unavailable",
-      "reason": "공식 이미지 실측의 수치 확인 필요",
+      "measurementStatus": "verified",
+      "reason": null,
       "sizeChartImages": [
         "https://image.style24.com/Upload/ProductImage/0000019706/20260914/M264NNN07P_CE_I1.jpg"
-      ]
+      ],
+      "comparable": true,
+      "measurementId": "moimoln-M264NNN07P",
+      "measurementReview": {
+        "checkedAt": "2026-11-23",
+        "method": "direct-visual-transcription",
+        "imageSHA256": "b2d7a5609d7064bf37506496028a98645ee7f280daad751d9da1bda4dadcbbff"
+      }
     },
     {
       "id": "moimoln-M264NNN06P",
@@ -4943,19 +4954,29 @@
       "category": "homewear-set",
       "source": {
         "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN06P",
-        "checkedAt": "2026-11-16"
+        "checkedAt": "2026-11-23"
       },
       "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260831/M264NNN06P_CE_01.jpg",
       "sizeLabels": [
         "70",
         "80",
-        "90"
+        "90",
+        "100",
+        "110",
+        "120"
       ],
-      "measurementStatus": "unavailable",
-      "reason": "공식 이미지 실측의 수치 확인 필요",
+      "measurementStatus": "verified",
+      "reason": null,
       "sizeChartImages": [
         "https://image.style24.com/Upload/ProductImage/0000019706/20260914/M264NNN06P_CE_I1.jpg"
-      ]
+      ],
+      "comparable": true,
+      "measurementId": "moimoln-M264NNN06P",
+      "measurementReview": {
+        "checkedAt": "2026-11-23",
+        "method": "direct-visual-transcription",
+        "imageSHA256": "d2e3938e6de987b3bc8beabc5090e3231763d8a4e820c6369a0d29e03c26f718"
+      }
     },
     {
       "id": "moimoln-M264KPF02P",
@@ -6348,7 +6369,7 @@
       "category": "homewear-set",
       "source": {
         "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN24P",
-        "checkedAt": "2026-11-16"
+        "checkedAt": "2026-11-23"
       },
       "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260818/M264NNN24P_PI_01.jpg",
       "sizeLabels": [
@@ -6356,13 +6377,21 @@
         "90",
         "100",
         "110",
-        "120"
+        "120",
+        "130"
       ],
-      "measurementStatus": "unavailable",
-      "reason": "공식 이미지 실측의 수치 확인 필요",
+      "measurementStatus": "verified",
+      "reason": null,
       "sizeChartImages": [
         "https://image.style24.com/Upload/ProductImage/0000019706/20261029/M264NNN24P_GN_I1.jpg"
-      ]
+      ],
+      "comparable": true,
+      "measurementId": "moimoln-M264NNN24P",
+      "measurementReview": {
+        "checkedAt": "2026-11-23",
+        "method": "direct-visual-transcription",
+        "imageSHA256": "28390f4a8703105ca9f7526bc5e0e182b9e07715d0f034556fd9fceaf3b6c9eb"
+      }
     },
     {
       "id": "moimoln-M264NNN23P",
@@ -6373,7 +6402,7 @@
       "category": "homewear-set",
       "source": {
         "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN23P",
-        "checkedAt": "2026-11-16"
+        "checkedAt": "2026-11-23"
       },
       "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260818/M264NNN23P_PI_01.jpg",
       "sizeLabels": [
@@ -6383,11 +6412,18 @@
         "110",
         "120"
       ],
-      "measurementStatus": "unavailable",
-      "reason": "공식 이미지 실측의 수치 확인 필요",
+      "measurementStatus": "verified",
+      "reason": null,
       "sizeChartImages": [
         "https://image.style24.com/Upload/ProductImage/0000019706/20261029/M264NNN23P_CG_I1.jpg"
-      ]
+      ],
+      "comparable": true,
+      "measurementId": "moimoln-M264NNN23P",
+      "measurementReview": {
+        "checkedAt": "2026-11-23",
+        "method": "direct-visual-transcription",
+        "imageSHA256": "582bef35ddbb7256fc0c24b7d3c34c8aa5a304989cd074c6b83e4277dd05deef"
+      }
     },
     {
       "id": "moimoln-M264NNN14P",
@@ -6398,19 +6434,28 @@
       "category": "homewear-set",
       "source": {
         "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN14P",
-        "checkedAt": "2026-11-16"
+        "checkedAt": "2026-11-23"
       },
       "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260818/M264NNN14P_CE_01.jpg",
       "sizeLabels": [
         "70",
         "80",
-        "90"
+        "90",
+        "100",
+        "110"
       ],
-      "measurementStatus": "unavailable",
-      "reason": "공식 이미지 실측의 수치 확인 필요",
+      "measurementStatus": "verified",
+      "reason": null,
       "sizeChartImages": [
         "https://image.style24.com/Upload/ProductImage/0000019706/20261029/M264NNN14P_CE_I1.jpg"
-      ]
+      ],
+      "comparable": true,
+      "measurementId": "moimoln-M264NNN14P",
+      "measurementReview": {
+        "checkedAt": "2026-11-23",
+        "method": "direct-visual-transcription",
+        "imageSHA256": "053d3aa2c9366cd6e6cea7898b72627c1563fb0d02854f63171588424392b5a1"
+      }
     },
     {
       "id": "moimoln-M264NNN12P",
@@ -6421,19 +6466,29 @@
       "category": "homewear-set",
       "source": {
         "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN12P",
-        "checkedAt": "2026-11-16"
+        "checkedAt": "2026-11-23"
       },
       "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260818/M264NNN12P_CE_01.jpg",
       "sizeLabels": [
         "70",
         "80",
-        "90"
+        "90",
+        "100",
+        "110",
+        "120"
       ],
-      "measurementStatus": "unavailable",
-      "reason": "공식 이미지 실측의 수치 확인 필요",
+      "measurementStatus": "verified",
+      "reason": null,
       "sizeChartImages": [
         "https://image.style24.com/Upload/ProductImage/0000019706/20261029/M264NNN12P_CE_I1.jpg"
-      ]
+      ],
+      "comparable": true,
+      "measurementId": "moimoln-M264NNN12P",
+      "measurementReview": {
+        "checkedAt": "2026-11-23",
+        "method": "direct-visual-transcription",
+        "imageSHA256": "fe68e10584c8cafd6a06350fdde0ad6c643a898080831f248ece8e10ad4c6c31"
+      }
     },
     {
       "id": "moimoln-M264NNN09P",
@@ -6444,19 +6499,29 @@
       "category": "homewear-set",
       "source": {
         "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN09P",
-        "checkedAt": "2026-11-16"
+        "checkedAt": "2026-11-23"
       },
       "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260818/M264NNN09P_CE_01.jpg",
       "sizeLabels": [
         "70",
         "80",
-        "90"
+        "90",
+        "100",
+        "110",
+        "120"
       ],
-      "measurementStatus": "unavailable",
-      "reason": "공식 이미지 실측의 수치 확인 필요",
+      "measurementStatus": "verified",
+      "reason": null,
       "sizeChartImages": [
         "https://image.style24.com/Upload/ProductImage/0000019706/20261029/M264NNN09P_CE_I1.jpg"
-      ]
+      ],
+      "comparable": true,
+      "measurementId": "moimoln-M264NNN09P",
+      "measurementReview": {
+        "checkedAt": "2026-11-23",
+        "method": "direct-visual-transcription",
+        "imageSHA256": "ce68e77b593c595328b63936939dc28f1a66e4c450aef2698006af8741daf86c"
+      }
     },
     {
       "id": "moimoln-M264NNN05P",
@@ -6467,19 +6532,29 @@
       "category": "homewear-set",
       "source": {
         "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN05P",
-        "checkedAt": "2026-11-16"
+        "checkedAt": "2026-11-23"
       },
       "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260818/M264NNN05P_CE_01.jpg",
       "sizeLabels": [
         "70",
         "80",
-        "90"
+        "90",
+        "100",
+        "110",
+        "120"
       ],
-      "measurementStatus": "unavailable",
-      "reason": "공식 이미지 실측의 수치 확인 필요",
+      "measurementStatus": "verified",
+      "reason": null,
       "sizeChartImages": [
         "https://image.style24.com/Upload/ProductImage/0000019706/20261029/M264NNN05P_CE_I1.jpg"
-      ]
+      ],
+      "comparable": true,
+      "measurementId": "moimoln-M264NNN05P",
+      "measurementReview": {
+        "checkedAt": "2026-11-23",
+        "method": "direct-visual-transcription",
+        "imageSHA256": "a9da4826d417dee71a2d774bf5fa83700193d2b17108404c18508e1555452aa9"
+      }
     },
     {
       "id": "moimoln-M264NNN03P",
@@ -6490,19 +6565,29 @@
       "category": "homewear-set",
       "source": {
         "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN03P",
-        "checkedAt": "2026-11-16"
+        "checkedAt": "2026-11-23"
       },
       "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260818/M264NNN03P_CE_01.jpg",
       "sizeLabels": [
         "70",
         "80",
-        "90"
+        "90",
+        "100",
+        "110",
+        "120"
       ],
-      "measurementStatus": "unavailable",
-      "reason": "공식 이미지 실측의 수치 확인 필요",
+      "measurementStatus": "verified",
+      "reason": null,
       "sizeChartImages": [
         "https://image.style24.com/Upload/ProductImage/0000019706/20261029/M264NNN03P_CE_I1.jpg"
-      ]
+      ],
+      "comparable": true,
+      "measurementId": "moimoln-M264NNN03P",
+      "measurementReview": {
+        "checkedAt": "2026-11-23",
+        "method": "direct-visual-transcription",
+        "imageSHA256": "7d218f8ac02fa6b2a8563903833e66f8234b73fdca339d108da14e50bd566c7b"
+      }
     },
     {
       "id": "moimoln-M264NJN01P",
@@ -7687,19 +7772,29 @@
       "category": "homewear-set",
       "source": {
         "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN02P",
-        "checkedAt": "2026-11-16"
+        "checkedAt": "2026-11-23"
       },
       "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260731/M264NNN02P_YE_01.jpg",
       "sizeLabels": [
         "70",
         "80",
-        "90"
+        "90",
+        "100",
+        "110",
+        "120"
       ],
-      "measurementStatus": "unavailable",
-      "reason": "공식 이미지 실측의 수치 확인 필요",
+      "measurementStatus": "verified",
+      "reason": null,
       "sizeChartImages": [
         "https://image.style24.com/Upload/ProductImage/0000019706/20261111/M264NNN02P_YE_I1.jpg"
-      ]
+      ],
+      "comparable": true,
+      "measurementId": "moimoln-M264NNN02P",
+      "measurementReview": {
+        "checkedAt": "2026-11-23",
+        "method": "direct-visual-transcription",
+        "imageSHA256": "9cf55db692a203e2a74ec2d618d8fa6e83d9ac56c53af5dafc821632907b1076"
+      }
     },
     {
       "id": "moimoln-M264NNN01P",
@@ -7710,7 +7805,7 @@
       "category": "homewear-set",
       "source": {
         "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN01P",
-        "checkedAt": "2026-11-16"
+        "checkedAt": "2026-11-23"
       },
       "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260731/M264NNN01P_OW_01.jpg",
       "sizeLabels": [
@@ -7718,11 +7813,18 @@
         "80",
         "90"
       ],
-      "measurementStatus": "unavailable",
-      "reason": "공식 이미지 실측의 수치 확인 필요",
+      "measurementStatus": "verified",
+      "reason": null,
       "sizeChartImages": [
         "https://image.style24.com/Upload/ProductImage/0000019706/20261111/M264NNN01P_OW_I1.jpg"
-      ]
+      ],
+      "comparable": true,
+      "measurementId": "moimoln-M264NNN01P",
+      "measurementReview": {
+        "checkedAt": "2026-11-23",
+        "method": "direct-visual-transcription",
+        "imageSHA256": "1624d8c0a7499cc3b2ec0edb03f3c9973030b2085fd256b73bf5d85d41a57443"
+      }
     },
     {
       "id": "moimoln-M264NNH41P",
@@ -7733,7 +7835,7 @@
       "category": "homewear-set",
       "source": {
         "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNH41P",
-        "checkedAt": "2026-11-16"
+        "checkedAt": "2026-11-23"
       },
       "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260729/M264NNH41P_CE_01.jpg",
       "sizeLabels": [
@@ -7744,11 +7846,18 @@
         "120",
         "130"
       ],
-      "measurementStatus": "unavailable",
-      "reason": "공식 이미지 실측의 수치 확인 필요",
+      "measurementStatus": "verified",
+      "reason": null,
       "sizeChartImages": [
         "https://image.style24.com/Upload/ProductImage/0000019706/20260821/M264NNH41P_BL_I1.jpg"
-      ]
+      ],
+      "comparable": true,
+      "measurementId": "moimoln-M264NNH41P",
+      "measurementReview": {
+        "checkedAt": "2026-11-23",
+        "method": "direct-visual-transcription",
+        "imageSHA256": "c8d93e1dc6f9cb4165f48e034714c6592cee71fd09ae72201ab16055fb1bb8b4"
+      }
     },
     {
       "id": "moimoln-M264BUN02P",
@@ -8356,19 +8465,29 @@
       "category": "homewear-set",
       "source": {
         "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN18P",
-        "checkedAt": "2026-11-16"
+        "checkedAt": "2026-11-23"
       },
       "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260720/M264NNN18P_OR_01.jpg",
       "sizeLabels": [
         "70",
         "80",
-        "90"
+        "90",
+        "100",
+        "110",
+        "120"
       ],
-      "measurementStatus": "unavailable",
-      "reason": "공식 이미지 실측의 수치 확인 필요",
+      "measurementStatus": "verified",
+      "reason": null,
       "sizeChartImages": [
         "https://image.style24.com/Upload/ProductImage/0000019706/20261111/M264NNN18P_OR_I1.jpg"
-      ]
+      ],
+      "comparable": true,
+      "measurementId": "moimoln-M264NNN18P",
+      "measurementReview": {
+        "checkedAt": "2026-11-23",
+        "method": "direct-visual-transcription",
+        "imageSHA256": "90f0b593ba48bc6c436458c80fcbb072209db4f5d8440e963574dee37e770331"
+      }
     },
     {
       "id": "moimoln-M264NNN11P",
@@ -8379,19 +8498,29 @@
       "category": "homewear-set",
       "source": {
         "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN11P",
-        "checkedAt": "2026-11-16"
+        "checkedAt": "2026-11-23"
       },
       "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260720/M264NNN11P_PU_01.jpg",
       "sizeLabels": [
         "70",
         "80",
-        "90"
+        "90",
+        "100",
+        "110",
+        "120"
       ],
-      "measurementStatus": "unavailable",
-      "reason": "공식 이미지 실측의 수치 확인 필요",
+      "measurementStatus": "verified",
+      "reason": null,
       "sizeChartImages": [
         "https://image.style24.com/Upload/ProductImage/0000019706/20261111/M264NNN11P_PU_I1.jpg"
-      ]
+      ],
+      "comparable": true,
+      "measurementId": "moimoln-M264NNN11P",
+      "measurementReview": {
+        "checkedAt": "2026-11-23",
+        "method": "direct-visual-transcription",
+        "imageSHA256": "f60481cf09fe933091eb169d70fcf86faddc0075935817934c2adc986808d23a"
+      }
     },
     {
       "id": "moimoln-M264NNN08P",
@@ -8402,19 +8531,29 @@
       "category": "homewear-set",
       "source": {
         "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN08P",
-        "checkedAt": "2026-11-16"
+        "checkedAt": "2026-11-23"
       },
       "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260720/M264NNN08P_BL_01.jpg",
       "sizeLabels": [
         "70",
         "80",
-        "90"
+        "90",
+        "100",
+        "110",
+        "120"
       ],
-      "measurementStatus": "unavailable",
-      "reason": "공식 이미지 실측의 수치 확인 필요",
+      "measurementStatus": "verified",
+      "reason": null,
       "sizeChartImages": [
         "https://image.style24.com/Upload/ProductImage/0000019706/20261111/M264NNN08P_BL_I1.jpg"
-      ]
+      ],
+      "comparable": true,
+      "measurementId": "moimoln-M264NNN08P",
+      "measurementReview": {
+        "checkedAt": "2026-11-23",
+        "method": "direct-visual-transcription",
+        "imageSHA256": "08e47658b84c31f5d4c926c0772e021f184b326503f42c01700fd92824cebe5a"
+      }
     },
     {
       "id": "moimoln-M264NNN04P",
@@ -8425,19 +8564,29 @@
       "category": "homewear-set",
       "source": {
         "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN04P",
-        "checkedAt": "2026-11-16"
+        "checkedAt": "2026-11-23"
       },
       "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260720/M264NNN04P_CE_01.jpg",
       "sizeLabels": [
         "70",
         "80",
-        "90"
+        "90",
+        "100",
+        "110",
+        "120"
       ],
-      "measurementStatus": "unavailable",
-      "reason": "공식 이미지 실측의 수치 확인 필요",
+      "measurementStatus": "verified",
+      "reason": null,
       "sizeChartImages": [
         "https://image.style24.com/Upload/ProductImage/0000019706/20261111/M264NNN04P_CE_I1.jpg"
-      ]
+      ],
+      "comparable": true,
+      "measurementId": "moimoln-M264NNN04P",
+      "measurementReview": {
+        "checkedAt": "2026-11-23",
+        "method": "direct-visual-transcription",
+        "imageSHA256": "90f0b593ba48bc6c436458c80fcbb072209db4f5d8440e963574dee37e770331"
+      }
     },
     {
       "id": "moimoln-M264NNH42P",
@@ -55660,5 +55809,2115 @@
       "sizeChartImages": []
     }
   ],
-  "products": []
+  "products": [
+    {
+      "id": "moimoln-M264NNN07P",
+      "brandId": "moimoln",
+      "name": "[모이몰른] 루나면모달스판배바지실내복 [26 겨울]",
+      "code": "M264NNN07P",
+      "category": "homewear-set",
+      "kind": "homewear-set",
+      "audience": "child",
+      "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260831/M264NNN07P_CE_01.jpg",
+      "material": "(겉감)면57%,레이온(모달)38%,폴리우레탄5%",
+      "attributes": {
+        "fibers": [
+          "cotton",
+          "modal"
+        ],
+        "fabricLabel": "(겉감)면57%,레이온(모달)38%,폴리우레탄5%",
+        "weave": "",
+        "seasons": [
+          "spring",
+          "autumn"
+        ],
+        "seasonEvidence": [
+          "공식 간절기 표현"
+        ],
+        "features": [],
+        "origins": [],
+        "description": "간절기 베이비 배앓이 방지 루나 면모달 스판 배바지 실내복 상하세트",
+        "material": "(겉감)면57%,레이온(모달)38%,폴리우레탄5%",
+        "source": {
+          "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN07P",
+          "checkedAt": "2026-11-23"
+        }
+      },
+      "source": {
+        "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN07P",
+        "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260914/M264NNN07P_CE_I1.jpg",
+        "checkedAt": "2026-11-23"
+      },
+      "measurementBasis": "공식 상품별 실측 이미지 직접 판독 · 가슴·허리 둘레 ÷2 환산",
+      "notes": [
+        "공식 상품 상세에서 연결된 상품 코드별 실측 이미지 직접 판독. 상의·하의 사이즈 열을 각각 대조하고 가슴·허리 둘레는 원본을 보존한 뒤 단면 비교값으로만 2분의 1 환산한다. 어깨 봉제선 기준 팔길이를 소매 길이로 기록한다. 제품별 실제 착용감이나 신체 권장 범위로 확대하지 않는다.",
+        "공식 안내: 제작·측정 방식에 따라 1~2cm 오차가 있을 수 있습니다.",
+        "팔길이는 어깨 봉제선부터 소매 끝까지 측정한 값입니다."
+      ],
+      "sizes": [
+        {
+          "label": "70",
+          "topLength": 29.5,
+          "chestWidth": 24,
+          "sleeveLength": 23.5,
+          "pantsLength": 38.5,
+          "waistWidth": 15,
+          "raw": {
+            "topLength": 29.5,
+            "chestCircumference": 48,
+            "sleeveLength": 23.5,
+            "pantsLength": 38.5,
+            "waistCircumference": 30
+          }
+        },
+        {
+          "label": "80",
+          "topLength": 31,
+          "chestWidth": 24.75,
+          "sleeveLength": 25,
+          "pantsLength": 41,
+          "waistWidth": 15.75,
+          "raw": {
+            "topLength": 31,
+            "chestCircumference": 49.5,
+            "sleeveLength": 25,
+            "pantsLength": 41,
+            "waistCircumference": 31.5
+          }
+        },
+        {
+          "label": "90",
+          "topLength": 33.5,
+          "chestWidth": 26,
+          "sleeveLength": 27.5,
+          "pantsLength": 44.5,
+          "waistWidth": 16.75,
+          "raw": {
+            "topLength": 33.5,
+            "chestCircumference": 52,
+            "sleeveLength": 27.5,
+            "pantsLength": 44.5,
+            "waistCircumference": 33.5
+          }
+        },
+        {
+          "label": "100",
+          "topLength": 36,
+          "chestWidth": 27.25,
+          "sleeveLength": 30,
+          "pantsLength": 48,
+          "waistWidth": 17.75,
+          "raw": {
+            "topLength": 36,
+            "chestCircumference": 54.5,
+            "sleeveLength": 30,
+            "pantsLength": 48,
+            "waistCircumference": 35.5
+          }
+        },
+        {
+          "label": "110",
+          "topLength": 39.5,
+          "chestWidth": 28.75,
+          "sleeveLength": 33,
+          "pantsLength": 53,
+          "waistWidth": 19,
+          "raw": {
+            "topLength": 39.5,
+            "chestCircumference": 57.5,
+            "sleeveLength": 33,
+            "pantsLength": 53,
+            "waistCircumference": 38
+          }
+        },
+        {
+          "label": "120",
+          "topLength": 43,
+          "chestWidth": 30.5,
+          "sleeveLength": 36.5,
+          "pantsLength": 59,
+          "waistWidth": 20.4,
+          "raw": {
+            "topLength": 43,
+            "chestCircumference": 61,
+            "sleeveLength": 36.5,
+            "pantsLength": 59,
+            "waistCircumference": 40.8
+          }
+        }
+      ]
+    },
+    {
+      "id": "moimoln-M264NNN06P",
+      "brandId": "moimoln",
+      "name": "[모이몰른] 루나양면여아실내복 [26 겨울]",
+      "code": "M264NNN06P",
+      "category": "homewear-set",
+      "kind": "homewear-set",
+      "audience": "child",
+      "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260831/M264NNN06P_CE_01.jpg",
+      "material": "(겉감/배색)면100%",
+      "attributes": {
+        "fibers": [
+          "cotton"
+        ],
+        "fabricLabel": "(겉감/배색)면100%",
+        "weave": "",
+        "seasons": [
+          "spring",
+          "autumn"
+        ],
+        "seasonEvidence": [
+          "공식 간절기 표현"
+        ],
+        "features": [],
+        "origins": [],
+        "description": "간절기 베이비 나무 나염 프릴 루나 양면 여아 실내복 상하세트",
+        "material": "(겉감/배색)면100%",
+        "source": {
+          "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN06P",
+          "checkedAt": "2026-11-23"
+        }
+      },
+      "source": {
+        "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN06P",
+        "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260914/M264NNN06P_CE_I1.jpg",
+        "checkedAt": "2026-11-23"
+      },
+      "measurementBasis": "공식 상품별 실측 이미지 직접 판독 · 가슴·허리 둘레 ÷2 환산",
+      "notes": [
+        "공식 상품 상세에서 연결된 상품 코드별 실측 이미지 직접 판독. 상의·하의 사이즈 열을 각각 대조하고 가슴·허리 둘레는 원본을 보존한 뒤 단면 비교값으로만 2분의 1 환산한다. 어깨 봉제선 기준 팔길이를 소매 길이로 기록한다. 제품별 실제 착용감이나 신체 권장 범위로 확대하지 않는다.",
+        "공식 안내: 제작·측정 방식에 따라 1~2cm 오차가 있을 수 있습니다.",
+        "팔길이는 어깨 봉제선부터 소매 끝까지 측정한 값입니다."
+      ],
+      "sizes": [
+        {
+          "label": "70",
+          "topLength": 29.5,
+          "chestWidth": 25,
+          "sleeveLength": 23.5,
+          "pantsLength": 38.5,
+          "waistWidth": 18.5,
+          "raw": {
+            "topLength": 29.5,
+            "chestCircumference": 50,
+            "sleeveLength": 23.5,
+            "pantsLength": 38.5,
+            "waistCircumference": 37
+          }
+        },
+        {
+          "label": "80",
+          "topLength": 31,
+          "chestWidth": 25.75,
+          "sleeveLength": 25,
+          "pantsLength": 41,
+          "waistWidth": 19,
+          "raw": {
+            "topLength": 31,
+            "chestCircumference": 51.5,
+            "sleeveLength": 25,
+            "pantsLength": 41,
+            "waistCircumference": 38
+          }
+        },
+        {
+          "label": "90",
+          "topLength": 33.5,
+          "chestWidth": 27,
+          "sleeveLength": 27.5,
+          "pantsLength": 44.5,
+          "waistWidth": 20,
+          "raw": {
+            "topLength": 33.5,
+            "chestCircumference": 54,
+            "sleeveLength": 27.5,
+            "pantsLength": 44.5,
+            "waistCircumference": 40
+          }
+        },
+        {
+          "label": "100",
+          "topLength": 36,
+          "chestWidth": 28.25,
+          "sleeveLength": 30,
+          "pantsLength": 48,
+          "waistWidth": 21,
+          "raw": {
+            "topLength": 36,
+            "chestCircumference": 56.5,
+            "sleeveLength": 30,
+            "pantsLength": 48,
+            "waistCircumference": 42
+          }
+        },
+        {
+          "label": "110",
+          "topLength": 39.5,
+          "chestWidth": 29.75,
+          "sleeveLength": 33,
+          "pantsLength": 53,
+          "waistWidth": 22,
+          "raw": {
+            "topLength": 39.5,
+            "chestCircumference": 59.5,
+            "sleeveLength": 33,
+            "pantsLength": 53,
+            "waistCircumference": 44
+          }
+        },
+        {
+          "label": "120",
+          "topLength": 43,
+          "chestWidth": 31.25,
+          "sleeveLength": 36,
+          "pantsLength": 58,
+          "waistWidth": 23,
+          "raw": {
+            "topLength": 43,
+            "chestCircumference": 62.5,
+            "sleeveLength": 36,
+            "pantsLength": 58,
+            "waistCircumference": 46
+          }
+        }
+      ]
+    },
+    {
+      "id": "moimoln-M264NNN24P",
+      "brandId": "moimoln",
+      "name": "[모이몰른] C르엘후라이스실내복 [26 겨울]",
+      "code": "M264NNN24P",
+      "category": "homewear-set",
+      "kind": "homewear-set",
+      "audience": "child",
+      "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260818/M264NNN24P_PI_01.jpg",
+      "material": "(겉감/배색)면100%",
+      "attributes": {
+        "fibers": [
+          "cotton"
+        ],
+        "fabricLabel": "(겉감/배색)면100%",
+        "weave": "",
+        "seasons": [],
+        "seasonEvidence": [],
+        "features": [
+          {
+            "key": "soft",
+            "label": "부드러운 원단",
+            "evidence": "[모이몰른] C르엘후라이스실내복 [26 겨울] 부드러운 후라이스 소재에 잔잔한 스트라이프 플라워 패턴을 더한 내의 상하세트"
+          }
+        ],
+        "origins": [],
+        "description": "부드러운 후라이스 소재에 잔잔한 스트라이프 플라워 패턴을 더한 내의 상하세트",
+        "material": "(겉감/배색)면100%",
+        "source": {
+          "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN24P",
+          "checkedAt": "2026-11-23"
+        }
+      },
+      "source": {
+        "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN24P",
+        "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20261029/M264NNN24P_GN_I1.jpg",
+        "checkedAt": "2026-11-23"
+      },
+      "measurementBasis": "공식 상품별 실측 이미지 직접 판독 · 가슴·허리 둘레 ÷2 환산",
+      "notes": [
+        "공식 상품 상세에서 연결된 상품 코드별 실측 이미지 직접 판독. 상의·하의 사이즈 열을 각각 대조하고 가슴·허리 둘레는 원본을 보존한 뒤 단면 비교값으로만 2분의 1 환산한다. 어깨 봉제선 기준 팔길이를 소매 길이로 기록한다. 제품별 실제 착용감이나 신체 권장 범위로 확대하지 않는다.",
+        "공식 안내: 제작·측정 방식에 따라 1~2cm 오차가 있을 수 있습니다.",
+        "팔길이는 어깨 봉제선부터 소매 끝까지 측정한 값입니다."
+      ],
+      "sizes": [
+        {
+          "label": "80",
+          "topLength": 31,
+          "chestWidth": 24.75,
+          "sleeveLength": 24.5,
+          "pantsLength": 40,
+          "waistWidth": 19,
+          "raw": {
+            "topLength": 31,
+            "chestCircumference": 49.5,
+            "sleeveLength": 24.5,
+            "pantsLength": 40,
+            "waistCircumference": 38
+          }
+        },
+        {
+          "label": "90",
+          "topLength": 33.5,
+          "chestWidth": 26,
+          "sleeveLength": 27,
+          "pantsLength": 43.5,
+          "waistWidth": 20,
+          "raw": {
+            "topLength": 33.5,
+            "chestCircumference": 52,
+            "sleeveLength": 27,
+            "pantsLength": 43.5,
+            "waistCircumference": 40
+          }
+        },
+        {
+          "label": "100",
+          "topLength": 36,
+          "chestWidth": 27.25,
+          "sleeveLength": 29.5,
+          "pantsLength": 47,
+          "waistWidth": 21,
+          "raw": {
+            "topLength": 36,
+            "chestCircumference": 54.5,
+            "sleeveLength": 29.5,
+            "pantsLength": 47,
+            "waistCircumference": 42
+          }
+        },
+        {
+          "label": "110",
+          "topLength": 39.5,
+          "chestWidth": 28.75,
+          "sleeveLength": 32.5,
+          "pantsLength": 52,
+          "waistWidth": 22,
+          "raw": {
+            "topLength": 39.5,
+            "chestCircumference": 57.5,
+            "sleeveLength": 32.5,
+            "pantsLength": 52,
+            "waistCircumference": 44
+          }
+        },
+        {
+          "label": "120",
+          "topLength": 43,
+          "chestWidth": 30.5,
+          "sleeveLength": 36,
+          "pantsLength": 58,
+          "waistWidth": 23,
+          "raw": {
+            "topLength": 43,
+            "chestCircumference": 61,
+            "sleeveLength": 36,
+            "pantsLength": 58,
+            "waistCircumference": 46
+          }
+        },
+        {
+          "label": "130",
+          "topLength": 46.5,
+          "chestWidth": 32.25,
+          "sleeveLength": 39.5,
+          "pantsLength": 64,
+          "waistWidth": 24,
+          "raw": {
+            "topLength": 46.5,
+            "chestCircumference": 64.5,
+            "sleeveLength": 39.5,
+            "pantsLength": 64,
+            "waistCircumference": 48
+          }
+        }
+      ]
+    },
+    {
+      "id": "moimoln-M264NNN23P",
+      "brandId": "moimoln",
+      "name": "[모이몰른] C르네양면실내복 [26 겨울]",
+      "code": "M264NNN23P",
+      "category": "homewear-set",
+      "kind": "homewear-set",
+      "audience": "child",
+      "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260818/M264NNN23P_PI_01.jpg",
+      "material": "(겉감/배색1)면100%(배색2)면95%,폴리우레탄5%",
+      "attributes": {
+        "fibers": [
+          "cotton"
+        ],
+        "fabricLabel": "(겉감/배색1)면100%(배색2)면95%,폴리우레탄5%",
+        "weave": "",
+        "seasons": [
+          "spring",
+          "autumn"
+        ],
+        "seasonEvidence": [
+          "공식 간절기 표현"
+        ],
+        "features": [
+          {
+            "key": "soft",
+            "label": "부드러운 원단",
+            "evidence": "[모이몰른] C르네양면실내복 [26 겨울] 감각적인 패턴의 부드러운 40수 양면 소재로 간절기에 쾌적하게 착용하기 좋은 내의 상하세트"
+          }
+        ],
+        "origins": [],
+        "description": "감각적인 패턴의 부드러운 40수 양면 소재로 간절기에 쾌적하게 착용하기 좋은 내의 상하세트",
+        "material": "(겉감/배색1)면100%(배색2)면95%,폴리우레탄5%",
+        "source": {
+          "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN23P",
+          "checkedAt": "2026-11-23"
+        }
+      },
+      "source": {
+        "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN23P",
+        "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20261029/M264NNN23P_CG_I1.jpg",
+        "checkedAt": "2026-11-23"
+      },
+      "measurementBasis": "공식 상품별 실측 이미지 직접 판독 · 가슴·허리 둘레 ÷2 환산",
+      "notes": [
+        "공식 상품 상세에서 연결된 상품 코드별 실측 이미지 직접 판독. 상의·하의 사이즈 열을 각각 대조하고 가슴·허리 둘레는 원본을 보존한 뒤 단면 비교값으로만 2분의 1 환산한다. 어깨 봉제선 기준 팔길이를 소매 길이로 기록한다. 제품별 실제 착용감이나 신체 권장 범위로 확대하지 않는다.",
+        "공식 안내: 제작·측정 방식에 따라 1~2cm 오차가 있을 수 있습니다.",
+        "팔길이는 어깨 봉제선부터 소매 끝까지 측정한 값입니다."
+      ],
+      "sizes": [
+        {
+          "label": "80",
+          "topLength": 31,
+          "chestWidth": 26.25,
+          "sleeveLength": 25,
+          "pantsLength": 41,
+          "waistWidth": 19,
+          "raw": {
+            "topLength": 31,
+            "chestCircumference": 52.5,
+            "sleeveLength": 25,
+            "pantsLength": 41,
+            "waistCircumference": 38
+          }
+        },
+        {
+          "label": "90",
+          "topLength": 33.5,
+          "chestWidth": 27.5,
+          "sleeveLength": 27.5,
+          "pantsLength": 44.5,
+          "waistWidth": 20,
+          "raw": {
+            "topLength": 33.5,
+            "chestCircumference": 55,
+            "sleeveLength": 27.5,
+            "pantsLength": 44.5,
+            "waistCircumference": 40
+          }
+        },
+        {
+          "label": "100",
+          "topLength": 36,
+          "chestWidth": 28.75,
+          "sleeveLength": 30,
+          "pantsLength": 48,
+          "waistWidth": 21,
+          "raw": {
+            "topLength": 36,
+            "chestCircumference": 57.5,
+            "sleeveLength": 30,
+            "pantsLength": 48,
+            "waistCircumference": 42
+          }
+        },
+        {
+          "label": "110",
+          "topLength": 39.5,
+          "chestWidth": 30.25,
+          "sleeveLength": 33,
+          "pantsLength": 53,
+          "waistWidth": 22,
+          "raw": {
+            "topLength": 39.5,
+            "chestCircumference": 60.5,
+            "sleeveLength": 33,
+            "pantsLength": 53,
+            "waistCircumference": 44
+          }
+        },
+        {
+          "label": "120",
+          "topLength": 43,
+          "chestWidth": 31.75,
+          "sleeveLength": 36,
+          "pantsLength": 58,
+          "waistWidth": 23,
+          "raw": {
+            "topLength": 43,
+            "chestCircumference": 63.5,
+            "sleeveLength": 36,
+            "pantsLength": 58,
+            "waistCircumference": 46
+          }
+        }
+      ]
+    },
+    {
+      "id": "moimoln-M264NNN14P",
+      "brandId": "moimoln",
+      "name": "[모이몰른] 라무이중지실내복 [26 겨울]",
+      "code": "M264NNN14P",
+      "category": "homewear-set",
+      "kind": "homewear-set",
+      "audience": "child",
+      "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260818/M264NNN14P_CE_01.jpg",
+      "material": "(겉감)면100%",
+      "attributes": {
+        "fibers": [
+          "cotton"
+        ],
+        "fabricLabel": "(겉감)면100%",
+        "weave": "",
+        "seasons": [],
+        "seasonEvidence": [],
+        "features": [],
+        "origins": [],
+        "description": "겨울 모티브 전판나염과 포근한 이중지 소재로 따뜻하게 입기 좋은 내의 상하세트",
+        "material": "(겉감)면100%",
+        "source": {
+          "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN14P",
+          "checkedAt": "2026-11-23"
+        }
+      },
+      "source": {
+        "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN14P",
+        "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20261029/M264NNN14P_CE_I1.jpg",
+        "checkedAt": "2026-11-23"
+      },
+      "measurementBasis": "공식 상품별 실측 이미지 직접 판독 · 가슴·허리 둘레 ÷2 환산",
+      "notes": [
+        "공식 상품 상세에서 연결된 상품 코드별 실측 이미지 직접 판독. 상의·하의 사이즈 열을 각각 대조하고 가슴·허리 둘레는 원본을 보존한 뒤 단면 비교값으로만 2분의 1 환산한다. 어깨 봉제선 기준 팔길이를 소매 길이로 기록한다. 제품별 실제 착용감이나 신체 권장 범위로 확대하지 않는다.",
+        "공식 안내: 제작·측정 방식에 따라 1~2cm 오차가 있을 수 있습니다.",
+        "팔길이는 어깨 봉제선부터 소매 끝까지 측정한 값입니다."
+      ],
+      "sizes": [
+        {
+          "label": "70",
+          "topLength": 29.5,
+          "chestWidth": 29.25,
+          "sleeveLength": 27.5,
+          "pantsLength": 38.5,
+          "waistWidth": 18.5,
+          "raw": {
+            "topLength": 29.5,
+            "chestCircumference": 58.5,
+            "sleeveLength": 27.5,
+            "pantsLength": 38.5,
+            "waistCircumference": 37
+          }
+        },
+        {
+          "label": "80",
+          "topLength": 31,
+          "chestWidth": 30,
+          "sleeveLength": 30,
+          "pantsLength": 41,
+          "waistWidth": 19,
+          "raw": {
+            "topLength": 31,
+            "chestCircumference": 60,
+            "sleeveLength": 30,
+            "pantsLength": 41,
+            "waistCircumference": 38
+          }
+        },
+        {
+          "label": "90",
+          "topLength": 33.5,
+          "chestWidth": 31.25,
+          "sleeveLength": 32.8,
+          "pantsLength": 44.5,
+          "waistWidth": 20,
+          "raw": {
+            "topLength": 33.5,
+            "chestCircumference": 62.5,
+            "sleeveLength": 32.8,
+            "pantsLength": 44.5,
+            "waistCircumference": 40
+          }
+        },
+        {
+          "label": "100",
+          "topLength": 37,
+          "chestWidth": 32.75,
+          "sleeveLength": 36.1,
+          "pantsLength": 49.5,
+          "waistWidth": 21,
+          "raw": {
+            "topLength": 37,
+            "chestCircumference": 65.5,
+            "sleeveLength": 36.1,
+            "pantsLength": 49.5,
+            "waistCircumference": 42
+          }
+        },
+        {
+          "label": "110",
+          "topLength": 40.5,
+          "chestWidth": 34.25,
+          "sleeveLength": 39.4,
+          "pantsLength": 54.5,
+          "waistWidth": 22,
+          "raw": {
+            "topLength": 40.5,
+            "chestCircumference": 68.5,
+            "sleeveLength": 39.4,
+            "pantsLength": 54.5,
+            "waistCircumference": 44
+          }
+        }
+      ]
+    },
+    {
+      "id": "moimoln-M264NNN12P",
+      "brandId": "moimoln",
+      "name": "[모이몰른] 노노바이중지실내복 [26 겨울]",
+      "code": "M264NNN12P",
+      "category": "homewear-set",
+      "kind": "homewear-set",
+      "audience": "child",
+      "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260818/M264NNN12P_CE_01.jpg",
+      "material": "(겉감)면100%",
+      "attributes": {
+        "fibers": [
+          "cotton"
+        ],
+        "fabricLabel": "(겉감)면100%",
+        "weave": "",
+        "seasons": [
+          "winter"
+        ],
+        "seasonEvidence": [
+          "도톰한 이중지 소재와 카라 연출이 가능한 턱받이 세트로 겨울철 따뜻하게 입히기 좋은 실내복 상하세트"
+        ],
+        "features": [],
+        "origins": [],
+        "description": "도톰한 이중지 소재와 카라 연출이 가능한 턱받이 세트로 겨울철 따뜻하게 입히기 좋은 실내복 상하세트",
+        "material": "(겉감)면100%",
+        "source": {
+          "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN12P",
+          "checkedAt": "2026-11-23"
+        }
+      },
+      "source": {
+        "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN12P",
+        "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20261029/M264NNN12P_CE_I1.jpg",
+        "checkedAt": "2026-11-23"
+      },
+      "measurementBasis": "공식 상품별 실측 이미지 직접 판독 · 가슴·허리 둘레 ÷2 환산",
+      "notes": [
+        "공식 상품 상세에서 연결된 상품 코드별 실측 이미지 직접 판독. 상의·하의 사이즈 열을 각각 대조하고 가슴·허리 둘레는 원본을 보존한 뒤 단면 비교값으로만 2분의 1 환산한다. 어깨 봉제선 기준 팔길이를 소매 길이로 기록한다. 제품별 실제 착용감이나 신체 권장 범위로 확대하지 않는다.",
+        "공식 안내: 제작·측정 방식에 따라 1~2cm 오차가 있을 수 있습니다.",
+        "팔길이는 어깨 봉제선부터 소매 끝까지 측정한 값입니다."
+      ],
+      "sizes": [
+        {
+          "label": "70",
+          "topLength": 29.5,
+          "chestWidth": 26.5,
+          "sleeveLength": 23.5,
+          "pantsLength": 39.5,
+          "waistWidth": 18.5,
+          "raw": {
+            "topLength": 29.5,
+            "chestCircumference": 53,
+            "sleeveLength": 23.5,
+            "pantsLength": 39.5,
+            "waistCircumference": 37
+          }
+        },
+        {
+          "label": "80",
+          "topLength": 31,
+          "chestWidth": 27.25,
+          "sleeveLength": 25,
+          "pantsLength": 42,
+          "waistWidth": 19,
+          "raw": {
+            "topLength": 31,
+            "chestCircumference": 54.5,
+            "sleeveLength": 25,
+            "pantsLength": 42,
+            "waistCircumference": 38
+          }
+        },
+        {
+          "label": "90",
+          "topLength": 33.5,
+          "chestWidth": 28.5,
+          "sleeveLength": 27.5,
+          "pantsLength": 45.5,
+          "waistWidth": 20,
+          "raw": {
+            "topLength": 33.5,
+            "chestCircumference": 57,
+            "sleeveLength": 27.5,
+            "pantsLength": 45.5,
+            "waistCircumference": 40
+          }
+        },
+        {
+          "label": "100",
+          "topLength": 36,
+          "chestWidth": 29.75,
+          "sleeveLength": 30,
+          "pantsLength": 49,
+          "waistWidth": 21,
+          "raw": {
+            "topLength": 36,
+            "chestCircumference": 59.5,
+            "sleeveLength": 30,
+            "pantsLength": 49,
+            "waistCircumference": 42
+          }
+        },
+        {
+          "label": "110",
+          "topLength": 39.5,
+          "chestWidth": 31.25,
+          "sleeveLength": 33,
+          "pantsLength": 54,
+          "waistWidth": 22,
+          "raw": {
+            "topLength": 39.5,
+            "chestCircumference": 62.5,
+            "sleeveLength": 33,
+            "pantsLength": 54,
+            "waistCircumference": 44
+          }
+        },
+        {
+          "label": "120",
+          "topLength": 43,
+          "chestWidth": 32.75,
+          "sleeveLength": 36,
+          "pantsLength": 59,
+          "waistWidth": 23,
+          "raw": {
+            "topLength": 43,
+            "chestCircumference": 65.5,
+            "sleeveLength": 36,
+            "pantsLength": 59,
+            "waistCircumference": 46
+          }
+        }
+      ]
+    },
+    {
+      "id": "moimoln-M264NNN09P",
+      "brandId": "moimoln",
+      "name": "[모이몰른] 루아와플스판실내복 [26 겨울]",
+      "code": "M264NNN09P",
+      "category": "homewear-set",
+      "kind": "homewear-set",
+      "audience": "child",
+      "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260818/M264NNN09P_CE_01.jpg",
+      "material": "(겉감)면75%,폴리에스터22%,폴리우레탄3%",
+      "attributes": {
+        "fibers": [
+          "cotton",
+          "polyester"
+        ],
+        "fabricLabel": "(겉감)면75%,폴리에스터22%,폴리우레탄3%",
+        "weave": "",
+        "seasons": [],
+        "seasonEvidence": [],
+        "features": [],
+        "origins": [],
+        "description": "입체감 있는 와플스판 소재와 아기자기한 열매 패턴에 피콧 배색 포인트를 더한 데일리 실내복",
+        "material": "(겉감)면75%,폴리에스터22%,폴리우레탄3%",
+        "source": {
+          "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN09P",
+          "checkedAt": "2026-11-23"
+        }
+      },
+      "source": {
+        "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN09P",
+        "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20261029/M264NNN09P_CE_I1.jpg",
+        "checkedAt": "2026-11-23"
+      },
+      "measurementBasis": "공식 상품별 실측 이미지 직접 판독 · 가슴·허리 둘레 ÷2 환산",
+      "notes": [
+        "공식 상품 상세에서 연결된 상품 코드별 실측 이미지 직접 판독. 상의·하의 사이즈 열을 각각 대조하고 가슴·허리 둘레는 원본을 보존한 뒤 단면 비교값으로만 2분의 1 환산한다. 어깨 봉제선 기준 팔길이를 소매 길이로 기록한다. 제품별 실제 착용감이나 신체 권장 범위로 확대하지 않는다.",
+        "공식 안내: 제작·측정 방식에 따라 1~2cm 오차가 있을 수 있습니다.",
+        "팔길이는 어깨 봉제선부터 소매 끝까지 측정한 값입니다."
+      ],
+      "sizes": [
+        {
+          "label": "70",
+          "topLength": 29.5,
+          "chestWidth": 24,
+          "sleeveLength": 23,
+          "pantsLength": 37.5,
+          "waistWidth": 18.5,
+          "raw": {
+            "topLength": 29.5,
+            "chestCircumference": 48,
+            "sleeveLength": 23,
+            "pantsLength": 37.5,
+            "waistCircumference": 37
+          }
+        },
+        {
+          "label": "80",
+          "topLength": 31,
+          "chestWidth": 24.75,
+          "sleeveLength": 24.5,
+          "pantsLength": 40,
+          "waistWidth": 19,
+          "raw": {
+            "topLength": 31,
+            "chestCircumference": 49.5,
+            "sleeveLength": 24.5,
+            "pantsLength": 40,
+            "waistCircumference": 38
+          }
+        },
+        {
+          "label": "90",
+          "topLength": 33.5,
+          "chestWidth": 26,
+          "sleeveLength": 27,
+          "pantsLength": 43.5,
+          "waistWidth": 20,
+          "raw": {
+            "topLength": 33.5,
+            "chestCircumference": 52,
+            "sleeveLength": 27,
+            "pantsLength": 43.5,
+            "waistCircumference": 40
+          }
+        },
+        {
+          "label": "100",
+          "topLength": 36,
+          "chestWidth": 27.25,
+          "sleeveLength": 29.5,
+          "pantsLength": 47,
+          "waistWidth": 21,
+          "raw": {
+            "topLength": 36,
+            "chestCircumference": 54.5,
+            "sleeveLength": 29.5,
+            "pantsLength": 47,
+            "waistCircumference": 42
+          }
+        },
+        {
+          "label": "110",
+          "topLength": 39.5,
+          "chestWidth": 28.75,
+          "sleeveLength": 32.5,
+          "pantsLength": 52,
+          "waistWidth": 22,
+          "raw": {
+            "topLength": 39.5,
+            "chestCircumference": 57.5,
+            "sleeveLength": 32.5,
+            "pantsLength": 52,
+            "waistCircumference": 44
+          }
+        },
+        {
+          "label": "120",
+          "topLength": 43,
+          "chestWidth": 30.5,
+          "sleeveLength": 36,
+          "pantsLength": 58,
+          "waistWidth": 23,
+          "raw": {
+            "topLength": 43,
+            "chestCircumference": 61,
+            "sleeveLength": 36,
+            "pantsLength": 58,
+            "waistCircumference": 46
+          }
+        }
+      ]
+    },
+    {
+      "id": "moimoln-M264NNN05P",
+      "brandId": "moimoln",
+      "name": "[모이몰른] 루나양면실내복 [26 겨울]",
+      "code": "M264NNN05P",
+      "category": "homewear-set",
+      "kind": "homewear-set",
+      "audience": "child",
+      "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260818/M264NNN05P_CE_01.jpg",
+      "material": "(겉감/배색1/배색2)면100%(배색3)면95%,폴리우레탄5%",
+      "attributes": {
+        "fibers": [
+          "cotton"
+        ],
+        "fabricLabel": "(겉감/배색1/배색2)면100%(배색3)면95%,폴리우레탄5%",
+        "weave": "",
+        "seasons": [],
+        "seasonEvidence": [],
+        "features": [],
+        "origins": [],
+        "description": "분위기 있는 나무 모티브 전판나염과 단정한 카라 디자인을 더한 40수 양면 내의 상하세트",
+        "material": "(겉감/배색1/배색2)면100%(배색3)면95%,폴리우레탄5%",
+        "source": {
+          "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN05P",
+          "checkedAt": "2026-11-23"
+        }
+      },
+      "source": {
+        "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN05P",
+        "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20261029/M264NNN05P_CE_I1.jpg",
+        "checkedAt": "2026-11-23"
+      },
+      "measurementBasis": "공식 상품별 실측 이미지 직접 판독 · 가슴·허리 둘레 ÷2 환산",
+      "notes": [
+        "공식 상품 상세에서 연결된 상품 코드별 실측 이미지 직접 판독. 상의·하의 사이즈 열을 각각 대조하고 가슴·허리 둘레는 원본을 보존한 뒤 단면 비교값으로만 2분의 1 환산한다. 어깨 봉제선 기준 팔길이를 소매 길이로 기록한다. 제품별 실제 착용감이나 신체 권장 범위로 확대하지 않는다.",
+        "공식 안내: 제작·측정 방식에 따라 1~2cm 오차가 있을 수 있습니다.",
+        "팔길이는 어깨 봉제선부터 소매 끝까지 측정한 값입니다."
+      ],
+      "sizes": [
+        {
+          "label": "70",
+          "topLength": 29.5,
+          "chestWidth": 25.5,
+          "sleeveLength": 23.5,
+          "pantsLength": 39.5,
+          "waistWidth": 18.5,
+          "raw": {
+            "topLength": 29.5,
+            "chestCircumference": 51,
+            "sleeveLength": 23.5,
+            "pantsLength": 39.5,
+            "waistCircumference": 37
+          }
+        },
+        {
+          "label": "80",
+          "topLength": 31,
+          "chestWidth": 26.25,
+          "sleeveLength": 25,
+          "pantsLength": 42,
+          "waistWidth": 19,
+          "raw": {
+            "topLength": 31,
+            "chestCircumference": 52.5,
+            "sleeveLength": 25,
+            "pantsLength": 42,
+            "waistCircumference": 38
+          }
+        },
+        {
+          "label": "90",
+          "topLength": 33.5,
+          "chestWidth": 27.5,
+          "sleeveLength": 27.5,
+          "pantsLength": 45.5,
+          "waistWidth": 20,
+          "raw": {
+            "topLength": 33.5,
+            "chestCircumference": 55,
+            "sleeveLength": 27.5,
+            "pantsLength": 45.5,
+            "waistCircumference": 40
+          }
+        },
+        {
+          "label": "100",
+          "topLength": 36,
+          "chestWidth": 28.75,
+          "sleeveLength": 30,
+          "pantsLength": 49,
+          "waistWidth": 21,
+          "raw": {
+            "topLength": 36,
+            "chestCircumference": 57.5,
+            "sleeveLength": 30,
+            "pantsLength": 49,
+            "waistCircumference": 42
+          }
+        },
+        {
+          "label": "110",
+          "topLength": 39.5,
+          "chestWidth": 30.25,
+          "sleeveLength": 33,
+          "pantsLength": 54,
+          "waistWidth": 22,
+          "raw": {
+            "topLength": 39.5,
+            "chestCircumference": 60.5,
+            "sleeveLength": 33,
+            "pantsLength": 54,
+            "waistCircumference": 44
+          }
+        },
+        {
+          "label": "120",
+          "topLength": 43,
+          "chestWidth": 31.75,
+          "sleeveLength": 36,
+          "pantsLength": 59,
+          "waistWidth": 23,
+          "raw": {
+            "topLength": 43,
+            "chestCircumference": 63.5,
+            "sleeveLength": 36,
+            "pantsLength": 59,
+            "waistCircumference": 46
+          }
+        }
+      ]
+    },
+    {
+      "id": "moimoln-M264NNN03P",
+      "brandId": "moimoln",
+      "name": "[모이몰른] 라비밤부양면실내복 [26 겨울]",
+      "code": "M264NNN03P",
+      "category": "homewear-set",
+      "kind": "homewear-set",
+      "audience": "child",
+      "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260818/M264NNN03P_CE_01.jpg",
+      "material": "(겉감)레이온(밤부)60%,면40%(배색1/배색2)면100%(배색3)면95%,폴리우레탄5%",
+      "attributes": {
+        "fibers": [
+          "cotton",
+          "bamboo"
+        ],
+        "fabricLabel": "(겉감)레이온(밤부)60%,면40%(배색1/배색2)면100%(배색3)면95%,폴리우레탄5%",
+        "weave": "",
+        "seasons": [],
+        "seasonEvidence": [],
+        "features": [],
+        "origins": [],
+        "description": "향균소취가 우수한 밤부 소재와 단정한 카라 디자인으로 활동부터 수면까지 편안한 내의 상하세트",
+        "material": "(겉감)레이온(밤부)60%,면40%(배색1/배색2)면100%(배색3)면95%,폴리우레탄5%",
+        "source": {
+          "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN03P",
+          "checkedAt": "2026-11-23"
+        }
+      },
+      "source": {
+        "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN03P",
+        "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20261029/M264NNN03P_CE_I1.jpg",
+        "checkedAt": "2026-11-23"
+      },
+      "measurementBasis": "공식 상품별 실측 이미지 직접 판독 · 가슴·허리 둘레 ÷2 환산",
+      "notes": [
+        "공식 상품 상세에서 연결된 상품 코드별 실측 이미지 직접 판독. 상의·하의 사이즈 열을 각각 대조하고 가슴·허리 둘레는 원본을 보존한 뒤 단면 비교값으로만 2분의 1 환산한다. 어깨 봉제선 기준 팔길이를 소매 길이로 기록한다. 제품별 실제 착용감이나 신체 권장 범위로 확대하지 않는다.",
+        "공식 안내: 제작·측정 방식에 따라 1~2cm 오차가 있을 수 있습니다.",
+        "팔길이는 어깨 봉제선부터 소매 끝까지 측정한 값입니다."
+      ],
+      "sizes": [
+        {
+          "label": "70",
+          "topLength": 29.5,
+          "chestWidth": 25.5,
+          "sleeveLength": 23.5,
+          "pantsLength": 39.5,
+          "waistWidth": 18.5,
+          "raw": {
+            "topLength": 29.5,
+            "chestCircumference": 51,
+            "sleeveLength": 23.5,
+            "pantsLength": 39.5,
+            "waistCircumference": 37
+          }
+        },
+        {
+          "label": "80",
+          "topLength": 31,
+          "chestWidth": 26.25,
+          "sleeveLength": 25,
+          "pantsLength": 42,
+          "waistWidth": 19,
+          "raw": {
+            "topLength": 31,
+            "chestCircumference": 52.5,
+            "sleeveLength": 25,
+            "pantsLength": 42,
+            "waistCircumference": 38
+          }
+        },
+        {
+          "label": "90",
+          "topLength": 33.5,
+          "chestWidth": 27.5,
+          "sleeveLength": 27.5,
+          "pantsLength": 45.5,
+          "waistWidth": 20,
+          "raw": {
+            "topLength": 33.5,
+            "chestCircumference": 55,
+            "sleeveLength": 27.5,
+            "pantsLength": 45.5,
+            "waistCircumference": 40
+          }
+        },
+        {
+          "label": "100",
+          "topLength": 36,
+          "chestWidth": 28.75,
+          "sleeveLength": 30,
+          "pantsLength": 49,
+          "waistWidth": 21,
+          "raw": {
+            "topLength": 36,
+            "chestCircumference": 57.5,
+            "sleeveLength": 30,
+            "pantsLength": 49,
+            "waistCircumference": 42
+          }
+        },
+        {
+          "label": "110",
+          "topLength": 39.5,
+          "chestWidth": 30.25,
+          "sleeveLength": 33,
+          "pantsLength": 54,
+          "waistWidth": 22,
+          "raw": {
+            "topLength": 39.5,
+            "chestCircumference": 60.5,
+            "sleeveLength": 33,
+            "pantsLength": 54,
+            "waistCircumference": 44
+          }
+        },
+        {
+          "label": "120",
+          "topLength": 43,
+          "chestWidth": 31.75,
+          "sleeveLength": 36,
+          "pantsLength": 59,
+          "waistWidth": 23,
+          "raw": {
+            "topLength": 43,
+            "chestCircumference": 63.5,
+            "sleeveLength": 36,
+            "pantsLength": 59,
+            "waistCircumference": 46
+          }
+        }
+      ]
+    },
+    {
+      "id": "moimoln-M264NNN02P",
+      "brandId": "moimoln",
+      "name": "[모이몰른] 미니모이 보들 여아실내복 [26 겨울]",
+      "code": "M264NNN02P",
+      "category": "homewear-set",
+      "kind": "homewear-set",
+      "audience": "child",
+      "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260731/M264NNN02P_YE_01.jpg",
+      "material": "(겉감)면56%,모달44%",
+      "attributes": {
+        "fibers": [
+          "cotton",
+          "modal"
+        ],
+        "fabricLabel": "(겉감)면56%,모달44%",
+        "weave": "",
+        "seasons": [],
+        "seasonEvidence": [],
+        "features": [
+          {
+            "key": "soft",
+            "label": "부드러운 원단",
+            "evidence": "[모이몰른] 미니모이 보들 여아실내복 [26 겨울] 부드럽고 촉촉한 천연 콜라겐 필라젠 소재와 프릴 디테일의 여아 실내복 상하세트"
+          }
+        ],
+        "origins": [],
+        "description": "부드럽고 촉촉한 천연 콜라겐 필라젠 소재와 프릴 디테일의 여아 실내복 상하세트",
+        "material": "(겉감)면56%,모달44%",
+        "source": {
+          "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN02P",
+          "checkedAt": "2026-11-23"
+        }
+      },
+      "source": {
+        "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN02P",
+        "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20261111/M264NNN02P_YE_I1.jpg",
+        "checkedAt": "2026-11-23"
+      },
+      "measurementBasis": "공식 상품별 실측 이미지 직접 판독 · 가슴·허리 둘레 ÷2 환산",
+      "notes": [
+        "공식 상품 상세에서 연결된 상품 코드별 실측 이미지 직접 판독. 상의·하의 사이즈 열을 각각 대조하고 가슴·허리 둘레는 원본을 보존한 뒤 단면 비교값으로만 2분의 1 환산한다. 어깨 봉제선 기준 팔길이를 소매 길이로 기록한다. 제품별 실제 착용감이나 신체 권장 범위로 확대하지 않는다.",
+        "공식 안내: 제작·측정 방식에 따라 1~2cm 오차가 있을 수 있습니다.",
+        "팔길이는 어깨 봉제선부터 소매 끝까지 측정한 값입니다."
+      ],
+      "sizes": [
+        {
+          "label": "70",
+          "topLength": 29.5,
+          "chestWidth": 24,
+          "sleeveLength": 24,
+          "pantsLength": 39.5,
+          "waistWidth": 18.5,
+          "raw": {
+            "topLength": 29.5,
+            "chestCircumference": 48,
+            "sleeveLength": 24,
+            "pantsLength": 39.5,
+            "waistCircumference": 37
+          }
+        },
+        {
+          "label": "80",
+          "topLength": 31,
+          "chestWidth": 24.75,
+          "sleeveLength": 25.5,
+          "pantsLength": 42,
+          "waistWidth": 19,
+          "raw": {
+            "topLength": 31,
+            "chestCircumference": 49.5,
+            "sleeveLength": 25.5,
+            "pantsLength": 42,
+            "waistCircumference": 38
+          }
+        },
+        {
+          "label": "90",
+          "topLength": 33.5,
+          "chestWidth": 26,
+          "sleeveLength": 28,
+          "pantsLength": 45.5,
+          "waistWidth": 20,
+          "raw": {
+            "topLength": 33.5,
+            "chestCircumference": 52,
+            "sleeveLength": 28,
+            "pantsLength": 45.5,
+            "waistCircumference": 40
+          }
+        },
+        {
+          "label": "100",
+          "topLength": 36,
+          "chestWidth": 27.25,
+          "sleeveLength": 30.5,
+          "pantsLength": 49,
+          "waistWidth": 21,
+          "raw": {
+            "topLength": 36,
+            "chestCircumference": 54.5,
+            "sleeveLength": 30.5,
+            "pantsLength": 49,
+            "waistCircumference": 42
+          }
+        },
+        {
+          "label": "110",
+          "topLength": 39.5,
+          "chestWidth": 28.75,
+          "sleeveLength": 33.5,
+          "pantsLength": 54,
+          "waistWidth": 22,
+          "raw": {
+            "topLength": 39.5,
+            "chestCircumference": 57.5,
+            "sleeveLength": 33.5,
+            "pantsLength": 54,
+            "waistCircumference": 44
+          }
+        },
+        {
+          "label": "120",
+          "topLength": 43,
+          "chestWidth": 30.5,
+          "sleeveLength": 36.5,
+          "pantsLength": 59,
+          "waistWidth": 23,
+          "raw": {
+            "topLength": 43,
+            "chestCircumference": 61,
+            "sleeveLength": 36.5,
+            "pantsLength": 59,
+            "waistCircumference": 46
+          }
+        }
+      ]
+    },
+    {
+      "id": "moimoln-M264NNN01P",
+      "brandId": "moimoln",
+      "name": "[모이몰른] 미니모이 보들 실내복 [26 겨울]",
+      "code": "M264NNN01P",
+      "category": "homewear-set",
+      "kind": "homewear-set",
+      "audience": "child",
+      "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260731/M264NNN01P_OW_01.jpg",
+      "material": "(겉감)면56%,모달44%",
+      "attributes": {
+        "fibers": [
+          "cotton",
+          "modal"
+        ],
+        "fabricLabel": "(겉감)면56%,모달44%",
+        "weave": "",
+        "seasons": [],
+        "seasonEvidence": [],
+        "features": [
+          {
+            "key": "soft",
+            "label": "부드러운 원단",
+            "evidence": "[모이몰른] 미니모이 보들 실내복 [26 겨울] 부드럽고 촉촉한 천연 콜라겐 필라젠 소재와 허릿단 프릴 디테일의 실내복 상하세트"
+          }
+        ],
+        "origins": [],
+        "description": "부드럽고 촉촉한 천연 콜라겐 필라젠 소재와 허릿단 프릴 디테일의 실내복 상하세트",
+        "material": "(겉감)면56%,모달44%",
+        "source": {
+          "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN01P",
+          "checkedAt": "2026-11-23"
+        }
+      },
+      "source": {
+        "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN01P",
+        "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20261111/M264NNN01P_OW_I1.jpg",
+        "checkedAt": "2026-11-23"
+      },
+      "measurementBasis": "공식 상품별 실측 이미지 직접 판독 · 가슴·허리 둘레 ÷2 환산",
+      "notes": [
+        "공식 상품 상세에서 연결된 상품 코드별 실측 이미지 직접 판독. 상의·하의 사이즈 열을 각각 대조하고 가슴·허리 둘레는 원본을 보존한 뒤 단면 비교값으로만 2분의 1 환산한다. 어깨 봉제선 기준 팔길이를 소매 길이로 기록한다. 제품별 실제 착용감이나 신체 권장 범위로 확대하지 않는다.",
+        "공식 안내: 제작·측정 방식에 따라 1~2cm 오차가 있을 수 있습니다.",
+        "팔길이는 어깨 봉제선부터 소매 끝까지 측정한 값입니다."
+      ],
+      "sizes": [
+        {
+          "label": "70",
+          "topLength": 29.5,
+          "chestWidth": 24,
+          "sleeveLength": 23.5,
+          "pantsLength": 39,
+          "waistWidth": 18.5,
+          "raw": {
+            "topLength": 29.5,
+            "chestCircumference": 48,
+            "sleeveLength": 23.5,
+            "pantsLength": 39,
+            "waistCircumference": 37
+          }
+        },
+        {
+          "label": "80",
+          "topLength": 31,
+          "chestWidth": 24.75,
+          "sleeveLength": 25,
+          "pantsLength": 41.5,
+          "waistWidth": 19,
+          "raw": {
+            "topLength": 31,
+            "chestCircumference": 49.5,
+            "sleeveLength": 25,
+            "pantsLength": 41.5,
+            "waistCircumference": 38
+          }
+        },
+        {
+          "label": "90",
+          "topLength": 33.5,
+          "chestWidth": 26,
+          "sleeveLength": 27.5,
+          "pantsLength": 45,
+          "waistWidth": 20,
+          "raw": {
+            "topLength": 33.5,
+            "chestCircumference": 52,
+            "sleeveLength": 27.5,
+            "pantsLength": 45,
+            "waistCircumference": 40
+          }
+        }
+      ]
+    },
+    {
+      "id": "moimoln-M264NNH41P",
+      "brandId": "moimoln",
+      "name": "[모이몰른] SOFT&안토와플스판안심실내복 [26 겨울]",
+      "code": "M264NNH41P",
+      "category": "homewear-set",
+      "kind": "homewear-set",
+      "audience": "child",
+      "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260729/M264NNH41P_CE_01.jpg",
+      "material": "(겉감)면75%,폴리에스터22%,폴리우레탄3%",
+      "attributes": {
+        "fibers": [
+          "cotton",
+          "polyester"
+        ],
+        "fabricLabel": "(겉감)면75%,폴리에스터22%,폴리우레탄3%",
+        "weave": "",
+        "seasons": [],
+        "seasonEvidence": [],
+        "features": [
+          {
+            "key": "soft",
+            "label": "부드러운 원단",
+            "evidence": "[모이몰른] SOFT&안토와플스판안심실내복 [26 겨울] 무시접 봉제와 배색 와펜 포인트의 와플스판 안심실내복 상하세트"
+          }
+        ],
+        "origins": [],
+        "description": "무시접 봉제와 배색 와펜 포인트의 와플스판 안심실내복 상하세트",
+        "material": "(겉감)면75%,폴리에스터22%,폴리우레탄3%",
+        "source": {
+          "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNH41P",
+          "checkedAt": "2026-11-23"
+        }
+      },
+      "source": {
+        "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNH41P",
+        "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260821/M264NNH41P_BL_I1.jpg",
+        "checkedAt": "2026-11-23"
+      },
+      "measurementBasis": "공식 상품별 실측 이미지 직접 판독 · 가슴·허리 둘레 ÷2 환산",
+      "notes": [
+        "공식 상품 상세에서 연결된 상품 코드별 실측 이미지 직접 판독. 상의·하의 사이즈 열을 각각 대조하고 가슴·허리 둘레는 원본을 보존한 뒤 단면 비교값으로만 2분의 1 환산한다. 어깨 봉제선 기준 팔길이를 소매 길이로 기록한다. 제품별 실제 착용감이나 신체 권장 범위로 확대하지 않는다.",
+        "공식 안내: 제작·측정 방식에 따라 1~2cm 오차가 있을 수 있습니다.",
+        "팔길이는 어깨 봉제선부터 소매 끝까지 측정한 값입니다."
+      ],
+      "sizes": [
+        {
+          "label": "80",
+          "topLength": 31,
+          "chestWidth": 29,
+          "sleeveLength": 30.5,
+          "pantsLength": 41,
+          "waistWidth": 19,
+          "raw": {
+            "topLength": 31,
+            "chestCircumference": 58,
+            "sleeveLength": 30.5,
+            "pantsLength": 41,
+            "waistCircumference": 38
+          }
+        },
+        {
+          "label": "90",
+          "topLength": 33.5,
+          "chestWidth": 30.25,
+          "sleeveLength": 33.3,
+          "pantsLength": 44.5,
+          "waistWidth": 20,
+          "raw": {
+            "topLength": 33.5,
+            "chestCircumference": 60.5,
+            "sleeveLength": 33.3,
+            "pantsLength": 44.5,
+            "waistCircumference": 40
+          }
+        },
+        {
+          "label": "100",
+          "topLength": 36.5,
+          "chestWidth": 31.75,
+          "sleeveLength": 36.6,
+          "pantsLength": 49.5,
+          "waistWidth": 21,
+          "raw": {
+            "topLength": 36.5,
+            "chestCircumference": 63.5,
+            "sleeveLength": 36.6,
+            "pantsLength": 49.5,
+            "waistCircumference": 42
+          }
+        },
+        {
+          "label": "110",
+          "topLength": 39.5,
+          "chestWidth": 33.25,
+          "sleeveLength": 39.9,
+          "pantsLength": 54.5,
+          "waistWidth": 22,
+          "raw": {
+            "topLength": 39.5,
+            "chestCircumference": 66.5,
+            "sleeveLength": 39.9,
+            "pantsLength": 54.5,
+            "waistCircumference": 44
+          }
+        },
+        {
+          "label": "120",
+          "topLength": 43,
+          "chestWidth": 35,
+          "sleeveLength": 43.7,
+          "pantsLength": 60.5,
+          "waistWidth": 23,
+          "raw": {
+            "topLength": 43,
+            "chestCircumference": 70,
+            "sleeveLength": 43.7,
+            "pantsLength": 60.5,
+            "waistCircumference": 46
+          }
+        },
+        {
+          "label": "130",
+          "topLength": 46.5,
+          "chestWidth": 36.75,
+          "sleeveLength": 47.5,
+          "pantsLength": 66.5,
+          "waistWidth": 24,
+          "raw": {
+            "topLength": 46.5,
+            "chestCircumference": 73.5,
+            "sleeveLength": 47.5,
+            "pantsLength": 66.5,
+            "waistCircumference": 48
+          }
+        }
+      ]
+    },
+    {
+      "id": "moimoln-M264NNN18P",
+      "brandId": "moimoln",
+      "name": "[모이몰른] 모니르면모달스판배바지실내복 [26 겨울]",
+      "code": "M264NNN18P",
+      "category": "homewear-set",
+      "kind": "homewear-set",
+      "audience": "child",
+      "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260720/M264NNN18P_OR_01.jpg",
+      "material": "(겉감/배색3)면57%,레이온(모달)38%,폴리우레탄5%(배색1/배색2)면100%",
+      "attributes": {
+        "fibers": [
+          "cotton",
+          "modal"
+        ],
+        "fabricLabel": "(겉감/배색3)면57%,레이온(모달)38%,폴리우레탄5%(배색1/배색2)면100%",
+        "weave": "",
+        "seasons": [],
+        "seasonEvidence": [],
+        "features": [
+          {
+            "key": "soft",
+            "label": "부드러운 원단",
+            "evidence": "[모이몰른] 모니르면모달스판배바지실내복 [26 겨울] 부드러운 면모달 스판 소재로 배를 따뜻하게 감싸주는 배바지 실내복 상하세트"
+          }
+        ],
+        "origins": [],
+        "description": "부드러운 면모달 스판 소재로 배를 따뜻하게 감싸주는 배바지 실내복 상하세트",
+        "material": "(겉감/배색3)면57%,레이온(모달)38%,폴리우레탄5%(배색1/배색2)면100%",
+        "source": {
+          "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN18P",
+          "checkedAt": "2026-11-23"
+        }
+      },
+      "source": {
+        "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN18P",
+        "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20261111/M264NNN18P_OR_I1.jpg",
+        "checkedAt": "2026-11-23"
+      },
+      "measurementBasis": "공식 상품별 실측 이미지 직접 판독 · 가슴·허리 둘레 ÷2 환산",
+      "notes": [
+        "공식 상품 상세에서 연결된 상품 코드별 실측 이미지 직접 판독. 상의·하의 사이즈 열을 각각 대조하고 가슴·허리 둘레는 원본을 보존한 뒤 단면 비교값으로만 2분의 1 환산한다. 어깨 봉제선 기준 팔길이를 소매 길이로 기록한다. 제품별 실제 착용감이나 신체 권장 범위로 확대하지 않는다.",
+        "공식 안내: 제작·측정 방식에 따라 1~2cm 오차가 있을 수 있습니다.",
+        "팔길이는 어깨 봉제선부터 소매 끝까지 측정한 값입니다."
+      ],
+      "sizes": [
+        {
+          "label": "70",
+          "topLength": 29.5,
+          "chestWidth": 24,
+          "sleeveLength": 23.5,
+          "pantsLength": 38.5,
+          "waistWidth": 15,
+          "raw": {
+            "topLength": 29.5,
+            "chestCircumference": 48,
+            "sleeveLength": 23.5,
+            "pantsLength": 38.5,
+            "waistCircumference": 30
+          }
+        },
+        {
+          "label": "80",
+          "topLength": 31,
+          "chestWidth": 24.75,
+          "sleeveLength": 25,
+          "pantsLength": 41,
+          "waistWidth": 15.75,
+          "raw": {
+            "topLength": 31,
+            "chestCircumference": 49.5,
+            "sleeveLength": 25,
+            "pantsLength": 41,
+            "waistCircumference": 31.5
+          }
+        },
+        {
+          "label": "90",
+          "topLength": 33.5,
+          "chestWidth": 26,
+          "sleeveLength": 27.5,
+          "pantsLength": 44.5,
+          "waistWidth": 16.75,
+          "raw": {
+            "topLength": 33.5,
+            "chestCircumference": 52,
+            "sleeveLength": 27.5,
+            "pantsLength": 44.5,
+            "waistCircumference": 33.5
+          }
+        },
+        {
+          "label": "100",
+          "topLength": 36,
+          "chestWidth": 27.25,
+          "sleeveLength": 30,
+          "pantsLength": 48,
+          "waistWidth": 17.75,
+          "raw": {
+            "topLength": 36,
+            "chestCircumference": 54.5,
+            "sleeveLength": 30,
+            "pantsLength": 48,
+            "waistCircumference": 35.5
+          }
+        },
+        {
+          "label": "110",
+          "topLength": 39.5,
+          "chestWidth": 28.75,
+          "sleeveLength": 33,
+          "pantsLength": 53,
+          "waistWidth": 19,
+          "raw": {
+            "topLength": 39.5,
+            "chestCircumference": 57.5,
+            "sleeveLength": 33,
+            "pantsLength": 53,
+            "waistCircumference": 38
+          }
+        },
+        {
+          "label": "120",
+          "topLength": 43,
+          "chestWidth": 30.5,
+          "sleeveLength": 36.5,
+          "pantsLength": 59,
+          "waistWidth": 20.4,
+          "raw": {
+            "topLength": 43,
+            "chestCircumference": 61,
+            "sleeveLength": 36.5,
+            "pantsLength": 59,
+            "waistCircumference": 40.8
+          }
+        }
+      ]
+    },
+    {
+      "id": "moimoln-M264NNN11P",
+      "brandId": "moimoln",
+      "name": "[모이몰른] 도리밤부골지스판배바지실내복 [26 겨울]",
+      "code": "M264NNN11P",
+      "category": "homewear-set",
+      "kind": "homewear-set",
+      "audience": "child",
+      "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260720/M264NNN11P_PU_01.jpg",
+      "material": "(겉감)레이온58%,면38%,폴리우레탄4%(배색)면100%",
+      "attributes": {
+        "fibers": [
+          "cotton",
+          "bamboo"
+        ],
+        "fabricLabel": "(겉감)레이온58%,면38%,폴리우레탄4%(배색)면100%",
+        "weave": "rib",
+        "seasons": [],
+        "seasonEvidence": [],
+        "features": [
+          {
+            "key": "soft",
+            "label": "부드러운 원단",
+            "evidence": "[모이몰른] 도리밤부골지스판배바지실내복 [26 겨울] 부드러운 밤부 골지 스판 소재의 배앓이 방지 배바지 실내복 상하세트"
+          }
+        ],
+        "origins": [],
+        "description": "부드러운 밤부 골지 스판 소재의 배앓이 방지 배바지 실내복 상하세트",
+        "material": "(겉감)레이온58%,면38%,폴리우레탄4%(배색)면100%",
+        "source": {
+          "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN11P",
+          "checkedAt": "2026-11-23"
+        },
+        "fiberEvidence": "공식 상품명과 설명에 밤부 골지 스판으로 명시. 혼용률 원문은 레이온58%,면38%,폴리우레탄4%로 보존."
+      },
+      "source": {
+        "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN11P",
+        "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20261111/M264NNN11P_PU_I1.jpg",
+        "checkedAt": "2026-11-23"
+      },
+      "measurementBasis": "공식 상품별 실측 이미지 직접 판독 · 가슴·허리 둘레 ÷2 환산",
+      "notes": [
+        "공식 상품 상세에서 연결된 상품 코드별 실측 이미지 직접 판독. 상의·하의 사이즈 열을 각각 대조하고 가슴·허리 둘레는 원본을 보존한 뒤 단면 비교값으로만 2분의 1 환산한다. 어깨 봉제선 기준 팔길이를 소매 길이로 기록한다. 제품별 실제 착용감이나 신체 권장 범위로 확대하지 않는다.",
+        "공식 안내: 제작·측정 방식에 따라 1~2cm 오차가 있을 수 있습니다.",
+        "팔길이는 어깨 봉제선부터 소매 끝까지 측정한 값입니다."
+      ],
+      "sizes": [
+        {
+          "label": "70",
+          "topLength": 29.5,
+          "chestWidth": 24,
+          "sleeveLength": 24,
+          "pantsLength": 38.5,
+          "waistWidth": 15.25,
+          "raw": {
+            "topLength": 29.5,
+            "chestCircumference": 48,
+            "sleeveLength": 24,
+            "pantsLength": 38.5,
+            "waistCircumference": 30.5
+          }
+        },
+        {
+          "label": "80",
+          "topLength": 31,
+          "chestWidth": 24.75,
+          "sleeveLength": 25.5,
+          "pantsLength": 41,
+          "waistWidth": 15.75,
+          "raw": {
+            "topLength": 31,
+            "chestCircumference": 49.5,
+            "sleeveLength": 25.5,
+            "pantsLength": 41,
+            "waistCircumference": 31.5
+          }
+        },
+        {
+          "label": "90",
+          "topLength": 33.5,
+          "chestWidth": 26,
+          "sleeveLength": 28,
+          "pantsLength": 44.5,
+          "waistWidth": 16.75,
+          "raw": {
+            "topLength": 33.5,
+            "chestCircumference": 52,
+            "sleeveLength": 28,
+            "pantsLength": 44.5,
+            "waistCircumference": 33.5
+          }
+        },
+        {
+          "label": "100",
+          "topLength": 36,
+          "chestWidth": 27.25,
+          "sleeveLength": 30.5,
+          "pantsLength": 48,
+          "waistWidth": 17.75,
+          "raw": {
+            "topLength": 36,
+            "chestCircumference": 54.5,
+            "sleeveLength": 30.5,
+            "pantsLength": 48,
+            "waistCircumference": 35.5
+          }
+        },
+        {
+          "label": "110",
+          "topLength": 39.5,
+          "chestWidth": 28.75,
+          "sleeveLength": 33.5,
+          "pantsLength": 53,
+          "waistWidth": 19,
+          "raw": {
+            "topLength": 39.5,
+            "chestCircumference": 57.5,
+            "sleeveLength": 33.5,
+            "pantsLength": 53,
+            "waistCircumference": 38
+          }
+        },
+        {
+          "label": "120",
+          "topLength": 43,
+          "chestWidth": 30.5,
+          "sleeveLength": 37,
+          "pantsLength": 59,
+          "waistWidth": 20.4,
+          "raw": {
+            "topLength": 43,
+            "chestCircumference": 61,
+            "sleeveLength": 37,
+            "pantsLength": 59,
+            "waistCircumference": 40.8
+          }
+        }
+      ]
+    },
+    {
+      "id": "moimoln-M264NNN08P",
+      "brandId": "moimoln",
+      "name": "[모이몰른] 커비양면실내복 [26 겨울]",
+      "code": "M264NNN08P",
+      "category": "homewear-set",
+      "kind": "homewear-set",
+      "audience": "child",
+      "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260720/M264NNN08P_BL_01.jpg",
+      "material": "(겉감)면100%",
+      "attributes": {
+        "fibers": [
+          "cotton"
+        ],
+        "fabricLabel": "(겉감)면100%",
+        "weave": "",
+        "seasons": [
+          "spring",
+          "autumn"
+        ],
+        "seasonEvidence": [
+          "공식 간절기 표현"
+        ],
+        "features": [
+          {
+            "key": "soft",
+            "label": "부드러운 원단",
+            "evidence": "[모이몰른] 커비양면실내복 [26 겨울] 부드러운 40수 양면 소재와 컬러 배색 유니크 패턴의 간절기 내의 상하세트"
+          }
+        ],
+        "origins": [],
+        "description": "부드러운 40수 양면 소재와 컬러 배색 유니크 패턴의 간절기 내의 상하세트",
+        "material": "(겉감)면100%",
+        "source": {
+          "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN08P",
+          "checkedAt": "2026-11-23"
+        }
+      },
+      "source": {
+        "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN08P",
+        "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20261111/M264NNN08P_BL_I1.jpg",
+        "checkedAt": "2026-11-23"
+      },
+      "measurementBasis": "공식 상품별 실측 이미지 직접 판독 · 가슴·허리 둘레 ÷2 환산",
+      "notes": [
+        "공식 상품 상세에서 연결된 상품 코드별 실측 이미지 직접 판독. 상의·하의 사이즈 열을 각각 대조하고 가슴·허리 둘레는 원본을 보존한 뒤 단면 비교값으로만 2분의 1 환산한다. 어깨 봉제선 기준 팔길이를 소매 길이로 기록한다. 제품별 실제 착용감이나 신체 권장 범위로 확대하지 않는다.",
+        "공식 안내: 제작·측정 방식에 따라 1~2cm 오차가 있을 수 있습니다.",
+        "팔길이는 어깨 봉제선부터 소매 끝까지 측정한 값입니다."
+      ],
+      "sizes": [
+        {
+          "label": "70",
+          "topLength": 29.5,
+          "chestWidth": 29.25,
+          "sleeveLength": 27.5,
+          "pantsLength": 38.5,
+          "waistWidth": 18.5,
+          "raw": {
+            "topLength": 29.5,
+            "chestCircumference": 58.5,
+            "sleeveLength": 27.5,
+            "pantsLength": 38.5,
+            "waistCircumference": 37
+          }
+        },
+        {
+          "label": "80",
+          "topLength": 31,
+          "chestWidth": 30,
+          "sleeveLength": 30,
+          "pantsLength": 41,
+          "waistWidth": 19,
+          "raw": {
+            "topLength": 31,
+            "chestCircumference": 60,
+            "sleeveLength": 30,
+            "pantsLength": 41,
+            "waistCircumference": 38
+          }
+        },
+        {
+          "label": "90",
+          "topLength": 33.5,
+          "chestWidth": 31.25,
+          "sleeveLength": 32.8,
+          "pantsLength": 44.5,
+          "waistWidth": 20,
+          "raw": {
+            "topLength": 33.5,
+            "chestCircumference": 62.5,
+            "sleeveLength": 32.8,
+            "pantsLength": 44.5,
+            "waistCircumference": 40
+          }
+        },
+        {
+          "label": "100",
+          "topLength": 37,
+          "chestWidth": 32.75,
+          "sleeveLength": 36.1,
+          "pantsLength": 49.5,
+          "waistWidth": 21,
+          "raw": {
+            "topLength": 37,
+            "chestCircumference": 65.5,
+            "sleeveLength": 36.1,
+            "pantsLength": 49.5,
+            "waistCircumference": 42
+          }
+        },
+        {
+          "label": "110",
+          "topLength": 40.5,
+          "chestWidth": 34.25,
+          "sleeveLength": 39.4,
+          "pantsLength": 54.5,
+          "waistWidth": 22,
+          "raw": {
+            "topLength": 40.5,
+            "chestCircumference": 68.5,
+            "sleeveLength": 39.4,
+            "pantsLength": 54.5,
+            "waistCircumference": 44
+          }
+        },
+        {
+          "label": "120",
+          "topLength": 44,
+          "chestWidth": 36,
+          "sleeveLength": 43.2,
+          "pantsLength": 60.5,
+          "waistWidth": 23,
+          "raw": {
+            "topLength": 44,
+            "chestCircumference": 72,
+            "sleeveLength": 43.2,
+            "pantsLength": 60.5,
+            "waistCircumference": 46
+          }
+        }
+      ]
+    },
+    {
+      "id": "moimoln-M264NNN04P",
+      "brandId": "moimoln",
+      "name": "[모이몰른] 라비면모달스판배바지실내복 [26 겨울]",
+      "code": "M264NNN04P",
+      "category": "homewear-set",
+      "kind": "homewear-set",
+      "audience": "child",
+      "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20260720/M264NNN04P_CE_01.jpg",
+      "material": "(겉감/배색)면57%,레이온(모달)38%,폴리우레탄5%",
+      "attributes": {
+        "fibers": [
+          "cotton",
+          "modal"
+        ],
+        "fabricLabel": "(겉감/배색)면57%,레이온(모달)38%,폴리우레탄5%",
+        "weave": "",
+        "seasons": [],
+        "seasonEvidence": [],
+        "features": [
+          {
+            "key": "soft",
+            "label": "부드러운 원단",
+            "evidence": "[모이몰른] 라비면모달스판배바지실내복 [26 겨울] 부드러운 면모달 스판 소재의 전판 나염 배앓이 방지 배바지 실내복 상하세트"
+          }
+        ],
+        "origins": [],
+        "description": "부드러운 면모달 스판 소재의 전판 나염 배앓이 방지 배바지 실내복 상하세트",
+        "material": "(겉감/배색)면57%,레이온(모달)38%,폴리우레탄5%",
+        "source": {
+          "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN04P",
+          "checkedAt": "2026-11-23"
+        }
+      },
+      "source": {
+        "url": "https://www.style24.com/goods/detail/form?goodsCd=M264NNN04P",
+        "imageUrl": "https://image.style24.com/Upload/ProductImage/0000019706/20261111/M264NNN04P_CE_I1.jpg",
+        "checkedAt": "2026-11-23"
+      },
+      "measurementBasis": "공식 상품별 실측 이미지 직접 판독 · 가슴·허리 둘레 ÷2 환산",
+      "notes": [
+        "공식 상품 상세에서 연결된 상품 코드별 실측 이미지 직접 판독. 상의·하의 사이즈 열을 각각 대조하고 가슴·허리 둘레는 원본을 보존한 뒤 단면 비교값으로만 2분의 1 환산한다. 어깨 봉제선 기준 팔길이를 소매 길이로 기록한다. 제품별 실제 착용감이나 신체 권장 범위로 확대하지 않는다.",
+        "공식 안내: 제작·측정 방식에 따라 1~2cm 오차가 있을 수 있습니다.",
+        "팔길이는 어깨 봉제선부터 소매 끝까지 측정한 값입니다."
+      ],
+      "sizes": [
+        {
+          "label": "70",
+          "topLength": 29.5,
+          "chestWidth": 24,
+          "sleeveLength": 23.5,
+          "pantsLength": 38.5,
+          "waistWidth": 15,
+          "raw": {
+            "topLength": 29.5,
+            "chestCircumference": 48,
+            "sleeveLength": 23.5,
+            "pantsLength": 38.5,
+            "waistCircumference": 30
+          }
+        },
+        {
+          "label": "80",
+          "topLength": 31,
+          "chestWidth": 24.75,
+          "sleeveLength": 25,
+          "pantsLength": 41,
+          "waistWidth": 15.75,
+          "raw": {
+            "topLength": 31,
+            "chestCircumference": 49.5,
+            "sleeveLength": 25,
+            "pantsLength": 41,
+            "waistCircumference": 31.5
+          }
+        },
+        {
+          "label": "90",
+          "topLength": 33.5,
+          "chestWidth": 26,
+          "sleeveLength": 27.5,
+          "pantsLength": 44.5,
+          "waistWidth": 16.75,
+          "raw": {
+            "topLength": 33.5,
+            "chestCircumference": 52,
+            "sleeveLength": 27.5,
+            "pantsLength": 44.5,
+            "waistCircumference": 33.5
+          }
+        },
+        {
+          "label": "100",
+          "topLength": 36,
+          "chestWidth": 27.25,
+          "sleeveLength": 30,
+          "pantsLength": 48,
+          "waistWidth": 17.75,
+          "raw": {
+            "topLength": 36,
+            "chestCircumference": 54.5,
+            "sleeveLength": 30,
+            "pantsLength": 48,
+            "waistCircumference": 35.5
+          }
+        },
+        {
+          "label": "110",
+          "topLength": 39.5,
+          "chestWidth": 28.75,
+          "sleeveLength": 33,
+          "pantsLength": 53,
+          "waistWidth": 19,
+          "raw": {
+            "topLength": 39.5,
+            "chestCircumference": 57.5,
+            "sleeveLength": 33,
+            "pantsLength": 53,
+            "waistCircumference": 38
+          }
+        },
+        {
+          "label": "120",
+          "topLength": 43,
+          "chestWidth": 30.5,
+          "sleeveLength": 36.5,
+          "pantsLength": 59,
+          "waistWidth": 20.4,
+          "raw": {
+            "topLength": 43,
+            "chestCircumference": 61,
+            "sleeveLength": 36.5,
+            "pantsLength": 59,
+            "waistCircumference": 40.8
+          }
+        }
+      ]
+    }
+  ]
 }
