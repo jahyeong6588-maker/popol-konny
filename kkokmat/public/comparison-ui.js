@@ -1,8 +1,10 @@
 import {isComparable,KINDS} from './engine.js';
+import {sameProduct,productIdentity} from './product-identity.js';
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 export function comparisonBrands(data,{kind=null,audience='child',excludeProduct='',body=false}={}){
- const counts=new Map();
- for(const p of data.products??[])if(isComparable(p)&&(p.audience??'child')===audience&&(!kind||p.kind===kind)&&p.id!==excludeProduct)counts.set(p.brandId,(counts.get(p.brandId)??0)+1);
+ const groups=new Map();
+ for(const p of data.products??[])if(isComparable(p)&&(p.audience??'child')===audience&&(!kind||p.kind===kind)&&!sameProduct(data,p,excludeProduct)){if(!groups.has(p.brandId))groups.set(p.brandId,new Set());groups.get(p.brandId).add(productIdentity(data,p));}
+ const counts=new Map([...groups].map(([id,items])=>[id,items.size]));
  return (data.brands??[]).filter(b=>counts.has(b.id)&&(!body||b.bodyGuide?.rows?.length)).map(b=>({...b,measurementCount:counts.get(b.id)})).sort((a,b)=>b.measurementCount-a.measurementCount||a.name.localeCompare(b.name,'ko'));
 }
 export function catalogBrands(data,kind='all'){
@@ -53,5 +55,5 @@ export function describeCandidateFit(candidate){
  }
  return {summary:(summary||'확인된 실측 차이를 살펴보세요')+'.',tags:[...new Set(tags)]};
 }
-export function renderFitSummary(candidate){const {summary,tags}=describeCandidateFit(candidate);return `<div class="candidate-description fit-summary"><p class="fit-summary-sentence">${esc(summary)}</p>${candidate.partial?`<p class="field-help">공통으로 확인한 ${candidate.differences.length}곳만 비교했어요. 미확인 부위의 크기나 길이는 판단하지 않아요.</p>`:''}${tags.length?`<div class="fit-summary-tags">${tags.map(t=>`<span>${esc(t)}</span>`).join('')}</div>`:''}</div>`;}
+export function renderFitSummary(candidate){const {summary}=describeCandidateFit(candidate);return `<div class="candidate-description fit-summary"><p class="fit-summary-sentence">${esc(summary)}</p>${candidate.partial?`<p class="field-help">공통으로 확인한 ${candidate.differences.length}곳만 비교했어요. 미확인 부위의 크기나 길이는 판단하지 않아요.</p>`:''}</div>`;}
 export function differenceDisclosure(table){return `<details class="candidate-details difference-details"><summary>치수 차이 자세히 보기</summary>${table}</details>`;}

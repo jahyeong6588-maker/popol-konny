@@ -1,4 +1,5 @@
 import {fabricProfile,hasDifferentFabric,matchesSeason} from './traits.js';
+import {sameProduct,productIdentity} from './product-identity.js';
 export const DIMENSIONS = {chestWidth:'가슴 단면',topLength:'상의 길이',sleeveLength:'소매 길이',pantsLength:'바지 총장',waistWidth:'허리 단면'};
 export const ALL_DIMENSIONS={...DIMENSIONS,inseam:'바지 안쪽 길이(인심)',hipWidth:'엉덩이 단면',thighWidth:'허벅지 단면',riseLength:'밑위 길이',hemWidth:'바지 밑단 단면',backWidth: "등 너비",armWidth: "팔 단면",shoulderWidth:'어깨너비',backNeckSleeveLength:'등 중심~소매 끝',headCircumference:'머리 둘레',footLength:'발 길이'};
 const upperFields=['chestWidth','topLength','sleeveLength','shoulderWidth','backNeckSleeveLength',"backWidth","armWidth"];
@@ -38,7 +39,7 @@ export function garmentCandidates(data, reference, {brand='all', product='all', 
   for(const p of data.products){
     if(p.audience==='mixed')continue;
     if((p.kind??inferKind(p.name))!==kind||(p.audience??'child')!==audience)continue;
-    if((brand!=='all'&&p.brandId!==brand)||(product!=='all'&&p.id!==product)||p.id===reference.productId)continue;
+    if((brand!=='all'&&p.brandId!==brand)||(product!=='all'&&p.id!==product)||sameProduct(data,p,origin??reference.productId))continue;
     if(!matchesSeason(p,season)||differentFabric&&!hasDifferentFabric(originFabric,fabricProfile(p)))continue;
     for(const row of p.sizes){
       if(!isMeasurementRow(row,kind))continue;
@@ -51,7 +52,8 @@ export function garmentCandidates(data, reference, {brand='all', product='all', 
       candidates.push({kind:'garment',garmentKind:kind,brandId:p.brandId,productId:p.id,name:p.name,size:row.label,score,...comparison,fit,sizeIntent,season,source:p.source,limited:false,bodyCheck:height==null?null:checkGarmentBody(data,p,row,{height,weight})});
     }
   }
-  return candidates.sort((a,b)=>Number(a.partial)-Number(b.partial)||Number(a.comparisonCount<2)-Number(b.comparisonCount<2)||a.score-b.score||b.comparisonCount-a.comparisonCount||a.name.localeCompare(b.name)).filter((c,i,a)=>a.findIndex(x=>x.productId===c.productId)===i).slice(0,limit);
+  const seen=new Set();
+  return candidates.sort((a,b)=>Number(a.partial)-Number(b.partial)||Number(a.comparisonCount<2)-Number(b.comparisonCount<2)||a.score-b.score||b.comparisonCount-a.comparisonCount||a.name.localeCompare(b.name)).filter(c=>{const key=productIdentity(data,c.productId);if(seen.has(key))return false;seen.add(key);return true;}).slice(0,limit);
 }
 export function summarizeDifferences(candidate){
  const labels={chestWidth:'가슴',topLength:'상의',sleeveLength:'소매',pantsLength:'바지',waistWidth:'허리',headCircumference:'머리둘레',footLength:'발길이'};
