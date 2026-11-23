@@ -23,6 +23,8 @@
 
 ## 실행
 
+새 PC는 [최신 인수인계](../다른-PC에서-이어가기.md)를 먼저 따라 로컬 Site 정보와 DB 3개 마이그레이션을 준비하세요. 로그인 키는 [로그인 설정](SOCIAL-LOGIN-SETUP.md)의 Git 제외 환경 파일에서 관리합니다.
+
 Node.js 22.13 이상에서 `npm ci`, `npm run build`로 준비합니다. 계정 저장은 Worker와 D1을 사용합니다. `npm start`로 로컬 Worker를 실행하며, 첫 로컬 데이터베이스 준비 및 선택 로그인 미리보기는 [계정 기능 실행 안내](ACCOUNT-FEATURES.md)를 참고하세요. `npm test`로 데이터·매칭 규칙·계정 접근 제한을 검증합니다. 정적 앱과 공개 데이터의 원본은 `public/`, 생성된 배포 결과는 `dist/client/`와 `dist/server/`입니다.
 
 ## 데이터
