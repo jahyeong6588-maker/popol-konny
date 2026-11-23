@@ -21,6 +21,8 @@ export const measurementKeys=(row,kind)=>KINDS[kind]?.fields.filter(k=>hasMeasur
 // A garment needs two actual measuring positions; hats/socks have one supported position.
 export const isMeasurementRow=(row,kind)=>!!KINDS[kind]?.required.length&&measurementKeys(row,kind).length>=Math.min(2,KINDS[kind].fields.length);
 export const isComparable=p=>p.audience!=='mixed'&&p.sizes?.some(row=>isMeasurementRow(row,p.kind??inferKind(p.name)))===true;
+// A set can supply separate reference measurements for its top and bottom.
+export const comparisonKinds=kind=>['set','homewear-set'].includes(kind)?[kind,'top','bottom']:[kind];
 export function measurementComparison(reference,row,kind){
  const profile=KINDS[kind];if(!profile?.required.length)return {differences:[],measurements:[],partial:true};
  const measurements=profile.fields.filter(k=>hasMeasurement(reference?.[k])||hasMeasurement(row?.[k])||profile.required.includes(k)).map(key=>({key,label:ALL_DIMENSIONS[key],reference:hasMeasurement(reference?.[key])?reference[key]:null,value:hasMeasurement(row?.[key])?row[key]:null,delta:hasMeasurement(reference?.[key])&&hasMeasurement(row?.[key])?Math.round((row[key]-reference[key])*100)/100:null}));
@@ -38,18 +40,20 @@ export function garmentCandidates(data, reference, {brand='all', product='all', 
   const referenceLength=lengthClass(reference,kind,origin?.name??'');
   for(const p of data.products){
     if(p.audience==='mixed')continue;
-    if((p.kind??inferKind(p.name))!==kind||(p.audience??'child')!==audience)continue;
+    const targetKind=p.kind??inferKind(p.name);
+    if(!comparisonKinds(kind).includes(targetKind)||(p.audience??'child')!==audience)continue;
     if((brand!=='all'&&p.brandId!==brand)||(product!=='all'&&p.id!==product)||sameProduct(data,p,origin??reference.productId))continue;
     if(!matchesSeason(p,season)||differentFabric&&!hasDifferentFabric(originFabric,fabricProfile(p)))continue;
     for(const row of p.sizes){
-      if(!isMeasurementRow(row,kind))continue;
-      if(!sameLengthClass(referenceLength,lengthClass(row,kind,p.name)))continue;
-      const comparison=measurementComparison(reference,row,kind),{differences}=comparison;if(!differences.length)continue;
-      const filtered=differences.filter(d=>kind==='bottom'||d.key!=='waistWidth'),primary=filtered.length?filtered:differences;
+      if(!isMeasurementRow(row,targetKind))continue;
+      const scopedLength=targetKind==='top'?{sleeve:referenceLength.sleeve}:targetKind==='bottom'?{pants:referenceLength.pants}:referenceLength;
+      if(!sameLengthClass(scopedLength,lengthClass(row,targetKind,p.name)))continue;
+      const comparison=measurementComparison(reference,row,targetKind),{differences}=comparison;if(!differences.length)continue;
+      const filtered=differences.filter(d=>targetKind==='bottom'||d.key!=='waistWidth'),primary=filtered.length?filtered:differences;
       if(sizeIntent==='larger'&&(!primary.every(d=>d.delta>=0)||!primary.some(d=>d.delta>=0.5)))continue;
       if(sizeIntent==='smaller'&&(!primary.every(d=>d.delta<=0)||!primary.some(d=>d.delta<=-0.5)))continue;
       const score=primary.reduce((s,d)=>s+Math.abs(d.delta),0)/primary.length;
-      candidates.push({kind:'garment',garmentKind:kind,brandId:p.brandId,productId:p.id,name:p.name,size:row.label,score,...comparison,fit,sizeIntent,season,source:p.source,limited:false,bodyCheck:height==null?null:checkGarmentBody(data,p,row,{height,weight})});
+      candidates.push({kind:'garment',garmentKind:targetKind,referenceKind:kind,brandId:p.brandId,productId:p.id,name:p.name,size:row.label,score,...comparison,fit,sizeIntent,season,source:p.source,limited:false,bodyCheck:height==null?null:checkGarmentBody(data,p,row,{height,weight})});
     }
   }
   const seen=new Set();

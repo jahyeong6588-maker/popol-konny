@@ -23,6 +23,15 @@ test('guest comparison flow hides unavailable brands and renders all numeric dis
  await fire('input',{target:{id:'target-brand-search',name:'',value:''}});await change('targetBrand','bluedog-baby');
  await fire('submit',{target:{id:'target-form'}});
  $=load(app.innerHTML);assert.ok($('.result-card').length>0);assert.equal($('.result-card').length,$('.result-card .difference-details').length);assert.equal($('.difference-details[open]').length,0);assert.equal($('.result-card').length,$('.result-card .fit-summary-sentence').length);assert.match($('.fit-summary-sentence').first().text(),/품|기장|소매/);assert.ok(!/[+−]\d/.test($('.fit-summary-sentence').first().text()));assert.ok($('.difference-details table').length>0);
+ assert.equal($('.result-categories button').length,4);
+ await click('result-category',{category:'top'});$=load(app.innerHTML);
+ assert.ok($('.result-card').length>0);assert.ok($('.result-kind-label').toArray().every(x=>$(x).text()==='상의'));assert.equal($('.result-categories [aria-pressed="true"]').attr('data-category'),'top');
+ assert.ok(!$('.diff-table tbody th').toArray().some(x=>/허리|바지/.test($(x).text())));
+ const topAdjacent=$('.result-card').first().find('[data-action="candidate-size"]').last();await click('candidate-size',{index:topAdjacent.attr('data-index'),size:topAdjacent.attr('data-size')});$=load(app.innerHTML);
+ assert.ok(!$('.diff-table tbody th').toArray().some(x=>/허리|바지/.test($(x).text())));assert.equal($('.difference-details[open]').length,0);
+ await click('result-category',{category:'bottom'});$=load(app.innerHTML);
+ assert.ok($('.result-card').length>0);assert.ok($('.result-kind-label').toArray().every(x=>$(x).text()==='하의'));assert.ok(!$('.diff-table tbody th').toArray().some(x=>/가슴|상의|소매|어깨/.test($(x).text())));
+ await click('result-category',{category:'set'});$=load(app.innerHTML);assert.ok($('.result-kind-label').toArray().every(x=>$(x).text()==='세트'));
  await click('edit-reference');await change('referenceKind','bottom');await change('referenceBrand','uniqlo-baby');
  $=load(app.innerHTML);assert.equal($('[data-action="pick-reference-size"][data-product="uniqlo-baby-E486447-000-00"][data-size="80"]:disabled').length,0);
  await click('pick-reference-size',{product:'uniqlo-baby-E486447-000-00',size:'80'});await fire('submit',{target:{id:'reference-form',reportValidity:()=>true}});await change('targetBrand','uniqlo-baby');await fire('submit',{target:{id:'target-form'}});

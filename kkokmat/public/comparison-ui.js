@@ -1,14 +1,20 @@
-import {isComparable,KINDS} from './engine.js';
+import {isComparable,KINDS,comparisonKinds} from './engine.js';
 import {sameProduct,productIdentity} from './product-identity.js';
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-export function comparisonBrands(data,{kind=null,audience='child',excludeProduct='',body=false}={}){
+export function comparisonBrands(data,{kind=null,audience='child',excludeProduct='',body=false,includeSeparates=false}={}){
  const groups=new Map();
- for(const p of data.products??[])if(isComparable(p)&&(p.audience??'child')===audience&&(!kind||p.kind===kind)&&!sameProduct(data,p,excludeProduct)){if(!groups.has(p.brandId))groups.set(p.brandId,new Set());groups.get(p.brandId).add(productIdentity(data,p));}
+ for(const p of data.products??[])if(isComparable(p)&&(p.audience??'child')===audience&&(!kind||(includeSeparates?comparisonKinds(kind).includes(p.kind):p.kind===kind))&&!sameProduct(data,p,excludeProduct)){if(!groups.has(p.brandId))groups.set(p.brandId,new Set());groups.get(p.brandId).add(productIdentity(data,p));}
  const counts=new Map([...groups].map(([id,items])=>[id,items.size]));
  return (data.brands??[]).filter(b=>counts.has(b.id)&&(!body||b.bodyGuide?.rows?.length)).map(b=>({...b,measurementCount:counts.get(b.id)})).sort((a,b)=>b.measurementCount-a.measurementCount||a.name.localeCompare(b.name,'ko'));
 }
 export function catalogBrands(data,kind='all'){
  return comparisonBrands(data,{kind:KINDS[kind]?.required.length?kind:null});
+}
+export const resultCategory=c=>['set','homewear-set'].includes(c.garmentKind)?'set':c.garmentKind;
+export const RESULT_CATEGORIES={all:'전체',set:'세트',top:'상의',bottom:'하의'};
+export function filterResultCandidates(results,{category='all',brand='all'}={}){return results.filter(c=>(category==='all'||resultCategory(c)===category)&&(brand==='all'||c.brandId===brand));}
+export function renderResultCategories(results,selected='all'){
+ return `<div class="result-categories" role="group" aria-label="결과 상품 종류">${Object.entries(RESULT_CATEGORIES).map(([key,label])=>{const count=filterResultCandidates(results,{category:key}).length;return `<button type="button" data-action="result-category" data-category="${key}" aria-pressed="${key===selected}" class="${key===selected?'selected':''}">${label}<span>${count}</span></button>`}).join('')}</div>`;
 }
 export function renderBrandChoices(brands,{selected='all',query=''}={}){
  if(!brands.length)return '<p class="field-help">이 종류에서 비교할 상품이 없어요.</p>';

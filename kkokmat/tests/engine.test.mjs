@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import {renderCatalogCards} from '../public/catalog.js';
-import {garmentCandidates,bodyCandidates,DIMENSIONS,ALL_DIMENSIONS,KINDS,isComparable} from '../public/engine.js';
+import {garmentCandidates,bodyCandidates,DIMENSIONS,ALL_DIMENSIONS,KINDS,isComparable,comparisonKinds} from '../public/engine.js';
 const data=JSON.parse(fs.readFileSync(new URL('../public/data.json',import.meta.url),'utf8'));
 test('every published measurement is finite and positive, while missing dimensions remain missing',()=>{
  for(const p of data.products){assert.match(p.source.url,/^https:\/\//);assert.match(p.source.checkedAt,/^\d{4}-\d{2}-\d{2}$/);assert.equal(new Date(p.source.checkedAt+'T00:00:00Z').toISOString().slice(0,10),p.source.checkedAt);assert.ok(p.source.checkedAt<=data.checkedAt);for(const s of p.sizes)for(const k of Object.keys(ALL_DIMENSIONS))if(s[k]!=null)assert.ok(Number.isFinite(s[k])&&s[k]>0,`${p.id} ${s.label} ${k}`);}
@@ -26,8 +26,8 @@ test('missing measurements cannot silently produce matching recommendations',()=
 test('clothing that has become small receives larger directional recommendations',()=>{
  const results=garmentCandidates(data,data.products.find(p=>p.id==='konny-ultra').sizes[0],{fit:'small'});assert.ok(results.length>0);assert.ok(results.every(r=>r.sizeIntent==='larger'&&!r.limited));
 });
-test('matches never mix different garment kinds or adult and child sizing',()=>{
- for(const kind of ['top','bottom','homewear-set']){const p=data.products.find(p=>p.kind===kind&&isComparable(p));assert.ok(p);const reference={...p.sizes.find(r=>KINDS[kind].required.every(k=>Number.isFinite(r[k]))),productId:p.id};for(const c of garmentCandidates(data,reference)){const target=data.products.find(p=>p.id===c.productId);assert.equal(target.kind,p.kind);assert.equal(target.audience,p.audience);}}
+test('matches respect allowed garment kinds and never mix adult and child sizing',()=>{
+ for(const kind of ['top','bottom','homewear-set']){const p=data.products.find(p=>p.kind===kind&&isComparable(p));assert.ok(p);const reference={...p.sizes.find(r=>KINDS[kind].required.every(k=>Number.isFinite(r[k]))),productId:p.id};for(const c of garmentCandidates(data,reference)){const target=data.products.find(p=>p.id===c.productId);assert.ok(comparisonKinds(kind).includes(target.kind));assert.equal(c.garmentKind,target.kind);assert.equal(target.audience,p.audience);}}
 });
 test('unsupported carriers cannot receive apparel fit recommendations',()=>{assert.deepEqual(garmentCandidates(data,{kind:'carrier',chestWidth:30,topLength:35,pantsLength:40}),[]);});
 test('public catalog retains all twelve brands and links comparison status to actual measurements',()=>{
