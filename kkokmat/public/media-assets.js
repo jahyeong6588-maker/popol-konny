@@ -171,6 +171,18 @@ export const PRODUCT_IMAGES={
   "uniqlo-baby-E490410-000-00": "./assets/products/uniqlo-baby-E490410-000-00.jpg",
   "moimoln-M264NNH43P": "./assets/products/moimoln-M264NNH43P.jpg",
   "moimoln-M264NNN17P": "./assets/products/moimoln-M264NNN17P.jpg",
-  "apricot-asana-homewear": "./assets/products/apricot-asana-homewear.jpg"
+  "apricot-asana-homewear": "./assets/products/apricot-asana-homewear.jpg",
+  "konny-760": "./assets/products/konny-760.jpg",
+  "konny-1451": "./assets/products/konny-1451.png",
+  "apricot-3126": "./assets/products/apricot-3126.jpg",
+  "apricot-3127": "./assets/products/apricot-3127.jpg",
+  "benebene-13000": "./assets/products/benebene-13000.jpg",
+  "benebene-13001": "./assets/products/benebene-13001.jpg",
+  "benebene-9769": "./assets/products/benebene-9769.jpg",
+  "benebene-9767": "./assets/products/benebene-9767.jpg",
+  "benebene-1068": "./assets/products/benebene-1068.jpg",
+  "benebene-1069": "./assets/products/benebene-1069.jpg",
+  "benebene-8350": "./assets/products/benebene-8350.jpg",
+  "benebene-8382": "./assets/products/benebene-8382.jpg"
 };
 export const PRODUCT_RELEASE_DATES={};

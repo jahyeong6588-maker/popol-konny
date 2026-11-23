@@ -1,0 +1,136 @@
+{
+  "checkedAt": "2026-11-23",
+  "audits": [
+    "research/new-homewear-konny-20261123.json",
+    "research/new-homewear-apricot-20261123.json",
+    "research/new-homewear-benebene-20261123.json"
+  ],
+  "before": {
+    "konny": {
+      "products": 6,
+      "sizeRows": 29
+    },
+    "apricot": {
+      "products": 5,
+      "sizeRows": 30
+    },
+    "benebene": {
+      "products": 1,
+      "sizeRows": 4
+    }
+  },
+  "after": {
+    "konny": {
+      "products": 8,
+      "sizeRows": 39
+    },
+    "apricot": {
+      "products": 7,
+      "sizeRows": 46
+    },
+    "benebene": {
+      "products": 9,
+      "sizeRows": 33
+    }
+  },
+  "updates": [
+    {
+      "id": "konny-760",
+      "brandId": "konny",
+      "code": "760",
+      "name": "컴피 플리스 라운지 세트",
+      "type": "classification-recovered",
+      "sizeRows": 6
+    },
+    {
+      "id": "konny-1451",
+      "brandId": "konny",
+      "code": "1451",
+      "name": "타탄체크 파자마세트, 25겨울",
+      "type": "new-product",
+      "sizeRows": 4
+    },
+    {
+      "id": "apricot-3126",
+      "brandId": "apricot",
+      "code": "3126",
+      "name": "구름 실내복 by MeltingCloud®",
+      "type": "new-product",
+      "sizeRows": 8
+    },
+    {
+      "id": "apricot-3127",
+      "brandId": "apricot",
+      "code": "3127",
+      "name": "아사나 패턴 실내복 by MeltingCloud®",
+      "type": "new-product",
+      "sizeRows": 8
+    },
+    {
+      "id": "benebene-13000",
+      "brandId": "benebene",
+      "code": "13000",
+      "name": "BABY) Elfin Organic Twinset, Cream",
+      "type": "new-product",
+      "sizeRows": 3
+    },
+    {
+      "id": "benebene-13001",
+      "brandId": "benebene",
+      "code": "13001",
+      "name": "Elfin Organic Twinset, Cream",
+      "type": "new-product",
+      "sizeRows": 4
+    },
+    {
+      "id": "benebene-9769",
+      "brandId": "benebene",
+      "code": "9769",
+      "name": "BABY) Bene Stripe Twinset, Grayish Blue",
+      "type": "new-product",
+      "sizeRows": 3
+    },
+    {
+      "id": "benebene-9767",
+      "brandId": "benebene",
+      "code": "9767",
+      "name": "Bene Stripe Twinset, Grayish Blue",
+      "type": "new-product",
+      "sizeRows": 4
+    },
+    {
+      "id": "benebene-1068",
+      "brandId": "benebene",
+      "code": "1068",
+      "name": "BABY) Baby Breath Lip Neck Twinset, Baby Breath",
+      "type": "classification-recovered",
+      "sizeRows": 3
+    },
+    {
+      "id": "benebene-1069",
+      "brandId": "benebene",
+      "code": "1069",
+      "name": "Baby Breath Lip Neck Twinset, Baby Breath",
+      "type": "new-product",
+      "sizeRows": 4
+    },
+    {
+      "id": "benebene-8350",
+      "brandId": "benebene",
+      "code": "8350",
+      "name": "Low Stripe Pajamas, Light Gray",
+      "type": "new-product",
+      "sizeRows": 4
+    },
+    {
+      "id": "benebene-8382",
+      "brandId": "benebene",
+      "code": "8382",
+      "name": "Beloved Twinset, Gray",
+      "type": "new-product",
+      "sizeRows": 4
+    }
+  ],
+  "newProducts": 10,
+  "recoveredProducts": 2
+}

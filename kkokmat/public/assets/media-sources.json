@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-18",
+  "checkedAt": "2026-11-23",
   "notice": "Brand logos and product photographs belong to their respective owners. Original files obtained from official brand/parent company stores and the official linked social profile for local prototype comparison; no affiliation implied.",
   "logos": {
     "konny": {
@@ -1184,6 +1184,114 @@
       "imageUrl": "https://apricotstudios.co.kr/web/product/big/202611/2e0490777a5c97f69e179a71e5a095b1.jpg",
       "source": "https://apricotstudios.co.kr/product/%EC%95%84%EC%82%AC%EB%82%98-%EC%8B%A4%EB%82%B4%EB%B3%B5-by-meltingcloud%C2%AE/3124/category/1748/display/1/",
       "bytes": 52918
+    },
+    {
+      "id": "konny-760",
+      "imageUrl": "https://konny.kr/web/product/big/202610/e63bfb2a16afb5e74aa18f1689e51167.jpg",
+      "source": "https://konny.kr/product/detail.html?product_no=760",
+      "path": "./assets/products/konny-760.jpg",
+      "bytes": 166772,
+      "sha256": "4080fe6b39b3108e48ab13415b6174fff7ac4d8c4cd87c06349fe6bbcc045460",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "id": "konny-1451",
+      "imageUrl": "https://konny.kr/web/product/big/202601/fa910a9a72aae029f0b65e296a9ba4e6.jpg",
+      "source": "https://konny.kr/product/detail.html?product_no=1451",
+      "path": "./assets/products/konny-1451.png",
+      "bytes": 1900650,
+      "sha256": "8de2626e1068cdebba44578a0a355e79fa0eac53905deacdea4d1683dff793c2",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "id": "apricot-3126",
+      "imageUrl": "https://cafe24img.poxo.com/apricotstudios/web/product/big/202611/9912e1b0a554bfaf7f6ea50a3534d193.jpg",
+      "source": "https://apricotstudios.co.kr/product/detail.html?product_no=3126",
+      "path": "./assets/products/apricot-3126.jpg",
+      "bytes": 48966,
+      "sha256": "04a4c69b4b4651fdf8839ca9d2865fe83cc883c659d07d0955d186219fbafd49",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "id": "apricot-3127",
+      "imageUrl": "https://cafe24img.poxo.com/apricotstudios/web/product/big/202611/ac3d3c4a8c5bff4ed6e6efff949f5ffb.jpg",
+      "source": "https://apricotstudios.co.kr/product/detail.html?product_no=3127",
+      "path": "./assets/products/apricot-3127.jpg",
+      "bytes": 74001,
+      "sha256": "9ac9f8a914015a70100262a0172b625507976a1bd2fa4c91dc4cf99332fe5dd2",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "id": "benebene-13000",
+      "imageUrl": "https://cafe24.poxo.com/ec01/ouibene2023/3Edgez7aTEs2uDezllWuL9PJGVY+ouxYF62vbywZgylRcyKuJX7AxfHwjfYFXkewBP/F8YI3+cxQE+vZiOUS+Q==/_/web/product/big/202606/0c697aa53a88415098fc4e9635161045.jpg",
+      "source": "https://www.benebene.co.kr/product/detail.html?product_no=13000",
+      "path": "./assets/products/benebene-13000.jpg",
+      "bytes": 59989,
+      "sha256": "d95ecae1d1b8d49aae9322ab75c052914ac1463dd938bca5baf5e6ee2bd0a325",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "id": "benebene-13001",
+      "imageUrl": "https://cafe24.poxo.com/ec01/ouibene2023/3Edgez7aTEs2uDezllWuL9PJGVY+ouxYF62vbywZgylRcyKuJX7AxfHwjfYFXkewBP/F8YI3+cxQE+vZiOUS+Q==/_/web/product/big/202606/78049466f23e9645681b887aa30b9f29.jpg",
+      "source": "https://www.benebene.co.kr/product/detail.html?product_no=13001",
+      "path": "./assets/products/benebene-13001.jpg",
+      "bytes": 64559,
+      "sha256": "27971f3d9a27d8f16e32a970ab77435db7c01d57f681c93442794298171298df",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "id": "benebene-9769",
+      "imageUrl": "https://cafe24.poxo.com/ec01/ouibene2023/3Edgez7aTEs2uDezllWuL9PJGVY+ouxYF62vbywZgylRcyKuJX7AxfHwjfYFXkewBP/F8YI3+cxQE+vZiOUS+Q==/_/web/product/big/202512/6307eb2f537da8e0d086e6e0aeae6f76.jpg",
+      "source": "https://www.benebene.co.kr/product/detail.html?product_no=9769",
+      "path": "./assets/products/benebene-9769.jpg",
+      "bytes": 986590,
+      "sha256": "c4eafba24b90342275fa652263f4167e979b4bf47601ff658056c0fb43e78b8a",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "id": "benebene-9767",
+      "imageUrl": "https://cafe24.poxo.com/ec01/ouibene2023/3Edgez7aTEs2uDezllWuL9PJGVY+ouxYF62vbywZgylRcyKuJX7AxfHwjfYFXkewBP/F8YI3+cxQE+vZiOUS+Q==/_/web/product/big/202603/9016c893e2b035a8e604836bebdc952a.jpg",
+      "source": "https://www.benebene.co.kr/product/detail.html?product_no=9767",
+      "path": "./assets/products/benebene-9767.jpg",
+      "bytes": 226533,
+      "sha256": "d113c64f05be458e4b5940706af253761ef3450f0ca2eb83c55e4ae83d17a721",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "id": "benebene-1068",
+      "imageUrl": "https://cafe24.poxo.com/ec01/ouibene2023/3Edgez7aTEs2uDezllWuL9PJGVY+ouxYF62vbywZgylRcyKuJX7AxfHwjfYFXkewBP/F8YI3+cxQE+vZiOUS+Q==/_/web/product/big/202311/2907e4516023dff7c1a9a474130cbd10.jpg",
+      "source": "https://www.benebene.co.kr/product/detail.html?product_no=1068",
+      "path": "./assets/products/benebene-1068.jpg",
+      "bytes": 81770,
+      "sha256": "9c810cf704542bd9d0288f62be48993c1dbb3d34059560445800b2c1912c70e8",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "id": "benebene-1069",
+      "imageUrl": "https://cafe24.poxo.com/ec01/ouibene2023/3Edgez7aTEs2uDezllWuL9PJGVY+ouxYF62vbywZgylRcyKuJX7AxfHwjfYFXkewBP/F8YI3+cxQE+vZiOUS+Q==/_/web/product/big/202311/64395824481cdf44822402bf675bb7d4.jpg",
+      "source": "https://www.benebene.co.kr/product/detail.html?product_no=1069",
+      "path": "./assets/products/benebene-1069.jpg",
+      "bytes": 81168,
+      "sha256": "41cb3ad7326a48afb37b6b74d497bb322707fd7da8f49fd73585880df9bdc1ad",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "id": "benebene-8350",
+      "imageUrl": "https://cafe24.poxo.com/ec01/ouibene2023/3Edgez7aTEs2uDezllWuL9PJGVY+ouxYF62vbywZgylRcyKuJX7AxfHwjfYFXkewBP/F8YI3+cxQE+vZiOUS+Q==/_/web/product/big/202503/f0f53b1f5e5cd773ac2a30b7b18d56dc.jpg",
+      "source": "https://www.benebene.co.kr/product/detail.html?product_no=8350",
+      "path": "./assets/products/benebene-8350.jpg",
+      "bytes": 895705,
+      "sha256": "67ae033785f35a2d9f8a16d7b62a3e2fec8044e82a32702ffc9910335f75ca5e",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "id": "benebene-8382",
+      "imageUrl": "https://cafe24.poxo.com/ec01/ouibene2023/3Edgez7aTEs2uDezllWuL9PJGVY+ouxYF62vbywZgylRcyKuJX7AxfHwjfYFXkewBP/F8YI3+cxQE+vZiOUS+Q==/_/web/product/big/202501/7b01f8abd02ab482a3014561a1e3ea3e.jpg",
+      "source": "https://www.benebene.co.kr/product/detail.html?product_no=8382",
+      "path": "./assets/products/benebene-8382.jpg",
+      "bytes": 80508,
+      "sha256": "f75be09b1b88d1216e5ff7f8cbd5c3b8c5381165fab47923bcf6511e77d6e8f2",
+      "checkedAt": "2026-11-23"
     }
   ],
   "unavailable": [],

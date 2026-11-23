@@ -25,7 +25,19 @@
     "detailFetched": 247,
     "complete": true,
     "scope": "공식 공개 카테고리 및 현재 노출 상품. 비노출·삭제 상품 제외.",
-    "notes": []
+    "notes": [],
+    "measurementReviewedAt": "2026-11-23",
+    "homewearExpansion": {
+      "source": "research/new-homewear-apricot-20261123.json",
+      "before": {
+        "products": 5,
+        "sizeRows": 30
+      },
+      "after": {
+        "products": 7,
+        "sizeRows": 46
+      }
+    }
   },
   "catalog": [
     {
@@ -5974,6 +5986,124 @@
         2227
       ],
       "audience": "child"
+    },
+    {
+      "id": "apricot-3126",
+      "brandId": "apricot",
+      "code": "3126",
+      "name": "구름 실내복 by MeltingCloud®",
+      "kind": "homewear-set",
+      "audience": "child",
+      "source": {
+        "url": "https://apricotstudios.co.kr/product/detail.html?product_no=3126",
+        "checkedAt": "2026-11-23"
+      },
+      "imageUrl": "https://cafe24img.poxo.com/apricotstudios/web/product/big/202611/9912e1b0a554bfaf7f6ea50a3534d193.jpg",
+      "sizeLabels": [
+        "12M",
+        "18M",
+        "90",
+        "100",
+        "110",
+        "120",
+        "130",
+        "140"
+      ],
+      "measurementId": "apricot-3126",
+      "measurementStatus": "verified",
+      "comparable": true,
+      "reason": null,
+      "attributes": {
+        "fibers": [
+          "modal"
+        ],
+        "fabricLabel": "모달 93%, 폴리우레탄 7%",
+        "weave": "",
+        "seasons": [],
+        "seasonEvidence": [],
+        "features": [
+          {
+            "key": "soft",
+            "label": "부드러운 원단",
+            "evidence": "- 소재 특성상 피부에 닿는 촉감이 부드러워 예민한 아이도 편안하게 활용 가능"
+          }
+        ],
+        "origins": [
+          "중국"
+        ],
+        "description": "MeltingCloud®\r\n멜팅클라우드®\r\n\r\n구름처럼 가볍고 닿는 순간 녹아내리는 감촉\r\n\r\n멜팅클라우드®는 아이의 피부가 가장 민감한 '집에서의 시간'을 위해 연구된 원단으로, 모달 기반의 초미세사를 사용해 피부에 닿는 순간 녹아 사라지는 듯한 부드러운 감촉을 구현한, 집에서 가장 오래 입는 옷의 필수 조건들을 강화한 전문 라인입니다.\r\n\r\n\r\n- 텐셀 소재를 사용해 제작한 구름 실내복\r\n- 소재 특성상 피부에 닿는 촉감이 부드러워 예민한 아이도 편안하게 활용 가능\r\n- 구김이 적고 세탁 후 면 소재보다 빠르게 건조되어 실용성이 좋음\r\n- 상,하의 컬러 매칭이 돋보이는 세트 구성이 포인트\r\n- 실내복이지만 간단한 외출복으로도 활용도가 높은 아이템",
+        "material": "모달 93%, 폴리우레탄 7%",
+        "source": {
+          "url": "https://apricotstudios.co.kr/product/detail.html?product_no=3126",
+          "checkedAt": "2026-11-23"
+        }
+      },
+      "measurementReview": {
+        "checkedAt": "2026-11-23",
+        "method": "official-HTML-size-chart",
+        "source": "https://apricotstudios.co.kr/product/detail.html?product_no=3126",
+        "htmlSHA256": "cdefabb055ad602ebce11c6064beb75e89143c475772b8c58fb23a23e52ee22d",
+        "chartHTMLSHA256": "b127a5476a305e5541723cd156379e141d4911c457d254e49598ae3d2abf539e"
+      }
+    },
+    {
+      "id": "apricot-3127",
+      "brandId": "apricot",
+      "code": "3127",
+      "name": "아사나 패턴 실내복 by MeltingCloud®",
+      "kind": "homewear-set",
+      "audience": "child",
+      "source": {
+        "url": "https://apricotstudios.co.kr/product/detail.html?product_no=3127",
+        "checkedAt": "2026-11-23"
+      },
+      "imageUrl": "https://cafe24img.poxo.com/apricotstudios/web/product/big/202611/ac3d3c4a8c5bff4ed6e6efff949f5ffb.jpg",
+      "sizeLabels": [
+        "12M",
+        "18M",
+        "90",
+        "100",
+        "110",
+        "120",
+        "130",
+        "140"
+      ],
+      "measurementId": "apricot-3127",
+      "measurementStatus": "verified",
+      "comparable": true,
+      "reason": null,
+      "attributes": {
+        "fibers": [
+          "modal"
+        ],
+        "fabricLabel": "모달 93%, 폴리우레탄 7%",
+        "weave": "",
+        "seasons": [],
+        "seasonEvidence": [],
+        "features": [
+          {
+            "key": "soft",
+            "label": "부드러운 원단",
+            "evidence": "- 소재 특성상 피부에 닿는 촉감이 부드러워 예민한 아이도 편안하게 착용"
+          }
+        ],
+        "origins": [
+          "중국"
+        ],
+        "description": "MeltingCloud®\r\n멜팅클라우드®\r\n\r\n구름처럼 가볍고 닿는 순간 녹아내리는 감촉\r\n\r\n멜팅클라우드®는 아이의 피부가 가장 민감한 '집에서의 시간'을 위해 연구된 원단으로, 모달 기반의 초미세사를 사용해 피부에 닿는 순간 녹아 사라지는 듯한 부드러운 감촉을 구현한, 집에서 가장 오래 입는 옷의 필수 조건들을 강화한 전문 라인입니다.\r\n\r\n\r\n- 텐셀 소재를 사용해 제작한 아사나 패턴 실내복\r\n- 상,하의 서로 다른 패턴을 믹스해 단조로움이 없는 디자인\r\n- 밝고 따뜻한 컬러를 조합해 남,여아 모두 활용 가능\r\n- 소재 특성상 피부에 닿는 촉감이 부드러워 예민한 아이도 편안하게 착용\r\n- 구김이 적고 세탁 후 면 소재보다 빠르게 건조되어 실용성이 좋음",
+        "material": "모달 93%, 폴리우레탄 7%",
+        "source": {
+          "url": "https://apricotstudios.co.kr/product/detail.html?product_no=3127",
+          "checkedAt": "2026-11-23"
+        }
+      },
+      "measurementReview": {
+        "checkedAt": "2026-11-23",
+        "method": "official-HTML-size-chart",
+        "source": "https://apricotstudios.co.kr/product/detail.html?product_no=3127",
+        "htmlSHA256": "df49b55842a858d37e7efec5fe6e7f814e7c0e557ddc7d33b1da9c33d24354aa",
+        "chartHTMLSHA256": "53f7777cabe561b0556cbae8fde3b1c572c40ffc347b1093fb59cfe62ceaf87b"
+      }
     }
   ],
   "products": [
@@ -16406,6 +16536,392 @@
           },
           "topLength": 52.5,
           "chestWidth": 30
+        }
+      ]
+    },
+    {
+      "id": "apricot-3126",
+      "brandId": "apricot",
+      "name": "구름 실내복 by MeltingCloud®",
+      "code": "3126",
+      "category": "homewear-set",
+      "kind": "homewear-set",
+      "audience": "child",
+      "imageUrl": "https://cafe24img.poxo.com/apricotstudios/web/product/big/202611/9912e1b0a554bfaf7f6ea50a3534d193.jpg",
+      "material": "모달 93%, 폴리우레탄 7%",
+      "attributes": {
+        "fibers": [
+          "modal"
+        ],
+        "fabricLabel": "모달 93%, 폴리우레탄 7%",
+        "weave": "",
+        "seasons": [],
+        "seasonEvidence": [],
+        "features": [
+          {
+            "key": "soft",
+            "label": "부드러운 원단",
+            "evidence": "- 소재 특성상 피부에 닿는 촉감이 부드러워 예민한 아이도 편안하게 활용 가능"
+          }
+        ],
+        "origins": [
+          "중국"
+        ],
+        "description": "MeltingCloud®\r\n멜팅클라우드®\r\n\r\n구름처럼 가볍고 닿는 순간 녹아내리는 감촉\r\n\r\n멜팅클라우드®는 아이의 피부가 가장 민감한 '집에서의 시간'을 위해 연구된 원단으로, 모달 기반의 초미세사를 사용해 피부에 닿는 순간 녹아 사라지는 듯한 부드러운 감촉을 구현한, 집에서 가장 오래 입는 옷의 필수 조건들을 강화한 전문 라인입니다.\r\n\r\n\r\n- 텐셀 소재를 사용해 제작한 구름 실내복\r\n- 소재 특성상 피부에 닿는 촉감이 부드러워 예민한 아이도 편안하게 활용 가능\r\n- 구김이 적고 세탁 후 면 소재보다 빠르게 건조되어 실용성이 좋음\r\n- 상,하의 컬러 매칭이 돋보이는 세트 구성이 포인트\r\n- 실내복이지만 간단한 외출복으로도 활용도가 높은 아이템",
+        "material": "모달 93%, 폴리우레탄 7%",
+        "source": {
+          "url": "https://apricotstudios.co.kr/product/detail.html?product_no=3126",
+          "checkedAt": "2026-11-23"
+        }
+      },
+      "source": {
+        "url": "https://apricotstudios.co.kr/product/detail.html?product_no=3126",
+        "checkedAt": "2026-11-23"
+      },
+      "measurementBasis": "공식 상품별 HTML 실측표 · 모든 수치 단면(cm) · 상의 옆목기장",
+      "notes": [
+        "공식 상품별 사이즈표를 확인했으며, 숫자를 다른 상품에서 대입하지 않았습니다.",
+        "모든 실측은 단면, 단위 cm이며 상의 총장은 옆목 기준입니다.",
+        "공식 안내: 측정 방법과 환경에 따라 1~2cm, 동일 디자인도 소재·색상에 따라 3~4cm 차이가 발생할 수 있습니다.",
+        "12M·18M 표기를 임의로 숫자 사이즈로 환산하지 않습니다."
+      ],
+      "sizes": [
+        {
+          "label": "12M",
+          "topLength": 33.3,
+          "chestWidth": 24.3,
+          "sleeveLength": 26.1,
+          "pantsLength": 42.2,
+          "waistWidth": 20,
+          "raw": {
+            "topLength": 33.3,
+            "chestWidth": 24.3,
+            "shoulderWidth": 20.5,
+            "sleeveLength": 26.1,
+            "pantsLength": 42.2,
+            "waistWidth": 20,
+            "hipWidth": 33.2,
+            "frontRise": 21.4
+          }
+        },
+        {
+          "label": "18M",
+          "topLength": 35.4,
+          "chestWidth": 25.6,
+          "sleeveLength": 28.6,
+          "pantsLength": 45.2,
+          "waistWidth": 20.8,
+          "raw": {
+            "topLength": 35.4,
+            "chestWidth": 25.6,
+            "shoulderWidth": 21.5,
+            "sleeveLength": 28.6,
+            "pantsLength": 45.2,
+            "waistWidth": 20.8,
+            "hipWidth": 34.5,
+            "frontRise": 21.9
+          }
+        },
+        {
+          "label": "90",
+          "topLength": 36.8,
+          "chestWidth": 26.2,
+          "sleeveLength": 29.8,
+          "pantsLength": 52.7,
+          "waistWidth": 20,
+          "raw": {
+            "topLength": 36.8,
+            "chestWidth": 26.2,
+            "shoulderWidth": 22.1,
+            "sleeveLength": 29.8,
+            "pantsLength": 52.7,
+            "waistWidth": 20,
+            "hipWidth": 35.2,
+            "frontRise": 22.3
+          }
+        },
+        {
+          "label": "100",
+          "topLength": 40.4,
+          "chestWidth": 28.1,
+          "sleeveLength": 33.5,
+          "pantsLength": 57.7,
+          "waistWidth": 21.3,
+          "raw": {
+            "topLength": 40.4,
+            "chestWidth": 28.1,
+            "shoulderWidth": 23.7,
+            "sleeveLength": 33.5,
+            "pantsLength": 57.7,
+            "waistWidth": 21.3,
+            "hipWidth": 37.1,
+            "frontRise": 23.3
+          }
+        },
+        {
+          "label": "110",
+          "topLength": 44,
+          "chestWidth": 30,
+          "sleeveLength": 37.2,
+          "pantsLength": 62.7,
+          "waistWidth": 22.5,
+          "raw": {
+            "topLength": 44,
+            "chestWidth": 30,
+            "shoulderWidth": 25.3,
+            "sleeveLength": 37.2,
+            "pantsLength": 62.7,
+            "waistWidth": 22.5,
+            "hipWidth": 39,
+            "frontRise": 24.3
+          }
+        },
+        {
+          "label": "120",
+          "topLength": 47.6,
+          "chestWidth": 31.9,
+          "sleeveLength": 40.9,
+          "pantsLength": 67.7,
+          "waistWidth": 23.8,
+          "raw": {
+            "topLength": 47.6,
+            "chestWidth": 31.9,
+            "shoulderWidth": 26.9,
+            "sleeveLength": 40.9,
+            "pantsLength": 67.7,
+            "waistWidth": 23.8,
+            "hipWidth": 40.9,
+            "frontRise": 25.3
+          }
+        },
+        {
+          "label": "130",
+          "topLength": 51.2,
+          "chestWidth": 33.8,
+          "sleeveLength": 44.6,
+          "pantsLength": 72.7,
+          "waistWidth": 25,
+          "raw": {
+            "topLength": 51.2,
+            "chestWidth": 33.8,
+            "shoulderWidth": 28.5,
+            "sleeveLength": 44.6,
+            "pantsLength": 72.7,
+            "waistWidth": 25,
+            "hipWidth": 42.8,
+            "frontRise": 26.3
+          }
+        },
+        {
+          "label": "140",
+          "topLength": 54.8,
+          "chestWidth": 35.7,
+          "sleeveLength": 48.3,
+          "pantsLength": 77.7,
+          "waistWidth": 26.3,
+          "raw": {
+            "topLength": 54.8,
+            "chestWidth": 35.7,
+            "shoulderWidth": 30.1,
+            "sleeveLength": 48.3,
+            "pantsLength": 77.7,
+            "waistWidth": 26.3,
+            "hipWidth": 44.7,
+            "frontRise": 27.3
+          }
+        }
+      ]
+    },
+    {
+      "id": "apricot-3127",
+      "brandId": "apricot",
+      "name": "아사나 패턴 실내복 by MeltingCloud®",
+      "code": "3127",
+      "category": "homewear-set",
+      "kind": "homewear-set",
+      "audience": "child",
+      "imageUrl": "https://cafe24img.poxo.com/apricotstudios/web/product/big/202611/ac3d3c4a8c5bff4ed6e6efff949f5ffb.jpg",
+      "material": "모달 93%, 폴리우레탄 7%",
+      "attributes": {
+        "fibers": [
+          "modal"
+        ],
+        "fabricLabel": "모달 93%, 폴리우레탄 7%",
+        "weave": "",
+        "seasons": [],
+        "seasonEvidence": [],
+        "features": [
+          {
+            "key": "soft",
+            "label": "부드러운 원단",
+            "evidence": "- 소재 특성상 피부에 닿는 촉감이 부드러워 예민한 아이도 편안하게 착용"
+          }
+        ],
+        "origins": [
+          "중국"
+        ],
+        "description": "MeltingCloud®\r\n멜팅클라우드®\r\n\r\n구름처럼 가볍고 닿는 순간 녹아내리는 감촉\r\n\r\n멜팅클라우드®는 아이의 피부가 가장 민감한 '집에서의 시간'을 위해 연구된 원단으로, 모달 기반의 초미세사를 사용해 피부에 닿는 순간 녹아 사라지는 듯한 부드러운 감촉을 구현한, 집에서 가장 오래 입는 옷의 필수 조건들을 강화한 전문 라인입니다.\r\n\r\n\r\n- 텐셀 소재를 사용해 제작한 아사나 패턴 실내복\r\n- 상,하의 서로 다른 패턴을 믹스해 단조로움이 없는 디자인\r\n- 밝고 따뜻한 컬러를 조합해 남,여아 모두 활용 가능\r\n- 소재 특성상 피부에 닿는 촉감이 부드러워 예민한 아이도 편안하게 착용\r\n- 구김이 적고 세탁 후 면 소재보다 빠르게 건조되어 실용성이 좋음",
+        "material": "모달 93%, 폴리우레탄 7%",
+        "source": {
+          "url": "https://apricotstudios.co.kr/product/detail.html?product_no=3127",
+          "checkedAt": "2026-11-23"
+        }
+      },
+      "source": {
+        "url": "https://apricotstudios.co.kr/product/detail.html?product_no=3127",
+        "checkedAt": "2026-11-23"
+      },
+      "measurementBasis": "공식 상품별 HTML 실측표 · 모든 수치 단면(cm) · 상의 옆목기장",
+      "notes": [
+        "공식 상품별 사이즈표를 확인했으며, 숫자를 다른 상품에서 대입하지 않았습니다.",
+        "모든 실측은 단면, 단위 cm이며 상의 총장은 옆목 기준입니다.",
+        "공식 안내: 측정 방법과 환경에 따라 1~2cm, 동일 디자인도 소재·색상에 따라 3~4cm 차이가 발생할 수 있습니다.",
+        "12M·18M 표기를 임의로 숫자 사이즈로 환산하지 않습니다."
+      ],
+      "sizes": [
+        {
+          "label": "12M",
+          "topLength": 33.3,
+          "chestWidth": 24.3,
+          "sleeveLength": 26.1,
+          "pantsLength": 42.2,
+          "waistWidth": 18.5,
+          "raw": {
+            "topLength": 33.3,
+            "chestWidth": 24.3,
+            "shoulderWidth": 20.5,
+            "sleeveLength": 26.1,
+            "pantsLength": 42.2,
+            "waistWidth": 18.5,
+            "hipWidth": 35.3,
+            "frontRise": 21.4
+          }
+        },
+        {
+          "label": "18M",
+          "topLength": 35.4,
+          "chestWidth": 25.6,
+          "sleeveLength": 28.6,
+          "pantsLength": 45.2,
+          "waistWidth": 19.3,
+          "raw": {
+            "topLength": 35.4,
+            "chestWidth": 25.6,
+            "shoulderWidth": 21.5,
+            "sleeveLength": 28.6,
+            "pantsLength": 45.2,
+            "waistWidth": 19.3,
+            "hipWidth": 36.6,
+            "frontRise": 21.9
+          }
+        },
+        {
+          "label": "90",
+          "topLength": 36.8,
+          "chestWidth": 26.2,
+          "sleeveLength": 29.8,
+          "pantsLength": 52.7,
+          "waistWidth": 20,
+          "raw": {
+            "topLength": 36.8,
+            "chestWidth": 26.2,
+            "shoulderWidth": 22.1,
+            "sleeveLength": 29.8,
+            "pantsLength": 52.7,
+            "waistWidth": 20,
+            "hipWidth": 35.2,
+            "frontRise": 22.3
+          }
+        },
+        {
+          "label": "100",
+          "topLength": 40.4,
+          "chestWidth": 28.1,
+          "sleeveLength": 33.5,
+          "pantsLength": 57.7,
+          "waistWidth": 21.3,
+          "raw": {
+            "topLength": 40.4,
+            "chestWidth": 28.1,
+            "shoulderWidth": 23.7,
+            "sleeveLength": 33.5,
+            "pantsLength": 57.7,
+            "waistWidth": 21.3,
+            "hipWidth": 37.1,
+            "frontRise": 23.3
+          }
+        },
+        {
+          "label": "110",
+          "topLength": 44,
+          "chestWidth": 30,
+          "sleeveLength": 37.2,
+          "pantsLength": 62.7,
+          "waistWidth": 22.5,
+          "raw": {
+            "topLength": 44,
+            "chestWidth": 30,
+            "shoulderWidth": 25.3,
+            "sleeveLength": 37.2,
+            "pantsLength": 62.7,
+            "waistWidth": 22.5,
+            "hipWidth": 39,
+            "frontRise": 24.3
+          }
+        },
+        {
+          "label": "120",
+          "topLength": 47.6,
+          "chestWidth": 31.9,
+          "sleeveLength": 40.9,
+          "pantsLength": 67.7,
+          "waistWidth": 23.8,
+          "raw": {
+            "topLength": 47.6,
+            "chestWidth": 31.9,
+            "shoulderWidth": 26.9,
+            "sleeveLength": 40.9,
+            "pantsLength": 67.7,
+            "waistWidth": 23.8,
+            "hipWidth": 40.9,
+            "frontRise": 25.3
+          }
+        },
+        {
+          "label": "130",
+          "topLength": 51.2,
+          "chestWidth": 33.8,
+          "sleeveLength": 44.6,
+          "pantsLength": 72.7,
+          "waistWidth": 25,
+          "raw": {
+            "topLength": 51.2,
+            "chestWidth": 33.8,
+            "shoulderWidth": 28.5,
+            "sleeveLength": 44.6,
+            "pantsLength": 72.7,
+            "waistWidth": 25,
+            "hipWidth": 42.8,
+            "frontRise": 26.3
+          }
+        },
+        {
+          "label": "140",
+          "topLength": 54.8,
+          "chestWidth": 35.7,
+          "sleeveLength": 48.3,
+          "pantsLength": 77.7,
+          "waistWidth": 26.3,
+          "raw": {
+            "topLength": 54.8,
+            "chestWidth": 35.7,
+            "shoulderWidth": 30.1,
+            "sleeveLength": 48.3,
+            "pantsLength": 77.7,
+            "waistWidth": 26.3,
+            "hipWidth": 44.7,
+            "frontRise": 27.3
+          }
         }
       ]
     }

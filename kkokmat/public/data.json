@@ -3618,139 +3618,171 @@
       "brandId": "konny",
       "name": "컴피 플리스 라운지 세트",
       "code": "760",
-      "category": "other",
-      "kind": "other",
+      "category": "homewear-set",
+      "kind": "homewear-set",
       "audience": "child",
-      "material": "공식 상품 페이지 참조",
+      "material": "폴리에스터 95%, 스판 5%",
       "source": {
-        "url": "https://konny.co.kr/product/detail.html?product_no=760",
-        "checkedAt": "2026-11-16"
+        "url": "https://konny.kr/product/detail.html?product_no=760",
+        "checkedAt": "2026-11-23"
       },
-      "measurementBasis": "공식 표 수치 · 둘레 명시 값은 ÷2 환산",
+      "measurementBasis": "공식 상품별 HTML 실측표 · 가슴·허리 단면(cm)",
       "notes": [
-        "브랜드별 측정 지점이 다를 수 있습니다. 상세 출처의 측정 방법을 함께 확인해 주세요."
+        "가슴·허리는 공식 표에 단면이라고 명시되어 있어 둘로 나누지 않습니다.",
+        "제작·측정 방식에 따라 1~2cm 차이가 날 수 있습니다.",
+        "공식 본문의 겨울 실내복·라운지웨어 설명을 근거로 기존 other 분류를 실내복·내의 세트로 바로잡았습니다."
       ],
       "sizes": [
         {
           "label": "80",
-          "raw": {
-            "총기장A": 42,
-            "가슴단면B": 33.1,
-            "소매기장D": 22,
-            "허리단면B": 19.6
-          },
           "topLength": 36.5,
           "chestWidth": 33.1,
           "sleeveLength": 22,
           "pantsLength": 42,
-          "waistWidth": 19.6
+          "waistWidth": 19.6,
+          "raw": {
+            "상의 총기장A": 36.5,
+            "상의 가슴단면B": 33.1,
+            "상의 어깨너비C": 30,
+            "상의 소매기장D": 22,
+            "하의 총기장A": 42,
+            "하의 허리단면B": 19.6,
+            "하의 엉덩이단면C": 32.6,
+            "하의 밑단단면D": 9,
+            "하의 밑위E": 20
+          }
         },
         {
           "label": "90",
-          "raw": {
-            "총기장A": 48,
-            "가슴단면B": 35.3,
-            "소매기장D": 25.5,
-            "허리단면B": 20.8
-          },
           "topLength": 39.6,
           "chestWidth": 35.3,
           "sleeveLength": 25.5,
           "pantsLength": 48,
-          "waistWidth": 20.8
+          "waistWidth": 20.8,
+          "raw": {
+            "상의 총기장A": 39.6,
+            "상의 가슴단면B": 35.3,
+            "상의 어깨너비C": 32,
+            "상의 소매기장D": 25.5,
+            "하의 총기장A": 48,
+            "하의 허리단면B": 20.8,
+            "하의 엉덩이단면C": 34.8,
+            "하의 밑단단면D": 9.5,
+            "하의 밑위E": 20.5
+          }
         },
         {
           "label": "100",
-          "raw": {
-            "총기장A": 54,
-            "가슴단면B": 37.5,
-            "소매기장D": 29,
-            "허리단면B": 22
-          },
           "topLength": 42.7,
           "chestWidth": 37.5,
           "sleeveLength": 29,
           "pantsLength": 54,
-          "waistWidth": 22
+          "waistWidth": 22,
+          "raw": {
+            "상의 총기장A": 42.7,
+            "상의 가슴단면B": 37.5,
+            "상의 어깨너비C": 34,
+            "상의 소매기장D": 29,
+            "하의 총기장A": 54,
+            "하의 허리단면B": 22,
+            "하의 엉덩이단면C": 37,
+            "하의 밑단단면D": 10,
+            "하의 밑위E": 21
+          }
         },
         {
           "label": "110",
-          "raw": {
-            "총기장A": 60.5,
-            "가슴단면B": 39.7,
-            "소매기장D": 32.5,
-            "허리단면B": 23.2
-          },
           "topLength": 45.8,
           "chestWidth": 39.7,
           "sleeveLength": 32.5,
           "pantsLength": 60.5,
-          "waistWidth": 23.2
+          "waistWidth": 23.2,
+          "raw": {
+            "상의 총기장A": 45.8,
+            "상의 가슴단면B": 39.7,
+            "상의 어깨너비C": 36,
+            "상의 소매기장D": 32.5,
+            "하의 총기장A": 60.5,
+            "하의 허리단면B": 23.2,
+            "하의 엉덩이단면C": 39.2,
+            "하의 밑단단면D": 10.5,
+            "하의 밑위E": 22
+          }
         },
         {
           "label": "120",
-          "raw": {
-            "총기장A": 67,
-            "가슴단면B": 41.9,
-            "소매기장D": 36,
-            "허리단면B": 24.4
-          },
           "topLength": 48.9,
           "chestWidth": 41.9,
           "sleeveLength": 36,
           "pantsLength": 67,
-          "waistWidth": 24.4
+          "waistWidth": 24.4,
+          "raw": {
+            "상의 총기장A": 48.9,
+            "상의 가슴단면B": 41.9,
+            "상의 어깨너비C": 38,
+            "상의 소매기장D": 36,
+            "하의 총기장A": 67,
+            "하의 허리단면B": 24.4,
+            "하의 엉덩이단면C": 41.4,
+            "하의 밑단단면D": 11,
+            "하의 밑위E": 23
+          }
         },
         {
           "label": "130",
-          "raw": {
-            "총기장A": 73.5,
-            "가슴단면B": 44.1,
-            "소매기장D": 39.5,
-            "허리단면B": 25.6
-          },
           "topLength": 52,
           "chestWidth": 44.1,
           "sleeveLength": 39.5,
           "pantsLength": 73.5,
-          "waistWidth": 25.6
+          "waistWidth": 25.6,
+          "raw": {
+            "상의 총기장A": 52,
+            "상의 가슴단면B": 44.1,
+            "상의 어깨너비C": 40,
+            "상의 소매기장D": 39.5,
+            "하의 총기장A": 73.5,
+            "하의 허리단면B": 25.6,
+            "하의 엉덩이단면C": 43.6,
+            "하의 밑단단면D": 11.5,
+            "하의 밑위E": 24
+          }
         }
       ],
       "attributes": {
         "fibers": [
           "polyester"
         ],
-        "fabricLabel": "폴리에스터 95%, 스판 5% ",
-        "weave": "",
+        "fabricLabel": "폴리에스터 95%, 스판 5%",
+        "weave": "fleece",
         "seasons": [
           "winter"
         ],
         "seasonEvidence": [
-          "공식 상품명·설명의 보온·겨울 표현"
+          "공식 상품명·설명: 겨울 라운지웨어"
         ],
         "features": [
           {
             "key": "soft",
             "label": "부드러운 원단",
-            "evidence": " 않아도 돼서 실내 공기도 덜 건조해지고요. 하루 종일 편해야 하니까, 부드럽고 따뜻한 플리스 소재로 실내복을 만들어보면 어때요? 외출에도 어울리는 디자인이면 더 자주 입힐 수 있겠네요. “아이가 집에 오면이것만 입으려고 해요” 부드러워서 아이도 좋아하고,이불 안 덮고 수면조끼도 거부하"
+            "evidence": "놀랄 만큼 부드럽고 포근한 극세사 플리스"
           },
           {
             "key": "light",
             "label": "가벼워요",
-            "evidence": "컴피 플리스 라운지 세트 보들보들 가볍고 따뜻한 겨울 라운지웨어 함께 입으면 사랑스러운 패밀리룩 완성 보들보들 가볍고 따뜻한겨울 라운지웨어 컴피 플리스 라운지 세트 진짜 육아 고민에서탄생한 제품 한겨울에는 실내가 쌀쌀할 때가 있어서 도톰한 실내복이 "
+            "evidence": "보들보들 가볍고 따뜻한 겨울 라운지웨어"
           }
         ],
         "origins": [
-          "아시아 베트남",
           "베트남"
         ],
-        "description": "보들보들 가볍고 따뜻한 겨울 라운지웨어 함께 입으면 사랑스러운 패밀리룩 완성 보들보들 가볍고 따뜻한겨울 라운지웨어 컴피 플리스 라운지 세트 진짜 육아 고민에서탄생한 제품 한겨울에는 실내가 쌀쌀할 때가 있어서 도톰한 실내복이 필요하더라고요. 포근하게 입히면 난방을 많이 하지 않아도 돼서 실내 공기도 덜 건조해지고요. 하루 종일 편해야 하니까, 부드럽고 따뜻한 플리스 소재로 실내복을 만들어보면 어때요? 외출에도 어울리는 디자인이면 더 자주 입힐 수 있겠네요. “아이가 집에 오면이것만 입으려고 해요” 부드러워서 아이도 좋아하고,이불 안 덮고 수면조끼도 거부하는데이거 하나 입히면 걱정 없어요. 집에서는 실내복처럼 입히다가잠깐 외출할 때 그대로 입혀도 될 정도로보온력이 좋아서 활용도가 높아요. 엄청 부드러워요. 아이도 촉감이 좋은지자꾸 옷을 만져보네요. 역시 코니! 지난 시즌 구매 고객 분들의 실제 리뷰입니다. 부모의 경험을 녹인사려 깊은 디자인 움직임이 자유로운릴랙스 핏 흘러내리지 않는손목 발목 밴딩 한겨울에도걱정 없는도톰한 플리스 놀랄 만큼 부드럽고포근한 극세사 플리스 부드러운 플리스에 스판을 더해포근함과 편안함을 모두 담았어요. 보온성 부드러움 신축성 맨살에도 부드러운기분 좋은 촉감 가볍고 따뜻해서 아이가 더 좋아해요. 어디서든 움직임이자유로운 릴랙스 핏 조임 없이 넉넉해서 집 안에서도 편하고활동량이 많은 밖에서도 편해요. 집에서도 밖에서도포근한 라운지웨어 도톰하고 따뜻해 잠깐의 외출에도부담 없이 입을 수 있어요. 흘러내리지 않아 편안한손목 발목 밴딩 소매와 바지 밑단을 안정감있게 잡아줘활동량이 많은 아이도 편안해요. 신축성이 뛰어나입히고 벗기기도 쉬워요 스판 혼용으로 유연하게 잘 늘어나입히고 벗길 때도 수월해요. 작은 부분 하나까지세심한 디테일 상하의 타이벡 라벨 신생아 옷에 사용되는 가장 부드러운 라벨로 제거하지 않아도 거슬리지 않아요. 하의 부드러운 허리밴드 신축성 좋은 밴드로 배를 부드럽게 감싸 하루 종일 편안해요. 우리 아이가 쓰는 거니까꼼꼼히 따져보세요",
-        "material": "폴리에스터 95%, 스판 5% ",
+        "description": "보들보들 가볍고 따뜻한겨울 라운지웨어 컴피 플리스 라운지 세트 진짜 육아 고민에서탄생한 제품 한겨울에는 실내가 쌀쌀할 때가 있어서 도톰한 실내복이 필요하더라고요. 포근하게 입히면 난방을 많이 하지 않아도 돼서 실내 공기도 덜 건조해지고요. 하루 종일 편해야 하니까, 부드럽고 따뜻한 플리스 소재로 실내복을 만들어보면 어때요? 외출에도 어울리는 디자인이면 더 자주 입힐 수 있겠네요. “아이가 집에 오면이것만 입으려고 해요” 부드러워서 아이도 좋아하고,이불 안 덮고 수면조끼도 거부하는데이거 하나 입히면 걱정 없어요. 집에서는 실내복처럼 입히다가잠깐 외출할 때 그대로 입혀도 될 정도로보온력이 좋아서 활용도가 높아요. 엄청 부드러워요. 아이도 촉감이 좋은지자꾸 옷을 만져보네요. 역시 코니! 지난 시즌 구매 고객 분들의 실제 리뷰입니다. 부모의 경험을 녹인사려 깊은 디자인 움직임이 자유로운릴랙스 핏 흘러내리지 않는손목 발목 밴딩 한겨울에도걱정 없는도톰한 플리스 놀랄 만큼 부드럽고포근한 극세사 플리스 부드러운 플리스에 스판을 더해포근함과 편안함을 모두 담았어요. 보온성 부드러움 신축성 맨살에도 부드러운기분 좋은 촉감 가볍고 따뜻해서 아이가 더 좋아해요. 어디서든 움직임이자유로운 릴랙스 핏 조임 없이 넉넉해서 집 안에서도 편하고활동량이 많은 밖에서도 편해요. 집에서도 밖에서도포근한 라운지웨어 도톰하고 따뜻해 잠깐의 외출에도부담 없이 입을 수 있어요. 흘러내리지 않아 편안한손목 발목 밴딩 소매와 바지 밑단을 안정감있게 잡아줘활동량이 많은 아이도 편안해요. 신축성이 뛰어나입히고 벗기기도 쉬워요 스판 혼용으로 유연하게 잘 늘어나입히고 벗길 때도 수월해요. 작은 부분 하나까지세심한 디테일 상하의 타이벡 라벨 신생아 옷에 사용되는 가장 부드러운 라벨로 제거하지 않아도 거슬리지 않아요. 하의 부드러운 허리밴드 신축성 좋은 밴드로 배를 부드럽게 감싸 하루 종일 편안해요. 우리 아이가 쓰는 거니까꼼꼼히 따져보세요 국내외안전 테스트 완료 전 부자재무형광 심플하고 모던한4가지 컬러 함께 입으",
+        "material": "폴리에스터 95%, 스판 5%",
         "source": {
-          "url": "https://konny.co.kr/product/detail.html?product_no=760",
-          "checkedAt": "2026-11-16"
+          "url": "https://konny.kr/product/detail.html?product_no=760",
+          "checkedAt": "2026-11-23"
         }
-      }
+      },
+      "imageUrl": "https://konny.kr/web/product/big/202610/e63bfb2a16afb5e74aa18f1689e51167.jpg"
     },
     {
       "id": "konny-443",
@@ -143518,62 +143550,103 @@
       "brandId": "benebene",
       "name": "BABY) Baby Breath Lip Neck Twinset, Baby Breath",
       "code": "1068",
-      "category": "other",
-      "kind": "other",
+      "category": "homewear-set",
+      "kind": "homewear-set",
       "audience": "child",
-      "material": "공식 상품 페이지 참조",
+      "material": "Cotton 100%",
       "attributes": {
-        "fibers": [],
+        "fibers": [
+          "cotton"
+        ],
         "weave": "",
-        "material": null,
-        "description": "",
-        "origins": [],
-        "seasons": [],
-        "features": [],
+        "material": "Cotton 100%",
+        "description": "베네베네의 시그니처 패턴인 '베이비 브레스'의 시리즈 덤블 워싱된 부드러운 코튼 100% 후라이스 패브릭 감도 높은 라운지웨어로 집에서의 시간도 풍요롭게 해 주는 아이템 Top) 양쪽 어깨 부분 립넥으로 제작, 유니크한 느낌과 편안한 착용감 Bottom) 부드러운 밴드로 입고 벗기 편안함",
+        "origins": [
+          "Korea"
+        ],
+        "seasons": [
+          "all"
+        ],
+        "seasonEvidence": [
+          {
+            "season": "all",
+            "evidence": "공식 Fabric & Care: SEASON Four Seasons"
+          }
+        ],
+        "features": [
+          {
+            "key": "soft",
+            "label": "부드러운 원단",
+            "evidence": "베네베네의 시그니처 패턴인 '베이비 브레스'의 시리즈 덤블 워싱된 부드러운 코튼 100% 후라이스 패브릭 감도 높은 라운지웨어로 집에서의 시간도 풍요롭게 해 주는 아이템 Top) 양쪽 어깨 부분 립넥으로 제작, 유니크한 느낌과 편안한 착용감 Bottom) 부드러운 밴드로 입고 벗기 편안함"
+          },
+          {
+            "key": "domestic",
+            "label": "국내생산",
+            "evidence": "공식 Fabric & Care: COUNTRY OF ORIGIN Korea"
+          }
+        ],
         "source": {
           "url": "https://www.benebene.co.kr/product/detail.html?product_no=1068",
-          "checkedAt": "2026-11-17"
+          "checkedAt": "2026-11-23"
         }
       },
       "source": {
         "url": "https://www.benebene.co.kr/product/detail.html?product_no=1068",
-        "checkedAt": "2026-11-17"
+        "checkedAt": "2026-11-23"
       },
-      "measurementBasis": "공식 Chest/Waist 원문 수치(cm) · 단면 해석, 측정 지점 미확인",
+      "measurementBasis": "공식 상품별 HTML 실측표 · Chest/Waist 원문 수치(cm) 단면 해석, 측정 지점 미확인",
       "notes": [
-        "Chest/Waist가 둘레라고 명시되지 않은 표의 원문 값을 그대로 기록했습니다. 단면으로 해석해 비교하며 측정 지점의 공식 확인이 필요합니다.",
-        "측정 지점·소재·제작 오차는 상품별 공식 안내를 함께 확인해 주세요."
+        "공식 상품 설명에서 실내복·라운지웨어·파자마 세트임을 확인했습니다.",
+        "공식 Chest/Waist 표에 둘레라고 명시되어 있지 않아 원문 숫자를 나누지 않고 보존했습니다. 단면으로 해석하며 측정 지점은 미확인입니다.",
+        "3T·4T·6T·8T 등은 공식 호칭이며 월령이나 만 나이를 보장하는 값이 아닙니다.",
+        "제작·측정 방식 및 소재 신축성에 따라 차이가 있을 수 있으므로 공식 안내를 확인해 주세요."
       ],
       "sizes": [
         {
           "label": "12M",
           "raw": {
             "Chest": 22,
-            "Waist": 18
+            "Arm": 24.5,
+            "Waist": 18,
+            "Length(Top/Bottom)": "30 / 36"
           },
           "chestWidth": 22,
-          "waistWidth": 18
+          "sleeveLength": 24.5,
+          "waistWidth": 18,
+          "topLength": 30,
+          "pantsLength": 36
         },
         {
           "label": "18M",
           "raw": {
             "Chest": 23,
-            "Waist": 18.5
+            "Arm": 26.5,
+            "Waist": 18.5,
+            "Length(Top/Bottom)": "32 / 39"
           },
           "chestWidth": 23,
-          "waistWidth": 18.5
+          "sleeveLength": 26.5,
+          "waistWidth": 18.5,
+          "topLength": 32,
+          "pantsLength": 39
         },
         {
           "label": "24M",
           "raw": {
             "Chest": 24,
-            "Waist": 19.5
+            "Arm": 29,
+            "Waist": 19.5,
+            "Length(Top/Bottom)": "34.5 / 42"
           },
           "chestWidth": 24,
-          "waistWidth": 19.5
+          "sleeveLength": 29,
+          "waistWidth": 19.5,
+          "topLength": 34.5,
+          "pantsLength": 42
         }
       ],
-      "measurementCaution": "Chest/Waist의 측정 위치 확인 필요"
+      "measurementCaution": "Chest·Waist의 측정 지점이 명시되지 않아 공식 원문 수치를 단면으로 해석했어요. 구매 전 상품별 측정 기준을 확인해 주세요.",
+      "imageUrl": "https://cafe24.poxo.com/ec01/ouibene2023/3Edgez7aTEs2uDezllWuL9PJGVY+ouxYF62vbywZgylRcyKuJX7AxfHwjfYFXkewBP/F8YI3+cxQE+vZiOUS+Q==/_/web/product/big/202311/2907e4516023dff7c1a9a474130cbd10.jpg"
     },
     {
       "id": "benebene-1114",
@@ -221227,6 +221300,1330 @@
           }
         }
       ]
+    },
+    {
+      "id": "konny-1451",
+      "brandId": "konny",
+      "name": "타탄체크 파자마세트, 25겨울",
+      "code": "1451",
+      "category": "homewear-set",
+      "kind": "homewear-set",
+      "audience": "child",
+      "imageUrl": "https://konny.kr/web/product/big/202601/fa910a9a72aae029f0b65e296a9ba4e6.jpg",
+      "material": "62% 폴리에스터, 33% 면, 5% 스판",
+      "attributes": {
+        "fibers": [
+          "cotton",
+          "polyester"
+        ],
+        "fabricLabel": "62% 폴리에스터, 33% 면, 5% 스판",
+        "weave": "",
+        "seasons": [
+          "all"
+        ],
+        "seasonEvidence": [
+          "공식 설명: 0.24 TOG · 사계절 내내 덥지 않고 쾌적해요."
+        ],
+        "features": [
+          {
+            "key": "soft",
+            "label": "부드러운 원단",
+            "evidence": "부드러운 촉감을 위해 실리콘 가공을 더했어요."
+          }
+        ],
+        "origins": [
+          "베트남"
+        ],
+        "description": "2025 FWHOLIDAYCOLLECTION 연말을 더욱 특별하게 만들어줄 코니 홀리데이 에디션을 만나보세요. 포인트 하나만으로 사랑스러운 연말 분위기를 완성해줘요. 홈파티에도, 잠자리에도입기 좋은 파자마 타탄체크 파자마세트 두 돌 부터 입는 우리 아이 첫 파자마예요. 젖어도 금방 마르는 코니턱받이 소재라 땀이 많은 아이도 쾌적하게 잠들어요. 클래식한 체크 패턴으로 사랑스러운 홀리데이 무드까지 더해준답니다. 한눈에 보는 특별함 안심하고 입히는 99.9% 항균, 흡습속건 소재 잠자리부터 홈 파티까지 활용도 높은 연말 파자마룩 소매와 바짓단을 매끄럽게 마감해 편안한 착용감 몸에 달라 붙지 않는 여유로운 핏 만 2세부터 입을 수 있는 유아 전용 파자마 보온성을 확인해 보세요 TOG 수치*가 클수록 따뜻해요. 0.24 TOG 사계절 내내 덥지 않고 쾌적해요. 0TOG 2.5TOG *TOG(Thermal overall grade) 수치란? 의류 또는 침구류의 보온성을 측정하는 단위 Director’s Note 코니에서 홀리데이 시즌에만 선보이는 파자마 형태의 실내복 입니다. 코니턱받이 원단이라 아이 첫 잠옷으로도 안심이고, 연말엔 엄마 아빠와 예쁘게 맞춰 입을 수 있어요. MATERIAL FEATURES 탁월함은좋은 소재로부터 기분 좋은 부드러움과 편안함을 기본으로제품별 최적의 소재를 직접 개발합니다. 코니턱받이 소재 수분을 빠르고 흡수하는 데다 피부에 부드럽게 닿고 자주 빨아도 변형이 적어요. 땀이 많은 아이도 밤새 보송하고 쾌적해요 면 33% | 폴리에스터 62% | 스판 5% 99.9% 항균 원단으로 안심하고 입힐 수 있어요. 땀을 잘 흡수하고 빠르게 마르는 소재로 밤새 쾌적해요. 부드러운 촉감을 위해 실리콘 가공*을 더했어요. *실리콘 가공이란? 원단 표면에 실리콘 처리를 더해 마찰을 줄이고 부드러운 촉감을 높이는 가공 방식입니다. DELICATE DETAIL 부모의 경험을 녹인사려 깊은 디테일 육아가 더 수월해지길 바라는 마음으로작은 부분까지 섬세함을 담았습니",
+        "material": "62% 폴리에스터, 33% 면, 5% 스판",
+        "source": {
+          "url": "https://konny.kr/product/detail.html?product_no=1451",
+          "checkedAt": "2026-11-23"
+        }
+      },
+      "source": {
+        "url": "https://konny.kr/product/detail.html?product_no=1451",
+        "checkedAt": "2026-11-23"
+      },
+      "measurementBasis": "공식 상품별 HTML 실측표 · 가슴·허리 단면(cm)",
+      "notes": [
+        "가슴·허리는 공식 표에 단면이라고 명시되어 있어 둘로 나누지 않습니다.",
+        "제작·측정 방식에 따라 1~2cm 차이가 날 수 있습니다.",
+        "25겨울 시즌 상품. 월령·신장 병기 호칭을 원문 그대로 보존하며, 2026 모달 타탄체크 상품388과 소재·실측이 다릅니다."
+      ],
+      "sizes": [
+        {
+          "label": "2-3Y(90)",
+          "topLength": 38.7,
+          "chestWidth": 33,
+          "sleeveLength": 28.2,
+          "pantsLength": 48,
+          "waistWidth": 20,
+          "raw": {
+            "상의 총기장 A": 38.7,
+            "상의 가슴단면 B": 33,
+            "상의 어깨너비 C": 27,
+            "상의 소매기장 D": 28.2,
+            "하의 총기장 A": 48,
+            "하의 허리단면 B": 20,
+            "하의 엉덩이단면 C": 34,
+            "하의 밑위 D": 20,
+            "하의 밑단단면 D": 14
+          }
+        },
+        {
+          "label": "3-4Y(100)",
+          "topLength": 41.8,
+          "chestWidth": 35,
+          "sleeveLength": 31.4,
+          "pantsLength": 54,
+          "waistWidth": 21.2,
+          "raw": {
+            "상의 총기장 A": 41.8,
+            "상의 가슴단면 B": 35,
+            "상의 어깨너비 C": 28.6,
+            "상의 소매기장 D": 31.4,
+            "하의 총기장 A": 54,
+            "하의 허리단면 B": 21.2,
+            "하의 엉덩이단면 C": 36,
+            "하의 밑위 D": 21,
+            "하의 밑단단면 D": 14.8
+          }
+        },
+        {
+          "label": "4-5Y(110)",
+          "topLength": 44.9,
+          "chestWidth": 37,
+          "sleeveLength": 34.6,
+          "pantsLength": 60,
+          "waistWidth": 22.5,
+          "raw": {
+            "상의 총기장 A": 44.9,
+            "상의 가슴단면 B": 37,
+            "상의 어깨너비 C": 30.2,
+            "상의 소매기장 D": 34.6,
+            "하의 총기장 A": 60,
+            "하의 허리단면 B": 22.5,
+            "하의 엉덩이단면 C": 38,
+            "하의 밑위 D": 22,
+            "하의 밑단단면 D": 15.6
+          }
+        },
+        {
+          "label": "5-6Y(120)",
+          "topLength": 48,
+          "chestWidth": 39,
+          "sleeveLength": 37.8,
+          "pantsLength": 66,
+          "waistWidth": 23.7,
+          "raw": {
+            "상의 총기장 A": 48,
+            "상의 가슴단면 B": 39,
+            "상의 어깨너비 C": 31.8,
+            "상의 소매기장 D": 37.8,
+            "하의 총기장 A": 66,
+            "하의 허리단면 B": 23.7,
+            "하의 엉덩이단면 C": 40,
+            "하의 밑위 D": 23,
+            "하의 밑단단면 D": 16.4
+          }
+        }
+      ]
+    },
+    {
+      "id": "apricot-3126",
+      "brandId": "apricot",
+      "name": "구름 실내복 by MeltingCloud®",
+      "code": "3126",
+      "category": "homewear-set",
+      "kind": "homewear-set",
+      "audience": "child",
+      "imageUrl": "https://cafe24img.poxo.com/apricotstudios/web/product/big/202611/9912e1b0a554bfaf7f6ea50a3534d193.jpg",
+      "material": "모달 93%, 폴리우레탄 7%",
+      "attributes": {
+        "fibers": [
+          "modal"
+        ],
+        "fabricLabel": "모달 93%, 폴리우레탄 7%",
+        "weave": "",
+        "seasons": [],
+        "seasonEvidence": [],
+        "features": [
+          {
+            "key": "soft",
+            "label": "부드러운 원단",
+            "evidence": "- 소재 특성상 피부에 닿는 촉감이 부드러워 예민한 아이도 편안하게 활용 가능"
+          }
+        ],
+        "origins": [
+          "중국"
+        ],
+        "description": "MeltingCloud®\r\n멜팅클라우드®\r\n\r\n구름처럼 가볍고 닿는 순간 녹아내리는 감촉\r\n\r\n멜팅클라우드®는 아이의 피부가 가장 민감한 '집에서의 시간'을 위해 연구된 원단으로, 모달 기반의 초미세사를 사용해 피부에 닿는 순간 녹아 사라지는 듯한 부드러운 감촉을 구현한, 집에서 가장 오래 입는 옷의 필수 조건들을 강화한 전문 라인입니다.\r\n\r\n\r\n- 텐셀 소재를 사용해 제작한 구름 실내복\r\n- 소재 특성상 피부에 닿는 촉감이 부드러워 예민한 아이도 편안하게 활용 가능\r\n- 구김이 적고 세탁 후 면 소재보다 빠르게 건조되어 실용성이 좋음\r\n- 상,하의 컬러 매칭이 돋보이는 세트 구성이 포인트\r\n- 실내복이지만 간단한 외출복으로도 활용도가 높은 아이템",
+        "material": "모달 93%, 폴리우레탄 7%",
+        "source": {
+          "url": "https://apricotstudios.co.kr/product/detail.html?product_no=3126",
+          "checkedAt": "2026-11-23"
+        }
+      },
+      "source": {
+        "url": "https://apricotstudios.co.kr/product/detail.html?product_no=3126",
+        "checkedAt": "2026-11-23"
+      },
+      "measurementBasis": "공식 상품별 HTML 실측표 · 모든 수치 단면(cm) · 상의 옆목기장",
+      "notes": [
+        "공식 상품별 사이즈표를 확인했으며, 숫자를 다른 상품에서 대입하지 않았습니다.",
+        "모든 실측은 단면, 단위 cm이며 상의 총장은 옆목 기준입니다.",
+        "공식 안내: 측정 방법과 환경에 따라 1~2cm, 동일 디자인도 소재·색상에 따라 3~4cm 차이가 발생할 수 있습니다.",
+        "12M·18M 표기를 임의로 숫자 사이즈로 환산하지 않습니다."
+      ],
+      "sizes": [
+        {
+          "label": "12M",
+          "topLength": 33.3,
+          "chestWidth": 24.3,
+          "sleeveLength": 26.1,
+          "pantsLength": 42.2,
+          "waistWidth": 20,
+          "raw": {
+            "topLength": 33.3,
+            "chestWidth": 24.3,
+            "shoulderWidth": 20.5,
+            "sleeveLength": 26.1,
+            "pantsLength": 42.2,
+            "waistWidth": 20,
+            "hipWidth": 33.2,
+            "frontRise": 21.4
+          }
+        },
+        {
+          "label": "18M",
+          "topLength": 35.4,
+          "chestWidth": 25.6,
+          "sleeveLength": 28.6,
+          "pantsLength": 45.2,
+          "waistWidth": 20.8,
+          "raw": {
+            "topLength": 35.4,
+            "chestWidth": 25.6,
+            "shoulderWidth": 21.5,
+            "sleeveLength": 28.6,
+            "pantsLength": 45.2,
+            "waistWidth": 20.8,
+            "hipWidth": 34.5,
+            "frontRise": 21.9
+          }
+        },
+        {
+          "label": "90",
+          "topLength": 36.8,
+          "chestWidth": 26.2,
+          "sleeveLength": 29.8,
+          "pantsLength": 52.7,
+          "waistWidth": 20,
+          "raw": {
+            "topLength": 36.8,
+            "chestWidth": 26.2,
+            "shoulderWidth": 22.1,
+            "sleeveLength": 29.8,
+            "pantsLength": 52.7,
+            "waistWidth": 20,
+            "hipWidth": 35.2,
+            "frontRise": 22.3
+          }
+        },
+        {
+          "label": "100",
+          "topLength": 40.4,
+          "chestWidth": 28.1,
+          "sleeveLength": 33.5,
+          "pantsLength": 57.7,
+          "waistWidth": 21.3,
+          "raw": {
+            "topLength": 40.4,
+            "chestWidth": 28.1,
+            "shoulderWidth": 23.7,
+            "sleeveLength": 33.5,
+            "pantsLength": 57.7,
+            "waistWidth": 21.3,
+            "hipWidth": 37.1,
+            "frontRise": 23.3
+          }
+        },
+        {
+          "label": "110",
+          "topLength": 44,
+          "chestWidth": 30,
+          "sleeveLength": 37.2,
+          "pantsLength": 62.7,
+          "waistWidth": 22.5,
+          "raw": {
+            "topLength": 44,
+            "chestWidth": 30,
+            "shoulderWidth": 25.3,
+            "sleeveLength": 37.2,
+            "pantsLength": 62.7,
+            "waistWidth": 22.5,
+            "hipWidth": 39,
+            "frontRise": 24.3
+          }
+        },
+        {
+          "label": "120",
+          "topLength": 47.6,
+          "chestWidth": 31.9,
+          "sleeveLength": 40.9,
+          "pantsLength": 67.7,
+          "waistWidth": 23.8,
+          "raw": {
+            "topLength": 47.6,
+            "chestWidth": 31.9,
+            "shoulderWidth": 26.9,
+            "sleeveLength": 40.9,
+            "pantsLength": 67.7,
+            "waistWidth": 23.8,
+            "hipWidth": 40.9,
+            "frontRise": 25.3
+          }
+        },
+        {
+          "label": "130",
+          "topLength": 51.2,
+          "chestWidth": 33.8,
+          "sleeveLength": 44.6,
+          "pantsLength": 72.7,
+          "waistWidth": 25,
+          "raw": {
+            "topLength": 51.2,
+            "chestWidth": 33.8,
+            "shoulderWidth": 28.5,
+            "sleeveLength": 44.6,
+            "pantsLength": 72.7,
+            "waistWidth": 25,
+            "hipWidth": 42.8,
+            "frontRise": 26.3
+          }
+        },
+        {
+          "label": "140",
+          "topLength": 54.8,
+          "chestWidth": 35.7,
+          "sleeveLength": 48.3,
+          "pantsLength": 77.7,
+          "waistWidth": 26.3,
+          "raw": {
+            "topLength": 54.8,
+            "chestWidth": 35.7,
+            "shoulderWidth": 30.1,
+            "sleeveLength": 48.3,
+            "pantsLength": 77.7,
+            "waistWidth": 26.3,
+            "hipWidth": 44.7,
+            "frontRise": 27.3
+          }
+        }
+      ]
+    },
+    {
+      "id": "apricot-3127",
+      "brandId": "apricot",
+      "name": "아사나 패턴 실내복 by MeltingCloud®",
+      "code": "3127",
+      "category": "homewear-set",
+      "kind": "homewear-set",
+      "audience": "child",
+      "imageUrl": "https://cafe24img.poxo.com/apricotstudios/web/product/big/202611/ac3d3c4a8c5bff4ed6e6efff949f5ffb.jpg",
+      "material": "모달 93%, 폴리우레탄 7%",
+      "attributes": {
+        "fibers": [
+          "modal"
+        ],
+        "fabricLabel": "모달 93%, 폴리우레탄 7%",
+        "weave": "",
+        "seasons": [],
+        "seasonEvidence": [],
+        "features": [
+          {
+            "key": "soft",
+            "label": "부드러운 원단",
+            "evidence": "- 소재 특성상 피부에 닿는 촉감이 부드러워 예민한 아이도 편안하게 착용"
+          }
+        ],
+        "origins": [
+          "중국"
+        ],
+        "description": "MeltingCloud®\r\n멜팅클라우드®\r\n\r\n구름처럼 가볍고 닿는 순간 녹아내리는 감촉\r\n\r\n멜팅클라우드®는 아이의 피부가 가장 민감한 '집에서의 시간'을 위해 연구된 원단으로, 모달 기반의 초미세사를 사용해 피부에 닿는 순간 녹아 사라지는 듯한 부드러운 감촉을 구현한, 집에서 가장 오래 입는 옷의 필수 조건들을 강화한 전문 라인입니다.\r\n\r\n\r\n- 텐셀 소재를 사용해 제작한 아사나 패턴 실내복\r\n- 상,하의 서로 다른 패턴을 믹스해 단조로움이 없는 디자인\r\n- 밝고 따뜻한 컬러를 조합해 남,여아 모두 활용 가능\r\n- 소재 특성상 피부에 닿는 촉감이 부드러워 예민한 아이도 편안하게 착용\r\n- 구김이 적고 세탁 후 면 소재보다 빠르게 건조되어 실용성이 좋음",
+        "material": "모달 93%, 폴리우레탄 7%",
+        "source": {
+          "url": "https://apricotstudios.co.kr/product/detail.html?product_no=3127",
+          "checkedAt": "2026-11-23"
+        }
+      },
+      "source": {
+        "url": "https://apricotstudios.co.kr/product/detail.html?product_no=3127",
+        "checkedAt": "2026-11-23"
+      },
+      "measurementBasis": "공식 상품별 HTML 실측표 · 모든 수치 단면(cm) · 상의 옆목기장",
+      "notes": [
+        "공식 상품별 사이즈표를 확인했으며, 숫자를 다른 상품에서 대입하지 않았습니다.",
+        "모든 실측은 단면, 단위 cm이며 상의 총장은 옆목 기준입니다.",
+        "공식 안내: 측정 방법과 환경에 따라 1~2cm, 동일 디자인도 소재·색상에 따라 3~4cm 차이가 발생할 수 있습니다.",
+        "12M·18M 표기를 임의로 숫자 사이즈로 환산하지 않습니다."
+      ],
+      "sizes": [
+        {
+          "label": "12M",
+          "topLength": 33.3,
+          "chestWidth": 24.3,
+          "sleeveLength": 26.1,
+          "pantsLength": 42.2,
+          "waistWidth": 18.5,
+          "raw": {
+            "topLength": 33.3,
+            "chestWidth": 24.3,
+            "shoulderWidth": 20.5,
+            "sleeveLength": 26.1,
+            "pantsLength": 42.2,
+            "waistWidth": 18.5,
+            "hipWidth": 35.3,
+            "frontRise": 21.4
+          }
+        },
+        {
+          "label": "18M",
+          "topLength": 35.4,
+          "chestWidth": 25.6,
+          "sleeveLength": 28.6,
+          "pantsLength": 45.2,
+          "waistWidth": 19.3,
+          "raw": {
+            "topLength": 35.4,
+            "chestWidth": 25.6,
+            "shoulderWidth": 21.5,
+            "sleeveLength": 28.6,
+            "pantsLength": 45.2,
+            "waistWidth": 19.3,
+            "hipWidth": 36.6,
+            "frontRise": 21.9
+          }
+        },
+        {
+          "label": "90",
+          "topLength": 36.8,
+          "chestWidth": 26.2,
+          "sleeveLength": 29.8,
+          "pantsLength": 52.7,
+          "waistWidth": 20,
+          "raw": {
+            "topLength": 36.8,
+            "chestWidth": 26.2,
+            "shoulderWidth": 22.1,
+            "sleeveLength": 29.8,
+            "pantsLength": 52.7,
+            "waistWidth": 20,
+            "hipWidth": 35.2,
+            "frontRise": 22.3
+          }
+        },
+        {
+          "label": "100",
+          "topLength": 40.4,
+          "chestWidth": 28.1,
+          "sleeveLength": 33.5,
+          "pantsLength": 57.7,
+          "waistWidth": 21.3,
+          "raw": {
+            "topLength": 40.4,
+            "chestWidth": 28.1,
+            "shoulderWidth": 23.7,
+            "sleeveLength": 33.5,
+            "pantsLength": 57.7,
+            "waistWidth": 21.3,
+            "hipWidth": 37.1,
+            "frontRise": 23.3
+          }
+        },
+        {
+          "label": "110",
+          "topLength": 44,
+          "chestWidth": 30,
+          "sleeveLength": 37.2,
+          "pantsLength": 62.7,
+          "waistWidth": 22.5,
+          "raw": {
+            "topLength": 44,
+            "chestWidth": 30,
+            "shoulderWidth": 25.3,
+            "sleeveLength": 37.2,
+            "pantsLength": 62.7,
+            "waistWidth": 22.5,
+            "hipWidth": 39,
+            "frontRise": 24.3
+          }
+        },
+        {
+          "label": "120",
+          "topLength": 47.6,
+          "chestWidth": 31.9,
+          "sleeveLength": 40.9,
+          "pantsLength": 67.7,
+          "waistWidth": 23.8,
+          "raw": {
+            "topLength": 47.6,
+            "chestWidth": 31.9,
+            "shoulderWidth": 26.9,
+            "sleeveLength": 40.9,
+            "pantsLength": 67.7,
+            "waistWidth": 23.8,
+            "hipWidth": 40.9,
+            "frontRise": 25.3
+          }
+        },
+        {
+          "label": "130",
+          "topLength": 51.2,
+          "chestWidth": 33.8,
+          "sleeveLength": 44.6,
+          "pantsLength": 72.7,
+          "waistWidth": 25,
+          "raw": {
+            "topLength": 51.2,
+            "chestWidth": 33.8,
+            "shoulderWidth": 28.5,
+            "sleeveLength": 44.6,
+            "pantsLength": 72.7,
+            "waistWidth": 25,
+            "hipWidth": 42.8,
+            "frontRise": 26.3
+          }
+        },
+        {
+          "label": "140",
+          "topLength": 54.8,
+          "chestWidth": 35.7,
+          "sleeveLength": 48.3,
+          "pantsLength": 77.7,
+          "waistWidth": 26.3,
+          "raw": {
+            "topLength": 54.8,
+            "chestWidth": 35.7,
+            "shoulderWidth": 30.1,
+            "sleeveLength": 48.3,
+            "pantsLength": 77.7,
+            "waistWidth": 26.3,
+            "hipWidth": 44.7,
+            "frontRise": 27.3
+          }
+        }
+      ]
+    },
+    {
+      "id": "benebene-13000",
+      "brandId": "benebene",
+      "name": "BABY) Elfin Organic Twinset, Cream",
+      "code": "13000",
+      "category": "homewear-set",
+      "kind": "homewear-set",
+      "audience": "child",
+      "imageUrl": "https://cafe24.poxo.com/ec01/ouibene2023/3Edgez7aTEs2uDezllWuL9PJGVY+ouxYF62vbywZgylRcyKuJX7AxfHwjfYFXkewBP/F8YI3+cxQE+vZiOUS+Q==/_/web/product/big/202606/0c697aa53a88415098fc4e9635161045.jpg",
+      "material": "Cotton(organic) 100%",
+      "attributes": {
+        "fibers": [
+          "cotton"
+        ],
+        "weave": "",
+        "material": "Cotton(organic) 100%",
+        "description": "포근한 오가닉 코튼에 엘핀 프린트를 더한 편안한 트윈 세트 터치감이 부드럽고 포근한 오가닉 코튼 패브릭이에요 사랑스러운 무드가 돋보이는 아폴린 작가의 ‘Elfin’ 프린트가 더해졌어요 체형에 알맞게 핏되어 편안한 착용감을 선사해요 실내에서 착용하기 좋은 상·하 코튼 트윈 세트예요 어깨 스냅 여밈으로 착용이 간편해요 허리 밴딩으로 편안함을 더했어요",
+        "origins": [
+          "Korea"
+        ],
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "seasonEvidence": [
+          {
+            "season": "autumn,winter",
+            "evidence": "공식 Fabric & Care: SEASON Autumn, Winter"
+          }
+        ],
+        "features": [
+          {
+            "key": "soft",
+            "label": "부드러운 원단",
+            "evidence": "포근한 오가닉 코튼에 엘핀 프린트를 더한 편안한 트윈 세트 터치감이 부드럽고 포근한 오가닉 코튼 패브릭이에요 사랑스러운 무드가 돋보이는 아폴린 작가의 ‘Elfin’ 프린트가 더해졌어요 체형에 알맞게 핏되어 편안한 착용감을 선사해요 실내에서 착용하기 좋은 상·하 코튼 트윈 세트예요 어깨 스냅 여밈으로 착용이 간편해요 허리 밴딩으로 편안함을 더했어요"
+          },
+          {
+            "key": "domestic",
+            "label": "국내생산",
+            "evidence": "공식 Fabric & Care: COUNTRY OF ORIGIN Korea"
+          }
+        ],
+        "source": {
+          "url": "https://www.benebene.co.kr/product/detail.html?product_no=13000",
+          "checkedAt": "2026-11-23"
+        }
+      },
+      "source": {
+        "url": "https://www.benebene.co.kr/product/detail.html?product_no=13000",
+        "checkedAt": "2026-11-23"
+      },
+      "measurementBasis": "공식 상품별 HTML 실측표 · Chest/Waist 원문 수치(cm) 단면 해석, 측정 지점 미확인",
+      "measurementCaution": "Chest·Waist의 측정 지점이 명시되지 않아 공식 원문 수치를 단면으로 해석했어요. 구매 전 상품별 측정 기준을 확인해 주세요.",
+      "notes": [
+        "공식 상품 설명에서 실내복·라운지웨어·파자마 세트임을 확인했습니다.",
+        "공식 Chest/Waist 표에 둘레라고 명시되어 있지 않아 원문 숫자를 나누지 않고 보존했습니다. 단면으로 해석하며 측정 지점은 미확인입니다.",
+        "3T·4T·6T·8T 등은 공식 호칭이며 월령이나 만 나이를 보장하는 값이 아닙니다.",
+        "제작·측정 방식 및 소재 신축성에 따라 차이가 있을 수 있으므로 공식 안내를 확인해 주세요."
+      ],
+      "sizes": [
+        {
+          "label": "12M",
+          "raw": {
+            "Chest": 22,
+            "Arm": 26,
+            "Top:Length": 30.5,
+            "Waist": 18,
+            "Bottom:Length": 35.5
+          },
+          "chestWidth": 22,
+          "sleeveLength": 26,
+          "topLength": 30.5,
+          "waistWidth": 18,
+          "pantsLength": 35.5
+        },
+        {
+          "label": "18M",
+          "raw": {
+            "Chest": 23,
+            "Arm": 28,
+            "Top:Length": 32.5,
+            "Waist": 18.5,
+            "Bottom:Length": 38.5
+          },
+          "chestWidth": 23,
+          "sleeveLength": 28,
+          "topLength": 32.5,
+          "waistWidth": 18.5,
+          "pantsLength": 38.5
+        },
+        {
+          "label": "24M",
+          "raw": {
+            "Chest": 24,
+            "Arm": 30.5,
+            "Top:Length": 35,
+            "Waist": 19.5,
+            "Bottom:Length": 41.5
+          },
+          "chestWidth": 24,
+          "sleeveLength": 30.5,
+          "topLength": 35,
+          "waistWidth": 19.5,
+          "pantsLength": 41.5
+        }
+      ]
+    },
+    {
+      "id": "benebene-13001",
+      "brandId": "benebene",
+      "name": "Elfin Organic Twinset, Cream",
+      "code": "13001",
+      "category": "homewear-set",
+      "kind": "homewear-set",
+      "audience": "child",
+      "imageUrl": "https://cafe24.poxo.com/ec01/ouibene2023/3Edgez7aTEs2uDezllWuL9PJGVY+ouxYF62vbywZgylRcyKuJX7AxfHwjfYFXkewBP/F8YI3+cxQE+vZiOUS+Q==/_/web/product/big/202606/78049466f23e9645681b887aa30b9f29.jpg",
+      "material": "Cotton(organic) 100%",
+      "attributes": {
+        "fibers": [
+          "cotton"
+        ],
+        "weave": "",
+        "material": "Cotton(organic) 100%",
+        "description": "포근한 오가닉 코튼에 엘핀 프린트를 더한 편안한 트윈 세트 터치감이 부드럽고 포근한 오가닉 코튼 패브릭이에요 사랑스러운 무드가 돋보이는 아폴린 작가의 ‘Elfin’ 프린트가 더해졌어요 체형에 알맞게 핏되어 편안한 착용감을 선사해요 실내에서 착용하기 좋은 상·하 코튼 트윈 세트예요 어깨 스냅 여밈으로 착용이 간편해요 허리 밴딩으로 편안함을 더했어요",
+        "origins": [
+          "Korea"
+        ],
+        "seasons": [
+          "autumn",
+          "winter"
+        ],
+        "seasonEvidence": [
+          {
+            "season": "autumn,winter",
+            "evidence": "공식 Fabric & Care: SEASON Autumn, Winter"
+          }
+        ],
+        "features": [
+          {
+            "key": "soft",
+            "label": "부드러운 원단",
+            "evidence": "포근한 오가닉 코튼에 엘핀 프린트를 더한 편안한 트윈 세트 터치감이 부드럽고 포근한 오가닉 코튼 패브릭이에요 사랑스러운 무드가 돋보이는 아폴린 작가의 ‘Elfin’ 프린트가 더해졌어요 체형에 알맞게 핏되어 편안한 착용감을 선사해요 실내에서 착용하기 좋은 상·하 코튼 트윈 세트예요 어깨 스냅 여밈으로 착용이 간편해요 허리 밴딩으로 편안함을 더했어요"
+          },
+          {
+            "key": "domestic",
+            "label": "국내생산",
+            "evidence": "공식 Fabric & Care: COUNTRY OF ORIGIN Korea"
+          }
+        ],
+        "source": {
+          "url": "https://www.benebene.co.kr/product/detail.html?product_no=13001",
+          "checkedAt": "2026-11-23"
+        }
+      },
+      "source": {
+        "url": "https://www.benebene.co.kr/product/detail.html?product_no=13001",
+        "checkedAt": "2026-11-23"
+      },
+      "measurementBasis": "공식 상품별 HTML 실측표 · Chest/Waist 원문 수치(cm) 단면 해석, 측정 지점 미확인",
+      "measurementCaution": "Chest·Waist의 측정 지점이 명시되지 않아 공식 원문 수치를 단면으로 해석했어요. 구매 전 상품별 측정 기준을 확인해 주세요.",
+      "notes": [
+        "공식 상품 설명에서 실내복·라운지웨어·파자마 세트임을 확인했습니다.",
+        "공식 Chest/Waist 표에 둘레라고 명시되어 있지 않아 원문 숫자를 나누지 않고 보존했습니다. 단면으로 해석하며 측정 지점은 미확인입니다.",
+        "3T·4T·6T·8T 등은 공식 호칭이며 월령이나 만 나이를 보장하는 값이 아닙니다.",
+        "제작·측정 방식 및 소재 신축성에 따라 차이가 있을 수 있으므로 공식 안내를 확인해 주세요."
+      ],
+      "sizes": [
+        {
+          "label": "3T",
+          "raw": {
+            "Chest": 27,
+            "Arm": 34,
+            "Top:Length": 37,
+            "Waist": 20.5,
+            "Bottom:Length": 50
+          },
+          "chestWidth": 27,
+          "sleeveLength": 34,
+          "topLength": 37,
+          "waistWidth": 20.5,
+          "pantsLength": 50
+        },
+        {
+          "label": "4T",
+          "raw": {
+            "Chest": 28.5,
+            "Arm": 37,
+            "Top:Length": 40.5,
+            "Waist": 21.5,
+            "Bottom:Length": 55
+          },
+          "chestWidth": 28.5,
+          "sleeveLength": 37,
+          "topLength": 40.5,
+          "waistWidth": 21.5,
+          "pantsLength": 55
+        },
+        {
+          "label": "6T",
+          "raw": {
+            "Chest": 30.5,
+            "Arm": 40.5,
+            "Top:Length": 44,
+            "Waist": 22.5,
+            "Bottom:Length": 60
+          },
+          "chestWidth": 30.5,
+          "sleeveLength": 40.5,
+          "topLength": 44,
+          "waistWidth": 22.5,
+          "pantsLength": 60
+        },
+        {
+          "label": "8T",
+          "raw": {
+            "Chest": 32,
+            "Arm": 44,
+            "Top:Length": 47.5,
+            "Waist": 23.5,
+            "Bottom:Length": 65
+          },
+          "chestWidth": 32,
+          "sleeveLength": 44,
+          "topLength": 47.5,
+          "waistWidth": 23.5,
+          "pantsLength": 65
+        }
+      ]
+    },
+    {
+      "id": "benebene-9769",
+      "brandId": "benebene",
+      "name": "BABY) Bene Stripe Twinset, Grayish Blue",
+      "code": "9769",
+      "category": "homewear-set",
+      "kind": "homewear-set",
+      "audience": "child",
+      "imageUrl": "https://cafe24.poxo.com/ec01/ouibene2023/3Edgez7aTEs2uDezllWuL9PJGVY+ouxYF62vbywZgylRcyKuJX7AxfHwjfYFXkewBP/F8YI3+cxQE+vZiOUS+Q==/_/web/product/big/202512/6307eb2f537da8e0d086e6e0aeae6f76.jpg",
+      "material": "Cotton 96%, Polyurethane 4%",
+      "attributes": {
+        "fibers": [
+          "cotton"
+        ],
+        "weave": "rib",
+        "material": "Cotton 96%, Polyurethane 4%",
+        "description": "편안한 핏과 스트라이프 포인트가 매력적인 라운지 웨어 세트 베네베네만의 컬러톤이 담긴 자체 제작 ‘BENE STRIPE’ 코튼 패브릭이에요 탄성감이 좋은 골지 소재로 제작되어 활동성이 좋아요 실내에서 착용하기 좋은 상·하 라운지 웨어예요 U넥 라인의 상의로 편안한 착용감을 주어요 하의는 체형에 알맞게 핏되어 편하게 착용할 수 있어요 허리와 부리 라인에 스티치 디테일로 완성도를 더했어요",
+        "origins": [
+          "Korea"
+        ],
+        "seasons": [
+          "all"
+        ],
+        "seasonEvidence": [
+          {
+            "season": "all",
+            "evidence": "공식 Fabric & Care: SEASON Four Seasons"
+          }
+        ],
+        "features": [
+          {
+            "key": "domestic",
+            "label": "국내생산",
+            "evidence": "공식 Fabric & Care: COUNTRY OF ORIGIN Korea"
+          }
+        ],
+        "source": {
+          "url": "https://www.benebene.co.kr/product/detail.html?product_no=9769",
+          "checkedAt": "2026-11-23"
+        }
+      },
+      "source": {
+        "url": "https://www.benebene.co.kr/product/detail.html?product_no=9769",
+        "checkedAt": "2026-11-23"
+      },
+      "measurementBasis": "공식 상품별 HTML 실측표 · Chest/Waist 원문 수치(cm) 단면 해석, 측정 지점 미확인",
+      "measurementCaution": "Chest·Waist의 측정 지점이 명시되지 않아 공식 원문 수치를 단면으로 해석했어요. 구매 전 상품별 측정 기준을 확인해 주세요.",
+      "notes": [
+        "공식 상품 설명에서 실내복·라운지웨어·파자마 세트임을 확인했습니다.",
+        "공식 Chest/Waist 표에 둘레라고 명시되어 있지 않아 원문 숫자를 나누지 않고 보존했습니다. 단면으로 해석하며 측정 지점은 미확인입니다.",
+        "3T·4T·6T·8T 등은 공식 호칭이며 월령이나 만 나이를 보장하는 값이 아닙니다.",
+        "제작·측정 방식 및 소재 신축성에 따라 차이가 있을 수 있으므로 공식 안내를 확인해 주세요."
+      ],
+      "sizes": [
+        {
+          "label": "12M",
+          "raw": {
+            "Chest": 22.5,
+            "Arm": 26,
+            "Top:Length": 31,
+            "Waist": 18,
+            "Bottom:Length": 36
+          },
+          "chestWidth": 22.5,
+          "sleeveLength": 26,
+          "topLength": 31,
+          "waistWidth": 18,
+          "pantsLength": 36
+        },
+        {
+          "label": "18M",
+          "raw": {
+            "Chest": 25,
+            "Arm": 28,
+            "Top:Length": 33.5,
+            "Waist": 18.5,
+            "Bottom:Length": 39
+          },
+          "chestWidth": 25,
+          "sleeveLength": 28,
+          "topLength": 33.5,
+          "waistWidth": 18.5,
+          "pantsLength": 39
+        },
+        {
+          "label": "24M",
+          "raw": {
+            "Chest": 27.5,
+            "Arm": 30.5,
+            "Top:Length": 36,
+            "Waist": 19.5,
+            "Bottom:Length": 42
+          },
+          "chestWidth": 27.5,
+          "sleeveLength": 30.5,
+          "topLength": 36,
+          "waistWidth": 19.5,
+          "pantsLength": 42
+        }
+      ]
+    },
+    {
+      "id": "benebene-9767",
+      "brandId": "benebene",
+      "name": "Bene Stripe Twinset, Grayish Blue",
+      "code": "9767",
+      "category": "homewear-set",
+      "kind": "homewear-set",
+      "audience": "child",
+      "imageUrl": "https://cafe24.poxo.com/ec01/ouibene2023/3Edgez7aTEs2uDezllWuL9PJGVY+ouxYF62vbywZgylRcyKuJX7AxfHwjfYFXkewBP/F8YI3+cxQE+vZiOUS+Q==/_/web/product/big/202603/9016c893e2b035a8e604836bebdc952a.jpg",
+      "material": "Cotton 96%, Polyurethane 4%",
+      "attributes": {
+        "fibers": [
+          "cotton"
+        ],
+        "weave": "rib",
+        "material": "Cotton 96%, Polyurethane 4%",
+        "description": "편안한 핏과 스트라이프 포인트가 매력적인 라운지 웨어 세트 베네베네만의 컬러톤이 담긴 자체 제작 ‘BENE STRIPE’ 코튼 패브릭이에요 탄성감이 좋은 골지 소재로 제작되어 활동성이 좋아요 실내에서 착용하기 좋은 상·하 라운지 웨어예요 U넥 라인의 상의로 편안한 착용감을 주어요 하의는 체형에 알맞게 핏되어 편하게 착용할 수 있어요 허리와 부리 라인에 스티치 디테일로 완성도를 더했어요",
+        "origins": [
+          "Korea"
+        ],
+        "seasons": [
+          "all"
+        ],
+        "seasonEvidence": [
+          {
+            "season": "all",
+            "evidence": "공식 Fabric & Care: SEASON Four Seasons"
+          }
+        ],
+        "features": [
+          {
+            "key": "domestic",
+            "label": "국내생산",
+            "evidence": "공식 Fabric & Care: COUNTRY OF ORIGIN Korea"
+          }
+        ],
+        "source": {
+          "url": "https://www.benebene.co.kr/product/detail.html?product_no=9767",
+          "checkedAt": "2026-11-23"
+        }
+      },
+      "source": {
+        "url": "https://www.benebene.co.kr/product/detail.html?product_no=9767",
+        "checkedAt": "2026-11-23"
+      },
+      "measurementBasis": "공식 상품별 HTML 실측표 · Chest/Waist 원문 수치(cm) 단면 해석, 측정 지점 미확인",
+      "measurementCaution": "Chest·Waist의 측정 지점이 명시되지 않아 공식 원문 수치를 단면으로 해석했어요. 구매 전 상품별 측정 기준을 확인해 주세요.",
+      "notes": [
+        "공식 상품 설명에서 실내복·라운지웨어·파자마 세트임을 확인했습니다.",
+        "공식 Chest/Waist 표에 둘레라고 명시되어 있지 않아 원문 숫자를 나누지 않고 보존했습니다. 단면으로 해석하며 측정 지점은 미확인입니다.",
+        "3T·4T·6T·8T 등은 공식 호칭이며 월령이나 만 나이를 보장하는 값이 아닙니다.",
+        "제작·측정 방식 및 소재 신축성에 따라 차이가 있을 수 있으므로 공식 안내를 확인해 주세요."
+      ],
+      "sizes": [
+        {
+          "label": "3T",
+          "raw": {
+            "Chest": 27,
+            "Arm": 34,
+            "Top:Length": 37,
+            "Waist": 20.5,
+            "Bottom:Length": 50
+          },
+          "chestWidth": 27,
+          "sleeveLength": 34,
+          "topLength": 37,
+          "waistWidth": 20.5,
+          "pantsLength": 50
+        },
+        {
+          "label": "4T",
+          "raw": {
+            "Chest": 28.5,
+            "Arm": 37,
+            "Top:Length": 40.5,
+            "Waist": 21.5,
+            "Bottom:Length": 55
+          },
+          "chestWidth": 28.5,
+          "sleeveLength": 37,
+          "topLength": 40.5,
+          "waistWidth": 21.5,
+          "pantsLength": 55
+        },
+        {
+          "label": "6T",
+          "raw": {
+            "Chest": 30.5,
+            "Arm": 40.5,
+            "Top:Length": 44,
+            "Waist": 22.5,
+            "Bottom:Length": 60
+          },
+          "chestWidth": 30.5,
+          "sleeveLength": 40.5,
+          "topLength": 44,
+          "waistWidth": 22.5,
+          "pantsLength": 60
+        },
+        {
+          "label": "8T",
+          "raw": {
+            "Chest": 32,
+            "Arm": 44,
+            "Top:Length": 47.5,
+            "Waist": 23.5,
+            "Bottom:Length": 65.5
+          },
+          "chestWidth": 32,
+          "sleeveLength": 44,
+          "topLength": 47.5,
+          "waistWidth": 23.5,
+          "pantsLength": 65.5
+        }
+      ]
+    },
+    {
+      "id": "benebene-1069",
+      "brandId": "benebene",
+      "name": "Baby Breath Lip Neck Twinset, Baby Breath",
+      "code": "1069",
+      "category": "homewear-set",
+      "kind": "homewear-set",
+      "audience": "child",
+      "imageUrl": "https://cafe24.poxo.com/ec01/ouibene2023/3Edgez7aTEs2uDezllWuL9PJGVY+ouxYF62vbywZgylRcyKuJX7AxfHwjfYFXkewBP/F8YI3+cxQE+vZiOUS+Q==/_/web/product/big/202311/64395824481cdf44822402bf675bb7d4.jpg",
+      "material": "Cotton 100%",
+      "attributes": {
+        "fibers": [
+          "cotton"
+        ],
+        "weave": "",
+        "material": "Cotton 100%",
+        "description": "베네베네의 시그니처 패턴인 '베이비 브레스'의 시리즈 덤블 워싱된 부드러운 코튼 100% 후라이스 패브릭 감도 높은 라운지웨어로 집에서의 시간도 풍요롭게 해 주는 아이템 Top) 양쪽 어깨 부분 립넥으로 제작, 유니크한 느낌과 편안한 착용감 Bottom) 부드러운 밴드로 입고 벗기 편안함",
+        "origins": [
+          "Korea"
+        ],
+        "seasons": [
+          "all"
+        ],
+        "seasonEvidence": [
+          {
+            "season": "all",
+            "evidence": "공식 Fabric & Care: SEASON Four Seasons"
+          }
+        ],
+        "features": [
+          {
+            "key": "soft",
+            "label": "부드러운 원단",
+            "evidence": "베네베네의 시그니처 패턴인 '베이비 브레스'의 시리즈 덤블 워싱된 부드러운 코튼 100% 후라이스 패브릭 감도 높은 라운지웨어로 집에서의 시간도 풍요롭게 해 주는 아이템 Top) 양쪽 어깨 부분 립넥으로 제작, 유니크한 느낌과 편안한 착용감 Bottom) 부드러운 밴드로 입고 벗기 편안함"
+          },
+          {
+            "key": "domestic",
+            "label": "국내생산",
+            "evidence": "공식 Fabric & Care: COUNTRY OF ORIGIN Korea"
+          }
+        ],
+        "source": {
+          "url": "https://www.benebene.co.kr/product/detail.html?product_no=1069",
+          "checkedAt": "2026-11-23"
+        }
+      },
+      "source": {
+        "url": "https://www.benebene.co.kr/product/detail.html?product_no=1069",
+        "checkedAt": "2026-11-23"
+      },
+      "measurementBasis": "공식 상품별 HTML 실측표 · Chest/Waist 원문 수치(cm) 단면 해석, 측정 지점 미확인",
+      "measurementCaution": "Chest·Waist의 측정 지점이 명시되지 않아 공식 원문 수치를 단면으로 해석했어요. 구매 전 상품별 측정 기준을 확인해 주세요.",
+      "notes": [
+        "공식 상품 설명에서 실내복·라운지웨어·파자마 세트임을 확인했습니다.",
+        "공식 Chest/Waist 표에 둘레라고 명시되어 있지 않아 원문 숫자를 나누지 않고 보존했습니다. 단면으로 해석하며 측정 지점은 미확인입니다.",
+        "3T·4T·6T·8T 등은 공식 호칭이며 월령이나 만 나이를 보장하는 값이 아닙니다.",
+        "제작·측정 방식 및 소재 신축성에 따라 차이가 있을 수 있으므로 공식 안내를 확인해 주세요."
+      ],
+      "sizes": [
+        {
+          "label": "3T",
+          "raw": {
+            "Chest": 26.5,
+            "Arm": 34,
+            "Top:Length": 36.5,
+            "Waist": 20.5,
+            "Bottom:Length": 50
+          },
+          "chestWidth": 26.5,
+          "sleeveLength": 34,
+          "topLength": 36.5,
+          "waistWidth": 20.5,
+          "pantsLength": 50
+        },
+        {
+          "label": "4T",
+          "raw": {
+            "Chest": 28,
+            "Arm": 37,
+            "Top:Length": 39.5,
+            "Waist": 21.5,
+            "Bottom:Length": 55
+          },
+          "chestWidth": 28,
+          "sleeveLength": 37,
+          "topLength": 39.5,
+          "waistWidth": 21.5,
+          "pantsLength": 55
+        },
+        {
+          "label": "6T",
+          "raw": {
+            "Chest": 29.5,
+            "Arm": 40.5,
+            "Top:Length": 42.5,
+            "Waist": 22.5,
+            "Bottom:Length": 60
+          },
+          "chestWidth": 29.5,
+          "sleeveLength": 40.5,
+          "topLength": 42.5,
+          "waistWidth": 22.5,
+          "pantsLength": 60
+        },
+        {
+          "label": "8T",
+          "raw": {
+            "Chest": 31.5,
+            "Arm": 44,
+            "Top:Length": 46,
+            "Waist": 23.5,
+            "Bottom:Length": 65.5
+          },
+          "chestWidth": 31.5,
+          "sleeveLength": 44,
+          "topLength": 46,
+          "waistWidth": 23.5,
+          "pantsLength": 65.5
+        }
+      ]
+    },
+    {
+      "id": "benebene-8350",
+      "brandId": "benebene",
+      "name": "Low Stripe Pajamas, Light Gray",
+      "code": "8350",
+      "category": "homewear-set",
+      "kind": "homewear-set",
+      "audience": "child",
+      "imageUrl": "https://cafe24.poxo.com/ec01/ouibene2023/3Edgez7aTEs2uDezllWuL9PJGVY+ouxYF62vbywZgylRcyKuJX7AxfHwjfYFXkewBP/F8YI3+cxQE+vZiOUS+Q==/_/web/product/big/202503/f0f53b1f5e5cd773ac2a30b7b18d56dc.jpg",
+      "material": "Cotton 100%",
+      "attributes": {
+        "fibers": [
+          "cotton"
+        ],
+        "weave": "",
+        "material": "Cotton 100%",
+        "description": "배색된 파이핑 라인이 포인트인 파자마 세트 터치감이 부드러운 면 스트라이프 소재로 제작되어 사랑스러운 night wear가 되어줍니다 단추 여밈으로 편한 오픈 형태의 파자마 셔츠, 그리고 허리 고무밴드가 내장되어있는 팬츠로 여유있고 편안한 핏으로 착용할 수 있습니다",
+        "origins": [
+          "Korea"
+        ],
+        "seasons": [
+          "all"
+        ],
+        "seasonEvidence": [
+          {
+            "season": "all",
+            "evidence": "공식 Fabric & Care: SEASON Four Seasons"
+          }
+        ],
+        "features": [
+          {
+            "key": "soft",
+            "label": "부드러운 원단",
+            "evidence": "배색된 파이핑 라인이 포인트인 파자마 세트 터치감이 부드러운 면 스트라이프 소재로 제작되어 사랑스러운 night wear가 되어줍니다 단추 여밈으로 편한 오픈 형태의 파자마 셔츠, 그리고 허리 고무밴드가 내장되어있는 팬츠로 여유있고 편안한 핏으로 착용할 수 있습니다"
+          },
+          {
+            "key": "domestic",
+            "label": "국내생산",
+            "evidence": "공식 Fabric & Care: COUNTRY OF ORIGIN Korea"
+          }
+        ],
+        "source": {
+          "url": "https://www.benebene.co.kr/product/detail.html?product_no=8350",
+          "checkedAt": "2026-11-23"
+        }
+      },
+      "source": {
+        "url": "https://www.benebene.co.kr/product/detail.html?product_no=8350",
+        "checkedAt": "2026-11-23"
+      },
+      "measurementBasis": "공식 상품별 HTML 실측표 · Chest/Waist 원문 수치(cm) 단면 해석, 측정 지점 미확인",
+      "measurementCaution": "Chest·Waist의 측정 지점이 명시되지 않아 공식 원문 수치를 단면으로 해석했어요. 구매 전 상품별 측정 기준을 확인해 주세요.",
+      "notes": [
+        "공식 상품 설명에서 실내복·라운지웨어·파자마 세트임을 확인했습니다.",
+        "공식 Chest/Waist 표에 둘레라고 명시되어 있지 않아 원문 숫자를 나누지 않고 보존했습니다. 단면으로 해석하며 측정 지점은 미확인입니다.",
+        "3T·4T·6T·8T 등은 공식 호칭이며 월령이나 만 나이를 보장하는 값이 아닙니다.",
+        "제작·측정 방식 및 소재 신축성에 따라 차이가 있을 수 있으므로 공식 안내를 확인해 주세요."
+      ],
+      "sizes": [
+        {
+          "label": "3T",
+          "raw": {
+            "Chest": 35,
+            "Arm": 33,
+            "Top:Length": 37,
+            "Waist": 22,
+            "Bottom:Length": 51
+          },
+          "chestWidth": 35,
+          "sleeveLength": 33,
+          "topLength": 37,
+          "waistWidth": 22,
+          "pantsLength": 51
+        },
+        {
+          "label": "4T",
+          "raw": {
+            "Chest": 37,
+            "Arm": 36,
+            "Top:Length": 40,
+            "Waist": 23,
+            "Bottom:Length": 56
+          },
+          "chestWidth": 37,
+          "sleeveLength": 36,
+          "topLength": 40,
+          "waistWidth": 23,
+          "pantsLength": 56
+        },
+        {
+          "label": "6T",
+          "raw": {
+            "Chest": 39,
+            "Arm": 39,
+            "Top:Length": 43,
+            "Waist": 24,
+            "Bottom:Length": 61
+          },
+          "chestWidth": 39,
+          "sleeveLength": 39,
+          "topLength": 43,
+          "waistWidth": 24,
+          "pantsLength": 61
+        },
+        {
+          "label": "8T",
+          "raw": {
+            "Chest": 41,
+            "Arm": 42.5,
+            "Top:Length": 46.5,
+            "Waist": 25,
+            "Bottom:Length": 66.5
+          },
+          "chestWidth": 41,
+          "sleeveLength": 42.5,
+          "topLength": 46.5,
+          "waistWidth": 25,
+          "pantsLength": 66.5
+        }
+      ]
+    },
+    {
+      "id": "benebene-8382",
+      "brandId": "benebene",
+      "name": "Beloved Twinset, Gray",
+      "code": "8382",
+      "category": "homewear-set",
+      "kind": "homewear-set",
+      "audience": "child",
+      "imageUrl": "https://cafe24.poxo.com/ec01/ouibene2023/3Edgez7aTEs2uDezllWuL9PJGVY+ouxYF62vbywZgylRcyKuJX7AxfHwjfYFXkewBP/F8YI3+cxQE+vZiOUS+Q==/_/web/product/big/202501/7b01f8abd02ab482a3014561a1e3ea3e.jpg",
+      "material": "Cotton 100%",
+      "attributes": {
+        "fibers": [
+          "cotton"
+        ],
+        "weave": "",
+        "material": "Cotton 100%",
+        "description": "실내에서 착용하기 좋은 상하의 코튼 트윈세트 상의는 립넥 디자인으로 편하게 입을 수 있어요 하의는 허리 끈이 있는 레깅스 형태의 핏이에요 부드럽고 포근한 코튼 저지 패브릭으로 피부에 닿는 촉감이 좋아요 체형에 알맞게 핏되어 편안한 착용감 선사해요 끝처리에 인터록으로 포인트를 더해주었어요 라운지 웨어로 감성 가득한 베네 무드를 더해 보세요",
+        "origins": [
+          "Korea"
+        ],
+        "seasons": [
+          "all"
+        ],
+        "seasonEvidence": [
+          {
+            "season": "all",
+            "evidence": "공식 Fabric & Care: SEASON Four Seasons"
+          }
+        ],
+        "features": [
+          {
+            "key": "soft",
+            "label": "부드러운 원단",
+            "evidence": "실내에서 착용하기 좋은 상하의 코튼 트윈세트 상의는 립넥 디자인으로 편하게 입을 수 있어요 하의는 허리 끈이 있는 레깅스 형태의 핏이에요 부드럽고 포근한 코튼 저지 패브릭으로 피부에 닿는 촉감이 좋아요 체형에 알맞게 핏되어 편안한 착용감 선사해요 끝처리에 인터록으로 포인트를 더해주었어요 라운지 웨어로 감성 가득한 베네 무드를 더해 보세요"
+          },
+          {
+            "key": "domestic",
+            "label": "국내생산",
+            "evidence": "공식 Fabric & Care: COUNTRY OF ORIGIN Korea"
+          }
+        ],
+        "source": {
+          "url": "https://www.benebene.co.kr/product/detail.html?product_no=8382",
+          "checkedAt": "2026-11-23"
+        }
+      },
+      "source": {
+        "url": "https://www.benebene.co.kr/product/detail.html?product_no=8382",
+        "checkedAt": "2026-11-23"
+      },
+      "measurementBasis": "공식 상품별 HTML 실측표 · Chest/Waist 원문 수치(cm) 단면 해석, 측정 지점 미확인",
+      "measurementCaution": "Chest·Waist의 측정 지점이 명시되지 않아 공식 원문 수치를 단면으로 해석했어요. 구매 전 상품별 측정 기준을 확인해 주세요.",
+      "notes": [
+        "공식 상품 설명에서 실내복·라운지웨어·파자마 세트임을 확인했습니다.",
+        "공식 Chest/Waist 표에 둘레라고 명시되어 있지 않아 원문 숫자를 나누지 않고 보존했습니다. 단면으로 해석하며 측정 지점은 미확인입니다.",
+        "3T·4T·6T·8T 등은 공식 호칭이며 월령이나 만 나이를 보장하는 값이 아닙니다.",
+        "제작·측정 방식 및 소재 신축성에 따라 차이가 있을 수 있으므로 공식 안내를 확인해 주세요."
+      ],
+      "sizes": [
+        {
+          "label": "3T",
+          "raw": {
+            "Chest": 25,
+            "Arm": 34,
+            "Top:Length": 35.5,
+            "Waist": 21,
+            "Bottom:Length": 51.5
+          },
+          "chestWidth": 25,
+          "sleeveLength": 34,
+          "topLength": 35.5,
+          "waistWidth": 21,
+          "pantsLength": 51.5
+        },
+        {
+          "label": "4T",
+          "raw": {
+            "Chest": 26.5,
+            "Arm": 37.5,
+            "Top:Length": 39,
+            "Waist": 22,
+            "Bottom:Length": 56.5
+          },
+          "chestWidth": 26.5,
+          "sleeveLength": 37.5,
+          "topLength": 39,
+          "waistWidth": 22,
+          "pantsLength": 56.5
+        },
+        {
+          "label": "6T",
+          "raw": {
+            "Chest": 28.5,
+            "Arm": 41,
+            "Top:Length": 42.5,
+            "Waist": 23,
+            "Bottom:Length": 61.5
+          },
+          "chestWidth": 28.5,
+          "sleeveLength": 41,
+          "topLength": 42.5,
+          "waistWidth": 23,
+          "pantsLength": 61.5
+        },
+        {
+          "label": "8T",
+          "raw": {
+            "Chest": 30,
+            "Arm": 44.5,
+            "Top:Length": 46,
+            "Waist": 24,
+            "Bottom:Length": 66.5
+          },
+          "chestWidth": 30,
+          "sleeveLength": 44.5,
+          "topLength": 46,
+          "waistWidth": 24,
+          "pantsLength": 66.5
+        }
+      ]
     }
   ],
   "excludedBrands": [
@@ -221247,6 +222644,142 @@
       "addedSizeRows": 91,
       "agabangReviewedProducts": 13,
       "agabangAddedMeasurements": 0
+    },
+    "homewearExpansion20261123": {
+      "checkedAt": "2026-11-23",
+      "audits": [
+        "research/new-homewear-konny-20261123.json",
+        "research/new-homewear-apricot-20261123.json",
+        "research/new-homewear-benebene-20261123.json"
+      ],
+      "before": {
+        "konny": {
+          "products": 6,
+          "sizeRows": 29
+        },
+        "apricot": {
+          "products": 5,
+          "sizeRows": 30
+        },
+        "benebene": {
+          "products": 1,
+          "sizeRows": 4
+        }
+      },
+      "after": {
+        "konny": {
+          "products": 8,
+          "sizeRows": 39
+        },
+        "apricot": {
+          "products": 7,
+          "sizeRows": 46
+        },
+        "benebene": {
+          "products": 9,
+          "sizeRows": 33
+        }
+      },
+      "updates": [
+        {
+          "id": "konny-760",
+          "brandId": "konny",
+          "code": "760",
+          "name": "컴피 플리스 라운지 세트",
+          "type": "classification-recovered",
+          "sizeRows": 6
+        },
+        {
+          "id": "konny-1451",
+          "brandId": "konny",
+          "code": "1451",
+          "name": "타탄체크 파자마세트, 25겨울",
+          "type": "new-product",
+          "sizeRows": 4
+        },
+        {
+          "id": "apricot-3126",
+          "brandId": "apricot",
+          "code": "3126",
+          "name": "구름 실내복 by MeltingCloud®",
+          "type": "new-product",
+          "sizeRows": 8
+        },
+        {
+          "id": "apricot-3127",
+          "brandId": "apricot",
+          "code": "3127",
+          "name": "아사나 패턴 실내복 by MeltingCloud®",
+          "type": "new-product",
+          "sizeRows": 8
+        },
+        {
+          "id": "benebene-13000",
+          "brandId": "benebene",
+          "code": "13000",
+          "name": "BABY) Elfin Organic Twinset, Cream",
+          "type": "new-product",
+          "sizeRows": 3
+        },
+        {
+          "id": "benebene-13001",
+          "brandId": "benebene",
+          "code": "13001",
+          "name": "Elfin Organic Twinset, Cream",
+          "type": "new-product",
+          "sizeRows": 4
+        },
+        {
+          "id": "benebene-9769",
+          "brandId": "benebene",
+          "code": "9769",
+          "name": "BABY) Bene Stripe Twinset, Grayish Blue",
+          "type": "new-product",
+          "sizeRows": 3
+        },
+        {
+          "id": "benebene-9767",
+          "brandId": "benebene",
+          "code": "9767",
+          "name": "Bene Stripe Twinset, Grayish Blue",
+          "type": "new-product",
+          "sizeRows": 4
+        },
+        {
+          "id": "benebene-1068",
+          "brandId": "benebene",
+          "code": "1068",
+          "name": "BABY) Baby Breath Lip Neck Twinset, Baby Breath",
+          "type": "classification-recovered",
+          "sizeRows": 3
+        },
+        {
+          "id": "benebene-1069",
+          "brandId": "benebene",
+          "code": "1069",
+          "name": "Baby Breath Lip Neck Twinset, Baby Breath",
+          "type": "new-product",
+          "sizeRows": 4
+        },
+        {
+          "id": "benebene-8350",
+          "brandId": "benebene",
+          "code": "8350",
+          "name": "Low Stripe Pajamas, Light Gray",
+          "type": "new-product",
+          "sizeRows": 4
+        },
+        {
+          "id": "benebene-8382",
+          "brandId": "benebene",
+          "code": "8382",
+          "name": "Beloved Twinset, Gray",
+          "type": "new-product",
+          "sizeRows": 4
+        }
+      ],
+      "newProducts": 10,
+      "recoveredProducts": 2
     }
   }
 }

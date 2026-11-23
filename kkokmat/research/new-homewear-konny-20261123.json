@@ -1,0 +1,719 @@
+{
+  "brandId": "konny",
+  "checkedAt": "2026-11-23",
+  "scope": "공식몰 실내복·파자마·라운지웨어 검색 및 상품별 실측표. 색상 옵션·맘&베이비 묶음은 별도 실측 상품으로 증식하지 않음.",
+  "summary": {
+    "beforeHomewearComparable": 6,
+    "afterHomewearComparable": 8,
+    "newCatalogProducts": 1,
+    "newMeasuredProducts": 1,
+    "newMeasuredSizeRows": 4,
+    "reclassifiedExistingProducts": 1,
+    "recoveredComparableSizeRows": 6,
+    "auditedExistingProducts": 6
+  },
+  "products": [
+    {
+      "id": "konny-760",
+      "brandId": "konny",
+      "name": "컴피 플리스 라운지 세트",
+      "code": "760",
+      "category": "homewear-set",
+      "kind": "homewear-set",
+      "audience": "child",
+      "imageUrl": "https://konny.kr/web/product/big/202610/e63bfb2a16afb5e74aa18f1689e51167.jpg",
+      "material": "폴리에스터 95%, 스판 5%",
+      "attributes": {
+        "fibers": [
+          "polyester"
+        ],
+        "fabricLabel": "폴리에스터 95%, 스판 5%",
+        "weave": "fleece",
+        "seasons": [
+          "winter"
+        ],
+        "seasonEvidence": [
+          "공식 상품명·설명: 겨울 라운지웨어"
+        ],
+        "features": [
+          {
+            "key": "soft",
+            "label": "부드러운 원단",
+            "evidence": "놀랄 만큼 부드럽고 포근한 극세사 플리스"
+          },
+          {
+            "key": "light",
+            "label": "가벼워요",
+            "evidence": "보들보들 가볍고 따뜻한 겨울 라운지웨어"
+          }
+        ],
+        "origins": [
+          "베트남"
+        ],
+        "description": "보들보들 가볍고 따뜻한겨울 라운지웨어 컴피 플리스 라운지 세트 진짜 육아 고민에서탄생한 제품 한겨울에는 실내가 쌀쌀할 때가 있어서 도톰한 실내복이 필요하더라고요. 포근하게 입히면 난방을 많이 하지 않아도 돼서 실내 공기도 덜 건조해지고요. 하루 종일 편해야 하니까, 부드럽고 따뜻한 플리스 소재로 실내복을 만들어보면 어때요? 외출에도 어울리는 디자인이면 더 자주 입힐 수 있겠네요. “아이가 집에 오면이것만 입으려고 해요” 부드러워서 아이도 좋아하고,이불 안 덮고 수면조끼도 거부하는데이거 하나 입히면 걱정 없어요. 집에서는 실내복처럼 입히다가잠깐 외출할 때 그대로 입혀도 될 정도로보온력이 좋아서 활용도가 높아요. 엄청 부드러워요. 아이도 촉감이 좋은지자꾸 옷을 만져보네요. 역시 코니! 지난 시즌 구매 고객 분들의 실제 리뷰입니다. 부모의 경험을 녹인사려 깊은 디자인 움직임이 자유로운릴랙스 핏 흘러내리지 않는손목 발목 밴딩 한겨울에도걱정 없는도톰한 플리스 놀랄 만큼 부드럽고포근한 극세사 플리스 부드러운 플리스에 스판을 더해포근함과 편안함을 모두 담았어요. 보온성 부드러움 신축성 맨살에도 부드러운기분 좋은 촉감 가볍고 따뜻해서 아이가 더 좋아해요. 어디서든 움직임이자유로운 릴랙스 핏 조임 없이 넉넉해서 집 안에서도 편하고활동량이 많은 밖에서도 편해요. 집에서도 밖에서도포근한 라운지웨어 도톰하고 따뜻해 잠깐의 외출에도부담 없이 입을 수 있어요. 흘러내리지 않아 편안한손목 발목 밴딩 소매와 바지 밑단을 안정감있게 잡아줘활동량이 많은 아이도 편안해요. 신축성이 뛰어나입히고 벗기기도 쉬워요 스판 혼용으로 유연하게 잘 늘어나입히고 벗길 때도 수월해요. 작은 부분 하나까지세심한 디테일 상하의 타이벡 라벨 신생아 옷에 사용되는 가장 부드러운 라벨로 제거하지 않아도 거슬리지 않아요. 하의 부드러운 허리밴드 신축성 좋은 밴드로 배를 부드럽게 감싸 하루 종일 편안해요. 우리 아이가 쓰는 거니까꼼꼼히 따져보세요 국내외안전 테스트 완료 전 부자재무형광 심플하고 모던한4가지 컬러 함께 입으",
+        "material": "폴리에스터 95%, 스판 5%",
+        "source": {
+          "url": "https://konny.kr/product/detail.html?product_no=760",
+          "checkedAt": "2026-11-23"
+        }
+      },
+      "source": {
+        "url": "https://konny.kr/product/detail.html?product_no=760",
+        "checkedAt": "2026-11-23"
+      },
+      "measurementBasis": "공식 상품별 HTML 실측표 · 가슴·허리 단면(cm)",
+      "notes": [
+        "가슴·허리는 공식 표에 단면이라고 명시되어 있어 둘로 나누지 않습니다.",
+        "제작·측정 방식에 따라 1~2cm 차이가 날 수 있습니다.",
+        "공식 본문의 겨울 실내복·라운지웨어 설명을 근거로 기존 other 분류를 실내복·내의 세트로 바로잡았습니다."
+      ],
+      "sizes": [
+        {
+          "label": "80",
+          "topLength": 36.5,
+          "chestWidth": 33.1,
+          "sleeveLength": 22,
+          "pantsLength": 42,
+          "waistWidth": 19.6,
+          "raw": {
+            "상의 총기장A": 36.5,
+            "상의 가슴단면B": 33.1,
+            "상의 어깨너비C": 30,
+            "상의 소매기장D": 22,
+            "하의 총기장A": 42,
+            "하의 허리단면B": 19.6,
+            "하의 엉덩이단면C": 32.6,
+            "하의 밑단단면D": 9,
+            "하의 밑위E": 20
+          }
+        },
+        {
+          "label": "90",
+          "topLength": 39.6,
+          "chestWidth": 35.3,
+          "sleeveLength": 25.5,
+          "pantsLength": 48,
+          "waistWidth": 20.8,
+          "raw": {
+            "상의 총기장A": 39.6,
+            "상의 가슴단면B": 35.3,
+            "상의 어깨너비C": 32,
+            "상의 소매기장D": 25.5,
+            "하의 총기장A": 48,
+            "하의 허리단면B": 20.8,
+            "하의 엉덩이단면C": 34.8,
+            "하의 밑단단면D": 9.5,
+            "하의 밑위E": 20.5
+          }
+        },
+        {
+          "label": "100",
+          "topLength": 42.7,
+          "chestWidth": 37.5,
+          "sleeveLength": 29,
+          "pantsLength": 54,
+          "waistWidth": 22,
+          "raw": {
+            "상의 총기장A": 42.7,
+            "상의 가슴단면B": 37.5,
+            "상의 어깨너비C": 34,
+            "상의 소매기장D": 29,
+            "하의 총기장A": 54,
+            "하의 허리단면B": 22,
+            "하의 엉덩이단면C": 37,
+            "하의 밑단단면D": 10,
+            "하의 밑위E": 21
+          }
+        },
+        {
+          "label": "110",
+          "topLength": 45.8,
+          "chestWidth": 39.7,
+          "sleeveLength": 32.5,
+          "pantsLength": 60.5,
+          "waistWidth": 23.2,
+          "raw": {
+            "상의 총기장A": 45.8,
+            "상의 가슴단면B": 39.7,
+            "상의 어깨너비C": 36,
+            "상의 소매기장D": 32.5,
+            "하의 총기장A": 60.5,
+            "하의 허리단면B": 23.2,
+            "하의 엉덩이단면C": 39.2,
+            "하의 밑단단면D": 10.5,
+            "하의 밑위E": 22
+          }
+        },
+        {
+          "label": "120",
+          "topLength": 48.9,
+          "chestWidth": 41.9,
+          "sleeveLength": 36,
+          "pantsLength": 67,
+          "waistWidth": 24.4,
+          "raw": {
+            "상의 총기장A": 48.9,
+            "상의 가슴단면B": 41.9,
+            "상의 어깨너비C": 38,
+            "상의 소매기장D": 36,
+            "하의 총기장A": 67,
+            "하의 허리단면B": 24.4,
+            "하의 엉덩이단면C": 41.4,
+            "하의 밑단단면D": 11,
+            "하의 밑위E": 23
+          }
+        },
+        {
+          "label": "130",
+          "topLength": 52,
+          "chestWidth": 44.1,
+          "sleeveLength": 39.5,
+          "pantsLength": 73.5,
+          "waistWidth": 25.6,
+          "raw": {
+            "상의 총기장A": 52,
+            "상의 가슴단면B": 44.1,
+            "상의 어깨너비C": 40,
+            "상의 소매기장D": 39.5,
+            "하의 총기장A": 73.5,
+            "하의 허리단면B": 25.6,
+            "하의 엉덩이단면C": 43.6,
+            "하의 밑단단면D": 11.5,
+            "하의 밑위E": 24
+          }
+        }
+      ]
+    },
+    {
+      "id": "konny-1451",
+      "brandId": "konny",
+      "name": "타탄체크 파자마세트, 25겨울",
+      "code": "1451",
+      "category": "homewear-set",
+      "kind": "homewear-set",
+      "audience": "child",
+      "imageUrl": "https://konny.kr/web/product/big/202601/fa910a9a72aae029f0b65e296a9ba4e6.jpg",
+      "material": "62% 폴리에스터, 33% 면, 5% 스판",
+      "attributes": {
+        "fibers": [
+          "cotton",
+          "polyester"
+        ],
+        "fabricLabel": "62% 폴리에스터, 33% 면, 5% 스판",
+        "weave": "",
+        "seasons": [
+          "all"
+        ],
+        "seasonEvidence": [
+          "공식 설명: 0.24 TOG · 사계절 내내 덥지 않고 쾌적해요."
+        ],
+        "features": [
+          {
+            "key": "soft",
+            "label": "부드러운 원단",
+            "evidence": "부드러운 촉감을 위해 실리콘 가공을 더했어요."
+          }
+        ],
+        "origins": [
+          "베트남"
+        ],
+        "description": "2025 FWHOLIDAYCOLLECTION 연말을 더욱 특별하게 만들어줄 코니 홀리데이 에디션을 만나보세요. 포인트 하나만으로 사랑스러운 연말 분위기를 완성해줘요. 홈파티에도, 잠자리에도입기 좋은 파자마 타탄체크 파자마세트 두 돌 부터 입는 우리 아이 첫 파자마예요. 젖어도 금방 마르는 코니턱받이 소재라 땀이 많은 아이도 쾌적하게 잠들어요. 클래식한 체크 패턴으로 사랑스러운 홀리데이 무드까지 더해준답니다. 한눈에 보는 특별함 안심하고 입히는 99.9% 항균, 흡습속건 소재 잠자리부터 홈 파티까지 활용도 높은 연말 파자마룩 소매와 바짓단을 매끄럽게 마감해 편안한 착용감 몸에 달라 붙지 않는 여유로운 핏 만 2세부터 입을 수 있는 유아 전용 파자마 보온성을 확인해 보세요 TOG 수치*가 클수록 따뜻해요. 0.24 TOG 사계절 내내 덥지 않고 쾌적해요. 0TOG 2.5TOG *TOG(Thermal overall grade) 수치란? 의류 또는 침구류의 보온성을 측정하는 단위 Director’s Note 코니에서 홀리데이 시즌에만 선보이는 파자마 형태의 실내복 입니다. 코니턱받이 원단이라 아이 첫 잠옷으로도 안심이고, 연말엔 엄마 아빠와 예쁘게 맞춰 입을 수 있어요. MATERIAL FEATURES 탁월함은좋은 소재로부터 기분 좋은 부드러움과 편안함을 기본으로제품별 최적의 소재를 직접 개발합니다. 코니턱받이 소재 수분을 빠르고 흡수하는 데다 피부에 부드럽게 닿고 자주 빨아도 변형이 적어요. 땀이 많은 아이도 밤새 보송하고 쾌적해요 면 33% | 폴리에스터 62% | 스판 5% 99.9% 항균 원단으로 안심하고 입힐 수 있어요. 땀을 잘 흡수하고 빠르게 마르는 소재로 밤새 쾌적해요. 부드러운 촉감을 위해 실리콘 가공*을 더했어요. *실리콘 가공이란? 원단 표면에 실리콘 처리를 더해 마찰을 줄이고 부드러운 촉감을 높이는 가공 방식입니다. DELICATE DETAIL 부모의 경험을 녹인사려 깊은 디테일 육아가 더 수월해지길 바라는 마음으로작은 부분까지 섬세함을 담았습니",
+        "material": "62% 폴리에스터, 33% 면, 5% 스판",
+        "source": {
+          "url": "https://konny.kr/product/detail.html?product_no=1451",
+          "checkedAt": "2026-11-23"
+        }
+      },
+      "source": {
+        "url": "https://konny.kr/product/detail.html?product_no=1451",
+        "checkedAt": "2026-11-23"
+      },
+      "measurementBasis": "공식 상품별 HTML 실측표 · 가슴·허리 단면(cm)",
+      "notes": [
+        "가슴·허리는 공식 표에 단면이라고 명시되어 있어 둘로 나누지 않습니다.",
+        "제작·측정 방식에 따라 1~2cm 차이가 날 수 있습니다.",
+        "25겨울 시즌 상품. 월령·신장 병기 호칭을 원문 그대로 보존하며, 2026 모달 타탄체크 상품388과 소재·실측이 다릅니다."
+      ],
+      "sizes": [
+        {
+          "label": "2-3Y(90)",
+          "topLength": 38.7,
+          "chestWidth": 33,
+          "sleeveLength": 28.2,
+          "pantsLength": 48,
+          "waistWidth": 20,
+          "raw": {
+            "상의 총기장 A": 38.7,
+            "상의 가슴단면 B": 33,
+            "상의 어깨너비 C": 27,
+            "상의 소매기장 D": 28.2,
+            "하의 총기장 A": 48,
+            "하의 허리단면 B": 20,
+            "하의 엉덩이단면 C": 34,
+            "하의 밑위 D": 20,
+            "하의 밑단단면 D": 14
+          }
+        },
+        {
+          "label": "3-4Y(100)",
+          "topLength": 41.8,
+          "chestWidth": 35,
+          "sleeveLength": 31.4,
+          "pantsLength": 54,
+          "waistWidth": 21.2,
+          "raw": {
+            "상의 총기장 A": 41.8,
+            "상의 가슴단면 B": 35,
+            "상의 어깨너비 C": 28.6,
+            "상의 소매기장 D": 31.4,
+            "하의 총기장 A": 54,
+            "하의 허리단면 B": 21.2,
+            "하의 엉덩이단면 C": 36,
+            "하의 밑위 D": 21,
+            "하의 밑단단면 D": 14.8
+          }
+        },
+        {
+          "label": "4-5Y(110)",
+          "topLength": 44.9,
+          "chestWidth": 37,
+          "sleeveLength": 34.6,
+          "pantsLength": 60,
+          "waistWidth": 22.5,
+          "raw": {
+            "상의 총기장 A": 44.9,
+            "상의 가슴단면 B": 37,
+            "상의 어깨너비 C": 30.2,
+            "상의 소매기장 D": 34.6,
+            "하의 총기장 A": 60,
+            "하의 허리단면 B": 22.5,
+            "하의 엉덩이단면 C": 38,
+            "하의 밑위 D": 22,
+            "하의 밑단단면 D": 15.6
+          }
+        },
+        {
+          "label": "5-6Y(120)",
+          "topLength": 48,
+          "chestWidth": 39,
+          "sleeveLength": 37.8,
+          "pantsLength": 66,
+          "waistWidth": 23.7,
+          "raw": {
+            "상의 총기장 A": 48,
+            "상의 가슴단면 B": 39,
+            "상의 어깨너비 C": 31.8,
+            "상의 소매기장 D": 37.8,
+            "하의 총기장 A": 66,
+            "하의 허리단면 B": 23.7,
+            "하의 엉덩이단면 C": 40,
+            "하의 밑위 D": 23,
+            "하의 밑단단면 D": 16.4
+          }
+        }
+      ]
+    }
+  ],
+  "catalog": [
+    {
+      "id": "konny-760",
+      "brandId": "konny",
+      "name": "컴피 플리스 라운지 세트",
+      "code": "760",
+      "kind": "homewear-set",
+      "category": "homewear-set",
+      "source": {
+        "url": "https://konny.kr/product/detail.html?product_no=760",
+        "checkedAt": "2026-11-23"
+      },
+      "imageUrl": "https://konny.kr/web/product/big/202610/e63bfb2a16afb5e74aa18f1689e51167.jpg",
+      "sizeLabels": [
+        "80",
+        "90",
+        "100",
+        "110",
+        "120",
+        "130"
+      ],
+      "measurementStatus": "verified",
+      "reason": null,
+      "categoryIds": [
+        275
+      ],
+      "audience": "child",
+      "measurementId": "konny-760",
+      "comparable": true
+    },
+    {
+      "id": "konny-1451",
+      "brandId": "konny",
+      "name": "타탄체크 파자마세트, 25겨울",
+      "code": "1451",
+      "kind": "homewear-set",
+      "category": "homewear-set",
+      "audience": "child",
+      "source": {
+        "url": "https://konny.kr/product/detail.html?product_no=1451",
+        "checkedAt": "2026-11-23"
+      },
+      "imageUrl": "https://konny.kr/web/product/big/202601/fa910a9a72aae029f0b65e296a9ba4e6.jpg",
+      "sizeLabels": [
+        "2-3Y(90)",
+        "3-4Y(100)",
+        "4-5Y(110)",
+        "5-6Y(120)"
+      ],
+      "measurementId": "konny-1451",
+      "measurementStatus": "verified",
+      "comparable": true,
+      "reason": null
+    }
+  ],
+  "evidence": [
+    {
+      "id": "konny-760",
+      "status": "classification-recovery",
+      "source": {
+        "url": "https://konny.kr/product/detail.html?product_no=760",
+        "checkedAt": "2026-11-23"
+      },
+      "htmlPath": ".artifacts/konny-homewear/source-2.html",
+      "htmlSHA256": "31e982b43ea26e6c71804a58fd034aed8504e2a83f5973d0b1774500a4ab82d5",
+      "tableSelector": "#prdDetail table",
+      "tableRows": [
+        [
+          [
+            "사이즈(cm)",
+            "80",
+            "90",
+            "100",
+            "110",
+            "120",
+            "130"
+          ],
+          [
+            "총기장A",
+            "36.5",
+            "39.6",
+            "42.7",
+            "45.8",
+            "48.9",
+            "52"
+          ],
+          [
+            "가슴단면B",
+            "33.1",
+            "35.3",
+            "37.5",
+            "39.7",
+            "41.9",
+            "44.1"
+          ],
+          [
+            "어깨너비C",
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40"
+          ],
+          [
+            "소매기장D",
+            "22",
+            "25.5",
+            "29",
+            "32.5",
+            "36",
+            "39.5"
+          ]
+        ],
+        [
+          [
+            "사이즈(cm)",
+            "80",
+            "90",
+            "100",
+            "110",
+            "120",
+            "130"
+          ],
+          [
+            "총기장A",
+            "42",
+            "48",
+            "54",
+            "60.5",
+            "67",
+            "73.5"
+          ],
+          [
+            "허리단면B",
+            "19.6",
+            "20.8",
+            "22",
+            "23.2",
+            "24.4",
+            "25.6"
+          ],
+          [
+            "엉덩이단면C",
+            "32.6",
+            "34.8",
+            "37",
+            "39.2",
+            "41.4",
+            "43.6"
+          ],
+          [
+            "밑단단면D",
+            "9",
+            "9.5",
+            "10",
+            "10.5",
+            "11",
+            "11.5"
+          ],
+          [
+            "밑위E",
+            "20",
+            "20.5",
+            "21",
+            "22",
+            "23",
+            "24"
+          ]
+        ]
+      ],
+      "tableSHA256": "10d888bf9a518b781014b97c7fc3d4dcc50d27cb90533a1d94cb6fd86067b153",
+      "imageUrl": "https://konny.kr/web/product/big/202610/e63bfb2a16afb5e74aa18f1689e51167.jpg",
+      "productImagePath": ".artifacts/konny-homewear/760-product.jpg",
+      "productImageSHA256": "4080fe6b39b3108e48ab13415b6174fff7ac4d8c4cd87c06349fe6bbcc045460",
+      "classificationEvidence": "공식 본문: 하루 종일 편해야 하니까, 부드럽고 따뜻한 플리스 소재로 실내복을 만들어보면 어때요?",
+      "separateProductEvidence": null
+    },
+    {
+      "id": "konny-1451",
+      "status": "new-product",
+      "source": {
+        "url": "https://konny.kr/product/detail.html?product_no=1451",
+        "checkedAt": "2026-11-23"
+      },
+      "htmlPath": ".artifacts/konny-homewear/1451.html",
+      "htmlSHA256": "f8de930b1723a460502ee687182b96ce952b9011919155b125e5d1fb7b335abb",
+      "tableSelector": "#prdDetail table",
+      "tableRows": [
+        [
+          [
+            "단위/cm",
+            "2-3Y(90)",
+            "3-4Y(100)",
+            "4-5Y(110)",
+            "5-6Y(120)"
+          ],
+          [
+            "총기장 A",
+            "38.7",
+            "41.8",
+            "44.9",
+            "48"
+          ],
+          [
+            "가슴단면 B",
+            "33",
+            "35",
+            "37",
+            "39"
+          ],
+          [
+            "어깨너비 C",
+            "27",
+            "28.6",
+            "30.2",
+            "31.8"
+          ],
+          [
+            "소매기장 D",
+            "28.2",
+            "31.4",
+            "34.6",
+            "37.8"
+          ]
+        ],
+        [
+          [
+            "단위/cm",
+            "2-3Y(90)",
+            "3-4Y(100)",
+            "4-5Y(110)",
+            "5-6Y(120)"
+          ],
+          [
+            "총기장 A",
+            "48",
+            "54",
+            "60",
+            "66"
+          ],
+          [
+            "허리단면 B",
+            "20",
+            "21.2",
+            "22.5",
+            "23.7"
+          ],
+          [
+            "엉덩이단면 C",
+            "34",
+            "36",
+            "38",
+            "40"
+          ],
+          [
+            "밑위 D",
+            "20",
+            "21",
+            "22",
+            "23"
+          ],
+          [
+            "밑단단면 D",
+            "14",
+            "14.8",
+            "15.6",
+            "16.4"
+          ]
+        ]
+      ],
+      "tableSHA256": "c0aa5afcbfe57effd8039e459f57c16ec958aa5c3722a365048d9cef949dc7b9",
+      "imageUrl": "https://konny.kr/web/product/big/202601/fa910a9a72aae029f0b65e296a9ba4e6.jpg",
+      "productImagePath": ".artifacts/konny-homewear/1451-product.jpg",
+      "productImageSHA256": "8de2626e1068cdebba44578a0a355e79fa0eac53905deacdea4d1683dff793c2",
+      "classificationEvidence": "공식 본문: 홀리데이 시즌에만 선보이는 파자마 형태의 실내복. 2025 FW COLLECTION",
+      "separateProductEvidence": {
+        "differentFrom": "konny-388",
+        "material1451": "62% 폴리에스터, 33% 면, 5% 스판",
+        "material388": "면 55%, 모달 45%",
+        "size90_1451": {
+          "label": "2-3Y(90)",
+          "topLength": 38.7,
+          "chestWidth": 33,
+          "sleeveLength": 28.2,
+          "pantsLength": 48,
+          "waistWidth": 20,
+          "raw": {
+            "상의 총기장 A": 38.7,
+            "상의 가슴단면 B": 33,
+            "상의 어깨너비 C": 27,
+            "상의 소매기장 D": 28.2,
+            "하의 총기장 A": 48,
+            "하의 허리단면 B": 20,
+            "하의 엉덩이단면 C": 34,
+            "하의 밑위 D": 20,
+            "하의 밑단단면 D": 14
+          }
+        },
+        "size90_388": {
+          "label": "90",
+          "raw": {
+            "총기장A": 39.5,
+            "가슴단면B": 33.8,
+            "소매기장D": 27.4,
+            "하의 총기장A": 46,
+            "하의 허리단면B": 20.3
+          },
+          "topLength": 39.5,
+          "chestWidth": 33.8,
+          "sleeveLength": 27.4,
+          "pantsLength": 46,
+          "waistWidth": 20.3
+        }
+      }
+    }
+  ],
+  "auditedExisting": [
+    {
+      "id": "konny-ultra",
+      "code": "25",
+      "checkedAt": "2026-11-23",
+      "sourceUrl": "https://konny.co.kr/product/detail.html?product_no=25",
+      "status": "all-existing-required-dimensions-match-current-official-tables",
+      "sizeRows": 6,
+      "htmlPath": ".artifacts/konny-homewear/25.html",
+      "htmlSHA256": "8201b22fa93be3db848984d48a1f77fb703635e4f033e5212d2aa73c4665f83f"
+    },
+    {
+      "id": "konny-relax",
+      "code": "750",
+      "checkedAt": "2026-11-23",
+      "sourceUrl": "https://konny.co.kr/product/detail.html?product_no=750",
+      "status": "all-existing-required-dimensions-match-current-official-tables",
+      "sizeRows": 6,
+      "htmlPath": ".artifacts/konny-homewear/750.html",
+      "htmlSHA256": "4719e776cf15e6d21c2aba2212c3884f0c615efe59e2ea7ba764137607acfef4"
+    },
+    {
+      "id": "konny-1136",
+      "code": "1136",
+      "checkedAt": "2026-11-23",
+      "sourceUrl": "https://konny.co.kr/product/detail.html?product_no=1136",
+      "status": "all-existing-required-dimensions-match-current-official-tables",
+      "sizeRows": 2,
+      "htmlPath": ".artifacts/konny-homewear/1136.html",
+      "htmlSHA256": "923f0c62a5c73752963d44cd2241033955e377ae8a964d28e31431f44f11c1d9"
+    },
+    {
+      "id": "konny-749",
+      "code": "749",
+      "checkedAt": "2026-11-23",
+      "sourceUrl": "https://konny.co.kr/product/detail.html?product_no=749",
+      "status": "all-existing-required-dimensions-match-current-official-tables",
+      "sizeRows": 4,
+      "htmlPath": ".artifacts/konny-homewear/749.html",
+      "htmlSHA256": "a14a24b6d0b187e233fbf0b904c49bf1c1ae861f7c2e083d15d91f717eb56b79"
+    },
+    {
+      "id": "konny-1184",
+      "code": "1184",
+      "checkedAt": "2026-11-23",
+      "sourceUrl": "https://konny.co.kr/product/detail.html?product_no=1184",
+      "status": "all-existing-required-dimensions-match-current-official-tables",
+      "sizeRows": 6,
+      "htmlPath": ".artifacts/konny-homewear/1184.html",
+      "htmlSHA256": "3309e38756015aedcdbaec37f1c2aa67840c8b5d78110b2fbcce53b6db2da78d"
+    },
+    {
+      "id": "konny-388",
+      "code": "388",
+      "checkedAt": "2026-11-23",
+      "sourceUrl": "https://konny.co.kr/product/detail.html?product_no=388",
+      "status": "all-existing-required-dimensions-match-current-official-tables",
+      "sizeRows": 5,
+      "htmlPath": ".artifacts/konny-homewear/388.html",
+      "htmlSHA256": "05bfc0c8a2f7a0c8fa848fc4625f32f83ba99cc9de2e1755ed7d4e0a61007ad7"
+    }
+  ],
+  "skipped": [
+    {
+      "code": "439",
+      "name": "모달 배앓이방지 실내복 세트",
+      "url": "https://konny.kr/product/detail.html?product_no=439",
+      "reason": "검색엔진 색인에는 남으나 현재 공식 상세 URL이 /index.html로 리디렉션되어 실측표를 확인할 수 없음. 추정 추가하지 않음."
+    },
+    {
+      "code": "1452",
+      "name": "타탄체크 파자마세트(어덜트), 25겨울",
+      "reason": "성인용이라 만0~5세 실내복 확장 대상에서 제외"
+    },
+    {
+      "code": "1188",
+      "name": "컴피 플리스 라운지 세트 (맘&베이비)",
+      "reason": "760과1180의 패키지. 아동760과 같은 측정표이므로 중복 실측 상품 추가 제외"
+    },
+    {
+      "code": "1193",
+      "name": "모달 울트라소프트 실내복 세트 (맘&베이비)",
+      "reason": "25와1126 패키지. 아동25와 같은 측정표이므로 중복 실측 상품 추가 제외"
+    }
+  ]
+}
