@@ -1,0 +1,42 @@
+{
+  "checkedAt": "2026-11-23",
+  "brandId": "zara",
+  "scope": "한국 공식몰 현재 공개 파자마 대표 3종. 제품 사이즈 버튼을 실제로 열어 확인한 결과이며 다른 모든 상품에 대한 일반화는 아님.",
+  "products": [],
+  "reviewedProducts": [
+    {
+      "code": "1618/499/400",
+      "name": "2-6세/ 체크 웜 파자마",
+      "url": "https://www.zara.com/kr/ko/2-6%E1%84%89%E1%85%A6--%E1%84%8E%E1%85%A6%E1%84%8F%E1%85%B3-%E1%84%8B%E1%85%AF%E1%86%B7-%E1%84%91%E1%85%A1%E1%84%8C%E1%85%A1%E1%84%86%E1%85%A1-p01618499.html",
+      "status": "official-product-guide-unavailable",
+      "observation": "가이드가 제공되지 않음 / 이 상품 크기에 대한 정보가 없습니다.",
+      "checkedAt": "2026-11-23",
+      "method": "official-visible-product-size-dialog",
+      "comparable": false
+    },
+    {
+      "code": "8501/523/104",
+      "name": "스트라이프 벨루어 패치 일체형 파자마",
+      "url": "https://www.zara.com/kr/ko/%E1%84%87%E1%85%A6%E1%86%AF%E1%84%85%E1%85%AE%E1%84%8B%E1%85%A5-%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%91%E1%85%B3-%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%8E%E1%85%A6%E1%84%92%E1%85%A7%E1%86%BC-%E1%84%91%E1%85%A1%E1%84%8C%E1%85%A1%E1%84%86%E1%85%A1-p08501523.html",
+      "status": "body-measurements-only",
+      "observation": "신체 치수라고 표시되고 사람 몸의 가슴·허리·엉덩이 위치에 둘레가 표시됨. 0-1개월(56cm) 호칭에서 42/43/41cm 표시. 옷 실측으로 쓰지 않음.",
+      "checkedAt": "2026-11-23",
+      "method": "official-visible-product-size-dialog",
+      "comparable": false
+    },
+    {
+      "code": "8501/491/803",
+      "name": "1 1/2-6년/ 스트라이프 베어 벨루어 파자마",
+      "url": "https://www.zara.com/kr/ko/1-1-2-6%E1%84%82%E1%85%A7%E1%86%AB--%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%91%E1%85%B3-%E1%84%87%E1%85%A6%E1%84%8B%E1%85%A5-%E1%84%87%E1%85%A6%E1%86%AF%E1%84%85%E1%85%AE%E1%84%8B%E1%85%A5-%E1%84%91%E1%85%A1%E1%84%8C%E1%85%A1%E1%84%86%E1%85%A1-p08501491.html",
+      "status": "official-product-guide-unavailable",
+      "observation": "가이드가 제공되지 않음 / 이 상품 크기에 대한 정보가 없습니다.",
+      "checkedAt": "2026-11-23",
+      "method": "official-visible-product-size-dialog",
+      "comparable": false
+    }
+  ],
+  "notes": [
+    "표준 신체 치수를 상품 실측으로 환산하거나 복사하지 않았다.",
+    "원시 HTTP 접근에서 확인되지 않은 상품 정보는 일반 브라우저의 공식 페이지와 제품 사이즈 창으로 확인했다."
+  ]
+}

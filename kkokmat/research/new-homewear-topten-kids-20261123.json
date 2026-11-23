@@ -1,0 +1,1123 @@
+{
+  "checkedAt": "2026-11-23",
+  "brandId": "topten-kids",
+  "scope": "기존 공식몰 목록의 베이비·유아 실내복·셋업 후보 12스타일. 색상만 다른 목록을 스타일 단위로 묶은 조사이며 모두를 실내복으로 재분류하지 않음.",
+  "products": [],
+  "partialProducts": [
+    {
+      "code": "MOG4IP3401CR",
+      "name": "공용) 유아 플리스 세트",
+      "source": {
+        "url": "https://www.goodwearmall.com/product/MOG4IP3401CR/detail?trackNo=search&trackDtl=search_gwear",
+        "checkedAt": "2026-11-23"
+      },
+      "dataURL": "https://topten10.goodwearmall.com/m/product/api/view.json?godNo=MOG4IP3401CR",
+      "jsonSHA256": "6f1a217e5f028af0128a34085eba5583cb762508aea463121f98d3a46d83e30e",
+      "method": "official-public-product-JSON-and-size-table",
+      "rows": [
+        [
+          "사이즈",
+          "80(80)",
+          "90(90)",
+          "100(100)",
+          "110(110)",
+          "120(120)"
+        ],
+        [
+          "어깨너비",
+          "30.6",
+          "32",
+          "33.8",
+          "35.6",
+          "37.4"
+        ],
+        [
+          "가슴둘레",
+          "65",
+          "68",
+          "72",
+          "76",
+          "80"
+        ],
+        [
+          "총기장",
+          "31.5",
+          "34",
+          "37.5",
+          "41",
+          "44.5"
+        ],
+        [
+          "허리둘레",
+          "40",
+          "42",
+          "44",
+          "46",
+          "48"
+        ],
+        [
+          "엉덩이둘레",
+          "62",
+          "65",
+          "69",
+          "73",
+          "77"
+        ],
+        [
+          "앞 밑위길이",
+          "20.2",
+          "21",
+          "21.8",
+          "22.6",
+          "23.4"
+        ],
+        [
+          "뒷시리",
+          "25",
+          "26",
+          "27",
+          "28",
+          "29"
+        ],
+        [
+          "기타",
+          "0",
+          "6.3",
+          "0",
+          "7.1",
+          "15.5"
+        ]
+      ],
+      "sizeChartImages": [
+        {
+          "url": "https://img.goodwearmall.com/aff/MOG4IP/MOG4IP3401CR_SPEC_IMG.jpg",
+          "imageSHA256": "20fc8b0bcdc271b4630974079a393e64b467527978ee4d052ede6c2cd8230340",
+          "visuallyReviewed": true
+        }
+      ],
+      "status": "upper-and-lower-lengths-not-separately-available",
+      "comparable": false,
+      "missingComparisonFields": [
+        "separately-identified-topLength",
+        "pantsLength"
+      ],
+      "notes": [
+        "상의와 하의의 길이가 각각 식별된 표가 아니므로 총기장 한 행을 양쪽에 대입하지 않음.",
+        "기타 행이나 밑위 수치를 바지 총장으로 해석하지 않음. 공식 표에 기록된 숫자는 그대로 보존."
+      ]
+    },
+    {
+      "code": "MOG3IP3392MGP",
+      "name": "공용) [월레스와그로밋] 유아 더블니트 세트",
+      "source": {
+        "url": "https://www.goodwearmall.com/product/MOG3IP3392MGP/detail?trackNo=search&trackDtl=search_gwear",
+        "checkedAt": "2026-11-23"
+      },
+      "dataURL": "https://topten10.goodwearmall.com/m/product/api/view.json?godNo=MOG3IP3392MGP",
+      "jsonSHA256": "8a52ea8abaccb2beb187a0e6a03ca5fdee8566f66ce4ec76446ef8550118c59f",
+      "method": "official-public-product-JSON-and-size-table",
+      "rows": [
+        [
+          "사이즈",
+          "80(80)",
+          "90(90)",
+          "100(100)",
+          "110(110)",
+          "120(120)"
+        ],
+        [
+          "어깨너비",
+          "30.1",
+          "31.5",
+          "33.3",
+          "35.1",
+          "36.9"
+        ],
+        [
+          "가슴둘레",
+          "65",
+          "68",
+          "72",
+          "76",
+          "80"
+        ],
+        [
+          "총기장",
+          "31.5",
+          "44",
+          "51",
+          "59",
+          "44.5"
+        ],
+        [
+          "허리둘레",
+          "40",
+          "42",
+          "44",
+          "46",
+          "48"
+        ],
+        [
+          "엉덩이둘레",
+          "62",
+          "65",
+          "69",
+          "73",
+          "77"
+        ],
+        [
+          "앞 밑위길이",
+          "20.2",
+          "21",
+          "21.8",
+          "22.6",
+          "23.4"
+        ],
+        [
+          "뒷시리",
+          "25",
+          "26",
+          "27",
+          "28",
+          "29"
+        ],
+        [
+          "기타",
+          "3",
+          "4.5",
+          "3",
+          "63",
+          "16"
+        ]
+      ],
+      "sizeChartImages": [
+        {
+          "url": "https://img.goodwearmall.com/aff/MOG3IP/MOG3IP3392MGP_SPEC_IMG.jpg",
+          "imageSHA256": "bfea7d56e679be4291c0ca6a9f03f640d93f6251aff8600d447c14f854791a25",
+          "visuallyReviewed": false
+        }
+      ],
+      "status": "upper-and-lower-lengths-not-separately-available",
+      "comparable": false,
+      "missingComparisonFields": [
+        "separately-identified-topLength",
+        "pantsLength"
+      ],
+      "notes": [
+        "상의와 하의의 길이가 각각 식별된 표가 아니므로 총기장 한 행을 양쪽에 대입하지 않음.",
+        "기타 행이나 밑위 수치를 바지 총장으로 해석하지 않음. 공식 표에 기록된 숫자는 그대로 보존."
+      ]
+    },
+    {
+      "code": "MOG4IP3402BEP",
+      "name": "공용) 유아 플러피플리스 세트",
+      "source": {
+        "url": "https://www.goodwearmall.com/product/MOG4IP3402BEP/detail?trackNo=search&trackDtl=search_gwear",
+        "checkedAt": "2026-11-23"
+      },
+      "dataURL": "https://topten10.goodwearmall.com/m/product/api/view.json?godNo=MOG4IP3402BEP",
+      "jsonSHA256": "05520870d64cbfc7dd5ecd256b82337b4eb82fa7a81959613576e7036a147ac3",
+      "method": "official-public-product-JSON-and-size-table",
+      "rows": [
+        [
+          "사이즈",
+          "80(80)",
+          "90(90)",
+          "100(100)",
+          "110(110)",
+          "120(120)"
+        ],
+        [
+          "어깨너비",
+          "30.1",
+          "31.5",
+          "33.3",
+          "35.1",
+          "36.9"
+        ],
+        [
+          "가슴둘레",
+          "65",
+          "68",
+          "72",
+          "76",
+          "80"
+        ],
+        [
+          "총기장",
+          "39",
+          "44",
+          "37.5",
+          "59",
+          "67"
+        ],
+        [
+          "허리둘레",
+          "40",
+          "42",
+          "44",
+          "46",
+          "48"
+        ],
+        [
+          "엉덩이둘레",
+          "62",
+          "65",
+          "69",
+          "73",
+          "77"
+        ],
+        [
+          "앞 밑위길이",
+          "20.2",
+          "21",
+          "21.8",
+          "22.6",
+          "23.4"
+        ],
+        [
+          "뒷시리",
+          "25",
+          "26",
+          "27",
+          "28",
+          "29"
+        ],
+        [
+          "기타",
+          "3",
+          "36.7",
+          "3",
+          "3",
+          "36.3"
+        ]
+      ],
+      "sizeChartImages": [
+        {
+          "url": "https://img.goodwearmall.com/aff/MOG4IP/MOG4IP3402BEP_SPEC_IMG.jpg",
+          "imageSHA256": "fe20f8e58bf1bf08dda45d0ae3f7ca97adb2be64d798d853ac979a1d24b44a7a",
+          "visuallyReviewed": false
+        }
+      ],
+      "status": "upper-and-lower-lengths-not-separately-available",
+      "comparable": false,
+      "missingComparisonFields": [
+        "separately-identified-topLength",
+        "pantsLength"
+      ],
+      "notes": [
+        "상의와 하의의 길이가 각각 식별된 표가 아니므로 총기장 한 행을 양쪽에 대입하지 않음.",
+        "기타 행이나 밑위 수치를 바지 총장으로 해석하지 않음. 공식 표에 기록된 숫자는 그대로 보존."
+      ]
+    },
+    {
+      "code": "MOG4IP3403MT",
+      "name": "공용) 유아 코듀로이 벨루어 세트",
+      "source": {
+        "url": "https://www.goodwearmall.com/product/MOG4IP3403MT/detail?trackNo=search&trackDtl=search_gwear",
+        "checkedAt": "2026-11-23"
+      },
+      "dataURL": "https://topten10.goodwearmall.com/m/product/api/view.json?godNo=MOG4IP3403MT",
+      "jsonSHA256": "638837c2b2c86676bdf1974ef475709357c50bbf65728a129aae71f9e2e0032f",
+      "method": "official-public-product-JSON-and-size-table",
+      "rows": [
+        [
+          "사이즈",
+          "80(80)",
+          "90(90)",
+          "100(100)",
+          "110(110)",
+          "120(120)"
+        ],
+        [
+          "어깨너비",
+          "30.1",
+          "31.5",
+          "33.3",
+          "35.1",
+          "36.9"
+        ],
+        [
+          "가슴둘레",
+          "67",
+          "70",
+          "74",
+          "78",
+          "82"
+        ],
+        [
+          "총기장",
+          "39",
+          "44",
+          "37.5",
+          "59",
+          "67"
+        ],
+        [
+          "허리둘레",
+          "39",
+          "41",
+          "43",
+          "45",
+          "47"
+        ],
+        [
+          "엉덩이둘레",
+          "69",
+          "72",
+          "76",
+          "80",
+          "84"
+        ],
+        [
+          "앞 밑위길이",
+          "19.7",
+          "20.5",
+          "21.3",
+          "22.1",
+          "22.9"
+        ],
+        [
+          "뒷시리",
+          "25.5",
+          "26.5",
+          "27.5",
+          "28.5",
+          "29.5"
+        ],
+        [
+          "기타",
+          "2.8",
+          "37",
+          "0",
+          "2.8",
+          "36.3"
+        ]
+      ],
+      "sizeChartImages": [
+        {
+          "url": "https://img.goodwearmall.com/aff/MOG4IP/MOG4IP3403MT_SPEC_IMG.jpg",
+          "imageSHA256": "6dffc6f01cdc209baf0e15baef4caaa634f08f87ea5bd9549db67343f2fa195a",
+          "visuallyReviewed": false
+        }
+      ],
+      "status": "upper-and-lower-lengths-not-separately-available",
+      "comparable": false,
+      "missingComparisonFields": [
+        "separately-identified-topLength",
+        "pantsLength"
+      ],
+      "notes": [
+        "상의와 하의의 길이가 각각 식별된 표가 아니므로 총기장 한 행을 양쪽에 대입하지 않음.",
+        "기타 행이나 밑위 수치를 바지 총장으로 해석하지 않음. 공식 표에 기록된 숫자는 그대로 보존."
+      ]
+    },
+    {
+      "code": "MOH5UI3402MT",
+      "name": "유아) ON Air 배앓이방지 세트",
+      "source": {
+        "url": "https://www.goodwearmall.com/product/MOH5UI3402MT/detail?trackNo=search&trackDtl=search_gwear",
+        "checkedAt": "2026-11-23"
+      },
+      "dataURL": "https://topten10.goodwearmall.com/m/product/api/view.json?godNo=MOH5UI3402MT",
+      "jsonSHA256": "fda0c1878a59705d406a600b41f6a00337182fbea23442d690b62a6c7d736186",
+      "method": "official-public-product-JSON-and-size-table",
+      "rows": [
+        [
+          "사이즈",
+          "80(80)",
+          "90(90)",
+          "100(100)",
+          "110(110)"
+        ],
+        [
+          "어깨너비",
+          "20.6",
+          "21.8",
+          "23.4",
+          "25"
+        ],
+        [
+          "가슴둘레",
+          "50",
+          "53",
+          "57",
+          "61"
+        ],
+        [
+          "소매길이",
+          "26.1",
+          "28.5",
+          "31.7",
+          "34.9"
+        ],
+        [
+          "총기장",
+          "32",
+          "34.5",
+          "38",
+          "41.5"
+        ],
+        [
+          "허리둘레",
+          "28",
+          "30",
+          "32",
+          "34"
+        ],
+        [
+          "엉덩이둘레",
+          "44",
+          "47",
+          "51",
+          "55"
+        ],
+        [
+          "기타",
+          "1.95",
+          "19",
+          "8",
+          "8"
+        ]
+      ],
+      "sizeChartImages": [
+        {
+          "url": "https://img.goodwearmall.com/aff/MOH5UI/MOH5UI3402MT_SPEC_IMG.jpg",
+          "imageSHA256": "e6dd5b0449799a19f36cf79d5e63f54744f29291d2bd4f7013385f3be00d868f",
+          "visuallyReviewed": true
+        }
+      ],
+      "status": "upper-and-lower-lengths-not-separately-available",
+      "comparable": false,
+      "missingComparisonFields": [
+        "separately-identified-topLength",
+        "pantsLength"
+      ],
+      "notes": [
+        "상의와 하의의 길이가 각각 식별된 표가 아니므로 총기장 한 행을 양쪽에 대입하지 않음.",
+        "기타 행이나 밑위 수치를 바지 총장으로 해석하지 않음. 공식 표에 기록된 숫자는 그대로 보존."
+      ]
+    },
+    {
+      "code": "MOH5UI3403MTP",
+      "name": "유아) ON Air 립 세트",
+      "source": {
+        "url": "https://www.goodwearmall.com/product/MOH5UI3403MTP/detail?trackNo=search&trackDtl=search_gwear",
+        "checkedAt": "2026-11-23"
+      },
+      "dataURL": "https://topten10.goodwearmall.com/m/product/api/view.json?godNo=MOH5UI3403MTP",
+      "jsonSHA256": "e18254bd2d93a6240a8e7a3ef75474609f73e9ce69846b9dcfdaa7460f66ebda",
+      "method": "official-public-product-JSON-and-size-table",
+      "rows": [
+        [
+          "사이즈",
+          "80(80)",
+          "90(90)",
+          "100(100)"
+        ],
+        [
+          "어깨너비",
+          "20.6",
+          "21.8",
+          "23.4"
+        ],
+        [
+          "목너비",
+          "9.5",
+          "10",
+          "10.5"
+        ],
+        [
+          "가슴둘레",
+          "50",
+          "53",
+          "57"
+        ],
+        [
+          "총기장",
+          "31.5",
+          "34",
+          "37.5"
+        ],
+        [
+          "허리둘레",
+          "40",
+          "42",
+          "44"
+        ],
+        [
+          "엉덩이둘레",
+          "47",
+          "50",
+          "54"
+        ],
+        [
+          "앞 밑위길이",
+          "18.7",
+          "19.5",
+          "20.3"
+        ],
+        [
+          "뒷시리",
+          "22",
+          "23",
+          "24"
+        ],
+        [
+          "기타",
+          "50",
+          "27",
+          "2"
+        ]
+      ],
+      "sizeChartImages": [
+        {
+          "url": "https://img.goodwearmall.com/aff/MOH5UI/MOH5UI3403MTP_SPEC_IMG.jpg",
+          "imageSHA256": "281be67dc1a123b495728d864b7141d1740b85643928ae13ed9be184b9c75b86",
+          "visuallyReviewed": false
+        }
+      ],
+      "status": "upper-and-lower-lengths-not-separately-available",
+      "comparable": false,
+      "missingComparisonFields": [
+        "separately-identified-topLength",
+        "pantsLength"
+      ],
+      "notes": [
+        "상의와 하의의 길이가 각각 식별된 표가 아니므로 총기장 한 행을 양쪽에 대입하지 않음.",
+        "기타 행이나 밑위 수치를 바지 총장으로 해석하지 않음. 공식 표에 기록된 숫자는 그대로 보존."
+      ]
+    },
+    {
+      "code": "MOG2IP3301IVP",
+      "name": "공용) 유아 [피너츠] 더블니트 셋업",
+      "source": {
+        "url": "https://www.goodwearmall.com/product/MOG2IP3301IVP/detail?trackNo=search&trackDtl=search_gwear",
+        "checkedAt": "2026-11-23"
+      },
+      "dataURL": "https://topten10.goodwearmall.com/m/product/api/view.json?godNo=MOG2IP3301IVP",
+      "jsonSHA256": "8dc025fa7f9d8a4f2aa3d29713a1e02000b74e5c6f48c6cb10f4c6481b3d6396",
+      "method": "official-public-product-JSON-and-size-table",
+      "rows": [
+        [
+          "사이즈",
+          "80(80)",
+          "90(90)",
+          "100(100)",
+          "110(110)",
+          "120(120)"
+        ],
+        [
+          "어깨너비",
+          "30.1",
+          "31.5",
+          "33.3",
+          "35.1",
+          "36.9"
+        ],
+        [
+          "가슴둘레",
+          "65",
+          "68",
+          "72",
+          "76",
+          "80"
+        ],
+        [
+          "총기장",
+          "31.5",
+          "34",
+          "37.5",
+          "59",
+          "44.5"
+        ],
+        [
+          "엉덩이둘레",
+          "62",
+          "65",
+          "69",
+          "73",
+          "77"
+        ],
+        [
+          "앞 밑위길이",
+          "20.7",
+          "21.5",
+          "22.3",
+          "23.1",
+          "23.9"
+        ]
+      ],
+      "sizeChartImages": [
+        {
+          "url": "https://img.goodwearmall.com/aff/MOG2IP/MOG2IP3301IVP_SPEC_IMG.jpg",
+          "imageSHA256": "472916b720de28d1e8570a73f0e4e2387c1add47e87cc23f40d415075c43f568",
+          "visuallyReviewed": false
+        }
+      ],
+      "status": "upper-and-lower-lengths-not-separately-available",
+      "comparable": false,
+      "missingComparisonFields": [
+        "separately-identified-topLength",
+        "pantsLength"
+      ],
+      "notes": [
+        "상의와 하의의 길이가 각각 식별된 표가 아니므로 총기장 한 행을 양쪽에 대입하지 않음.",
+        "기타 행이나 밑위 수치를 바지 총장으로 해석하지 않음. 공식 표에 기록된 숫자는 그대로 보존."
+      ]
+    },
+    {
+      "code": "MKG5UI3382MT",
+      "name": "공용) 유아 레깅스 9부 바디수트 셋업",
+      "source": {
+        "url": "https://www.goodwearmall.com/product/MKG5UI3382MT/detail?trackNo=search&trackDtl=search_gwear",
+        "checkedAt": "2026-11-23"
+      },
+      "dataURL": "https://topten10.goodwearmall.com/m/product/api/view.json?godNo=MKG5UI3382MT",
+      "jsonSHA256": "fcbf6df409cac291f69d9d293d6adb8175f29c317195977ab041fe62c1237f4a",
+      "method": "official-public-product-JSON-and-size-table",
+      "rows": [
+        [
+          "사이즈",
+          "70(70)",
+          "80(80)",
+          "90(90)"
+        ],
+        [
+          "어깨너비",
+          "20",
+          "21",
+          "22"
+        ],
+        [
+          "가슴둘레",
+          "46.5",
+          "49",
+          "51.5"
+        ],
+        [
+          "소매길이",
+          "24",
+          "26.5",
+          "29"
+        ],
+        [
+          "총기장",
+          "40",
+          "42",
+          "44"
+        ],
+        [
+          "허리둘레",
+          "37",
+          "39",
+          "41"
+        ],
+        [
+          "엉덩이둘레",
+          "47.5",
+          "48.5",
+          "52.5"
+        ],
+        [
+          "앞 밑위길이",
+          "18",
+          "18.5",
+          "19"
+        ]
+      ],
+      "sizeChartImages": [
+        {
+          "url": "https://img.goodwearmall.com/aff/MKG5UI/MKG5UI3382MT_SPEC_IMG.jpg",
+          "imageSHA256": "86ba3b80a3587f3cb1c87d71133fb266208c7bc1a76da6577184c0636d1fd868",
+          "visuallyReviewed": false
+        }
+      ],
+      "status": "upper-and-lower-lengths-not-separately-available",
+      "comparable": false,
+      "missingComparisonFields": [
+        "separately-identified-topLength",
+        "pantsLength"
+      ],
+      "notes": [
+        "상의와 하의의 길이가 각각 식별된 표가 아니므로 총기장 한 행을 양쪽에 대입하지 않음.",
+        "기타 행이나 밑위 수치를 바지 총장으로 해석하지 않음. 공식 표에 기록된 숫자는 그대로 보존."
+      ]
+    },
+    {
+      "code": "MKG5UI3901IVP",
+      "name": "공용) 소프트모달 7부 셋업",
+      "source": {
+        "url": "https://www.goodwearmall.com/product/MKG5UI3901IVP/detail?trackNo=search&trackDtl=search_gwear",
+        "checkedAt": "2026-11-23"
+      },
+      "dataURL": "https://topten10.goodwearmall.com/m/product/api/view.json?godNo=MKG5UI3901IVP",
+      "jsonSHA256": "0ebc32035c2c553b39423192d4c068e7d9487fd404ba0ad4b5c9bccf4ff7fb4e",
+      "method": "official-public-product-JSON-and-size-table",
+      "rows": [
+        [
+          "사이즈",
+          "110(110)",
+          "120(120)",
+          "130(130)",
+          "140(140)",
+          "150(150)",
+          "160(160)",
+          "170(170)"
+        ],
+        [
+          "어깨너비",
+          "33.6",
+          "35.8",
+          "38",
+          "40.2",
+          "42.4",
+          "44.6",
+          "47.6"
+        ],
+        [
+          "목너비",
+          "14",
+          "14.5",
+          "15",
+          "15.5",
+          "16",
+          "16.5",
+          "17"
+        ],
+        [
+          "가슴둘레",
+          "72",
+          "77",
+          "82",
+          "87",
+          "92",
+          "97",
+          "104"
+        ],
+        [
+          "소매길이",
+          "17.2",
+          "18.6",
+          "20",
+          "21.4",
+          "22.8",
+          "24.2",
+          "25.2"
+        ],
+        [
+          "총기장",
+          "41",
+          "44.5",
+          "48",
+          "51.5",
+          "55",
+          "58.5",
+          "62"
+        ],
+        [
+          "허리둘레",
+          "48",
+          "50",
+          "52",
+          "55",
+          "58",
+          "61",
+          "65"
+        ],
+        [
+          "엉덩이둘레",
+          "76",
+          "81",
+          "86",
+          "91",
+          "96",
+          "101",
+          "108"
+        ],
+        [
+          "앞 밑위길이",
+          "24.3",
+          "25.4",
+          "26.5",
+          "27.6",
+          "28.7",
+          "29.8",
+          "30.9"
+        ]
+      ],
+      "sizeChartImages": [
+        {
+          "url": "https://img.goodwearmall.com/aff/MKG5UI/MKG5UI3901IVP_SPEC_IMG.jpg",
+          "imageSHA256": "132119a2dc4761394bba7a72e3b28bda8136f569addb8af96431c0c20c952adb",
+          "visuallyReviewed": false
+        }
+      ],
+      "status": "upper-and-lower-lengths-not-separately-available",
+      "comparable": false,
+      "missingComparisonFields": [
+        "separately-identified-topLength",
+        "pantsLength"
+      ],
+      "notes": [
+        "상의와 하의의 길이가 각각 식별된 표가 아니므로 총기장 한 행을 양쪽에 대입하지 않음.",
+        "기타 행이나 밑위 수치를 바지 총장으로 해석하지 않음. 공식 표에 기록된 숫자는 그대로 보존."
+      ]
+    },
+    {
+      "code": "MKG5UI3303IV",
+      "name": "공용) 유아 배앓이방지 셋업",
+      "source": {
+        "url": "https://www.goodwearmall.com/product/MKG5UI3303IV/detail?trackNo=search&trackDtl=search_gwear",
+        "checkedAt": "2026-11-23"
+      },
+      "dataURL": "https://topten10.goodwearmall.com/m/product/api/view.json?godNo=MKG5UI3303IV",
+      "jsonSHA256": "75f2eb7c8e5b7ad47dc5adfefebca6a7e3652f395dcdff53c8f936be52379112",
+      "method": "official-public-product-JSON-and-size-table",
+      "rows": [
+        [
+          "사이즈",
+          "80(80)",
+          "90(90)",
+          "100(100)",
+          "110(110)"
+        ],
+        [
+          "어깨너비",
+          "20.8",
+          "22",
+          "23.2",
+          "24.4"
+        ],
+        [
+          "가슴둘레",
+          "50",
+          "53",
+          "56",
+          "59"
+        ],
+        [
+          "소매길이",
+          "25.6",
+          "28",
+          "31.4",
+          "34.8"
+        ],
+        [
+          "총기장",
+          "31.5",
+          "34",
+          "37",
+          "40"
+        ],
+        [
+          "허리둘레",
+          "30",
+          "32",
+          "34",
+          "36"
+        ],
+        [
+          "엉덩이둘레",
+          "44",
+          "47",
+          "50",
+          "53"
+        ]
+      ],
+      "sizeChartImages": [
+        {
+          "url": "https://img.goodwearmall.com/aff/MKG5UI/MKG5UI3303IV_SPEC_IMG.jpg",
+          "imageSHA256": "4fde0c5170c8f5c1672dfd3d083a383b89cd3caa3cce447cc5f5bc68e417d0ca",
+          "visuallyReviewed": false
+        }
+      ],
+      "status": "upper-and-lower-lengths-not-separately-available",
+      "comparable": false,
+      "missingComparisonFields": [
+        "separately-identified-topLength",
+        "pantsLength"
+      ],
+      "notes": [
+        "상의와 하의의 길이가 각각 식별된 표가 아니므로 총기장 한 행을 양쪽에 대입하지 않음.",
+        "기타 행이나 밑위 수치를 바지 총장으로 해석하지 않음. 공식 표에 기록된 숫자는 그대로 보존."
+      ]
+    },
+    {
+      "code": "MKG5UI3301IVP",
+      "name": "공용) 유아 소프트모달 7부 셋업",
+      "source": {
+        "url": "https://www.goodwearmall.com/product/MKG5UI3301IVP/detail?trackNo=search&trackDtl=search_gwear",
+        "checkedAt": "2026-11-23"
+      },
+      "dataURL": "https://topten10.goodwearmall.com/m/product/api/view.json?godNo=MKG5UI3301IVP",
+      "jsonSHA256": "c7ec9d7ba180b9a949ac48694ef4237e8c01d0b86eb4cb1263413732c2e7be14",
+      "method": "official-public-product-JSON-and-size-table",
+      "rows": [
+        [
+          "사이즈",
+          "80(80)",
+          "90(90)",
+          "100(100)"
+        ],
+        [
+          "어깨너비",
+          "24.4",
+          "25.6",
+          "26.8"
+        ],
+        [
+          "목너비",
+          "11.2",
+          "11.7",
+          "12.2"
+        ],
+        [
+          "가슴둘레",
+          "57",
+          "60",
+          "63"
+        ],
+        [
+          "총기장",
+          "32",
+          "34.5",
+          "37.5"
+        ],
+        [
+          "허리둘레",
+          "40",
+          "42",
+          "44"
+        ],
+        [
+          "엉덩이둘레",
+          "59",
+          "62",
+          "65"
+        ],
+        [
+          "앞 밑위길이",
+          "20.2",
+          "21",
+          "21.8"
+        ]
+      ],
+      "sizeChartImages": [
+        {
+          "url": "https://img.goodwearmall.com/aff/MKG5UI/MKG5UI3301IVP_SPEC_IMG.jpg",
+          "imageSHA256": "784925290d75b3554d098fffae4dc6439e57199188f35a3a6cd23fd835e7d3ef",
+          "visuallyReviewed": false
+        }
+      ],
+      "status": "upper-and-lower-lengths-not-separately-available",
+      "comparable": false,
+      "missingComparisonFields": [
+        "separately-identified-topLength",
+        "pantsLength"
+      ],
+      "notes": [
+        "상의와 하의의 길이가 각각 식별된 표가 아니므로 총기장 한 행을 양쪽에 대입하지 않음.",
+        "기타 행이나 밑위 수치를 바지 총장으로 해석하지 않음. 공식 표에 기록된 숫자는 그대로 보존."
+      ]
+    },
+    {
+      "code": "MKG5UI3302NV",
+      "name": "공용) 유아 소프트모달 9부 셋업",
+      "source": {
+        "url": "https://www.goodwearmall.com/product/MKG5UI3302NV/detail?trackNo=search&trackDtl=search_gwear",
+        "checkedAt": "2026-11-23"
+      },
+      "dataURL": "https://topten10.goodwearmall.com/m/product/api/view.json?godNo=MKG5UI3302NV",
+      "jsonSHA256": "9ac08dbf8dbb755512177cb062c8c2ca697050be4af5f2b45a796eb3ba06b03d",
+      "method": "official-public-product-JSON-and-size-table",
+      "rows": [
+        [
+          "사이즈",
+          "80(80)",
+          "90(90)",
+          "100(100)",
+          "110(110)"
+        ],
+        [
+          "목너비",
+          "11.2",
+          "11.7",
+          "12.2",
+          "12.7"
+        ],
+        [
+          "가슴둘레",
+          "61",
+          "64",
+          "67",
+          "70"
+        ],
+        [
+          "밑단둘레",
+          "61",
+          "64",
+          "67",
+          "70"
+        ],
+        [
+          "소매길이",
+          "24.7",
+          "27",
+          "29.8",
+          "32.6"
+        ],
+        [
+          "총기장",
+          "32.5",
+          "34.5",
+          "38",
+          "41.5"
+        ],
+        [
+          "허리둘레",
+          "40",
+          "42",
+          "44",
+          "46"
+        ],
+        [
+          "엉덩이둘레",
+          "62",
+          "65",
+          "68",
+          "71"
+        ],
+        [
+          "앞 밑위길이",
+          "20.7",
+          "21.5",
+          "22.3",
+          "23.1"
+        ]
+      ],
+      "sizeChartImages": [
+        {
+          "url": "https://img.goodwearmall.com/aff/MKG5UI/MKG5UI3302NV_SPEC_IMG.jpg",
+          "imageSHA256": "cb0ea755ce79218d285e0279bb3820934c49b5ea071d618bf16392d10c423e85",
+          "visuallyReviewed": false
+        }
+      ],
+      "status": "upper-and-lower-lengths-not-separately-available",
+      "comparable": false,
+      "missingComparisonFields": [
+        "separately-identified-topLength",
+        "pantsLength"
+      ],
+      "notes": [
+        "상의와 하의의 길이가 각각 식별된 표가 아니므로 총기장 한 행을 양쪽에 대입하지 않음.",
+        "기타 행이나 밑위 수치를 바지 총장으로 해석하지 않음. 공식 표에 기록된 숫자는 그대로 보존."
+      ]
+    }
+  ],
+  "notes": [
+    "배앓이방지·ON Air 립·소프트모달·플리스 등 후보 표를 조사했다. 바디수트+레깅스 묶음도 임의로 단일 바디수트나 실내복 세트로 분해하지 않았다.",
+    "일부 공식 총기장 행에는 사이즈 증가와 맞지 않는 값이 있어 수치를 보정하거나 새로운 상·하의 치수를 추정하지 않았다.",
+    "검토한 후보를 세트 비교에 추가한 상품 수는 0개."
+  ]
+}

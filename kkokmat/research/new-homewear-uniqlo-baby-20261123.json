@@ -1,0 +1,303 @@
+{
+  "checkedAt": "2026-11-23",
+  "brandId": "uniqlo-baby",
+  "scope": "퀼팅 긴팔·일반 긴팔·드라이 반팔 대표 파자마 3개 상품의 현재 한국 공식 제품 치수 창. 브랜드 전상품을 재확인했다는 의미는 아님.",
+  "products": [],
+  "partialProducts": [
+    {
+      "code": "E489540-000-00",
+      "name": "BT Picture Book퀼팅파자마(긴팔)메이쥐A",
+      "source": {
+        "url": "https://www.uniqlo.com/kr/ko/products/E489540-000/00?colorDisplayCode=12&sizeDisplayCode=090",
+        "checkedAt": "2026-11-23"
+      },
+      "status": "partial-product-measurements",
+      "method": "official-product-drawer-visible-DOM",
+      "unit": "cm",
+      "headers": [
+        "사이즈",
+        "전체 길이",
+        "어깨너비(솔기에서 솔기까지)",
+        "가슴너비",
+        "등 중심부터 소매까지 길이",
+        "허리[하의]",
+        "엉덩이 둘레",
+        "허벅지 너비",
+        "밑위 길이",
+        "밑단 너비",
+        "다리 길이"
+      ],
+      "rows": [
+        [
+          "80(12-18개월)",
+          37.5,
+          24.5,
+          32,
+          37.5,
+          40,
+          59,
+          18.5,
+          20,
+          7.5,
+          25
+        ],
+        [
+          "90(18-24개월)",
+          40.5,
+          26,
+          34,
+          41.5,
+          42,
+          63,
+          19.5,
+          20.5,
+          8,
+          31
+        ],
+        [
+          "100(24-36개월)",
+          43.5,
+          27.5,
+          36,
+          46.5,
+          44,
+          67,
+          20.5,
+          21.5,
+          8.5,
+          37
+        ],
+        [
+          "110(35개월-5세)",
+          46.5,
+          29,
+          38,
+          51.5,
+          46,
+          71,
+          22,
+          22.5,
+          9,
+          43
+        ]
+      ],
+      "availableComparisonFields": [
+        "chestWidth",
+        "topLength"
+      ],
+      "missingComparisonFields": [
+        "pantsLength"
+      ],
+      "excludedConversions": [
+        "다리 길이(인심)를 바지 총장으로 쓰지 않음",
+        "밑위와 인심을 더해 바지 총장을 만들지 않음",
+        "등 중심부터 소매까지 길이를 일반 소매길이로 쓰지 않음"
+      ],
+      "comparable": false,
+      "tableRowsSHA256": "ea78a56695ae865f3223714892241952997cfe1c4dd796597d550228578ca46a"
+    },
+    {
+      "code": "E486426-000-00",
+      "name": "BT Picture Book파자마(긴팔)미피B",
+      "source": {
+        "url": "https://www.uniqlo.com/kr/ko/products/E486426-000/00?colorDisplayCode=10&sizeDisplayCode=090",
+        "checkedAt": "2026-11-23"
+      },
+      "status": "partial-product-measurements",
+      "method": "official-product-drawer-visible-DOM",
+      "unit": "cm",
+      "headers": [
+        "사이즈",
+        "전체 길이",
+        "어깨너비(솔기에서 솔기까지)",
+        "가슴너비",
+        "등 중심부터 소매까지 길이",
+        "허리[하의]",
+        "엉덩이 둘레",
+        "허벅지 너비",
+        "밑위 길이",
+        "밑단 너비",
+        "다리 길이"
+      ],
+      "rows": [
+        [
+          "80(12-18개월)",
+          35.5,
+          24.5,
+          31,
+          37.5,
+          40,
+          55,
+          17.5,
+          20,
+          7.5,
+          25
+        ],
+        [
+          "90(18-24개월)",
+          38.5,
+          26,
+          33,
+          41.5,
+          42,
+          59,
+          18.5,
+          20.5,
+          8,
+          31
+        ],
+        [
+          "100(24-36개월)",
+          41.5,
+          27.5,
+          35,
+          46.5,
+          44,
+          63,
+          19.5,
+          21.5,
+          8.5,
+          37
+        ],
+        [
+          "110(35개월-5세)",
+          44.5,
+          29,
+          37,
+          51.5,
+          46,
+          67,
+          21,
+          22.5,
+          9,
+          43
+        ]
+      ],
+      "availableComparisonFields": [
+        "chestWidth",
+        "topLength"
+      ],
+      "missingComparisonFields": [
+        "pantsLength"
+      ],
+      "excludedConversions": [
+        "다리 길이(인심)를 바지 총장으로 쓰지 않음",
+        "밑위와 인심을 더해 바지 총장을 만들지 않음",
+        "등 중심부터 소매까지 길이를 일반 소매길이로 쓰지 않음"
+      ],
+      "comparable": false,
+      "tableRowsSHA256": "9e55a43e744fdb991734a5b678f4dcfe7d6634d0e87b8bcb3b427932099538b2"
+    },
+    {
+      "code": "E484425-000-00",
+      "name": "BT Sanrio드라이파자마(반팔)A",
+      "source": {
+        "url": "https://store-kr.uniqlo.com/kr/ko/products/E484425-000/00?colorDisplayCode=13&sizeDisplayCode=100",
+        "checkedAt": "2026-11-23"
+      },
+      "status": "partial-product-measurements",
+      "method": "official-product-drawer-visible-DOM",
+      "unit": "cm",
+      "headers": [
+        "사이즈",
+        "전체 길이",
+        "어깨너비(솔기에서 솔기까지)",
+        "가슴너비",
+        "등 중심부터 소매까지 길이",
+        "허리[하의]",
+        "엉덩이 둘레",
+        "허벅지 너비",
+        "밑위 길이",
+        "밑단 너비",
+        "다리 길이"
+      ],
+      "rows": [
+        [
+          "80(12-18개월)",
+          35.5,
+          23.5,
+          31,
+          22,
+          40,
+          58.5,
+          18,
+          20,
+          12,
+          12
+        ],
+        [
+          "90(18-24개월)",
+          38.5,
+          25,
+          33,
+          24,
+          42,
+          62.5,
+          19,
+          20.5,
+          12.5,
+          16
+        ],
+        [
+          "100(24-36개월)",
+          41.5,
+          26.5,
+          35,
+          26,
+          44,
+          66.5,
+          20.5,
+          21.5,
+          13.5,
+          20
+        ],
+        [
+          "110(35개월-5세)",
+          44.5,
+          28,
+          37,
+          28,
+          46,
+          70.5,
+          22,
+          22.5,
+          14.5,
+          24
+        ],
+        [
+          "120(35개월-6세)",
+          47.5,
+          29.5,
+          39,
+          30,
+          49,
+          75.5,
+          23.5,
+          23.5,
+          15.5,
+          28
+        ]
+      ],
+      "availableComparisonFields": [
+        "chestWidth",
+        "topLength"
+      ],
+      "missingComparisonFields": [
+        "pantsLength"
+      ],
+      "excludedConversions": [
+        "다리 길이(인심)를 바지 총장으로 쓰지 않음",
+        "밑위와 인심을 더해 바지 총장을 만들지 않음",
+        "등 중심부터 소매까지 길이를 일반 소매길이로 쓰지 않음"
+      ],
+      "comparable": false,
+      "tableRowsSHA256": "55816e2daef038fe49d776459fb0594e86a926e2ef712323f6ea09d0dda9fc63"
+    }
+  ],
+  "notes": [
+    "제품 치수 탭과 신체 치수 탭을 구분해 확인했다. 반팔 상품은 처음 열린 신체 치수 탭에서 제품 치수 탭으로 전환해 기록했다.",
+    "원문 다리 길이는 바지 인심으로 분리하며 세트 필수 항목인 바지 총장은 공개 표에서 확인하지 못했다.",
+    "원문 호칭은 보존했다. 만 나이나 다른 브랜드의 호칭으로 환산하지 않았다.",
+    "기존 공개 데이터의 일부 실측은 그대로 유지한다. 이번 검토로 새로 세트 비교에 포함하는 상품은 0개다."
+  ]
+}
