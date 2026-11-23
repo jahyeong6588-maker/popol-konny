@@ -1,0 +1,26 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import {load} from 'cheerio';
+test('guest comparison flow hides unavailable brands and renders all numeric disclosures closed',async t=>{
+ const keys=['document','window','location','history','localStorage','sessionStorage'],old=new Map(keys.map(k=>[k,Object.getOwnPropertyDescriptor(globalThis,k)])),listeners=new Map(),nodes=new Map();
+ const node=()=>({innerHTML:'',addEventListener(name,fn){const list=listeners.get(name)??[];list.push(fn);listeners.set(name,list)},querySelector(){return null},scrollIntoView(){},focus(){},classList:{add(){},contains(){return false}}});
+ const app=node();nodes.set('#app',app);
+ const timers=[],schedule=setTimeout;t.mock.method(globalThis,'setTimeout',(fn,delay,...args)=>{const id=schedule(fn,delay,...args);timers.push(id);return id});t.after(()=>timers.forEach(clearTimeout));
+ const globals={document:{body:{classList:{add(){}}},querySelector(selector){if(!nodes.has(selector))nodes.set(selector,node());return nodes.get(selector)},addEventListener(){}},window:{scrollY:0,scrollTo(){}},location:{href:'https://kkokmat.test/'},history:{replaceState(){}},localStorage:{getItem(){return null},setItem(){}},sessionStorage:{getItem(){return null},setItem(){},removeItem(){}}};
+ for(const key of keys)Object.defineProperty(globalThis,key,{configurable:true,value:globals[key]});
+ t.after(()=>{for(const [key,d] of old)if(d)Object.defineProperty(globalThis,key,d);else delete globalThis[key]});
+ const data=JSON.parse(fs.readFileSync(new URL('../public/data.json',import.meta.url))),catalog=JSON.parse(fs.readFileSync(new URL('../public/catalog.json',import.meta.url)));
+ t.mock.method(globalThis,'fetch',async path=>{if(path==='./data.json')return Response.json(data);if(path==='./catalog.json')return Response.json(catalog);if(path==='/api/session')return Response.json({user:null,providers:[]});throw Error('Unexpected request '+path)});
+ const fire=async(name,event)=>{for(const fn of listeners.get(name)??[])await fn({preventDefault(){},...event});};
+ const change=(name,value)=>fire('change',{target:{name,value}}),click=(action,dataset={})=>fire('click',{target:{closest:selector=>selector==='[data-action]'?{dataset:{action,...dataset}}:null}});
+ await import('../public/mobile-app.js?flow-test');await new Promise(resolve=>setImmediate(resolve));
+ let $=load(app.innerHTML);assert.equal($('#reference-brand option[value="agabang"]').length,0);assert.equal($('#reference-brand option[value="earth"]').length,0);
+ await change('referenceBrand','konny');await click('pick-reference-size',{product:'konny-ultra',size:'80'});
+ await fire('submit',{target:{id:'reference-form',reportValidity:()=>true}});
+ $=load(app.innerHTML);assert.equal($('input[name="targetBrand"][value="agabang"]').length,0);assert.equal($('input[name="targetBrand"][value="moimoln"]').length,1);assert.equal($('input[name="targetBrand"][value="all"]:checked').length,1);
+ await fire('input',{target:{id:'target-brand-search',name:'',value:'아가방'}});assert.ok(!nodes.get('#target-brand-options').innerHTML.includes('value="agabang"'));assert.match(nodes.get('#target-brand-options').innerHTML,/검색 결과가 없어요/);
+ await fire('input',{target:{id:'target-brand-search',name:'',value:''}});await change('targetBrand','bluedog-baby');
+ await fire('submit',{target:{id:'target-form'}});
+ $=load(app.innerHTML);assert.ok($('.result-card').length>0);assert.equal($('.result-card').length,$('.result-card .difference-details').length);assert.equal($('.difference-details[open]').length,0);assert.equal($('.result-card').length,$('.result-card .fit-summary-sentence').length);assert.match($('.fit-summary-sentence').first().text(),/품|기장|소매/);assert.ok(!/[+−]\d/.test($('.fit-summary-sentence').first().text()));assert.ok($('.difference-details table').length>0);
+});
