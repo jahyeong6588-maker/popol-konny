@@ -23,4 +23,10 @@ test('guest comparison flow hides unavailable brands and renders all numeric dis
  await fire('input',{target:{id:'target-brand-search',name:'',value:''}});await change('targetBrand','bluedog-baby');
  await fire('submit',{target:{id:'target-form'}});
  $=load(app.innerHTML);assert.ok($('.result-card').length>0);assert.equal($('.result-card').length,$('.result-card .difference-details').length);assert.equal($('.difference-details[open]').length,0);assert.equal($('.result-card').length,$('.result-card .fit-summary-sentence').length);assert.match($('.fit-summary-sentence').first().text(),/품|기장|소매/);assert.ok(!/[+−]\d/.test($('.fit-summary-sentence').first().text()));assert.ok($('.difference-details table').length>0);
+ await click('edit-reference');await change('referenceKind','bottom');await change('referenceBrand','uniqlo-baby');
+ $=load(app.innerHTML);assert.equal($('[data-action="pick-reference-size"][data-product="uniqlo-baby-E486447-000-00"][data-size="80"]:disabled').length,0);
+ await click('pick-reference-size',{product:'uniqlo-baby-E486447-000-00',size:'80'});await fire('submit',{target:{id:'reference-form',reportValidity:()=>true}});await change('targetBrand','uniqlo-baby');await fire('submit',{target:{id:'target-form'}});
+ $=load(app.innerHTML);assert.ok($('.result-card').length>0);assert.match($('.difference-details').first().text(),/바지 안쪽 길이\(인심\)/);assert.match($('.difference-details').first().text(),/바지 총장.*미확인.*미확인.*비교 안 함/);assert.ok(!app.innerHTML.includes('NaN'));assert.match($('.fit-summary').first().text(),/공통으로 확인한/);
+ const adjacent=$('.result-card').first().find('[data-action="candidate-size"]').last();await click('candidate-size',{index:adjacent.attr('data-index'),size:adjacent.attr('data-size')});
+ $=load(app.innerHTML);assert.equal($('.difference-details[open]').length,0);assert.ok(!app.innerHTML.includes('NaN'));assert.match($('.difference-details').first().text(),/미확인/);
 });

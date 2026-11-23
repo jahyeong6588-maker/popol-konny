@@ -1,24 +1,36 @@
 import {fabricProfile,hasDifferentFabric,matchesSeason} from './traits.js';
-export const DIMENSIONS = {chestWidth:'가슴 단면',topLength:'상의 길이',sleeveLength:'소매 길이',pantsLength:'바지 길이',waistWidth:'허리 단면'};
-export const ALL_DIMENSIONS={...DIMENSIONS,headCircumference:'머리 둘레',footLength:'발 길이'};
+export const DIMENSIONS = {chestWidth:'가슴 단면',topLength:'상의 길이',sleeveLength:'소매 길이',pantsLength:'바지 총장',waistWidth:'허리 단면'};
+export const ALL_DIMENSIONS={...DIMENSIONS,inseam:'바지 안쪽 길이(인심)',hipWidth:'엉덩이 단면',thighWidth:'허벅지 단면',riseLength:'밑위 길이',hemWidth:'바지 밑단 단면',shoulderWidth:'어깨너비',backNeckSleeveLength:'등 중심~소매 끝',headCircumference:'머리 둘레',footLength:'발 길이'};
+const upperFields=['chestWidth','topLength','sleeveLength','shoulderWidth','backNeckSleeveLength'];
+const lowerFields=['waistWidth','pantsLength','inseam','hipWidth','thighWidth','riseLength','hemWidth'];
 export const KINDS={
- 'homewear-set':{label:'실내복·내의 세트',fields:Object.keys(DIMENSIONS),required:['chestWidth','topLength','pantsLength']},
- set:{label:'상하 세트',fields:Object.keys(DIMENSIONS),required:['chestWidth','topLength','pantsLength']},
- top:{label:'상의·아우터',fields:['chestWidth','topLength','sleeveLength'],required:['chestWidth','topLength']},
- bottom:{label:'하의',fields:['waistWidth','pantsLength'],required:['waistWidth','pantsLength']},
- bodysuit:{label:'바디수트·우주복',fields:['chestWidth','topLength','sleeveLength'],required:['chestWidth','topLength']},
- dress:{label:'원피스',fields:['chestWidth','topLength','sleeveLength'],required:['chestWidth','topLength']},
+ 'homewear-set':{label:'실내복·내의 세트',fields:[...Object.keys(DIMENSIONS),...upperFields.slice(3),...lowerFields.slice(2)],required:['chestWidth','topLength','pantsLength']},
+ set:{label:'상하 세트',fields:[...Object.keys(DIMENSIONS),...upperFields.slice(3),...lowerFields.slice(2)],required:['chestWidth','topLength','pantsLength']},
+ top:{label:'상의·아우터',fields:upperFields,required:['chestWidth','topLength']},
+ bottom:{label:'하의',fields:lowerFields,required:['waistWidth','pantsLength']},
+ bodysuit:{label:'바디수트·우주복',fields:upperFields,required:['chestWidth','topLength']},
+ dress:{label:'원피스',fields:upperFields,required:['chestWidth','topLength']},
  hat:{label:'모자',fields:['headCircumference'],required:['headCircumference']},
  socks:{label:'양말',fields:['footLength'],required:['footLength']},
  bib:{label:'턱받이·빕',fields:[],required:[]},carrier:{label:'아기띠',fields:[],required:[]},other:{label:'기타·용품',fields:[],required:[]}
 };
 export function inferKind(name=''){name=String(name).replace(/\(\s*셋업\s*가능\s*\)/g,'');if(/아기띠|힙시트|슬링(?!백)/.test(name))return 'carrier';if(/빕|턱받이/.test(name))return 'bib';if(/삭스|양말|타이즈/.test(name)&&!/세트/.test(name))return 'socks';if(/모자|비니|햇|캡|바라클라바/.test(name)&&!/세트/.test(name))return 'hat';if(/실내복|내의|파자마/.test(name)&&!/상의|하의|팬츠|티셔츠/.test(name))return 'homewear-set';if(/상하|상하복|셋업/.test(name))return 'set';if(/세트|SET|&/i.test(name))return 'other';if(/바디수트|바디슈트|우주복|플레이수트|롬퍼/.test(name))return 'bodysuit';if(/원피스|드레스/.test(name))return 'dress';if(/팬츠|레깅스|하의|스커트|반바지|배기|바지/.test(name))return 'bottom';if(/티셔츠|셔츠|상의|맨투맨|풀오버|가디건|점퍼|자켓|재킷|조끼|니트|탑|베스트/.test(name))return 'top';return 'other';}
-export const isComparable=p=>{const profile=KINDS[p.kind??inferKind(p.name)];return p.audience!=='mixed'&&!!profile?.required.length&&p.sizes?.some(row=>profile.required.every(k=>Number.isFinite(row[k])&&row[k]>0));};
+export const hasMeasurement=value=>Number.isFinite(value)&&value>0;
+export const measurementKeys=(row,kind)=>KINDS[kind]?.fields.filter(k=>hasMeasurement(row?.[k]))??[];
+// A garment needs two actual measuring positions; hats/socks have one supported position.
+export const isMeasurementRow=(row,kind)=>!!KINDS[kind]?.required.length&&measurementKeys(row,kind).length>=Math.min(2,KINDS[kind].fields.length);
+export const isComparable=p=>p.audience!=='mixed'&&p.sizes?.some(row=>isMeasurementRow(row,p.kind??inferKind(p.name)))===true;
+export function measurementComparison(reference,row,kind){
+ const profile=KINDS[kind];if(!profile?.required.length)return {differences:[],measurements:[],partial:true};
+ const measurements=profile.fields.filter(k=>hasMeasurement(reference?.[k])||hasMeasurement(row?.[k])||profile.required.includes(k)).map(key=>({key,label:ALL_DIMENSIONS[key],reference:hasMeasurement(reference?.[key])?reference[key]:null,value:hasMeasurement(row?.[key])?row[key]:null,delta:hasMeasurement(reference?.[key])&&hasMeasurement(row?.[key])?Math.round((row[key]-reference[key])*100)/100:null}));
+ const differences=measurements.filter(d=>d.delta!==null);
+ return {measurements,differences,partial:measurements.some(d=>d.delta===null),comparisonCount:differences.length};
+}
 export function garmentCandidates(data, reference, {brand='all', product='all', fit='well',season='any',differentFabric=false,referenceFabric='',height=null,weight=null,limit=6}={}) {
   const candidates=[];
   const origin=data.products.find(p=>p.id===reference.productId);
   const kind=reference.kind??origin?.kind??(origin?inferKind(origin.name):'homewear-set');
-  const profile=KINDS[kind];if(!profile?.required.length||!profile.required.every(k=>Number.isFinite(reference[k])))return [];
+  const profile=KINDS[kind];if(!profile?.required.length||!isMeasurementRow(reference,kind))return [];
   const audience=reference.audience??origin?.audience??'child';
   const originFabric=fabricProfile(origin,referenceFabric);
   const sizeIntent=fit==='small'?'larger':fit==='large'?'smaller':'closest';
@@ -29,17 +41,17 @@ export function garmentCandidates(data, reference, {brand='all', product='all', 
     if((brand!=='all'&&p.brandId!==brand)||(product!=='all'&&p.id!==product)||p.id===reference.productId)continue;
     if(!matchesSeason(p,season)||differentFabric&&!hasDifferentFabric(originFabric,fabricProfile(p)))continue;
     for(const row of p.sizes){
-      if(!profile.required.every(k=>Number.isFinite(row[k])))continue;
+      if(!isMeasurementRow(row,kind))continue;
       if(!sameLengthClass(referenceLength,lengthClass(row,kind,p.name)))continue;
-      const differences=profile.fields.filter(k=>Number.isFinite(row[k])&&Number.isFinite(reference[k])).map(key=>({key,label:ALL_DIMENSIONS[key],reference:reference[key],value:row[key],delta:Math.round((row[key]-reference[key])*100)/100}));
-      const primary=differences.filter(d=>kind==='bottom'||d.key!=='waistWidth');
+      const comparison=measurementComparison(reference,row,kind),{differences}=comparison;if(!differences.length)continue;
+      const filtered=differences.filter(d=>kind==='bottom'||d.key!=='waistWidth'),primary=filtered.length?filtered:differences;
       if(sizeIntent==='larger'&&(!primary.every(d=>d.delta>=0)||!primary.some(d=>d.delta>=0.5)))continue;
       if(sizeIntent==='smaller'&&(!primary.every(d=>d.delta<=0)||!primary.some(d=>d.delta<=-0.5)))continue;
       const score=primary.reduce((s,d)=>s+Math.abs(d.delta),0)/primary.length;
-      candidates.push({kind:'garment',garmentKind:kind,brandId:p.brandId,productId:p.id,name:p.name,size:row.label,score,differences,fit,sizeIntent,season,source:p.source,limited:false,bodyCheck:height==null?null:checkGarmentBody(data,p,row,{height,weight})});
+      candidates.push({kind:'garment',garmentKind:kind,brandId:p.brandId,productId:p.id,name:p.name,size:row.label,score,...comparison,fit,sizeIntent,season,source:p.source,limited:false,bodyCheck:height==null?null:checkGarmentBody(data,p,row,{height,weight})});
     }
   }
-  return candidates.sort((a,b)=>a.score-b.score||a.name.localeCompare(b.name)).filter((c,i,a)=>a.findIndex(x=>x.productId===c.productId)===i).slice(0,limit);
+  return candidates.sort((a,b)=>Number(a.partial)-Number(b.partial)||Number(a.comparisonCount<2)-Number(b.comparisonCount<2)||a.score-b.score||b.comparisonCount-a.comparisonCount||a.name.localeCompare(b.name)).filter((c,i,a)=>a.findIndex(x=>x.productId===c.productId)===i).slice(0,limit);
 }
 export function summarizeDifferences(candidate){
  const labels={chestWidth:'가슴',topLength:'상의',sleeveLength:'소매',pantsLength:'바지',waistWidth:'허리',headCircumference:'머리둘레',footLength:'발길이'};
@@ -99,9 +111,9 @@ export const displayName=(name='')=>String(name).replace(/^\[[^\]]+\]\s*/,'').re
 export const CLOSE_LIMIT=2,HOLD_LIMIT=3.5;
 const primaryDeltas=c=>c.differences.filter(d=>c.kind!=='garment'||c.garmentKind==='bottom'||d.key!=='waistWidth');
 export function fitLevel(candidate){
- const primary=primaryDeltas(candidate);if(!primary.length)return 'hold';
+ const filtered=primaryDeltas(candidate),primary=filtered.length?filtered:candidate.differences;if(!primary.length)return 'hold';
  const max=Math.max(...primary.map(d=>Math.abs(d.delta)));
- return max<=CLOSE_LIMIT?'close':max<=HOLD_LIMIT?'check':'hold';
+ return max>HOLD_LIMIT?'hold':candidate.partial||candidate.comparisonCount===1?'check':max<=CLOSE_LIMIT?'close':'check';
 }
 export const isStretchy=product=>product?.attributes?.weave==='rib'||/골지|리브|스판/.test(product?.name??'');
 // 브랜드별 한 줄 결론: 보류가 아닌 후보에서 가장 많이 나온 호칭을 대표로 삼고, 갈리는 호칭과 보류 수를 함께 돌려준다.
@@ -113,7 +125,7 @@ export function summarizeByBrand(candidates){
   for(const c of usable)counts.set(c.size,(counts.get(c.size)??0)+1);
   const ranked=[...counts].sort((a,b)=>b[1]-a[1]);
   const size=ranked[0]?.[0]??null,sizeItems=usable.filter(c=>c.size===size);
-  return {brandId,total:items.length,held:items.length-usable.length,size,count:ranked[0]?.[1]??0,others:ranked.slice(1).map(([label])=>label),level:!size?'hold':sizeItems.some(c=>fitLevel(c)==='close')?'close':'check',best:Math.min(...items.map(c=>c.score))};
+  return {brandId,partial:items.filter(c=>c.partial).length,total:items.length,held:items.length-usable.length,size,count:ranked[0]?.[1]??0,others:ranked.slice(1).map(([label])=>label),level:!size?'hold':sizeItems.some(c=>fitLevel(c)==='close')?'close':'check',best:Math.min(...items.map(c=>c.score))};
  }).sort((a,b)=>(a.level==='hold')-(b.level==='hold')||a.best-b.best);
 }
 // 길이 유형: 반소매와 긴소매, 반바지와 긴바지는 같은 종류라도 서로 비교하지 않는다.

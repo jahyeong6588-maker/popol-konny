@@ -4,7 +4,7 @@ import fs from 'node:fs';
 import {load} from 'cheerio';
 import {parseNewMeasurements,newKind} from '../scripts/new-brand-parsing.mjs';
 import {parseUniqloTables} from '../scripts/uniqlo-parsing.mjs';
-import {bodyCandidates,garmentCandidates,isComparable} from '../public/engine.js';
+import {bodyCandidates,garmentCandidates,isComparable,isMeasurementRow} from '../public/engine.js';
 const data=JSON.parse(fs.readFileSync(new URL('../public/data.json',import.meta.url),'utf8'));
 test('English vertical tables preserve original numbers; body charts cannot leak into garment rows',()=>{
  const html='<table><tr><th>Size</th><th>Waist</th><th>Length</th></tr><tr><td>12M</td><td>18</td><td>34.5</td></tr></table><table><tr><th>Size</th><th>Height</th><th>Weight</th></tr><tr><td>12M</td><td>74</td><td>10</td></tr></table>';
@@ -31,7 +31,7 @@ test('Uniqlo point weights never become jointly verified ranges, including the r
 });
 test('new brand measurements have real catalog images and return exact matches without age conversion',()=>{
  const catalog=JSON.parse(fs.readFileSync(new URL('../public/catalog.json',import.meta.url),'utf8')).catalog;
- for(const id of ['benebene','susuncra','earth','uniqlo-baby']){const p=data.products.find(p=>p.brandId===id&&isComparable(p));assert.ok(p,id);const row=p.sizes.find(s=>p.kind==='bottom'?s.pantsLength&&s.waistWidth:s.chestWidth&&s.topLength);const [result]=garmentCandidates(data,{...row,productId:'manual',kind:p.kind},{product:p.id});assert.equal(result.score,0);assert.equal(result.size,row.label);assert.match(catalog.find(e=>e.measurementId===p.id).imageUrl,/^https:\/\//);}
+ for(const id of ['benebene','susuncra','earth','uniqlo-baby']){const p=data.products.find(p=>p.brandId===id&&isComparable(p));assert.ok(p,id);const row=p.sizes.find(s=>isMeasurementRow(s,p.kind));const [result]=garmentCandidates(data,{...row,productId:'manual',kind:p.kind},{product:p.id});assert.equal(result.score,0);assert.equal(result.size,row.label);assert.match(catalog.find(e=>e.measurementId===p.id).imageUrl,/^https:\/\//);}
 });
 test('Earth official image readings retain neck-based sleeves in raw, and no invented body chart',()=>{
  const p=data.products.find(p=>p.id==='earth-kint_top_cream-26'),r=p.sizes.find(s=>s.label==='3');assert.equal(r.chestWidth,32);assert.equal(r.topLength,34.5);assert.equal(r.raw.sleeveFromNeck,35);assert.equal(r.sleeveLength,undefined);assert.match(p.source.imageUrl,/1760940289910/);assert.deepEqual(bodyCandidates(data,{height:87,weight:15,brand:'earth'}),[]);

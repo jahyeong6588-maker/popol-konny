@@ -18,27 +18,28 @@ const direction=d=>Math.abs(d)<0.5?0:d>0?1:-1;
 const amount=d=>Math.abs(d)<=2?'조금 ':'';
 export function describeCandidateFit(candidate){
  const values=new Map((candidate.differences??[]).filter(d=>Number.isFinite(d.delta)).map(d=>[d.key,d.delta]));
- const width=values.has('chestWidth')?values.get('chestWidth'):values.get('waistWidth');
+ const widthKey=values.has('chestWidth')?'chestWidth':values.has('waistWidth')?'waistWidth':values.has('hipWidth')?'hipWidth':null;
+ const width=values.get(widthKey),widthName=widthKey==='waistWidth'?'허리':widthKey==='hipWidth'?'엉덩이':'품';
  const widthDir=width==null?null:direction(width);
- const lengths=['topLength','pantsLength'].filter(k=>values.has(k));
- const labels={topLength:lengths.length>1?'상의 기장':'기장',pantsLength:'바지 기장'};
+ const lengths=['topLength','pantsLength','inseam'].filter(k=>values.has(k));
+ const labels={topLength:lengths.length>1?'상의 기장':'기장',pantsLength:'바지 총장',inseam:'바지 안쪽 길이'};
  const tags=[];let summary='';
- if(widthDir!=null)tags.push(widthDir===0?'품이 비슷해요':widthDir>0?'품이 넓어요':'품이 좁아요');
+ if(widthDir!=null)tags.push(widthName+(widthKey==='chestWidth'?'이 ':'가 ')+(widthDir===0?'비슷해요':widthDir>0?'넓어요':'좁아요'));
  const activeLengths=lengths.filter(k=>direction(values.get(k))!==0);
- const lengthText=k=>`${labels[k]}은 ${amount(values.get(k))}${direction(values.get(k))>0?'길어요':'짧아요'}`;
+ const lengthText=k=>`${labels[k]}${k==='inseam'?'는':'은'} ${amount(values.get(k))}${direction(values.get(k))>0?'길어요':'짧아요'}`;
  let lengthSentence='';
- if(activeLengths.length===2&&direction(values.get(activeLengths[0]))!==direction(values.get(activeLengths[1]))){
-  lengthSentence=lengthText(activeLengths[0]).replace(/아요$|어요$/,'고')+', '+lengthText(activeLengths[1]);
-  tags.push(...activeLengths.map(k=>(k==='topLength'?'상의가 ':'바지가 ')+(direction(values.get(k))>0?'길어요':'짧아요')));
+ if(activeLengths.length>1&&activeLengths.some(k=>direction(values.get(k))!==direction(values.get(activeLengths[0])))){
+  lengthSentence=activeLengths.map((k,i)=>i===activeLengths.length-1?lengthText(k):lengthText(k).replace(/아요$|어요$/,'고')).join(', ');
+  tags.push(...activeLengths.map(k=>(k==='topLength'?'상의가 ':k==='inseam'?'바지 안쪽이 ':'바지가 ')+(direction(values.get(k))>0?'길어요':'짧아요')));
  }else if(activeLengths.length){
   const biggest=activeLengths.reduce((a,b)=>Math.abs(values.get(a))>=Math.abs(values.get(b))?a:b);
-  lengthSentence=activeLengths.length===lengths.length&&lengths.length>1?`기장은 ${amount(values.get(biggest))}${direction(values.get(biggest))>0?'길어요':'짧아요'}`:lengthText(biggest);
-  tags.push(direction(values.get(biggest))>0?'기장이 길어요':'기장이 짧아요');
- }else if(lengths.length){lengthSentence='기장은 비슷해요';tags.push('기장이 비슷해요');}
+  lengthSentence=!lengths.includes('inseam')&&activeLengths.length===lengths.length&&lengths.length>1?`기장은 ${amount(values.get(biggest))}${direction(values.get(biggest))>0?'길어요':'짧아요'}`:lengthText(biggest);
+  tags.push((biggest==='inseam'?'바지 안쪽이 ':'기장이 ')+(direction(values.get(biggest))>0?'길어요':'짧아요'));
+ }else if(lengths.length){lengthSentence=lengths.includes('inseam')&&!lengths.includes('pantsLength')?'바지 안쪽 길이는 비슷해요':'기장은 비슷해요';tags.push(lengths.includes('inseam')?'바지 안쪽이 비슷해요':'기장이 비슷해요');}
  if(widthDir!=null){
-  if(widthDir===0&&!activeLengths.length&&lengths.length)summary='입던 옷과 품·기장이 비슷해요';
-  else if(lengthSentence)summary=`품은 ${widthDir===0?'비슷하고':amount(width)+(widthDir>0?'넓고':'좁고')}, ${lengthSentence}`;
-  else summary=`품은 ${widthDir===0?'비슷해요':amount(width)+(widthDir>0?'넓어요':'좁아요')}`;
+  if(widthDir===0&&!activeLengths.length&&lengths.length&&!lengths.includes('inseam'))summary=`입던 옷과 ${widthName}·기장이 비슷해요`;
+  else if(lengthSentence)summary=`${widthName}${widthKey==='chestWidth'?'은':'는'} ${widthDir===0?'비슷하고':amount(width)+(widthDir>0?'넓고':'좁고')}, ${lengthSentence}`;
+  else summary=`${widthName}${widthKey==='chestWidth'?'은':'는'} ${widthDir===0?'비슷해요':amount(width)+(widthDir>0?'넓어요':'좁아요')}`;
  }else summary=lengthSentence;
  const sleeve=values.get('sleeveLength');
  if(sleeve!=null&&direction(sleeve)!==0&&(!activeLengths.length||!lengths.length)){
@@ -52,5 +53,5 @@ export function describeCandidateFit(candidate){
  }
  return {summary:(summary||'확인된 실측 차이를 살펴보세요')+'.',tags:[...new Set(tags)]};
 }
-export function renderFitSummary(candidate){const {summary,tags}=describeCandidateFit(candidate);return `<div class="candidate-description fit-summary"><p class="fit-summary-sentence">${esc(summary)}</p>${tags.length?`<div class="fit-summary-tags">${tags.map(t=>`<span>${esc(t)}</span>`).join('')}</div>`:''}</div>`;}
+export function renderFitSummary(candidate){const {summary,tags}=describeCandidateFit(candidate);return `<div class="candidate-description fit-summary"><p class="fit-summary-sentence">${esc(summary)}</p>${candidate.partial?`<p class="field-help">공통으로 확인한 ${candidate.differences.length}곳만 비교했어요. 미확인 부위의 크기나 길이는 판단하지 않아요.</p>`:''}${tags.length?`<div class="fit-summary-tags">${tags.map(t=>`<span>${esc(t)}</span>`).join('')}</div>`:''}</div>`;}
 export function differenceDisclosure(table){return `<details class="candidate-details difference-details"><summary>치수 차이 자세히 보기</summary>${table}</details>`;}

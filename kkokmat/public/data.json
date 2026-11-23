@@ -187509,11 +187509,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E492143-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -187527,7 +187528,12 @@
             "밑단 너비": 8.5,
             "다리 길이": 24
           },
-          "waistWidth": 20
+          "waistWidth": 20,
+          "hipWidth": 25.5,
+          "thighWidth": 15,
+          "riseLength": 18,
+          "hemWidth": 8.5,
+          "inseam": 24
         },
         {
           "label": "90",
@@ -187540,7 +187546,12 @@
             "밑단 너비": 9,
             "다리 길이": 30
           },
-          "waistWidth": 21
+          "waistWidth": 21,
+          "hipWidth": 27,
+          "thighWidth": 16,
+          "riseLength": 18.5,
+          "hemWidth": 9,
+          "inseam": 30
         },
         {
           "label": "100",
@@ -187553,7 +187564,12 @@
             "밑단 너비": 9.5,
             "다리 길이": 36
           },
-          "waistWidth": 22
+          "waistWidth": 22,
+          "hipWidth": 28.5,
+          "thighWidth": 16.5,
+          "riseLength": 18.5,
+          "hemWidth": 9.5,
+          "inseam": 36
         },
         {
           "label": "110",
@@ -187566,7 +187582,12 @@
             "밑단 너비": 10.5,
             "다리 길이": 42
           },
-          "waistWidth": 23
+          "waistWidth": 23,
+          "hipWidth": 30,
+          "thighWidth": 18,
+          "riseLength": 19.5,
+          "hemWidth": 10.5,
+          "inseam": 42
         }
       ]
     },
@@ -187598,11 +187619,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E481881-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -187616,7 +187638,12 @@
             "밑단 너비": 8,
             "다리 길이": 25
           },
-          "waistWidth": 20
+          "waistWidth": 20,
+          "hipWidth": 23.75,
+          "thighWidth": 14,
+          "riseLength": 18.5,
+          "hemWidth": 8,
+          "inseam": 25
         },
         {
           "label": "90",
@@ -187629,7 +187656,12 @@
             "밑단 너비": 8.5,
             "다리 길이": 31
           },
-          "waistWidth": 21
+          "waistWidth": 21,
+          "hipWidth": 25.25,
+          "thighWidth": 15,
+          "riseLength": 19,
+          "hemWidth": 8.5,
+          "inseam": 31
         },
         {
           "label": "100",
@@ -187642,7 +187674,12 @@
             "밑단 너비": 9,
             "다리 길이": 37
           },
-          "waistWidth": 22
+          "waistWidth": 22,
+          "hipWidth": 26.75,
+          "thighWidth": 15.5,
+          "riseLength": 19,
+          "hemWidth": 9,
+          "inseam": 37
         },
         {
           "label": "110",
@@ -187655,7 +187692,12 @@
             "밑단 너비": 9.5,
             "다리 길이": 43
           },
-          "waistWidth": 23
+          "waistWidth": 23,
+          "hipWidth": 28.25,
+          "thighWidth": 17,
+          "riseLength": 20,
+          "hemWidth": 9.5,
+          "inseam": 43
         }
       ]
     },
@@ -187693,11 +187735,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E488923-003/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -187711,7 +187754,12 @@
             "밑단 너비": 8.5,
             "다리 길이": 23.5
           },
-          "waistWidth": 19
+          "waistWidth": 19,
+          "hipWidth": 28,
+          "thighWidth": 18,
+          "riseLength": 18,
+          "hemWidth": 8.5,
+          "inseam": 23.5
         },
         {
           "label": "90",
@@ -187724,7 +187772,12 @@
             "밑단 너비": 9,
             "다리 길이": 29.5
           },
-          "waistWidth": 20
+          "waistWidth": 20,
+          "hipWidth": 29.75,
+          "thighWidth": 19,
+          "riseLength": 18.5,
+          "hemWidth": 9,
+          "inseam": 29.5
         },
         {
           "label": "100",
@@ -187737,7 +187790,12 @@
             "밑단 너비": 9.5,
             "다리 길이": 35.5
           },
-          "waistWidth": 21
+          "waistWidth": 21,
+          "hipWidth": 31.5,
+          "thighWidth": 20,
+          "riseLength": 18.5,
+          "hemWidth": 9.5,
+          "inseam": 35.5
         },
         {
           "label": "110",
@@ -187750,7 +187808,12 @@
             "밑단 너비": 10,
             "다리 길이": 41.5
           },
-          "waistWidth": 22
+          "waistWidth": 22,
+          "hipWidth": 33,
+          "thighWidth": 21.5,
+          "riseLength": 19.5,
+          "hemWidth": 10,
+          "inseam": 41.5
         }
       ]
     },
@@ -187788,11 +187851,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E460776-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -187806,7 +187870,12 @@
             "밑단 너비": 8,
             "다리 길이": 24.5
           },
-          "waistWidth": 20
+          "waistWidth": 20,
+          "hipWidth": 24.75,
+          "thighWidth": 14.5,
+          "riseLength": 18.5,
+          "hemWidth": 8,
+          "inseam": 24.5
         },
         {
           "label": "90",
@@ -187819,7 +187888,12 @@
             "밑단 너비": 8.5,
             "다리 길이": 30.5
           },
-          "waistWidth": 21
+          "waistWidth": 21,
+          "hipWidth": 26.25,
+          "thighWidth": 15.5,
+          "riseLength": 19,
+          "hemWidth": 8.5,
+          "inseam": 30.5
         },
         {
           "label": "100",
@@ -187832,7 +187906,12 @@
             "밑단 너비": 9,
             "다리 길이": 36.5
           },
-          "waistWidth": 22
+          "waistWidth": 22,
+          "hipWidth": 27.75,
+          "thighWidth": 16,
+          "riseLength": 19,
+          "hemWidth": 9,
+          "inseam": 36.5
         },
         {
           "label": "110",
@@ -187845,7 +187924,12 @@
             "밑단 너비": 9.5,
             "다리 길이": 42.5
           },
-          "waistWidth": 23
+          "waistWidth": 23,
+          "hipWidth": 29.25,
+          "thighWidth": 17.5,
+          "riseLength": 20,
+          "hemWidth": 9.5,
+          "inseam": 42.5
         }
       ]
     },
@@ -187883,11 +187967,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E444715-000/01",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -187901,7 +187986,12 @@
             "밑단 너비": 9.5,
             "다리 길이": 24
           },
-          "waistWidth": 20
+          "waistWidth": 20,
+          "hipWidth": 25.5,
+          "thighWidth": 15,
+          "riseLength": 17.5,
+          "hemWidth": 9.5,
+          "inseam": 24
         },
         {
           "label": "90",
@@ -187914,7 +188004,12 @@
             "밑단 너비": 10,
             "다리 길이": 30
           },
-          "waistWidth": 21
+          "waistWidth": 21,
+          "hipWidth": 27,
+          "thighWidth": 15.5,
+          "riseLength": 18,
+          "hemWidth": 10,
+          "inseam": 30
         },
         {
           "label": "100",
@@ -187927,7 +188022,12 @@
             "밑단 너비": 10.5,
             "다리 길이": 36
           },
-          "waistWidth": 22
+          "waistWidth": 22,
+          "hipWidth": 28.5,
+          "thighWidth": 16.5,
+          "riseLength": 18,
+          "hemWidth": 10.5,
+          "inseam": 36
         },
         {
           "label": "110",
@@ -187940,7 +188040,12 @@
             "밑단 너비": 11,
             "다리 길이": 42
           },
-          "waistWidth": 23
+          "waistWidth": 23,
+          "hipWidth": 30,
+          "thighWidth": 18,
+          "riseLength": 19,
+          "hemWidth": 11,
+          "inseam": 42
         }
       ]
     },
@@ -187972,11 +188077,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E488925-003/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -187990,7 +188096,12 @@
             "밑단 너비": 8,
             "다리 길이": 15
           },
-          "waistWidth": 18.5
+          "waistWidth": 18.5,
+          "hipWidth": 23.25,
+          "thighWidth": 14,
+          "riseLength": 16.5,
+          "hemWidth": 8,
+          "inseam": 15
         },
         {
           "label": "70",
@@ -188003,7 +188114,12 @@
             "밑단 너비": 8,
             "다리 길이": 18
           },
-          "waistWidth": 19
+          "waistWidth": 19,
+          "hipWidth": 24,
+          "thighWidth": 14.5,
+          "riseLength": 17.5,
+          "hemWidth": 8,
+          "inseam": 18
         },
         {
           "label": "80",
@@ -188016,7 +188132,12 @@
             "밑단 너비": 8.5,
             "다리 길이": 24
           },
-          "waistWidth": 20
+          "waistWidth": 20,
+          "hipWidth": 25.5,
+          "thighWidth": 15,
+          "riseLength": 18,
+          "hemWidth": 8.5,
+          "inseam": 24
         },
         {
           "label": "90",
@@ -188029,7 +188150,12 @@
             "밑단 너비": 9,
             "다리 길이": 30
           },
-          "waistWidth": 21
+          "waistWidth": 21,
+          "hipWidth": 27,
+          "thighWidth": 16,
+          "riseLength": 18.5,
+          "hemWidth": 9,
+          "inseam": 30
         },
         {
           "label": "100",
@@ -188042,7 +188168,12 @@
             "밑단 너비": 9.5,
             "다리 길이": 36
           },
-          "waistWidth": 22
+          "waistWidth": 22,
+          "hipWidth": 28.5,
+          "thighWidth": 16.5,
+          "riseLength": 18.5,
+          "hemWidth": 9.5,
+          "inseam": 36
         },
         {
           "label": "110",
@@ -188055,7 +188186,12 @@
             "밑단 너비": 10.5,
             "다리 길이": 42
           },
-          "waistWidth": 23
+          "waistWidth": 23,
+          "hipWidth": 30,
+          "thighWidth": 18,
+          "riseLength": 19.5,
+          "hemWidth": 10.5,
+          "inseam": 42
         }
       ]
     },
@@ -188087,11 +188223,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E469617-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -188105,7 +188242,12 @@
             "밑단 너비": 9,
             "다리 길이": 24
           },
-          "waistWidth": 19
+          "waistWidth": 19,
+          "hipWidth": 29,
+          "thighWidth": 18.5,
+          "riseLength": 18,
+          "hemWidth": 9,
+          "inseam": 24
         },
         {
           "label": "90",
@@ -188118,7 +188260,12 @@
             "밑단 너비": 9.5,
             "다리 길이": 30
           },
-          "waistWidth": 20
+          "waistWidth": 20,
+          "hipWidth": 30.5,
+          "thighWidth": 19.5,
+          "riseLength": 18.5,
+          "hemWidth": 9.5,
+          "inseam": 30
         },
         {
           "label": "100",
@@ -188131,7 +188278,12 @@
             "밑단 너비": 10,
             "다리 길이": 36
           },
-          "waistWidth": 21
+          "waistWidth": 21,
+          "hipWidth": 32.25,
+          "thighWidth": 21,
+          "riseLength": 18.5,
+          "hemWidth": 10,
+          "inseam": 36
         },
         {
           "label": "110",
@@ -188144,7 +188296,12 @@
             "밑단 너비": 10.5,
             "다리 길이": 42
           },
-          "waistWidth": 22
+          "waistWidth": 22,
+          "hipWidth": 34,
+          "thighWidth": 22,
+          "riseLength": 19.5,
+          "hemWidth": 10.5,
+          "inseam": 42
         }
       ]
     },
@@ -188182,11 +188339,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E488922-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -188200,7 +188358,12 @@
             "밑단 너비": 9,
             "다리 길이": 24
           },
-          "waistWidth": 19
+          "waistWidth": 19,
+          "hipWidth": 29,
+          "thighWidth": 18.5,
+          "riseLength": 18,
+          "hemWidth": 9,
+          "inseam": 24
         },
         {
           "label": "90",
@@ -188213,7 +188376,12 @@
             "밑단 너비": 9.5,
             "다리 길이": 30
           },
-          "waistWidth": 20
+          "waistWidth": 20,
+          "hipWidth": 30.5,
+          "thighWidth": 19.5,
+          "riseLength": 18.5,
+          "hemWidth": 9.5,
+          "inseam": 30
         },
         {
           "label": "100",
@@ -188226,7 +188394,12 @@
             "밑단 너비": 10,
             "다리 길이": 36
           },
-          "waistWidth": 21
+          "waistWidth": 21,
+          "hipWidth": 32.25,
+          "thighWidth": 21,
+          "riseLength": 18.5,
+          "hemWidth": 10,
+          "inseam": 36
         },
         {
           "label": "110",
@@ -188239,7 +188412,12 @@
             "밑단 너비": 11,
             "다리 길이": 42
           },
-          "waistWidth": 22
+          "waistWidth": 22,
+          "hipWidth": 34,
+          "thighWidth": 22,
+          "riseLength": 19.5,
+          "hemWidth": 11,
+          "inseam": 42
         }
       ]
     },
@@ -188275,11 +188453,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E478432-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -188293,7 +188472,12 @@
             "밑단 너비": 9.5,
             "다리 길이": 25
           },
-          "waistWidth": 20
+          "waistWidth": 20,
+          "hipWidth": 26,
+          "thighWidth": 15.5,
+          "riseLength": 18,
+          "hemWidth": 9.5,
+          "inseam": 25
         },
         {
           "label": "90",
@@ -188306,7 +188490,12 @@
             "밑단 너비": 10,
             "다리 길이": 31
           },
-          "waistWidth": 21
+          "waistWidth": 21,
+          "hipWidth": 27.5,
+          "thighWidth": 16.5,
+          "riseLength": 18.5,
+          "hemWidth": 10,
+          "inseam": 31
         },
         {
           "label": "100",
@@ -188319,7 +188508,12 @@
             "밑단 너비": 10.5,
             "다리 길이": 37
           },
-          "waistWidth": 22
+          "waistWidth": 22,
+          "hipWidth": 29,
+          "thighWidth": 17,
+          "riseLength": 18.5,
+          "hemWidth": 10.5,
+          "inseam": 37
         },
         {
           "label": "110",
@@ -188332,7 +188526,12 @@
             "밑단 너비": 11,
             "다리 길이": 43
           },
-          "waistWidth": 23
+          "waistWidth": 23,
+          "hipWidth": 30.5,
+          "thighWidth": 18.5,
+          "riseLength": 19.5,
+          "hemWidth": 11,
+          "inseam": 43
         }
       ]
     },
@@ -188368,11 +188567,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E478879-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -188386,7 +188586,12 @@
             "밑단 너비": 9,
             "다리 길이": 24.5
           },
-          "waistWidth": 20
+          "waistWidth": 20,
+          "hipWidth": 25.5,
+          "thighWidth": 15,
+          "riseLength": 18.5,
+          "hemWidth": 9,
+          "inseam": 24.5
         },
         {
           "label": "90",
@@ -188399,7 +188604,12 @@
             "밑단 너비": 9.5,
             "다리 길이": 30.5
           },
-          "waistWidth": 21
+          "waistWidth": 21,
+          "hipWidth": 27,
+          "thighWidth": 16,
+          "riseLength": 19,
+          "hemWidth": 9.5,
+          "inseam": 30.5
         },
         {
           "label": "100",
@@ -188412,7 +188622,12 @@
             "밑단 너비": 10,
             "다리 길이": 36.5
           },
-          "waistWidth": 22
+          "waistWidth": 22,
+          "hipWidth": 28.5,
+          "thighWidth": 17,
+          "riseLength": 19,
+          "hemWidth": 10,
+          "inseam": 36.5
         },
         {
           "label": "110",
@@ -188425,7 +188640,12 @@
             "밑단 너비": 10.5,
             "다리 길이": 42.5
           },
-          "waistWidth": 23
+          "waistWidth": 23,
+          "hipWidth": 30,
+          "thighWidth": 18,
+          "riseLength": 20,
+          "hemWidth": 10.5,
+          "inseam": 42.5
         }
       ]
     },
@@ -188463,11 +188683,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E488923-002/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -188481,7 +188702,12 @@
             "밑단 너비": 8.5,
             "다리 길이": 23.5
           },
-          "waistWidth": 19
+          "waistWidth": 19,
+          "hipWidth": 28,
+          "thighWidth": 18,
+          "riseLength": 18,
+          "hemWidth": 8.5,
+          "inseam": 23.5
         },
         {
           "label": "90",
@@ -188494,7 +188720,12 @@
             "밑단 너비": 9,
             "다리 길이": 29.5
           },
-          "waistWidth": 20
+          "waistWidth": 20,
+          "hipWidth": 29.75,
+          "thighWidth": 19,
+          "riseLength": 18.5,
+          "hemWidth": 9,
+          "inseam": 29.5
         },
         {
           "label": "100",
@@ -188507,7 +188738,12 @@
             "밑단 너비": 9.5,
             "다리 길이": 35.5
           },
-          "waistWidth": 21
+          "waistWidth": 21,
+          "hipWidth": 31.5,
+          "thighWidth": 20,
+          "riseLength": 18.5,
+          "hemWidth": 9.5,
+          "inseam": 35.5
         },
         {
           "label": "110",
@@ -188520,7 +188756,12 @@
             "밑단 너비": 10,
             "다리 길이": 41.5
           },
-          "waistWidth": 22
+          "waistWidth": 22,
+          "hipWidth": 33,
+          "thighWidth": 21.5,
+          "riseLength": 19.5,
+          "hemWidth": 10,
+          "inseam": 41.5
         }
       ]
     },
@@ -188556,11 +188797,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E486439-001/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -188574,7 +188816,12 @@
             "밑단 너비": 9.5,
             "다리 길이": 25
           },
-          "waistWidth": 20
+          "waistWidth": 20,
+          "hipWidth": 26,
+          "thighWidth": 15.5,
+          "riseLength": 18,
+          "hemWidth": 9.5,
+          "inseam": 25
         },
         {
           "label": "90",
@@ -188587,7 +188834,12 @@
             "밑단 너비": 10,
             "다리 길이": 31
           },
-          "waistWidth": 21
+          "waistWidth": 21,
+          "hipWidth": 27.5,
+          "thighWidth": 16.5,
+          "riseLength": 18.5,
+          "hemWidth": 10,
+          "inseam": 31
         },
         {
           "label": "100",
@@ -188600,7 +188852,12 @@
             "밑단 너비": 10.5,
             "다리 길이": 37
           },
-          "waistWidth": 22
+          "waistWidth": 22,
+          "hipWidth": 29,
+          "thighWidth": 17,
+          "riseLength": 18.5,
+          "hemWidth": 10.5,
+          "inseam": 37
         },
         {
           "label": "110",
@@ -188613,7 +188870,12 @@
             "밑단 너비": 11,
             "다리 길이": 43
           },
-          "waistWidth": 23
+          "waistWidth": 23,
+          "hipWidth": 30.5,
+          "thighWidth": 18.5,
+          "riseLength": 19.5,
+          "hemWidth": 11,
+          "inseam": 43
         }
       ]
     },
@@ -188649,11 +188911,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E486439-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -188667,7 +188930,12 @@
             "밑단 너비": 9.5,
             "다리 길이": 25
           },
-          "waistWidth": 20
+          "waistWidth": 20,
+          "hipWidth": 26,
+          "thighWidth": 15.5,
+          "riseLength": 18,
+          "hemWidth": 9.5,
+          "inseam": 25
         },
         {
           "label": "90",
@@ -188680,7 +188948,12 @@
             "밑단 너비": 10,
             "다리 길이": 31
           },
-          "waistWidth": 21
+          "waistWidth": 21,
+          "hipWidth": 27.5,
+          "thighWidth": 16.5,
+          "riseLength": 18.5,
+          "hemWidth": 10,
+          "inseam": 31
         },
         {
           "label": "100",
@@ -188693,7 +188966,12 @@
             "밑단 너비": 10.5,
             "다리 길이": 37
           },
-          "waistWidth": 22
+          "waistWidth": 22,
+          "hipWidth": 29,
+          "thighWidth": 17,
+          "riseLength": 18.5,
+          "hemWidth": 10.5,
+          "inseam": 37
         },
         {
           "label": "110",
@@ -188706,7 +188984,12 @@
             "밑단 너비": 11,
             "다리 길이": 43
           },
-          "waistWidth": 23
+          "waistWidth": 23,
+          "hipWidth": 30.5,
+          "thighWidth": 18.5,
+          "riseLength": 19.5,
+          "hemWidth": 11,
+          "inseam": 43
         }
       ]
     },
@@ -188744,11 +189027,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E488923-004/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -188762,7 +189046,12 @@
             "밑단 너비": 8.5,
             "다리 길이": 23.5
           },
-          "waistWidth": 19
+          "waistWidth": 19,
+          "hipWidth": 28,
+          "thighWidth": 18,
+          "riseLength": 18,
+          "hemWidth": 8.5,
+          "inseam": 23.5
         },
         {
           "label": "90",
@@ -188775,7 +189064,12 @@
             "밑단 너비": 9,
             "다리 길이": 29.5
           },
-          "waistWidth": 20
+          "waistWidth": 20,
+          "hipWidth": 29.75,
+          "thighWidth": 19,
+          "riseLength": 18.5,
+          "hemWidth": 9,
+          "inseam": 29.5
         },
         {
           "label": "100",
@@ -188788,7 +189082,12 @@
             "밑단 너비": 9.5,
             "다리 길이": 35.5
           },
-          "waistWidth": 21
+          "waistWidth": 21,
+          "hipWidth": 31.5,
+          "thighWidth": 20,
+          "riseLength": 18.5,
+          "hemWidth": 9.5,
+          "inseam": 35.5
         },
         {
           "label": "110",
@@ -188801,7 +189100,12 @@
             "밑단 너비": 10,
             "다리 길이": 41.5
           },
-          "waistWidth": 22
+          "waistWidth": 22,
+          "hipWidth": 33,
+          "thighWidth": 21.5,
+          "riseLength": 19.5,
+          "hemWidth": 10,
+          "inseam": 41.5
         }
       ]
     },
@@ -188833,11 +189137,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E488925-002/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -188851,7 +189156,12 @@
             "밑단 너비": 8,
             "다리 길이": 15
           },
-          "waistWidth": 18.5
+          "waistWidth": 18.5,
+          "hipWidth": 23.25,
+          "thighWidth": 14,
+          "riseLength": 16.5,
+          "hemWidth": 8,
+          "inseam": 15
         },
         {
           "label": "70",
@@ -188864,7 +189174,12 @@
             "밑단 너비": 8,
             "다리 길이": 18
           },
-          "waistWidth": 19
+          "waistWidth": 19,
+          "hipWidth": 24,
+          "thighWidth": 14.5,
+          "riseLength": 17.5,
+          "hemWidth": 8,
+          "inseam": 18
         },
         {
           "label": "80",
@@ -188877,7 +189192,12 @@
             "밑단 너비": 8.5,
             "다리 길이": 24
           },
-          "waistWidth": 20
+          "waistWidth": 20,
+          "hipWidth": 25.5,
+          "thighWidth": 15,
+          "riseLength": 18,
+          "hemWidth": 8.5,
+          "inseam": 24
         },
         {
           "label": "90",
@@ -188890,7 +189210,12 @@
             "밑단 너비": 9,
             "다리 길이": 30
           },
-          "waistWidth": 21
+          "waistWidth": 21,
+          "hipWidth": 27,
+          "thighWidth": 16,
+          "riseLength": 18.5,
+          "hemWidth": 9,
+          "inseam": 30
         },
         {
           "label": "100",
@@ -188903,7 +189228,12 @@
             "밑단 너비": 9.5,
             "다리 길이": 36
           },
-          "waistWidth": 22
+          "waistWidth": 22,
+          "hipWidth": 28.5,
+          "thighWidth": 16.5,
+          "riseLength": 18.5,
+          "hemWidth": 9.5,
+          "inseam": 36
         },
         {
           "label": "110",
@@ -188916,7 +189246,12 @@
             "밑단 너비": 10.5,
             "다리 길이": 42
           },
-          "waistWidth": 23
+          "waistWidth": 23,
+          "hipWidth": 30,
+          "thighWidth": 18,
+          "riseLength": 19.5,
+          "hemWidth": 10.5,
+          "inseam": 42
         }
       ]
     },
@@ -188948,11 +189283,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E488925-001/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -188966,7 +189302,12 @@
             "밑단 너비": 8,
             "다리 길이": 15
           },
-          "waistWidth": 18.5
+          "waistWidth": 18.5,
+          "hipWidth": 23.25,
+          "thighWidth": 14,
+          "riseLength": 16.5,
+          "hemWidth": 8,
+          "inseam": 15
         },
         {
           "label": "70",
@@ -188979,7 +189320,12 @@
             "밑단 너비": 8,
             "다리 길이": 18
           },
-          "waistWidth": 19
+          "waistWidth": 19,
+          "hipWidth": 24,
+          "thighWidth": 14.5,
+          "riseLength": 17.5,
+          "hemWidth": 8,
+          "inseam": 18
         },
         {
           "label": "80",
@@ -188992,7 +189338,12 @@
             "밑단 너비": 8.5,
             "다리 길이": 24
           },
-          "waistWidth": 20
+          "waistWidth": 20,
+          "hipWidth": 25.5,
+          "thighWidth": 15,
+          "riseLength": 18,
+          "hemWidth": 8.5,
+          "inseam": 24
         },
         {
           "label": "90",
@@ -189005,7 +189356,12 @@
             "밑단 너비": 9,
             "다리 길이": 30
           },
-          "waistWidth": 21
+          "waistWidth": 21,
+          "hipWidth": 27,
+          "thighWidth": 16,
+          "riseLength": 18.5,
+          "hemWidth": 9,
+          "inseam": 30
         },
         {
           "label": "100",
@@ -189018,7 +189374,12 @@
             "밑단 너비": 9.5,
             "다리 길이": 36
           },
-          "waistWidth": 22
+          "waistWidth": 22,
+          "hipWidth": 28.5,
+          "thighWidth": 16.5,
+          "riseLength": 18.5,
+          "hemWidth": 9.5,
+          "inseam": 36
         },
         {
           "label": "110",
@@ -189031,7 +189392,12 @@
             "밑단 너비": 10.5,
             "다리 길이": 42
           },
-          "waistWidth": 23
+          "waistWidth": 23,
+          "hipWidth": 30,
+          "thighWidth": 18,
+          "riseLength": 19.5,
+          "hemWidth": 10.5,
+          "inseam": 42
         }
       ]
     },
@@ -189063,11 +189429,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E488925-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -189081,7 +189448,12 @@
             "밑단 너비": 8,
             "다리 길이": 15
           },
-          "waistWidth": 18.5
+          "waistWidth": 18.5,
+          "hipWidth": 23.25,
+          "thighWidth": 14,
+          "riseLength": 16.5,
+          "hemWidth": 8,
+          "inseam": 15
         },
         {
           "label": "70",
@@ -189094,7 +189466,12 @@
             "밑단 너비": 8,
             "다리 길이": 18
           },
-          "waistWidth": 19
+          "waistWidth": 19,
+          "hipWidth": 24,
+          "thighWidth": 14.5,
+          "riseLength": 17.5,
+          "hemWidth": 8,
+          "inseam": 18
         },
         {
           "label": "80",
@@ -189107,7 +189484,12 @@
             "밑단 너비": 8.5,
             "다리 길이": 24
           },
-          "waistWidth": 20
+          "waistWidth": 20,
+          "hipWidth": 25.5,
+          "thighWidth": 15,
+          "riseLength": 18,
+          "hemWidth": 8.5,
+          "inseam": 24
         },
         {
           "label": "90",
@@ -189120,7 +189502,12 @@
             "밑단 너비": 9,
             "다리 길이": 30
           },
-          "waistWidth": 21
+          "waistWidth": 21,
+          "hipWidth": 27,
+          "thighWidth": 16,
+          "riseLength": 18.5,
+          "hemWidth": 9,
+          "inseam": 30
         },
         {
           "label": "100",
@@ -189133,7 +189520,12 @@
             "밑단 너비": 9.5,
             "다리 길이": 36
           },
-          "waistWidth": 22
+          "waistWidth": 22,
+          "hipWidth": 28.5,
+          "thighWidth": 16.5,
+          "riseLength": 18.5,
+          "hemWidth": 9.5,
+          "inseam": 36
         },
         {
           "label": "110",
@@ -189146,7 +189538,12 @@
             "밑단 너비": 10.5,
             "다리 길이": 42
           },
-          "waistWidth": 23
+          "waistWidth": 23,
+          "hipWidth": 30,
+          "thighWidth": 18,
+          "riseLength": 19.5,
+          "hemWidth": 10.5,
+          "inseam": 42
         }
       ]
     },
@@ -189182,11 +189579,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E491217-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -189200,7 +189598,12 @@
             "밑단 너비": 10,
             "다리 길이": 36.5
           },
-          "waistWidth": 22
+          "waistWidth": 22,
+          "hipWidth": 28.5,
+          "thighWidth": 17,
+          "riseLength": 19,
+          "hemWidth": 10,
+          "inseam": 36.5
         },
         {
           "label": "110",
@@ -189213,7 +189616,12 @@
             "밑단 너비": 10.5,
             "다리 길이": 42.5
           },
-          "waistWidth": 23
+          "waistWidth": 23,
+          "hipWidth": 30,
+          "thighWidth": 18,
+          "riseLength": 20,
+          "hemWidth": 10.5,
+          "inseam": 42.5
         }
       ]
     },
@@ -189258,11 +189666,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E486447-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -189276,7 +189685,12 @@
             "밑단 너비": 8,
             "다리 길이": 25.5
           },
-          "waistWidth": 20
+          "waistWidth": 20,
+          "hipWidth": 24.25,
+          "thighWidth": 14.5,
+          "riseLength": 19.5,
+          "hemWidth": 8,
+          "inseam": 25.5
         },
         {
           "label": "90",
@@ -189289,7 +189703,12 @@
             "밑단 너비": 8.5,
             "다리 길이": 31.5
           },
-          "waistWidth": 21
+          "waistWidth": 21,
+          "hipWidth": 25.5,
+          "thighWidth": 15.5,
+          "riseLength": 20,
+          "hemWidth": 8.5,
+          "inseam": 31.5
         },
         {
           "label": "100",
@@ -189302,7 +189721,12 @@
             "밑단 너비": 9,
             "다리 길이": 37.5
           },
-          "waistWidth": 22
+          "waistWidth": 22,
+          "hipWidth": 27,
+          "thighWidth": 16,
+          "riseLength": 20,
+          "hemWidth": 9,
+          "inseam": 37.5
         }
       ]
     },
@@ -189342,11 +189766,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E488826-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -189359,7 +189784,9 @@
             "등 중심부터 소매까지 길이": 37
           },
           "topLength": 35,
-          "chestWidth": 31
+          "chestWidth": 31,
+          "shoulderWidth": 24.5,
+          "backNeckSleeveLength": 37
         },
         {
           "label": "90",
@@ -189371,7 +189798,9 @@
             "등 중심부터 소매까지 길이": 41
           },
           "topLength": 38,
-          "chestWidth": 33
+          "chestWidth": 33,
+          "shoulderWidth": 26,
+          "backNeckSleeveLength": 41
         },
         {
           "label": "100",
@@ -189383,7 +189812,9 @@
             "등 중심부터 소매까지 길이": 46
           },
           "topLength": 41,
-          "chestWidth": 35
+          "chestWidth": 35,
+          "shoulderWidth": 27.5,
+          "backNeckSleeveLength": 46
         }
       ]
     },
@@ -189419,11 +189850,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E489540-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -189442,7 +189874,14 @@
             "다리 길이": 25
           },
           "topLength": 37.5,
-          "chestWidth": 32
+          "chestWidth": 32,
+          "shoulderWidth": 24.5,
+          "backNeckSleeveLength": 37.5,
+          "hipWidth": 29.5,
+          "thighWidth": 18.5,
+          "riseLength": 20,
+          "hemWidth": 7.5,
+          "inseam": 25
         },
         {
           "label": "90",
@@ -189460,7 +189899,14 @@
             "다리 길이": 31
           },
           "topLength": 40.5,
-          "chestWidth": 34
+          "chestWidth": 34,
+          "shoulderWidth": 26,
+          "backNeckSleeveLength": 41.5,
+          "hipWidth": 31.5,
+          "thighWidth": 19.5,
+          "riseLength": 20.5,
+          "hemWidth": 8,
+          "inseam": 31
         },
         {
           "label": "100",
@@ -189478,7 +189924,14 @@
             "다리 길이": 37
           },
           "topLength": 43.5,
-          "chestWidth": 36
+          "chestWidth": 36,
+          "shoulderWidth": 27.5,
+          "backNeckSleeveLength": 46.5,
+          "hipWidth": 33.5,
+          "thighWidth": 20.5,
+          "riseLength": 21.5,
+          "hemWidth": 8.5,
+          "inseam": 37
         },
         {
           "label": "110",
@@ -189496,7 +189949,14 @@
             "다리 길이": 43
           },
           "topLength": 46.5,
-          "chestWidth": 38
+          "chestWidth": 38,
+          "shoulderWidth": 29,
+          "backNeckSleeveLength": 51.5,
+          "hipWidth": 35.5,
+          "thighWidth": 22,
+          "riseLength": 22.5,
+          "hemWidth": 9,
+          "inseam": 43
         }
       ]
     },
@@ -189531,11 +189991,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E488775-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -189549,7 +190010,12 @@
             "밑단 너비": 9,
             "다리 길이": 24.5
           },
-          "waistWidth": 20
+          "waistWidth": 20,
+          "hipWidth": 31.25,
+          "thighWidth": 21,
+          "riseLength": 20,
+          "hemWidth": 9,
+          "inseam": 24.5
         },
         {
           "label": "90",
@@ -189562,7 +190028,12 @@
             "밑단 너비": 9.5,
             "다리 길이": 30.5
           },
-          "waistWidth": 21
+          "waistWidth": 21,
+          "hipWidth": 33.25,
+          "thighWidth": 22,
+          "riseLength": 20.5,
+          "hemWidth": 9.5,
+          "inseam": 30.5
         },
         {
           "label": "100",
@@ -189575,7 +190046,12 @@
             "밑단 너비": 10,
             "다리 길이": 36.5
           },
-          "waistWidth": 22
+          "waistWidth": 22,
+          "hipWidth": 35.25,
+          "thighWidth": 23.5,
+          "riseLength": 21.5,
+          "hemWidth": 10,
+          "inseam": 36.5
         },
         {
           "label": "110",
@@ -189588,7 +190064,12 @@
             "밑단 너비": 10.5,
             "다리 길이": 42.5
           },
-          "waistWidth": 23
+          "waistWidth": 23,
+          "hipWidth": 37.25,
+          "thighWidth": 25,
+          "riseLength": 22.5,
+          "hemWidth": 10.5,
+          "inseam": 42.5
         }
       ]
     },
@@ -189638,11 +190119,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E481791-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -189657,7 +190139,12 @@
             "다리 길이": 4.5,
             "스커트 길이": 22.5
           },
-          "waistWidth": 21
+          "waistWidth": 21,
+          "hipWidth": 41,
+          "thighWidth": 23,
+          "riseLength": 18,
+          "hemWidth": 26,
+          "inseam": 4.5
         },
         {
           "label": "90",
@@ -189671,7 +190158,12 @@
             "다리 길이": 4.5,
             "스커트 길이": 23
           },
-          "waistWidth": 22
+          "waistWidth": 22,
+          "hipWidth": 42,
+          "thighWidth": 24,
+          "riseLength": 18.5,
+          "hemWidth": 27,
+          "inseam": 4.5
         },
         {
           "label": "100",
@@ -189685,7 +190177,12 @@
             "다리 길이": 5.5,
             "스커트 길이": 25
           },
-          "waistWidth": 23
+          "waistWidth": 23,
+          "hipWidth": 44.75,
+          "thighWidth": 25.5,
+          "riseLength": 19.5,
+          "hemWidth": 28.5,
+          "inseam": 5.5
         },
         {
           "label": "110",
@@ -189699,7 +190196,12 @@
             "다리 길이": 6.5,
             "스커트 길이": 27
           },
-          "waistWidth": 24
+          "waistWidth": 24,
+          "hipWidth": 47.25,
+          "thighWidth": 27,
+          "riseLength": 20.5,
+          "hemWidth": 29.5,
+          "inseam": 6.5
         }
       ]
     },
@@ -189737,11 +190239,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E486426-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -189760,7 +190263,14 @@
             "다리 길이": 25
           },
           "topLength": 35.5,
-          "chestWidth": 31
+          "chestWidth": 31,
+          "shoulderWidth": 24.5,
+          "backNeckSleeveLength": 37.5,
+          "hipWidth": 27.5,
+          "thighWidth": 17.5,
+          "riseLength": 20,
+          "hemWidth": 7.5,
+          "inseam": 25
         },
         {
           "label": "90",
@@ -189778,7 +190288,14 @@
             "다리 길이": 31
           },
           "topLength": 38.5,
-          "chestWidth": 33
+          "chestWidth": 33,
+          "shoulderWidth": 26,
+          "backNeckSleeveLength": 41.5,
+          "hipWidth": 29.5,
+          "thighWidth": 18.5,
+          "riseLength": 20.5,
+          "hemWidth": 8,
+          "inseam": 31
         },
         {
           "label": "100",
@@ -189796,7 +190313,14 @@
             "다리 길이": 37
           },
           "topLength": 41.5,
-          "chestWidth": 35
+          "chestWidth": 35,
+          "shoulderWidth": 27.5,
+          "backNeckSleeveLength": 46.5,
+          "hipWidth": 31.5,
+          "thighWidth": 19.5,
+          "riseLength": 21.5,
+          "hemWidth": 8.5,
+          "inseam": 37
         },
         {
           "label": "110",
@@ -189814,7 +190338,14 @@
             "다리 길이": 43
           },
           "topLength": 44.5,
-          "chestWidth": 37
+          "chestWidth": 37,
+          "shoulderWidth": 29,
+          "backNeckSleeveLength": 51.5,
+          "hipWidth": 33.5,
+          "thighWidth": 21,
+          "riseLength": 22.5,
+          "hemWidth": 9,
+          "inseam": 43
         }
       ]
     },
@@ -189852,11 +190383,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E486428-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -189875,7 +190407,14 @@
             "다리 길이": 25
           },
           "topLength": 35.5,
-          "chestWidth": 31
+          "chestWidth": 31,
+          "shoulderWidth": 24.5,
+          "backNeckSleeveLength": 37.5,
+          "hipWidth": 27.5,
+          "thighWidth": 17.5,
+          "riseLength": 20,
+          "hemWidth": 7.5,
+          "inseam": 25
         },
         {
           "label": "90",
@@ -189893,7 +190432,14 @@
             "다리 길이": 31
           },
           "topLength": 38.5,
-          "chestWidth": 33
+          "chestWidth": 33,
+          "shoulderWidth": 26,
+          "backNeckSleeveLength": 41.5,
+          "hipWidth": 29.5,
+          "thighWidth": 18.5,
+          "riseLength": 20.5,
+          "hemWidth": 8,
+          "inseam": 31
         },
         {
           "label": "100",
@@ -189911,7 +190457,14 @@
             "다리 길이": 37
           },
           "topLength": 41.5,
-          "chestWidth": 35
+          "chestWidth": 35,
+          "shoulderWidth": 27.5,
+          "backNeckSleeveLength": 46.5,
+          "hipWidth": 31.5,
+          "thighWidth": 19.5,
+          "riseLength": 21.5,
+          "hemWidth": 8.5,
+          "inseam": 37
         },
         {
           "label": "110",
@@ -189929,7 +190482,14 @@
             "다리 길이": 43
           },
           "topLength": 44.5,
-          "chestWidth": 37
+          "chestWidth": 37,
+          "shoulderWidth": 29,
+          "backNeckSleeveLength": 51.5,
+          "hipWidth": 33.5,
+          "thighWidth": 21,
+          "riseLength": 22.5,
+          "hemWidth": 9,
+          "inseam": 43
         }
       ]
     },
@@ -189967,11 +190527,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E488643-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -189990,7 +190551,14 @@
             "다리 길이": 25
           },
           "topLength": 35.5,
-          "chestWidth": 31
+          "chestWidth": 31,
+          "shoulderWidth": 24.5,
+          "backNeckSleeveLength": 37.5,
+          "hipWidth": 27.5,
+          "thighWidth": 17.5,
+          "riseLength": 20,
+          "hemWidth": 7.5,
+          "inseam": 25
         },
         {
           "label": "90",
@@ -190008,7 +190576,14 @@
             "다리 길이": 31
           },
           "topLength": 38.5,
-          "chestWidth": 33
+          "chestWidth": 33,
+          "shoulderWidth": 26,
+          "backNeckSleeveLength": 41.5,
+          "hipWidth": 29.5,
+          "thighWidth": 18.5,
+          "riseLength": 20.5,
+          "hemWidth": 8,
+          "inseam": 31
         },
         {
           "label": "100",
@@ -190026,7 +190601,14 @@
             "다리 길이": 37
           },
           "topLength": 41.5,
-          "chestWidth": 35
+          "chestWidth": 35,
+          "shoulderWidth": 27.5,
+          "backNeckSleeveLength": 46.5,
+          "hipWidth": 31.5,
+          "thighWidth": 19.5,
+          "riseLength": 21.5,
+          "hemWidth": 8.5,
+          "inseam": 37
         },
         {
           "label": "110",
@@ -190044,7 +190626,14 @@
             "다리 길이": 43
           },
           "topLength": 44.5,
-          "chestWidth": 37
+          "chestWidth": 37,
+          "shoulderWidth": 29,
+          "backNeckSleeveLength": 51.5,
+          "hipWidth": 33.5,
+          "thighWidth": 21,
+          "riseLength": 22.5,
+          "hemWidth": 9,
+          "inseam": 43
         }
       ]
     },
@@ -190082,11 +190671,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E486427-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -190105,7 +190695,14 @@
             "다리 길이": 25
           },
           "topLength": 35.5,
-          "chestWidth": 31
+          "chestWidth": 31,
+          "shoulderWidth": 24.5,
+          "backNeckSleeveLength": 37.5,
+          "hipWidth": 27.5,
+          "thighWidth": 17.5,
+          "riseLength": 20,
+          "hemWidth": 7.5,
+          "inseam": 25
         },
         {
           "label": "90",
@@ -190123,7 +190720,14 @@
             "다리 길이": 31
           },
           "topLength": 38.5,
-          "chestWidth": 33
+          "chestWidth": 33,
+          "shoulderWidth": 26,
+          "backNeckSleeveLength": 41.5,
+          "hipWidth": 29.5,
+          "thighWidth": 18.5,
+          "riseLength": 20.5,
+          "hemWidth": 8,
+          "inseam": 31
         },
         {
           "label": "100",
@@ -190141,7 +190745,14 @@
             "다리 길이": 37
           },
           "topLength": 41.5,
-          "chestWidth": 35
+          "chestWidth": 35,
+          "shoulderWidth": 27.5,
+          "backNeckSleeveLength": 46.5,
+          "hipWidth": 31.5,
+          "thighWidth": 19.5,
+          "riseLength": 21.5,
+          "hemWidth": 8.5,
+          "inseam": 37
         },
         {
           "label": "110",
@@ -190159,7 +190770,14 @@
             "다리 길이": 43
           },
           "topLength": 44.5,
-          "chestWidth": 37
+          "chestWidth": 37,
+          "shoulderWidth": 29,
+          "backNeckSleeveLength": 51.5,
+          "hipWidth": 33.5,
+          "thighWidth": 21,
+          "riseLength": 22.5,
+          "hemWidth": 9,
+          "inseam": 43
         }
       ]
     },
@@ -190206,11 +190824,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E481801-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -190222,7 +190841,8 @@
             "가슴너비": 23
           },
           "topLength": 38,
-          "chestWidth": 23
+          "chestWidth": 23,
+          "shoulderWidth": 17
         },
         {
           "label": "90",
@@ -190233,7 +190853,8 @@
             "가슴너비": 25
           },
           "topLength": 41,
-          "chestWidth": 25
+          "chestWidth": 25,
+          "shoulderWidth": 18.5
         },
         {
           "label": "100",
@@ -190244,7 +190865,8 @@
             "가슴너비": 27
           },
           "topLength": 44,
-          "chestWidth": 27
+          "chestWidth": 27,
+          "shoulderWidth": 20
         },
         {
           "label": "110",
@@ -190255,7 +190877,8 @@
             "가슴너비": 29
           },
           "topLength": 47,
-          "chestWidth": 29
+          "chestWidth": 29,
+          "shoulderWidth": 21.5
         },
         {
           "label": "120",
@@ -190266,7 +190889,8 @@
             "가슴너비": 31
           },
           "topLength": 49.5,
-          "chestWidth": 31
+          "chestWidth": 31,
+          "shoulderWidth": 22.5
         }
       ]
     },
@@ -190308,11 +190932,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E486416-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -190327,7 +190952,9 @@
           },
           "topLength": 36,
           "chestWidth": 35.5,
-          "sleeveLength": 28
+          "sleeveLength": 28,
+          "shoulderWidth": 27,
+          "backNeckSleeveLength": 41.5
         },
         {
           "label": "90",
@@ -190341,7 +190968,9 @@
           },
           "topLength": 39,
           "chestWidth": 37.5,
-          "sleeveLength": 31
+          "sleeveLength": 31,
+          "shoulderWidth": 28.5,
+          "backNeckSleeveLength": 45.5
         },
         {
           "label": "100",
@@ -190355,7 +190984,9 @@
           },
           "topLength": 41,
           "chestWidth": 39.5,
-          "sleeveLength": 35.5
+          "sleeveLength": 35.5,
+          "shoulderWidth": 30,
+          "backNeckSleeveLength": 50.5
         }
       ]
     },
@@ -190397,11 +191028,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E486417-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -190416,7 +191048,9 @@
           },
           "topLength": 36,
           "chestWidth": 35.5,
-          "sleeveLength": 28
+          "sleeveLength": 28,
+          "shoulderWidth": 27,
+          "backNeckSleeveLength": 41.5
         },
         {
           "label": "90",
@@ -190430,7 +191064,9 @@
           },
           "topLength": 39,
           "chestWidth": 37.5,
-          "sleeveLength": 31
+          "sleeveLength": 31,
+          "shoulderWidth": 28.5,
+          "backNeckSleeveLength": 45.5
         },
         {
           "label": "100",
@@ -190444,7 +191080,9 @@
           },
           "topLength": 41,
           "chestWidth": 39.5,
-          "sleeveLength": 35.5
+          "sleeveLength": 35.5,
+          "shoulderWidth": 30,
+          "backNeckSleeveLength": 50.5
         }
       ]
     },
@@ -190486,11 +191124,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E478427-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -190503,7 +191142,9 @@
             "등 중심부터 소매까지 길이": 41.5
           },
           "topLength": 36,
-          "chestWidth": 35.5
+          "chestWidth": 35.5,
+          "shoulderWidth": 27,
+          "backNeckSleeveLength": 41.5
         },
         {
           "label": "90",
@@ -190515,7 +191156,9 @@
             "등 중심부터 소매까지 길이": 45.5
           },
           "topLength": 39,
-          "chestWidth": 37.5
+          "chestWidth": 37.5,
+          "shoulderWidth": 28.5,
+          "backNeckSleeveLength": 45.5
         },
         {
           "label": "100",
@@ -190527,7 +191170,9 @@
             "등 중심부터 소매까지 길이": 50.5
           },
           "topLength": 41,
-          "chestWidth": 39.5
+          "chestWidth": 39.5,
+          "shoulderWidth": 30,
+          "backNeckSleeveLength": 50.5
         }
       ]
     },
@@ -190569,11 +191214,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E486444-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -190586,7 +191232,9 @@
             "등 중심부터 소매까지 길이": 38.5
           },
           "topLength": 34,
-          "chestWidth": 32.5
+          "chestWidth": 32.5,
+          "shoulderWidth": 27,
+          "backNeckSleeveLength": 38.5
         },
         {
           "label": "90",
@@ -190598,7 +191246,9 @@
             "등 중심부터 소매까지 길이": 42.5
           },
           "topLength": 37,
-          "chestWidth": 34.5
+          "chestWidth": 34.5,
+          "shoulderWidth": 28.5,
+          "backNeckSleeveLength": 42.5
         },
         {
           "label": "100",
@@ -190610,7 +191260,9 @@
             "등 중심부터 소매까지 길이": 47.5
           },
           "topLength": 40,
-          "chestWidth": 36.5
+          "chestWidth": 36.5,
+          "shoulderWidth": 30,
+          "backNeckSleeveLength": 47.5
         }
       ]
     },
@@ -190652,11 +191304,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E486443-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -190669,7 +191322,9 @@
             "등 중심부터 소매까지 길이": 38.5
           },
           "topLength": 34,
-          "chestWidth": 32.5
+          "chestWidth": 32.5,
+          "shoulderWidth": 27,
+          "backNeckSleeveLength": 38.5
         },
         {
           "label": "90",
@@ -190681,7 +191336,9 @@
             "등 중심부터 소매까지 길이": 42.5
           },
           "topLength": 37,
-          "chestWidth": 34.5
+          "chestWidth": 34.5,
+          "shoulderWidth": 28.5,
+          "backNeckSleeveLength": 42.5
         },
         {
           "label": "100",
@@ -190693,7 +191350,9 @@
             "등 중심부터 소매까지 길이": 47.5
           },
           "topLength": 40,
-          "chestWidth": 36.5
+          "chestWidth": 36.5,
+          "shoulderWidth": 30,
+          "backNeckSleeveLength": 47.5
         }
       ]
     },
@@ -190740,11 +191399,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E478434-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -190757,7 +191417,9 @@
             "등 중심부터 소매까지 길이": 38.5
           },
           "topLength": 34,
-          "chestWidth": 32.5
+          "chestWidth": 32.5,
+          "shoulderWidth": 27,
+          "backNeckSleeveLength": 38.5
         },
         {
           "label": "90",
@@ -190769,7 +191431,9 @@
             "등 중심부터 소매까지 길이": 42.5
           },
           "topLength": 37,
-          "chestWidth": 34.5
+          "chestWidth": 34.5,
+          "shoulderWidth": 28.5,
+          "backNeckSleeveLength": 42.5
         },
         {
           "label": "100",
@@ -190781,7 +191445,9 @@
             "등 중심부터 소매까지 길이": 47.5
           },
           "topLength": 40,
-          "chestWidth": 36.5
+          "chestWidth": 36.5,
+          "shoulderWidth": 30,
+          "backNeckSleeveLength": 47.5
         }
       ]
     },
@@ -190823,11 +191489,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E486448-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -190846,7 +191513,14 @@
             "다리 길이": 25
           },
           "topLength": 37.5,
-          "chestWidth": 32
+          "chestWidth": 32,
+          "shoulderWidth": 24.5,
+          "backNeckSleeveLength": 37.5,
+          "hipWidth": 29.5,
+          "thighWidth": 18.5,
+          "riseLength": 20,
+          "hemWidth": 7.5,
+          "inseam": 25
         },
         {
           "label": "90",
@@ -190864,7 +191538,14 @@
             "다리 길이": 31
           },
           "topLength": 40.5,
-          "chestWidth": 34
+          "chestWidth": 34,
+          "shoulderWidth": 26,
+          "backNeckSleeveLength": 41.5,
+          "hipWidth": 31.5,
+          "thighWidth": 19.5,
+          "riseLength": 20.5,
+          "hemWidth": 8,
+          "inseam": 31
         },
         {
           "label": "100",
@@ -190882,7 +191563,14 @@
             "다리 길이": 37
           },
           "topLength": 43.5,
-          "chestWidth": 36
+          "chestWidth": 36,
+          "shoulderWidth": 27.5,
+          "backNeckSleeveLength": 46.5,
+          "hipWidth": 33.5,
+          "thighWidth": 20.5,
+          "riseLength": 21.5,
+          "hemWidth": 8.5,
+          "inseam": 37
         },
         {
           "label": "110",
@@ -190900,7 +191588,14 @@
             "다리 길이": 43
           },
           "topLength": 46.5,
-          "chestWidth": 38
+          "chestWidth": 38,
+          "shoulderWidth": 29,
+          "backNeckSleeveLength": 51.5,
+          "hipWidth": 35.5,
+          "thighWidth": 22,
+          "riseLength": 22.5,
+          "hemWidth": 9,
+          "inseam": 43
         }
       ]
     },
@@ -190942,11 +191637,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E486449-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -190965,7 +191661,14 @@
             "다리 길이": 25
           },
           "topLength": 37.5,
-          "chestWidth": 32
+          "chestWidth": 32,
+          "shoulderWidth": 24.5,
+          "backNeckSleeveLength": 37.5,
+          "hipWidth": 29.5,
+          "thighWidth": 18.5,
+          "riseLength": 20,
+          "hemWidth": 7.5,
+          "inseam": 25
         },
         {
           "label": "90",
@@ -190983,7 +191686,14 @@
             "다리 길이": 31
           },
           "topLength": 40.5,
-          "chestWidth": 34
+          "chestWidth": 34,
+          "shoulderWidth": 26,
+          "backNeckSleeveLength": 41.5,
+          "hipWidth": 31.5,
+          "thighWidth": 19.5,
+          "riseLength": 20.5,
+          "hemWidth": 8,
+          "inseam": 31
         },
         {
           "label": "100",
@@ -191001,7 +191711,14 @@
             "다리 길이": 37
           },
           "topLength": 43.5,
-          "chestWidth": 36
+          "chestWidth": 36,
+          "shoulderWidth": 27.5,
+          "backNeckSleeveLength": 46.5,
+          "hipWidth": 33.5,
+          "thighWidth": 20.5,
+          "riseLength": 21.5,
+          "hemWidth": 8.5,
+          "inseam": 37
         },
         {
           "label": "110",
@@ -191019,7 +191736,14 @@
             "다리 길이": 43
           },
           "topLength": 46.5,
-          "chestWidth": 38
+          "chestWidth": 38,
+          "shoulderWidth": 29,
+          "backNeckSleeveLength": 51.5,
+          "hipWidth": 35.5,
+          "thighWidth": 22,
+          "riseLength": 22.5,
+          "hemWidth": 9,
+          "inseam": 43
         }
       ]
     },
@@ -191055,11 +191779,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E489541-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -191078,7 +191803,14 @@
             "다리 길이": 25
           },
           "topLength": 37.5,
-          "chestWidth": 32
+          "chestWidth": 32,
+          "shoulderWidth": 24.5,
+          "backNeckSleeveLength": 37.5,
+          "hipWidth": 29.5,
+          "thighWidth": 18.5,
+          "riseLength": 20,
+          "hemWidth": 7.5,
+          "inseam": 25
         },
         {
           "label": "90",
@@ -191096,7 +191828,14 @@
             "다리 길이": 31
           },
           "topLength": 40.5,
-          "chestWidth": 34
+          "chestWidth": 34,
+          "shoulderWidth": 26,
+          "backNeckSleeveLength": 41.5,
+          "hipWidth": 31.5,
+          "thighWidth": 19.5,
+          "riseLength": 20.5,
+          "hemWidth": 8,
+          "inseam": 31
         },
         {
           "label": "100",
@@ -191114,7 +191853,14 @@
             "다리 길이": 37
           },
           "topLength": 43.5,
-          "chestWidth": 36
+          "chestWidth": 36,
+          "shoulderWidth": 27.5,
+          "backNeckSleeveLength": 46.5,
+          "hipWidth": 33.5,
+          "thighWidth": 20.5,
+          "riseLength": 21.5,
+          "hemWidth": 8.5,
+          "inseam": 37
         },
         {
           "label": "110",
@@ -191132,7 +191878,14 @@
             "다리 길이": 43
           },
           "topLength": 46.5,
-          "chestWidth": 38
+          "chestWidth": 38,
+          "shoulderWidth": 29,
+          "backNeckSleeveLength": 51.5,
+          "hipWidth": 35.5,
+          "thighWidth": 22,
+          "riseLength": 22.5,
+          "hemWidth": 9,
+          "inseam": 43
         }
       ]
     },
@@ -191168,11 +191921,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E486451-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -191191,7 +191945,14 @@
             "다리 길이": 25
           },
           "topLength": 37.5,
-          "chestWidth": 32
+          "chestWidth": 32,
+          "shoulderWidth": 24.5,
+          "backNeckSleeveLength": 37.5,
+          "hipWidth": 29.5,
+          "thighWidth": 18.5,
+          "riseLength": 20,
+          "hemWidth": 7.5,
+          "inseam": 25
         },
         {
           "label": "90",
@@ -191209,7 +191970,14 @@
             "다리 길이": 31
           },
           "topLength": 40.5,
-          "chestWidth": 34
+          "chestWidth": 34,
+          "shoulderWidth": 26,
+          "backNeckSleeveLength": 41.5,
+          "hipWidth": 31.5,
+          "thighWidth": 19.5,
+          "riseLength": 20.5,
+          "hemWidth": 8,
+          "inseam": 31
         },
         {
           "label": "100",
@@ -191227,7 +191995,14 @@
             "다리 길이": 37
           },
           "topLength": 43.5,
-          "chestWidth": 36
+          "chestWidth": 36,
+          "shoulderWidth": 27.5,
+          "backNeckSleeveLength": 46.5,
+          "hipWidth": 33.5,
+          "thighWidth": 20.5,
+          "riseLength": 21.5,
+          "hemWidth": 8.5,
+          "inseam": 37
         },
         {
           "label": "110",
@@ -191245,7 +192020,14 @@
             "다리 길이": 43
           },
           "topLength": 46.5,
-          "chestWidth": 38
+          "chestWidth": 38,
+          "shoulderWidth": 29,
+          "backNeckSleeveLength": 51.5,
+          "hipWidth": 35.5,
+          "thighWidth": 22,
+          "riseLength": 22.5,
+          "hemWidth": 9,
+          "inseam": 43
         }
       ]
     },
@@ -191281,11 +192063,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E486450-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -191304,7 +192087,14 @@
             "다리 길이": 25
           },
           "topLength": 37.5,
-          "chestWidth": 32
+          "chestWidth": 32,
+          "shoulderWidth": 24.5,
+          "backNeckSleeveLength": 37.5,
+          "hipWidth": 29.5,
+          "thighWidth": 18.5,
+          "riseLength": 20,
+          "hemWidth": 7.5,
+          "inseam": 25
         },
         {
           "label": "90",
@@ -191322,7 +192112,14 @@
             "다리 길이": 31
           },
           "topLength": 40.5,
-          "chestWidth": 34
+          "chestWidth": 34,
+          "shoulderWidth": 26,
+          "backNeckSleeveLength": 41.5,
+          "hipWidth": 31.5,
+          "thighWidth": 19.5,
+          "riseLength": 20.5,
+          "hemWidth": 8,
+          "inseam": 31
         },
         {
           "label": "100",
@@ -191340,7 +192137,14 @@
             "다리 길이": 37
           },
           "topLength": 43.5,
-          "chestWidth": 36
+          "chestWidth": 36,
+          "shoulderWidth": 27.5,
+          "backNeckSleeveLength": 46.5,
+          "hipWidth": 33.5,
+          "thighWidth": 20.5,
+          "riseLength": 21.5,
+          "hemWidth": 8.5,
+          "inseam": 37
         },
         {
           "label": "110",
@@ -191358,7 +192162,14 @@
             "다리 길이": 43
           },
           "topLength": 46.5,
-          "chestWidth": 38
+          "chestWidth": 38,
+          "shoulderWidth": 29,
+          "backNeckSleeveLength": 51.5,
+          "hipWidth": 35.5,
+          "thighWidth": 22,
+          "riseLength": 22.5,
+          "hemWidth": 9,
+          "inseam": 43
         }
       ]
     },
@@ -191394,11 +192205,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E486452-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -191417,7 +192229,14 @@
             "다리 길이": 25
           },
           "topLength": 37.5,
-          "chestWidth": 32
+          "chestWidth": 32,
+          "shoulderWidth": 24.5,
+          "backNeckSleeveLength": 37.5,
+          "hipWidth": 29.5,
+          "thighWidth": 18.5,
+          "riseLength": 20,
+          "hemWidth": 7.5,
+          "inseam": 25
         },
         {
           "label": "90",
@@ -191435,7 +192254,14 @@
             "다리 길이": 31
           },
           "topLength": 40.5,
-          "chestWidth": 34
+          "chestWidth": 34,
+          "shoulderWidth": 26,
+          "backNeckSleeveLength": 41.5,
+          "hipWidth": 31.5,
+          "thighWidth": 19.5,
+          "riseLength": 20.5,
+          "hemWidth": 8,
+          "inseam": 31
         },
         {
           "label": "100",
@@ -191453,7 +192279,14 @@
             "다리 길이": 37
           },
           "topLength": 43.5,
-          "chestWidth": 36
+          "chestWidth": 36,
+          "shoulderWidth": 27.5,
+          "backNeckSleeveLength": 46.5,
+          "hipWidth": 33.5,
+          "thighWidth": 20.5,
+          "riseLength": 21.5,
+          "hemWidth": 8.5,
+          "inseam": 37
         },
         {
           "label": "110",
@@ -191471,7 +192304,14 @@
             "다리 길이": 43
           },
           "topLength": 46.5,
-          "chestWidth": 38
+          "chestWidth": 38,
+          "shoulderWidth": 29,
+          "backNeckSleeveLength": 51.5,
+          "hipWidth": 35.5,
+          "thighWidth": 22,
+          "riseLength": 22.5,
+          "hemWidth": 9,
+          "inseam": 43
         }
       ]
     },
@@ -191507,11 +192347,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E486453-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -191530,7 +192371,14 @@
             "다리 길이": 25
           },
           "topLength": 37.5,
-          "chestWidth": 32
+          "chestWidth": 32,
+          "shoulderWidth": 24.5,
+          "backNeckSleeveLength": 37.5,
+          "hipWidth": 29.5,
+          "thighWidth": 18.5,
+          "riseLength": 20,
+          "hemWidth": 7.5,
+          "inseam": 25
         },
         {
           "label": "90",
@@ -191548,7 +192396,14 @@
             "다리 길이": 31
           },
           "topLength": 40.5,
-          "chestWidth": 34
+          "chestWidth": 34,
+          "shoulderWidth": 26,
+          "backNeckSleeveLength": 41.5,
+          "hipWidth": 31.5,
+          "thighWidth": 19.5,
+          "riseLength": 20.5,
+          "hemWidth": 8,
+          "inseam": 31
         },
         {
           "label": "100",
@@ -191566,7 +192421,14 @@
             "다리 길이": 37
           },
           "topLength": 43.5,
-          "chestWidth": 36
+          "chestWidth": 36,
+          "shoulderWidth": 27.5,
+          "backNeckSleeveLength": 46.5,
+          "hipWidth": 33.5,
+          "thighWidth": 20.5,
+          "riseLength": 21.5,
+          "hemWidth": 8.5,
+          "inseam": 37
         },
         {
           "label": "110",
@@ -191584,7 +192446,14 @@
             "다리 길이": 43
           },
           "topLength": 46.5,
-          "chestWidth": 38
+          "chestWidth": 38,
+          "shoulderWidth": 29,
+          "backNeckSleeveLength": 51.5,
+          "hipWidth": 35.5,
+          "thighWidth": 22,
+          "riseLength": 22.5,
+          "hemWidth": 9,
+          "inseam": 43
         }
       ]
     },
@@ -191622,11 +192491,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E486425-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -191645,7 +192515,14 @@
             "다리 길이": 25
           },
           "topLength": 35.5,
-          "chestWidth": 31
+          "chestWidth": 31,
+          "shoulderWidth": 24.5,
+          "backNeckSleeveLength": 37.5,
+          "hipWidth": 27.5,
+          "thighWidth": 17.5,
+          "riseLength": 20,
+          "hemWidth": 7.5,
+          "inseam": 25
         },
         {
           "label": "90",
@@ -191663,7 +192540,14 @@
             "다리 길이": 31
           },
           "topLength": 38.5,
-          "chestWidth": 33
+          "chestWidth": 33,
+          "shoulderWidth": 26,
+          "backNeckSleeveLength": 41.5,
+          "hipWidth": 29.5,
+          "thighWidth": 18.5,
+          "riseLength": 20.5,
+          "hemWidth": 8,
+          "inseam": 31
         },
         {
           "label": "100",
@@ -191681,7 +192565,14 @@
             "다리 길이": 37
           },
           "topLength": 41.5,
-          "chestWidth": 35
+          "chestWidth": 35,
+          "shoulderWidth": 27.5,
+          "backNeckSleeveLength": 46.5,
+          "hipWidth": 31.5,
+          "thighWidth": 19.5,
+          "riseLength": 21.5,
+          "hemWidth": 8.5,
+          "inseam": 37
         },
         {
           "label": "110",
@@ -191699,7 +192590,14 @@
             "다리 길이": 43
           },
           "topLength": 44.5,
-          "chestWidth": 37
+          "chestWidth": 37,
+          "shoulderWidth": 29,
+          "backNeckSleeveLength": 51.5,
+          "hipWidth": 33.5,
+          "thighWidth": 21,
+          "riseLength": 22.5,
+          "hemWidth": 9,
+          "inseam": 43
         }
       ]
     },
@@ -191737,11 +192635,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E488642-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -191760,7 +192659,14 @@
             "다리 길이": 25
           },
           "topLength": 35.5,
-          "chestWidth": 31
+          "chestWidth": 31,
+          "shoulderWidth": 24.5,
+          "backNeckSleeveLength": 37.5,
+          "hipWidth": 27.5,
+          "thighWidth": 17.5,
+          "riseLength": 20,
+          "hemWidth": 7.5,
+          "inseam": 25
         },
         {
           "label": "90",
@@ -191778,7 +192684,14 @@
             "다리 길이": 31
           },
           "topLength": 38.5,
-          "chestWidth": 33
+          "chestWidth": 33,
+          "shoulderWidth": 26,
+          "backNeckSleeveLength": 41.5,
+          "hipWidth": 29.5,
+          "thighWidth": 18.5,
+          "riseLength": 20.5,
+          "hemWidth": 8,
+          "inseam": 31
         },
         {
           "label": "100",
@@ -191796,7 +192709,14 @@
             "다리 길이": 37
           },
           "topLength": 41.5,
-          "chestWidth": 35
+          "chestWidth": 35,
+          "shoulderWidth": 27.5,
+          "backNeckSleeveLength": 46.5,
+          "hipWidth": 31.5,
+          "thighWidth": 19.5,
+          "riseLength": 21.5,
+          "hemWidth": 8.5,
+          "inseam": 37
         },
         {
           "label": "110",
@@ -191814,7 +192734,14 @@
             "다리 길이": 43
           },
           "topLength": 44.5,
-          "chestWidth": 37
+          "chestWidth": 37,
+          "shoulderWidth": 29,
+          "backNeckSleeveLength": 51.5,
+          "hipWidth": 33.5,
+          "thighWidth": 21,
+          "riseLength": 22.5,
+          "hemWidth": 9,
+          "inseam": 43
         }
       ]
     },
@@ -191846,11 +192773,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E490412-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -191869,7 +192797,14 @@
             "다리 길이": 25
           },
           "topLength": 35.5,
-          "chestWidth": 31
+          "chestWidth": 31,
+          "shoulderWidth": 24.5,
+          "backNeckSleeveLength": 37.5,
+          "hipWidth": 27.5,
+          "thighWidth": 17.5,
+          "riseLength": 20,
+          "hemWidth": 7.5,
+          "inseam": 25
         },
         {
           "label": "90",
@@ -191887,7 +192822,14 @@
             "다리 길이": 31
           },
           "topLength": 38.5,
-          "chestWidth": 33
+          "chestWidth": 33,
+          "shoulderWidth": 26,
+          "backNeckSleeveLength": 41.5,
+          "hipWidth": 29.5,
+          "thighWidth": 18.5,
+          "riseLength": 20.5,
+          "hemWidth": 8,
+          "inseam": 31
         },
         {
           "label": "100",
@@ -191905,7 +192847,14 @@
             "다리 길이": 37
           },
           "topLength": 41.5,
-          "chestWidth": 35
+          "chestWidth": 35,
+          "shoulderWidth": 27.5,
+          "backNeckSleeveLength": 46.5,
+          "hipWidth": 31.5,
+          "thighWidth": 19.5,
+          "riseLength": 21.5,
+          "hemWidth": 8.5,
+          "inseam": 37
         },
         {
           "label": "110",
@@ -191923,7 +192872,14 @@
             "다리 길이": 43
           },
           "topLength": 44.5,
-          "chestWidth": 37
+          "chestWidth": 37,
+          "shoulderWidth": 29,
+          "backNeckSleeveLength": 51.5,
+          "hipWidth": 33.5,
+          "thighWidth": 21,
+          "riseLength": 22.5,
+          "hemWidth": 9,
+          "inseam": 43
         }
       ]
     },
@@ -191955,11 +192911,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E490411-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -191978,7 +192935,14 @@
             "다리 길이": 25
           },
           "topLength": 35.5,
-          "chestWidth": 31
+          "chestWidth": 31,
+          "shoulderWidth": 24.5,
+          "backNeckSleeveLength": 37.5,
+          "hipWidth": 27.5,
+          "thighWidth": 17.5,
+          "riseLength": 20,
+          "hemWidth": 7.5,
+          "inseam": 25
         },
         {
           "label": "90",
@@ -191996,7 +192960,14 @@
             "다리 길이": 31
           },
           "topLength": 38.5,
-          "chestWidth": 33
+          "chestWidth": 33,
+          "shoulderWidth": 26,
+          "backNeckSleeveLength": 41.5,
+          "hipWidth": 29.5,
+          "thighWidth": 18.5,
+          "riseLength": 20.5,
+          "hemWidth": 8,
+          "inseam": 31
         },
         {
           "label": "100",
@@ -192014,7 +192985,14 @@
             "다리 길이": 37
           },
           "topLength": 41.5,
-          "chestWidth": 35
+          "chestWidth": 35,
+          "shoulderWidth": 27.5,
+          "backNeckSleeveLength": 46.5,
+          "hipWidth": 31.5,
+          "thighWidth": 19.5,
+          "riseLength": 21.5,
+          "hemWidth": 8.5,
+          "inseam": 37
         },
         {
           "label": "110",
@@ -192032,7 +193010,14 @@
             "다리 길이": 43
           },
           "topLength": 44.5,
-          "chestWidth": 37
+          "chestWidth": 37,
+          "shoulderWidth": 29,
+          "backNeckSleeveLength": 51.5,
+          "hipWidth": 33.5,
+          "thighWidth": 21,
+          "riseLength": 22.5,
+          "hemWidth": 9,
+          "inseam": 43
         }
       ]
     },
@@ -192064,11 +193049,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E490410-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -192087,7 +193073,14 @@
             "다리 길이": 25
           },
           "topLength": 35.5,
-          "chestWidth": 31
+          "chestWidth": 31,
+          "shoulderWidth": 24.5,
+          "backNeckSleeveLength": 37.5,
+          "hipWidth": 27.5,
+          "thighWidth": 17.5,
+          "riseLength": 20,
+          "hemWidth": 7.5,
+          "inseam": 25
         },
         {
           "label": "90",
@@ -192105,7 +193098,14 @@
             "다리 길이": 31
           },
           "topLength": 38.5,
-          "chestWidth": 33
+          "chestWidth": 33,
+          "shoulderWidth": 26,
+          "backNeckSleeveLength": 41.5,
+          "hipWidth": 29.5,
+          "thighWidth": 18.5,
+          "riseLength": 20.5,
+          "hemWidth": 8,
+          "inseam": 31
         },
         {
           "label": "100",
@@ -192123,7 +193123,14 @@
             "다리 길이": 37
           },
           "topLength": 41.5,
-          "chestWidth": 35
+          "chestWidth": 35,
+          "shoulderWidth": 27.5,
+          "backNeckSleeveLength": 46.5,
+          "hipWidth": 31.5,
+          "thighWidth": 19.5,
+          "riseLength": 21.5,
+          "hemWidth": 8.5,
+          "inseam": 37
         },
         {
           "label": "110",
@@ -192141,7 +193148,14 @@
             "다리 길이": 43
           },
           "topLength": 44.5,
-          "chestWidth": 37
+          "chestWidth": 37,
+          "shoulderWidth": 29,
+          "backNeckSleeveLength": 51.5,
+          "hipWidth": 33.5,
+          "thighWidth": 21,
+          "riseLength": 22.5,
+          "hemWidth": 9,
+          "inseam": 43
         }
       ]
     },
@@ -192181,11 +193195,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E478444-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -192198,7 +193213,9 @@
             "등 중심부터 소매까지 길이": 36
           },
           "topLength": 35.5,
-          "chestWidth": 25
+          "chestWidth": 25,
+          "shoulderWidth": 22.5,
+          "backNeckSleeveLength": 36
         },
         {
           "label": "90",
@@ -192210,7 +193227,9 @@
             "등 중심부터 소매까지 길이": 40
           },
           "topLength": 38.5,
-          "chestWidth": 27
+          "chestWidth": 27,
+          "shoulderWidth": 24,
+          "backNeckSleeveLength": 40
         },
         {
           "label": "100",
@@ -192222,7 +193241,9 @@
             "등 중심부터 소매까지 길이": 45
           },
           "topLength": 41.5,
-          "chestWidth": 29
+          "chestWidth": 29,
+          "shoulderWidth": 25.5,
+          "backNeckSleeveLength": 45
         }
       ]
     },
@@ -192269,11 +193290,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E481800-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -192285,7 +193307,8 @@
             "가슴너비": 23
           },
           "topLength": 38,
-          "chestWidth": 23
+          "chestWidth": 23,
+          "shoulderWidth": 17
         },
         {
           "label": "90",
@@ -192296,7 +193319,8 @@
             "가슴너비": 25
           },
           "topLength": 41,
-          "chestWidth": 25
+          "chestWidth": 25,
+          "shoulderWidth": 18.5
         },
         {
           "label": "100",
@@ -192307,7 +193331,8 @@
             "가슴너비": 27
           },
           "topLength": 44,
-          "chestWidth": 27
+          "chestWidth": 27,
+          "shoulderWidth": 20
         },
         {
           "label": "110",
@@ -192318,7 +193343,8 @@
             "가슴너비": 29
           },
           "topLength": 47,
-          "chestWidth": 29
+          "chestWidth": 29,
+          "shoulderWidth": 21.5
         },
         {
           "label": "120",
@@ -192329,7 +193355,8 @@
             "가슴너비": 31
           },
           "topLength": 49.5,
-          "chestWidth": 31
+          "chestWidth": 31,
+          "shoulderWidth": 22.5
         }
       ]
     },
@@ -192376,11 +193403,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E464637-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -192392,7 +193420,8 @@
             "가슴너비": 23
           },
           "topLength": 38,
-          "chestWidth": 23
+          "chestWidth": 23,
+          "shoulderWidth": 17
         },
         {
           "label": "90",
@@ -192403,7 +193432,8 @@
             "가슴너비": 25
           },
           "topLength": 41,
-          "chestWidth": 25
+          "chestWidth": 25,
+          "shoulderWidth": 18.5
         },
         {
           "label": "100",
@@ -192414,7 +193444,8 @@
             "가슴너비": 27
           },
           "topLength": 44,
-          "chestWidth": 27
+          "chestWidth": 27,
+          "shoulderWidth": 20
         },
         {
           "label": "110",
@@ -192425,7 +193456,8 @@
             "가슴너비": 29
           },
           "topLength": 47,
-          "chestWidth": 29
+          "chestWidth": 29,
+          "shoulderWidth": 21.5
         },
         {
           "label": "120",
@@ -192436,7 +193468,8 @@
             "가슴너비": 31
           },
           "topLength": 49.5,
-          "chestWidth": 31
+          "chestWidth": 31,
+          "shoulderWidth": 22.5
         }
       ]
     },
@@ -192486,11 +193519,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E485322-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -192504,7 +193538,12 @@
             "밑단 너비": 19,
             "다리 길이": 6
           },
-          "waistWidth": 21
+          "waistWidth": 21,
+          "hipWidth": 32.5,
+          "thighWidth": 21.5,
+          "riseLength": 18.5,
+          "hemWidth": 19,
+          "inseam": 6
         },
         {
           "label": "90",
@@ -192517,7 +193556,12 @@
             "밑단 너비": 20,
             "다리 길이": 6
           },
-          "waistWidth": 22
+          "waistWidth": 22,
+          "hipWidth": 33.5,
+          "thighWidth": 22.5,
+          "riseLength": 19,
+          "hemWidth": 20,
+          "inseam": 6
         },
         {
           "label": "100",
@@ -192530,7 +193574,12 @@
             "밑단 너비": 21,
             "다리 길이": 7
           },
-          "waistWidth": 23
+          "waistWidth": 23,
+          "hipWidth": 35.5,
+          "thighWidth": 23.5,
+          "riseLength": 20,
+          "hemWidth": 21,
+          "inseam": 7
         },
         {
           "label": "110",
@@ -192543,7 +193592,12 @@
             "밑단 너비": 22,
             "다리 길이": 8
           },
-          "waistWidth": 24
+          "waistWidth": 24,
+          "hipWidth": 37.5,
+          "thighWidth": 25,
+          "riseLength": 21,
+          "hemWidth": 22,
+          "inseam": 8
         }
       ]
     },
@@ -192593,11 +193647,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E481788-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -192611,7 +193666,12 @@
             "밑단 너비": 18.5,
             "다리 길이": 6
           },
-          "waistWidth": 21
+          "waistWidth": 21,
+          "hipWidth": 33,
+          "thighWidth": 21,
+          "riseLength": 18.5,
+          "hemWidth": 18.5,
+          "inseam": 6
         },
         {
           "label": "90",
@@ -192624,7 +193684,12 @@
             "밑단 너비": 19.5,
             "다리 길이": 6
           },
-          "waistWidth": 22
+          "waistWidth": 22,
+          "hipWidth": 34,
+          "thighWidth": 22,
+          "riseLength": 19,
+          "hemWidth": 19.5,
+          "inseam": 6
         },
         {
           "label": "100",
@@ -192637,7 +193702,12 @@
             "밑단 너비": 20.5,
             "다리 길이": 7
           },
-          "waistWidth": 23
+          "waistWidth": 23,
+          "hipWidth": 36,
+          "thighWidth": 23.5,
+          "riseLength": 20,
+          "hemWidth": 20.5,
+          "inseam": 7
         },
         {
           "label": "110",
@@ -192650,7 +193720,12 @@
             "밑단 너비": 21.5,
             "다리 길이": 8
           },
-          "waistWidth": 24
+          "waistWidth": 24,
+          "hipWidth": 38,
+          "thighWidth": 25,
+          "riseLength": 21,
+          "hemWidth": 21.5,
+          "inseam": 8
         }
       ]
     },
@@ -192700,11 +193775,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E481787-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -192718,7 +193794,12 @@
             "밑단 너비": 18.5,
             "다리 길이": 6
           },
-          "waistWidth": 21
+          "waistWidth": 21,
+          "hipWidth": 33,
+          "thighWidth": 21,
+          "riseLength": 18.5,
+          "hemWidth": 18.5,
+          "inseam": 6
         },
         {
           "label": "90",
@@ -192731,7 +193812,12 @@
             "밑단 너비": 19.5,
             "다리 길이": 6
           },
-          "waistWidth": 22
+          "waistWidth": 22,
+          "hipWidth": 34,
+          "thighWidth": 22,
+          "riseLength": 19,
+          "hemWidth": 19.5,
+          "inseam": 6
         },
         {
           "label": "100",
@@ -192744,7 +193830,12 @@
             "밑단 너비": 20.5,
             "다리 길이": 7
           },
-          "waistWidth": 23
+          "waistWidth": 23,
+          "hipWidth": 36,
+          "thighWidth": 23.5,
+          "riseLength": 20,
+          "hemWidth": 20.5,
+          "inseam": 7
         },
         {
           "label": "110",
@@ -192757,7 +193848,12 @@
             "밑단 너비": 21.5,
             "다리 길이": 8
           },
-          "waistWidth": 24
+          "waistWidth": 24,
+          "hipWidth": 38,
+          "thighWidth": 25,
+          "riseLength": 21,
+          "hemWidth": 21.5,
+          "inseam": 8
         }
       ]
     },
@@ -192807,11 +193903,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E481786-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -192825,7 +193922,12 @@
             "밑단 너비": 18.5,
             "다리 길이": 6
           },
-          "waistWidth": 21
+          "waistWidth": 21,
+          "hipWidth": 33,
+          "thighWidth": 21,
+          "riseLength": 18.5,
+          "hemWidth": 18.5,
+          "inseam": 6
         },
         {
           "label": "90",
@@ -192838,7 +193940,12 @@
             "밑단 너비": 19.5,
             "다리 길이": 6
           },
-          "waistWidth": 22
+          "waistWidth": 22,
+          "hipWidth": 34,
+          "thighWidth": 22,
+          "riseLength": 19,
+          "hemWidth": 19.5,
+          "inseam": 6
         },
         {
           "label": "100",
@@ -192851,7 +193958,12 @@
             "밑단 너비": 20.5,
             "다리 길이": 7
           },
-          "waistWidth": 23
+          "waistWidth": 23,
+          "hipWidth": 36,
+          "thighWidth": 23.5,
+          "riseLength": 20,
+          "hemWidth": 20.5,
+          "inseam": 7
         },
         {
           "label": "110",
@@ -192864,7 +193976,12 @@
             "밑단 너비": 21.5,
             "다리 길이": 8
           },
-          "waistWidth": 24
+          "waistWidth": 24,
+          "hipWidth": 38,
+          "thighWidth": 25,
+          "riseLength": 21,
+          "hemWidth": 21.5,
+          "inseam": 8
         }
       ]
     },
@@ -192900,11 +194017,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E492889-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -192918,7 +194036,12 @@
             "밑단 너비": 9.5,
             "다리 길이": 25
           },
-          "waistWidth": 20
+          "waistWidth": 20,
+          "hipWidth": 26,
+          "thighWidth": 15.5,
+          "riseLength": 18,
+          "hemWidth": 9.5,
+          "inseam": 25
         },
         {
           "label": "90",
@@ -192931,7 +194054,12 @@
             "밑단 너비": 10,
             "다리 길이": 31
           },
-          "waistWidth": 21
+          "waistWidth": 21,
+          "hipWidth": 27.5,
+          "thighWidth": 16.5,
+          "riseLength": 18.5,
+          "hemWidth": 10,
+          "inseam": 31
         },
         {
           "label": "100",
@@ -192944,7 +194072,12 @@
             "밑단 너비": 10.5,
             "다리 길이": 37
           },
-          "waistWidth": 22
+          "waistWidth": 22,
+          "hipWidth": 29,
+          "thighWidth": 17,
+          "riseLength": 18.5,
+          "hemWidth": 10.5,
+          "inseam": 37
         },
         {
           "label": "110",
@@ -192957,7 +194090,12 @@
             "밑단 너비": 11,
             "다리 길이": 43
           },
-          "waistWidth": 23
+          "waistWidth": 23,
+          "hipWidth": 30.5,
+          "thighWidth": 18.5,
+          "riseLength": 19.5,
+          "hemWidth": 11,
+          "inseam": 43
         }
       ]
     },
@@ -192993,11 +194131,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E492888-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -193011,7 +194150,12 @@
             "밑단 너비": 9.5,
             "다리 길이": 25
           },
-          "waistWidth": 20
+          "waistWidth": 20,
+          "hipWidth": 26,
+          "thighWidth": 15.5,
+          "riseLength": 18,
+          "hemWidth": 9.5,
+          "inseam": 25
         },
         {
           "label": "90",
@@ -193024,7 +194168,12 @@
             "밑단 너비": 10,
             "다리 길이": 31
           },
-          "waistWidth": 21
+          "waistWidth": 21,
+          "hipWidth": 27.5,
+          "thighWidth": 16.5,
+          "riseLength": 18.5,
+          "hemWidth": 10,
+          "inseam": 31
         },
         {
           "label": "100",
@@ -193037,7 +194186,12 @@
             "밑단 너비": 10.5,
             "다리 길이": 37
           },
-          "waistWidth": 22
+          "waistWidth": 22,
+          "hipWidth": 29,
+          "thighWidth": 17,
+          "riseLength": 18.5,
+          "hemWidth": 10.5,
+          "inseam": 37
         },
         {
           "label": "110",
@@ -193050,7 +194204,12 @@
             "밑단 너비": 11,
             "다리 길이": 43
           },
-          "waistWidth": 23
+          "waistWidth": 23,
+          "hipWidth": 30.5,
+          "thighWidth": 18.5,
+          "riseLength": 19.5,
+          "hemWidth": 11,
+          "inseam": 43
         }
       ]
     },
@@ -193086,11 +194245,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E492887-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -193104,7 +194264,12 @@
             "밑단 너비": 9.5,
             "다리 길이": 25
           },
-          "waistWidth": 20
+          "waistWidth": 20,
+          "hipWidth": 26,
+          "thighWidth": 15.5,
+          "riseLength": 18,
+          "hemWidth": 9.5,
+          "inseam": 25
         },
         {
           "label": "90",
@@ -193117,7 +194282,12 @@
             "밑단 너비": 10,
             "다리 길이": 31
           },
-          "waistWidth": 21
+          "waistWidth": 21,
+          "hipWidth": 27.5,
+          "thighWidth": 16.5,
+          "riseLength": 18.5,
+          "hemWidth": 10,
+          "inseam": 31
         },
         {
           "label": "100",
@@ -193130,7 +194300,12 @@
             "밑단 너비": 10.5,
             "다리 길이": 37
           },
-          "waistWidth": 22
+          "waistWidth": 22,
+          "hipWidth": 29,
+          "thighWidth": 17,
+          "riseLength": 18.5,
+          "hemWidth": 10.5,
+          "inseam": 37
         },
         {
           "label": "110",
@@ -193143,7 +194318,12 @@
             "밑단 너비": 11,
             "다리 길이": 43
           },
-          "waistWidth": 23
+          "waistWidth": 23,
+          "hipWidth": 30.5,
+          "thighWidth": 18.5,
+          "riseLength": 19.5,
+          "hemWidth": 11,
+          "inseam": 43
         }
       ]
     },
@@ -193183,11 +194363,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E486412-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -193200,7 +194381,9 @@
             "등 중심부터 소매까지 길이": 37
           },
           "topLength": 35,
-          "chestWidth": 31
+          "chestWidth": 31,
+          "shoulderWidth": 24.5,
+          "backNeckSleeveLength": 37
         },
         {
           "label": "90",
@@ -193212,7 +194395,9 @@
             "등 중심부터 소매까지 길이": 41
           },
           "topLength": 38,
-          "chestWidth": 33
+          "chestWidth": 33,
+          "shoulderWidth": 26,
+          "backNeckSleeveLength": 41
         },
         {
           "label": "100",
@@ -193224,7 +194409,9 @@
             "등 중심부터 소매까지 길이": 46
           },
           "topLength": 41,
-          "chestWidth": 35
+          "chestWidth": 35,
+          "shoulderWidth": 27.5,
+          "backNeckSleeveLength": 46
         }
       ]
     },
@@ -193264,11 +194451,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E489012-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -193281,7 +194469,9 @@
             "등 중심부터 소매까지 길이": 37
           },
           "topLength": 35,
-          "chestWidth": 31
+          "chestWidth": 31,
+          "shoulderWidth": 24.5,
+          "backNeckSleeveLength": 37
         },
         {
           "label": "90",
@@ -193293,7 +194483,9 @@
             "등 중심부터 소매까지 길이": 41
           },
           "topLength": 38,
-          "chestWidth": 33
+          "chestWidth": 33,
+          "shoulderWidth": 26,
+          "backNeckSleeveLength": 41
         },
         {
           "label": "100",
@@ -193305,7 +194497,9 @@
             "등 중심부터 소매까지 길이": 46
           },
           "topLength": 41,
-          "chestWidth": 35
+          "chestWidth": 35,
+          "shoulderWidth": 27.5,
+          "backNeckSleeveLength": 46
         }
       ]
     },
@@ -193337,11 +194531,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E494027-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -193354,7 +194549,9 @@
             "등 중심부터 소매까지 길이": 36.5
           },
           "topLength": 34,
-          "chestWidth": 35
+          "chestWidth": 35,
+          "shoulderWidth": 28,
+          "backNeckSleeveLength": 36.5
         },
         {
           "label": "90",
@@ -193366,7 +194563,9 @@
             "등 중심부터 소매까지 길이": 40.5
           },
           "topLength": 37,
-          "chestWidth": 37
+          "chestWidth": 37,
+          "shoulderWidth": 29.5,
+          "backNeckSleeveLength": 40.5
         },
         {
           "label": "100",
@@ -193378,7 +194577,9 @@
             "등 중심부터 소매까지 길이": 45.5
           },
           "topLength": 40,
-          "chestWidth": 39
+          "chestWidth": 39,
+          "shoulderWidth": 31,
+          "backNeckSleeveLength": 45.5
         }
       ]
     },
@@ -193410,11 +194611,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E494026-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -193427,7 +194629,9 @@
             "등 중심부터 소매까지 길이": 36.5
           },
           "topLength": 34,
-          "chestWidth": 35
+          "chestWidth": 35,
+          "shoulderWidth": 28,
+          "backNeckSleeveLength": 36.5
         },
         {
           "label": "90",
@@ -193439,7 +194643,9 @@
             "등 중심부터 소매까지 길이": 40.5
           },
           "topLength": 37,
-          "chestWidth": 37
+          "chestWidth": 37,
+          "shoulderWidth": 29.5,
+          "backNeckSleeveLength": 40.5
         },
         {
           "label": "100",
@@ -193451,7 +194657,9 @@
             "등 중심부터 소매까지 길이": 45.5
           },
           "topLength": 40,
-          "chestWidth": 39
+          "chestWidth": 39,
+          "shoulderWidth": 31,
+          "backNeckSleeveLength": 45.5
         }
       ]
     },
@@ -193483,11 +194691,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E494022-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -193500,7 +194709,9 @@
             "등 중심부터 소매까지 길이": 36.5
           },
           "topLength": 34,
-          "chestWidth": 35
+          "chestWidth": 35,
+          "shoulderWidth": 28,
+          "backNeckSleeveLength": 36.5
         },
         {
           "label": "90",
@@ -193512,7 +194723,9 @@
             "등 중심부터 소매까지 길이": 40.5
           },
           "topLength": 37,
-          "chestWidth": 37
+          "chestWidth": 37,
+          "shoulderWidth": 29.5,
+          "backNeckSleeveLength": 40.5
         },
         {
           "label": "100",
@@ -193524,7 +194737,9 @@
             "등 중심부터 소매까지 길이": 45.5
           },
           "topLength": 40,
-          "chestWidth": 39
+          "chestWidth": 39,
+          "shoulderWidth": 31,
+          "backNeckSleeveLength": 45.5
         }
       ]
     },
@@ -193558,11 +194773,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E486378-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -193575,7 +194791,9 @@
             "등 중심부터 소매까지 길이": 32
           },
           "topLength": 41,
-          "chestWidth": 23
+          "chestWidth": 23,
+          "shoulderWidth": 19,
+          "backNeckSleeveLength": 32
         },
         {
           "label": "80",
@@ -193587,7 +194805,9 @@
             "등 중심부터 소매까지 길이": 36
           },
           "topLength": 44,
-          "chestWidth": 24.5
+          "chestWidth": 24.5,
+          "shoulderWidth": 20,
+          "backNeckSleeveLength": 36
         },
         {
           "label": "90",
@@ -193599,7 +194819,9 @@
             "등 중심부터 소매까지 길이": 40
           },
           "topLength": 47,
-          "chestWidth": 25.5
+          "chestWidth": 25.5,
+          "shoulderWidth": 21,
+          "backNeckSleeveLength": 40
         }
       ]
     },
@@ -193633,11 +194855,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E489530-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -193650,7 +194873,9 @@
             "등 중심부터 소매까지 길이": 32
           },
           "topLength": 41,
-          "chestWidth": 23
+          "chestWidth": 23,
+          "shoulderWidth": 19,
+          "backNeckSleeveLength": 32
         },
         {
           "label": "80",
@@ -193662,7 +194887,9 @@
             "등 중심부터 소매까지 길이": 36
           },
           "topLength": 44,
-          "chestWidth": 24.5
+          "chestWidth": 24.5,
+          "shoulderWidth": 20,
+          "backNeckSleeveLength": 36
         },
         {
           "label": "90",
@@ -193674,7 +194901,9 @@
             "등 중심부터 소매까지 길이": 40
           },
           "topLength": 47,
-          "chestWidth": 25.5
+          "chestWidth": 25.5,
+          "shoulderWidth": 21,
+          "backNeckSleeveLength": 40
         }
       ]
     },
@@ -193708,11 +194937,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E486380-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -193725,7 +194955,9 @@
             "등 중심부터 소매까지 길이": 32
           },
           "topLength": 41,
-          "chestWidth": 23
+          "chestWidth": 23,
+          "shoulderWidth": 19,
+          "backNeckSleeveLength": 32
         },
         {
           "label": "80",
@@ -193737,7 +194969,9 @@
             "등 중심부터 소매까지 길이": 36
           },
           "topLength": 44,
-          "chestWidth": 24.5
+          "chestWidth": 24.5,
+          "shoulderWidth": 20,
+          "backNeckSleeveLength": 36
         },
         {
           "label": "90",
@@ -193749,7 +194983,9 @@
             "등 중심부터 소매까지 길이": 40
           },
           "topLength": 47,
-          "chestWidth": 25.5
+          "chestWidth": 25.5,
+          "shoulderWidth": 21,
+          "backNeckSleeveLength": 40
         }
       ]
     },
@@ -193783,11 +195019,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E486378-001/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -193799,7 +195036,8 @@
             "등 중심부터 소매까지 길이": 28
           },
           "topLength": 38.5,
-          "chestWidth": 22
+          "chestWidth": 22,
+          "backNeckSleeveLength": 28
         }
       ]
     },
@@ -193833,11 +195071,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E489526-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -193850,7 +195089,9 @@
             "등 중심부터 소매까지 길이": 32
           },
           "topLength": 41,
-          "chestWidth": 23
+          "chestWidth": 23,
+          "shoulderWidth": 19,
+          "backNeckSleeveLength": 32
         },
         {
           "label": "80",
@@ -193862,7 +195103,9 @@
             "등 중심부터 소매까지 길이": 36
           },
           "topLength": 44,
-          "chestWidth": 24.5
+          "chestWidth": 24.5,
+          "shoulderWidth": 20,
+          "backNeckSleeveLength": 36
         },
         {
           "label": "90",
@@ -193874,7 +195117,9 @@
             "등 중심부터 소매까지 길이": 40
           },
           "topLength": 47,
-          "chestWidth": 25.5
+          "chestWidth": 25.5,
+          "shoulderWidth": 21,
+          "backNeckSleeveLength": 40
         }
       ]
     },
@@ -193908,11 +195153,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E489530-001/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -193924,7 +195170,8 @@
             "등 중심부터 소매까지 길이": 28
           },
           "topLength": 38.5,
-          "chestWidth": 22
+          "chestWidth": 22,
+          "backNeckSleeveLength": 28
         }
       ]
     },
@@ -193958,11 +195205,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E489526-001/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -193974,7 +195222,8 @@
             "등 중심부터 소매까지 길이": 28
           },
           "topLength": 38.5,
-          "chestWidth": 22
+          "chestWidth": 22,
+          "backNeckSleeveLength": 28
         }
       ]
     },
@@ -194014,11 +195263,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E486367-001/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -194030,7 +195280,8 @@
             "등 중심부터 소매까지 길이": 28
           },
           "topLength": 38.5,
-          "chestWidth": 22
+          "chestWidth": 22,
+          "backNeckSleeveLength": 28
         }
       ]
     },
@@ -194070,11 +195321,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E486367-001/01",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -194086,7 +195338,8 @@
             "등 중심부터 소매까지 길이": 28
           },
           "topLength": 38.5,
-          "chestWidth": 22
+          "chestWidth": 22,
+          "backNeckSleeveLength": 28
         }
       ]
     },
@@ -194126,11 +195379,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E488861-001/01",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -194142,7 +195396,8 @@
             "등 중심부터 소매까지 길이": 28
           },
           "topLength": 38.5,
-          "chestWidth": 22
+          "chestWidth": 22,
+          "backNeckSleeveLength": 28
         }
       ]
     },
@@ -194182,11 +195437,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E488861-001/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -194198,7 +195454,8 @@
             "등 중심부터 소매까지 길이": 28
           },
           "topLength": 38.5,
-          "chestWidth": 22
+          "chestWidth": 22,
+          "backNeckSleeveLength": 28
         }
       ]
     },
@@ -194238,11 +195495,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E486367-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -194255,7 +195513,9 @@
             "등 중심부터 소매까지 길이": 32
           },
           "topLength": 41,
-          "chestWidth": 23
+          "chestWidth": 23,
+          "shoulderWidth": 19,
+          "backNeckSleeveLength": 32
         },
         {
           "label": "80",
@@ -194267,7 +195527,9 @@
             "등 중심부터 소매까지 길이": 36
           },
           "topLength": 44,
-          "chestWidth": 24.5
+          "chestWidth": 24.5,
+          "shoulderWidth": 20,
+          "backNeckSleeveLength": 36
         },
         {
           "label": "90",
@@ -194279,7 +195541,9 @@
             "등 중심부터 소매까지 길이": 40
           },
           "topLength": 47,
-          "chestWidth": 25.5
+          "chestWidth": 25.5,
+          "shoulderWidth": 21,
+          "backNeckSleeveLength": 40
         }
       ]
     },
@@ -194319,11 +195583,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E486367-000/01",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -194336,7 +195601,9 @@
             "등 중심부터 소매까지 길이": 32
           },
           "topLength": 41,
-          "chestWidth": 23
+          "chestWidth": 23,
+          "shoulderWidth": 19,
+          "backNeckSleeveLength": 32
         },
         {
           "label": "80",
@@ -194348,7 +195615,9 @@
             "등 중심부터 소매까지 길이": 36
           },
           "topLength": 44,
-          "chestWidth": 24.5
+          "chestWidth": 24.5,
+          "shoulderWidth": 20,
+          "backNeckSleeveLength": 36
         },
         {
           "label": "90",
@@ -194360,7 +195629,9 @@
             "등 중심부터 소매까지 길이": 40
           },
           "topLength": 47,
-          "chestWidth": 25.5
+          "chestWidth": 25.5,
+          "shoulderWidth": 21,
+          "backNeckSleeveLength": 40
         }
       ]
     },
@@ -194400,11 +195671,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E488861-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -194417,7 +195689,9 @@
             "등 중심부터 소매까지 길이": 32
           },
           "topLength": 41,
-          "chestWidth": 23
+          "chestWidth": 23,
+          "shoulderWidth": 19,
+          "backNeckSleeveLength": 32
         },
         {
           "label": "80",
@@ -194429,7 +195703,9 @@
             "등 중심부터 소매까지 길이": 36
           },
           "topLength": 44,
-          "chestWidth": 24.5
+          "chestWidth": 24.5,
+          "shoulderWidth": 20,
+          "backNeckSleeveLength": 36
         },
         {
           "label": "90",
@@ -194441,7 +195717,9 @@
             "등 중심부터 소매까지 길이": 40
           },
           "topLength": 47,
-          "chestWidth": 25.5
+          "chestWidth": 25.5,
+          "shoulderWidth": 21,
+          "backNeckSleeveLength": 40
         }
       ]
     },
@@ -194475,11 +195753,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E486335-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -194494,7 +195773,11 @@
             "다리 길이": 17
           },
           "topLength": 50.5,
-          "chestWidth": 26
+          "chestWidth": 26,
+          "shoulderWidth": 19.5,
+          "backNeckSleeveLength": 28.5,
+          "hipWidth": 28.5,
+          "inseam": 17
         },
         {
           "label": "70",
@@ -194508,7 +195791,11 @@
             "다리 길이": 21
           },
           "topLength": 58,
-          "chestWidth": 28
+          "chestWidth": 28,
+          "shoulderWidth": 21,
+          "backNeckSleeveLength": 32.5,
+          "hipWidth": 30.5,
+          "inseam": 21
         },
         {
           "label": "80",
@@ -194522,7 +195809,11 @@
             "다리 길이": 25
           },
           "topLength": 65.5,
-          "chestWidth": 30
+          "chestWidth": 30,
+          "shoulderWidth": 22.5,
+          "backNeckSleeveLength": 36.5,
+          "hipWidth": 32.5,
+          "inseam": 25
         }
       ]
     },
@@ -194556,11 +195847,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E486336-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -194575,7 +195867,11 @@
             "다리 길이": 17
           },
           "topLength": 50.5,
-          "chestWidth": 26
+          "chestWidth": 26,
+          "shoulderWidth": 19.5,
+          "backNeckSleeveLength": 28,
+          "hipWidth": 28.5,
+          "inseam": 17
         },
         {
           "label": "70",
@@ -194589,7 +195885,11 @@
             "다리 길이": 21
           },
           "topLength": 58,
-          "chestWidth": 28
+          "chestWidth": 28,
+          "shoulderWidth": 21,
+          "backNeckSleeveLength": 32,
+          "hipWidth": 30.5,
+          "inseam": 21
         },
         {
           "label": "80",
@@ -194603,7 +195903,11 @@
             "다리 길이": 25
           },
           "topLength": 65.5,
-          "chestWidth": 30
+          "chestWidth": 30,
+          "shoulderWidth": 22.5,
+          "backNeckSleeveLength": 36,
+          "hipWidth": 32.5,
+          "inseam": 25
         }
       ]
     },
@@ -194635,11 +195939,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E487950-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -194652,7 +195957,9 @@
             "다리 길이": 15.5
           },
           "topLength": 49.5,
-          "chestWidth": 25.5
+          "chestWidth": 25.5,
+          "hemWidth": 10.5,
+          "inseam": 15.5
         },
         {
           "label": "70",
@@ -194664,7 +195971,9 @@
             "다리 길이": 19.5
           },
           "topLength": 57.5,
-          "chestWidth": 27.5
+          "chestWidth": 27.5,
+          "hemWidth": 11,
+          "inseam": 19.5
         },
         {
           "label": "80",
@@ -194676,7 +195985,9 @@
             "다리 길이": 23.5
           },
           "topLength": 65,
-          "chestWidth": 29.5
+          "chestWidth": 29.5,
+          "hemWidth": 11.5,
+          "inseam": 23.5
         }
       ]
     },
@@ -194718,11 +196029,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E489247-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -194737,7 +196049,11 @@
             "다리 길이": 17.5
           },
           "topLength": 51,
-          "chestWidth": 27.5
+          "chestWidth": 27.5,
+          "shoulderWidth": 22,
+          "backNeckSleeveLength": 29.5,
+          "hipWidth": 29.25,
+          "inseam": 17.5
         },
         {
           "label": "70",
@@ -194751,7 +196067,11 @@
             "다리 길이": 21.5
           },
           "topLength": 58.5,
-          "chestWidth": 29.5
+          "chestWidth": 29.5,
+          "shoulderWidth": 23.5,
+          "backNeckSleeveLength": 33.5,
+          "hipWidth": 31.25,
+          "inseam": 21.5
         },
         {
           "label": "80",
@@ -194765,7 +196085,11 @@
             "다리 길이": 25.5
           },
           "topLength": 66.5,
-          "chestWidth": 31.5
+          "chestWidth": 31.5,
+          "shoulderWidth": 25,
+          "backNeckSleeveLength": 37.5,
+          "hipWidth": 33.25,
+          "inseam": 25.5
         }
       ]
     },
@@ -194807,11 +196131,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E488902-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -194826,7 +196151,11 @@
             "다리 길이": 17.5
           },
           "topLength": 51.5,
-          "chestWidth": 27.5
+          "chestWidth": 27.5,
+          "shoulderWidth": 22,
+          "backNeckSleeveLength": 29.5,
+          "hipWidth": 29.25,
+          "inseam": 17.5
         },
         {
           "label": "70",
@@ -194840,7 +196169,11 @@
             "다리 길이": 21.5
           },
           "topLength": 59,
-          "chestWidth": 29.5
+          "chestWidth": 29.5,
+          "shoulderWidth": 23.5,
+          "backNeckSleeveLength": 33.5,
+          "hipWidth": 31.25,
+          "inseam": 21.5
         },
         {
           "label": "80",
@@ -194854,7 +196187,11 @@
             "다리 길이": 25.5
           },
           "topLength": 66.5,
-          "chestWidth": 31.5
+          "chestWidth": 31.5,
+          "shoulderWidth": 25,
+          "backNeckSleeveLength": 37.5,
+          "hipWidth": 33.25,
+          "inseam": 25.5
         }
       ]
     },
@@ -194896,11 +196233,12 @@
         "url": "https://www.uniqlo.com/kr/ko/products/E488903-000/00",
         "checkedAt": "2026-11-17"
       },
-      "measurementBasis": "한국 공식 제품 치수 · 허리 둘레 명시 값만 ÷2 환산",
+      "measurementBasis": "한국 공식 제품 치수 · 허리·엉덩이 둘레 명시 값 ÷2 · 인심·총장 구분",
       "notes": [
         "제품 치수와 신체 치수를 구분했습니다.",
         "다리 길이(인심)와 등 중심부터 소매까지의 길이는 원본에 보존하고 바지 총장·일반 소매 길이로 환산하지 않습니다.",
-        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다."
+        "원단의 특성에 따라 1~2cm 차이가 있을 수 있습니다.",
+        "인심·바지 총장, 어깨선 소매·등 중심 소매는 서로 다른 측정 항목으로 보존하며, 같은 항목끼리만 비교합니다. 엉덩이 둘레 명시 값은 2로 나누어 단면으로 비교합니다."
       ],
       "sizes": [
         {
@@ -194915,7 +196253,11 @@
             "다리 길이": 17.5
           },
           "topLength": 51,
-          "chestWidth": 27.5
+          "chestWidth": 27.5,
+          "shoulderWidth": 19.5,
+          "backNeckSleeveLength": 29.5,
+          "hipWidth": 29.25,
+          "inseam": 17.5
         },
         {
           "label": "70",
@@ -194929,7 +196271,11 @@
             "다리 길이": 21.5
           },
           "topLength": 58.5,
-          "chestWidth": 29.5
+          "chestWidth": 29.5,
+          "shoulderWidth": 21,
+          "backNeckSleeveLength": 33.5,
+          "hipWidth": 31.25,
+          "inseam": 21.5
         },
         {
           "label": "80",
@@ -194943,7 +196289,11 @@
             "다리 길이": 25.5
           },
           "topLength": 66.5,
-          "chestWidth": 31.5
+          "chestWidth": 31.5,
+          "shoulderWidth": 22.5,
+          "backNeckSleeveLength": 37.5,
+          "hipWidth": 33.25,
+          "inseam": 25.5
         }
       ]
     },
@@ -222780,6 +224130,25 @@
       ],
       "newProducts": 10,
       "recoveredProducts": 2
+    },
+    "sharedParts20261123": {
+      "checkedAt": "2026-11-23",
+      "mappedValues": 1269,
+      "uniqlo": {
+        "top": {
+          "products": 13,
+          "sizeRows": 45
+        },
+        "bottom": {
+          "products": 28,
+          "sizeRows": 117
+        },
+        "homewear-set": {
+          "products": 17,
+          "sizeRows": 68
+        }
+      },
+      "policy": "동일 종류·동일 측정 부위만 비교. 한쪽에 없는 치수는 미확인. 인심과 총장, 소매 측정 기준 간 환산 없음."
     }
   }
 }

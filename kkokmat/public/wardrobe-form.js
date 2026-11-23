@@ -1,6 +1,6 @@
-import {KINDS,isComparable,displayName,ALL_DIMENSIONS} from './mobile-engine.js';
+import {KINDS,isComparable,isMeasurementRow,displayName,ALL_DIMENSIONS} from './mobile-engine.js';
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const validRow=(p,row)=>KINDS[p.kind]?.required.every(k=>Number.isFinite(row[k])&&row[k]>0);
+const validRow=(p,row)=>isMeasurementRow(row,p.kind);
 export function wardrobeProducts(data,draft){return (data.products??[]).filter(p=>p.kind===draft.kind&&(p.audience??'child')==='child'&&isComparable(p)&&(!draft.brand||p.brandId===draft.brand));}
 export function wardrobeOutfit(data,draft,checkedAt){
  const product=wardrobeProducts(data,draft).find(p=>p.id===draft.product),row=product?.sizes.find(s=>s.label===draft.size&&validRow(product,s));
