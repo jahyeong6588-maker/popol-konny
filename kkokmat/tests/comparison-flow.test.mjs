@@ -19,6 +19,10 @@ test('guest comparison flow hides unavailable brands and renders all numeric dis
  await change('referenceBrand','konny');await click('pick-reference-size',{product:'konny-ultra',size:'80'});
  await fire('submit',{target:{id:'reference-form',reportValidity:()=>true}});
  $=load(app.innerHTML);assert.equal($('input[name="targetBrand"][value="agabang"]').length,0);assert.equal($('input[name="targetBrand"][value="moimoln"]').length,1);assert.equal($('input[name="targetBrand"][value="all"]:checked').length,1);
+ assert.equal($('.target-brand-picker[open]').length,0);assert.equal($('.target-categories button').length,4);
+ await click('target-category',{category:'top'});$=load(app.innerHTML);assert.equal($('.target-categories [aria-pressed="true"]').attr('data-category'),'top');
+ assert.ok($('#target-options .pick-text small').toArray().every(x=>$(x).text().includes('상의')));
+ await click('target-category',{category:'all'});
  await fire('input',{target:{id:'target-brand-search',name:'',value:'아가방'}});assert.ok(!nodes.get('#target-brand-options').innerHTML.includes('value="agabang"'));assert.match(nodes.get('#target-brand-options').innerHTML,/검색 결과가 없어요/);
  await fire('input',{target:{id:'target-brand-search',name:'',value:''}});await change('targetBrand','bluedog-baby');
  await fire('submit',{target:{id:'target-form'}});
@@ -38,4 +42,15 @@ test('guest comparison flow hides unavailable brands and renders all numeric dis
  $=load(app.innerHTML);assert.ok($('.result-card').length>0);assert.match($('.difference-details').first().text(),/바지 안쪽 길이\(인심\)/);assert.match($('.difference-details').first().text(),/바지 총장.*미확인.*미확인.*비교 안 함/);assert.ok(!app.innerHTML.includes('NaN'));assert.match($('.fit-summary').first().text(),/공통으로 확인한/);
  const adjacent=$('.result-card').first().find('[data-action="candidate-size"]').last();await click('candidate-size',{index:adjacent.attr('data-index'),size:adjacent.attr('data-size')});
  $=load(app.innerHTML);assert.equal($('.difference-details[open]').length,0);assert.ok(!app.innerHTML.includes('NaN'));assert.match($('.difference-details').first().text(),/미확인/);
+ await click('edit-target');await click('target-category',{category:'set'});$=load(app.innerHTML);
+ assert.equal($('.target-brand-picker[open]').length,0);assert.equal($('.target-categories [data-category="top"]:disabled').length,1);
+ assert.ok($('#target-options .pick-text small').toArray().every(x=>$(x).text().includes('세트')));
+ await fire('submit',{target:{id:'target-form'}});$=load(app.innerHTML);assert.ok($('.result-card').length);assert.ok($('.result-kind-label').toArray().every(x=>$(x).text()==='세트'));
+ assert.ok(!$('.diff-table tbody th').toArray().some(x=>/가슴|상의|소매|어깨/.test($(x).text())));assert.match($('.comparison-scope-note').first().text(),/하의 치수만/);
+ const setAdjacent=$('.result-card').first().find('[data-action="candidate-size"]').last();await click('candidate-size',{index:setAdjacent.attr('data-index'),size:setAdjacent.attr('data-size')});$=load(app.innerHTML);
+ assert.ok(!$('.diff-table tbody th').toArray().some(x=>/가슴|상의|소매|어깨/.test($(x).text())));
+ await click('edit-reference');await change('referenceKind','top');await change('referenceBrand','konny');
+ const top=data.products.find(p=>p.kind==='top'&&p.brandId==='konny'&&p.sizes.some(s=>s.chestWidth>0&&s.topLength>0)),topSize=top.sizes.find(s=>s.chestWidth>0&&s.topLength>0).label;
+ await click('pick-reference-size',{product:top.id,size:topSize});await fire('submit',{target:{id:'reference-form',reportValidity:()=>true}});await click('target-category',{category:'set'});await fire('submit',{target:{id:'target-form'}});$=load(app.innerHTML);
+ assert.ok($('.result-card').length);assert.ok($('.result-kind-label').toArray().every(x=>$(x).text()==='세트'));assert.ok(!$('.diff-table tbody th').toArray().some(x=>/허리|바지/.test($(x).text())));assert.match($('.comparison-scope-note').first().text(),/상의 치수만/);
 });

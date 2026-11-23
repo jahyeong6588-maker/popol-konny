@@ -1,9 +1,12 @@
-import {isComparable,KINDS,comparisonKinds} from './engine.js';
+import {isComparable,isMeasurementRow,KINDS,comparisonKinds,comparisonScope} from './engine.js';
 import {sameProduct,productIdentity} from './product-identity.js';
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-export function comparisonBrands(data,{kind=null,audience='child',excludeProduct='',body=false,includeSeparates=false}={}){
+export function comparisonProducts(data,{kind=null,audience='child',excludeProduct='',includeSeparates=false,category='all',brand='all'}={}){
+ return (data.products??[]).filter(p=>isComparable(p)&&(p.audience??'child')===audience&&(!kind||(includeSeparates?comparisonKinds(kind).includes(p.kind)&&p.sizes.some(row=>isMeasurementRow(row,comparisonScope(kind,p.kind))):p.kind===kind))&&(category==='all'||resultCategory({garmentKind:p.kind})===category)&&(brand==='all'||p.brandId===brand)&&!sameProduct(data,p,excludeProduct));
+}
+export function comparisonBrands(data,{kind=null,audience='child',excludeProduct='',body=false,includeSeparates=false,category='all'}={}){
  const groups=new Map();
- for(const p of data.products??[])if(isComparable(p)&&(p.audience??'child')===audience&&(!kind||(includeSeparates?comparisonKinds(kind).includes(p.kind):p.kind===kind))&&!sameProduct(data,p,excludeProduct)){if(!groups.has(p.brandId))groups.set(p.brandId,new Set());groups.get(p.brandId).add(productIdentity(data,p));}
+ for(const p of comparisonProducts(data,{kind,audience,excludeProduct,includeSeparates,category})){if(!groups.has(p.brandId))groups.set(p.brandId,new Set());groups.get(p.brandId).add(productIdentity(data,p));}
  const counts=new Map([...groups].map(([id,items])=>[id,items.size]));
  return (data.brands??[]).filter(b=>counts.has(b.id)&&(!body||b.bodyGuide?.rows?.length)).map(b=>({...b,measurementCount:counts.get(b.id)})).sort((a,b)=>b.measurementCount-a.measurementCount||a.name.localeCompare(b.name,'ko'));
 }
@@ -15,6 +18,9 @@ export const RESULT_CATEGORIES={all:'전체',set:'세트',top:'상의',bottom:'�
 export function filterResultCandidates(results,{category='all',brand='all'}={}){return results.filter(c=>(category==='all'||resultCategory(c)===category)&&(brand==='all'||c.brandId===brand));}
 export function renderResultCategories(results,selected='all'){
  return `<div class="result-categories" role="group" aria-label="결과 상품 종류">${Object.entries(RESULT_CATEGORIES).map(([key,label])=>{const count=filterResultCandidates(results,{category:key}).length;return `<button type="button" data-action="result-category" data-category="${key}" aria-pressed="${key===selected}" class="${key===selected?'selected':''}">${label}<span>${count}</span></button>`}).join('')}</div>`;
+}
+export function renderTargetCategories(data,products,selected='all'){
+ return `<fieldset class="target-category-field"><legend>찾을 상품 종류</legend><div class="result-categories target-categories" role="group" aria-label="찾을 상품 종류">${Object.entries(RESULT_CATEGORIES).map(([key,label])=>{const items=products.filter(p=>key==='all'||resultCategory({garmentKind:p.kind})===key),count=new Set(items.map(p=>productIdentity(data,p))).size;return `<button type="button" data-action="target-category" data-category="${key}" aria-pressed="${key===selected}" class="${key===selected?'selected':''}" ${count?'':'disabled'}>${label}${count?`<span>${count}</span>`:''}</button>`}).join('')}</div></fieldset>`;
 }
 export function renderBrandChoices(brands,{selected='all',query=''}={}){
  if(!brands.length)return '<p class="field-help">이 종류에서 비교할 상품이 없어요.</p>';
