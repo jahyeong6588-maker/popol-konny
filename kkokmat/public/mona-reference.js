@@ -1,3 +1,4 @@
+import {loadMonaIndex,loadMonaProducts} from './mona-data.js';
 import {comparisonKinds} from './engine.js';
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const norm=s=>String(s??'').normalize('NFKC').replace(/\s/g,'').toUpperCase();
@@ -6,10 +7,10 @@ const sameSize=(a,b)=>sizeAliases(a).some(x=>sizeAliases(b).includes(x));
 const inRange=(value,range)=>!!range&&Number.isFinite(value)&&value>=range[0]&&value<=range[1];
 const category=kind=>['set','homewear-set'].includes(kind)?'set':kind;
 const productSeason=name=>Object.entries({spring:'봄',summer:'여름',autumn:'가을',winter:'겨울',all:'사계절|4계절'}).filter(([,word])=>new RegExp(word).test(name)).map(([key])=>key);
-export function matchMonaReferences(index,products,{height=null,weight=null,kind='homewear-set',category:filter='all',season='any',differentFabric=false}={}){
+export function matchMonaReferences(index,products,{height=null,weight=null,kind='homewear-set',category:filter='all',season='any',differentFabric=false,excludeProduct=''}={}){
  if(!Number.isFinite(height)||height<40||height>140||weight!=null&&(!Number.isFinite(weight)||weight<2||weight>40)||differentFabric)return [];
  const brands=new Map(index.brands.map(b=>[b.id,b])),out=[];
- for(const p of products){if(!p.optionVerified||!p.sizes?.length||!comparisonKinds(kind).includes(p.kind)||filter!=='all'&&category(p.kind)!==filter)continue;
+ for(const p of products){if(p.id===excludeProduct)continue;if(!p.optionVerified||!p.sizes?.length||!comparisonKinds(kind).includes(p.kind)||filter!=='all'&&category(p.kind)!==filter)continue;
   if(season!=='any'){const s=productSeason(p.name);if(!s.includes(season)&&!s.includes('all'))continue;}
   const brand=brands.get(p.brandId);if(!brand)continue;
   const baby=/베베|베이비|뉴본/.test(p.name)||p.sizes.every(s=>/^\d{1,2}\s*[mM개월]+$/.test(s));
@@ -28,9 +29,7 @@ export function matchMonaReferences(index,products,{height=null,weight=null,kind
 const rangeText=(r,unit)=>r?r.join('–')+unit:'';
 export function createMonaReference({app}){
  let query={},index=null,items=[],results=[],status='idle',error='',brand='all',limit=12,epoch=0;
- let indexPromise;const parts=new Map();
- const getIndex=()=>indexPromise??=fetch('./mona/index.json').then(r=>{if(!r.ok)throw Error('목록을 불러오지 못했어요.');return r.json();}).catch(e=>{indexPromise=null;throw e;});
- const getPart=kind=>{if(!parts.has(kind))parts.set(kind,fetch('./mona/products-'+kind+'.json').then(r=>{if(!r.ok)throw Error('상품 목록을 불러오지 못했어요.');return r.json();}).then(d=>d.products).catch(e=>{parts.delete(kind);throw e;}));return parts.get(kind);};
+ const getIndex=loadMonaIndex,getPart=loadMonaProducts;
  const paint=()=>{const host=app.querySelector?.('.mona-reference');if(host)host.outerHTML=render();};
  async function load(next){query={...next};brand='all';limit=12;const token=++epoch;
   if(!Number.isFinite(query.height)){status='need-body';results=[];paint();return;}if(query.differentFabric){status='fabric';results=[];paint();return;}
