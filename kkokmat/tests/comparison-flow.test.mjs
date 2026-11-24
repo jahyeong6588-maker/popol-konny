@@ -15,7 +15,7 @@ test('guest comparison flow hides unavailable brands and renders all numeric dis
  const fire=async(name,event)=>{for(const fn of listeners.get(name)??[])await fn({preventDefault(){},...event});};
  const change=(name,value)=>fire('change',{target:{name,value}}),click=(action,dataset={})=>fire('click',{target:{closest:selector=>selector==='[data-action]'?{dataset:{action,...dataset}}:null}});
  await import('../public/mobile-app.js?flow-test');await new Promise(resolve=>setImmediate(resolve));
- let $=load(app.innerHTML);assert.equal($('#reference-brand option[value="agabang"]').length,0);assert.equal($('#reference-brand option[value="earth"]').length,0);
+ let $=load(app.innerHTML);assert.equal($('[data-brand-choice="agabang"]').length,0);assert.equal($('[data-brand-choice="earth"]').length,0);
  await change('referenceBrand','konny');await click('pick-reference-size',{product:'konny-ultra',size:'80'});
  await fire('submit',{target:{id:'reference-form',reportValidity:()=>true}});
  $=load(app.innerHTML);assert.equal($('input[name="targetBrand"][value="agabang"]').length,0);assert.equal($('input[name="targetBrand"][value="moimoln"]').length,1);assert.equal($('input[name="targetBrand"][value="all"]:checked').length,1);
@@ -55,7 +55,7 @@ test('guest comparison flow hides unavailable brands and renders all numeric dis
  assert.ok($('.result-card').length);assert.ok($('.result-kind-label').toArray().every(x=>$(x).text()==='세트'));assert.ok(!$('.diff-table tbody th').toArray().some(x=>/허리|바지/.test($(x).text())));assert.match($('.comparison-scope-note').first().text(),/상의 치수만/);
  await click('edit-reference');await change('referenceKind','top');
  const mi=JSON.parse(fs.readFileSync(new URL('../public/mona/index.json',import.meta.url))),mb=mi.brands.find(b=>b.name==='고유'),mp=JSON.parse(fs.readFileSync(new URL('../public/mona/products-top.json',import.meta.url))).products.find(p=>p.brandId===mb.id&&p.optionVerified&&p.sizes.includes('XS'));
- await fire('input',{target:{id:'reference-brand-search',name:'',value:'고유'}});assert.match(nodes.get('#reference-brand').innerHTML,/고유/);
+ $=load(app.innerHTML);assert.equal($('[role=combobox]#reference-brand').length,1);assert.equal($('#reference-brand-search').length,0);
  await change('referenceBrand',mb.id);await new Promise(resolve=>setImmediate(resolve));
  $=load(app.innerHTML);assert.ok($('[data-action="pick-reference-size"][data-product="'+mp.id+'"][data-size="XS"]:not(:disabled)').length);
  await click('pick-reference-size',{product:mp.id,size:'XS'});$=load(app.innerHTML);
