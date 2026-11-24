@@ -1,0 +1,1631 @@
+{
+  "checkedAt": "2026-11-24",
+  "source": {
+    "name": "모나마켓 브랜드별 추천 사이즈표",
+    "url": "https://monamarket.co.kr/product/brand-size-guide.html",
+    "type": "retailer-body-guide"
+  },
+  "scope": "baby-kids; explicit age rows must start below 72 months; age-unspecified rows retain source body ranges without inferred age",
+  "counts": {
+    "homewear-set": 12,
+    "set": 67,
+    "top": 914,
+    "bottom": 598,
+    "bodysuit": 12,
+    "dress": 45
+  },
+  "totalProducts": 1648,
+  "optionVerified": 1647,
+  "guideHash": "cec2b3e368047872aa5f0f741cf258f83e773f5d0f90264b89f52be4e68a92b7",
+  "listedProducts": 3002,
+  "listPages": 113,
+  "excludedGuideRows": [
+    {
+      "brand": "고유베베",
+      "caption": "사이즈표",
+      "label": "2호",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "2호",
+        "나이": "6~12개월"
+      }
+    },
+    {
+      "brand": "고유베베",
+      "caption": "사이즈표",
+      "label": "3호",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "3호",
+        "나이": "12~18개월"
+      }
+    },
+    {
+      "brand": "고유베베",
+      "reason": "no-eligible-body-guide"
+    },
+    {
+      "brand": "나비",
+      "caption": "사이즈표",
+      "label": "S",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "S",
+        "숫자 사이즈": "100",
+        "범위(원본 표기)": "95~102"
+      }
+    },
+    {
+      "brand": "나비",
+      "caption": "사이즈표",
+      "label": "M",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "M",
+        "숫자 사이즈": "110",
+        "범위(원본 표기)": "100~110"
+      }
+    },
+    {
+      "brand": "나비",
+      "caption": "사이즈표",
+      "label": "L",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "L",
+        "숫자 사이즈": "120",
+        "범위(원본 표기)": "108~118"
+      }
+    },
+    {
+      "brand": "나비",
+      "caption": "사이즈표",
+      "label": "XL",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "XL",
+        "숫자 사이즈": "130",
+        "범위(원본 표기)": "116~125"
+      }
+    },
+    {
+      "brand": "나비",
+      "caption": "사이즈표",
+      "label": "XXL",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "XXL",
+        "숫자 사이즈": "140",
+        "범위(원본 표기)": "123~132"
+      }
+    },
+    {
+      "brand": "나비",
+      "caption": "사이즈표",
+      "label": "JS",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "JS",
+        "숫자 사이즈": "150",
+        "범위(원본 표기)": "130~138"
+      }
+    },
+    {
+      "brand": "나비",
+      "caption": "사이즈표",
+      "label": "JM",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "JM",
+        "숫자 사이즈": "160",
+        "범위(원본 표기)": "135~143"
+      }
+    },
+    {
+      "brand": "나비",
+      "caption": "사이즈표",
+      "label": "JL",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "JL",
+        "숫자 사이즈": "170",
+        "범위(원본 표기)": "143~150"
+      }
+    },
+    {
+      "brand": "나비",
+      "reason": "no-eligible-body-guide"
+    },
+    {
+      "brand": "더고구마",
+      "caption": "사이즈 안내",
+      "label": "XL / 11호",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "XL / 11호",
+        "나이(세)": "6~7",
+        "키(cm)": "115~122",
+        "몸무게(kg)": "19~22"
+      }
+    },
+    {
+      "brand": "더고구마",
+      "caption": "사이즈 안내",
+      "label": "JS / 13호",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "JS / 13호",
+        "나이(세)": "7~8",
+        "키(cm)": "122~129",
+        "몸무게(kg)": "22~25"
+      }
+    },
+    {
+      "brand": "더고구마",
+      "caption": "사이즈 안내",
+      "label": "JM / 15호",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "JM / 15호",
+        "나이(세)": "8~10",
+        "키(cm)": "129~136",
+        "몸무게(kg)": "25~30"
+      }
+    },
+    {
+      "brand": "더고구마",
+      "caption": "사이즈 안내",
+      "label": "JL / 17호",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "JL / 17호",
+        "나이(세)": "10~11",
+        "키(cm)": "136~142",
+        "몸무게(kg)": "30~35"
+      }
+    },
+    {
+      "brand": "더랄라",
+      "caption": "베이비",
+      "label": "XS",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "XS",
+        "나이": "0~6개월",
+        "키(cm)": "~68",
+        "몸무게(kg)": "4~7"
+      }
+    },
+    {
+      "brand": "더랄라",
+      "caption": "키즈",
+      "label": "XS",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "XS",
+        "나이": "1~2세",
+        "키(cm)": "~75",
+        "몸무게(kg)": "5~10"
+      }
+    },
+    {
+      "brand": "데일리베베",
+      "caption": "사이즈 가이드",
+      "label": "11호(XL)",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "11호(XL)",
+        "나이": "7~8세",
+        "키(cm)": "110~120",
+        "몸무게(kg)": "19~22"
+      }
+    },
+    {
+      "brand": "데일리베베",
+      "caption": "사이즈 가이드",
+      "label": "13호(JS)",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "13호(JS)",
+        "나이": "8~9세",
+        "키(cm)": "120~125",
+        "몸무게(kg)": "23~27"
+      }
+    },
+    {
+      "brand": "데일리베베",
+      "caption": "사이즈 가이드",
+      "label": "15호(JM)",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "15호(JM)",
+        "나이": "9~10세",
+        "키(cm)": "125~135",
+        "몸무게(kg)": "27~31"
+      }
+    },
+    {
+      "brand": "데일리베베",
+      "caption": "사이즈 가이드",
+      "label": "17호(JL)",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "17호(JL)",
+        "나이": "10~11세",
+        "키(cm)": "135~140",
+        "몸무게(kg)": "32~35"
+      }
+    },
+    {
+      "brand": "라라랜드",
+      "caption": "베베 의류",
+      "label": "6m",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "6m",
+        "나이 / 월령": "6개월 기준",
+        "키": "최대 66cm",
+        "몸무게": "최대 8kg"
+      }
+    },
+    {
+      "brand": "라라랜드",
+      "caption": "베베 의류",
+      "label": "12m",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "12m",
+        "나이 / 월령": "12개월 기준",
+        "키": "최대 74cm",
+        "몸무게": "최대 10kg"
+      }
+    },
+    {
+      "brand": "라라랜드",
+      "caption": "베베 의류",
+      "label": "18m",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "18m",
+        "나이 / 월령": "18개월 기준",
+        "키": "최대 82cm",
+        "몸무게": "최대 12kg"
+      }
+    },
+    {
+      "brand": "린도",
+      "caption": "키즈 의류",
+      "label": "XL = 11",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "XL = 11",
+        "숫자 / 호수": "11",
+        "나이 / 월령": "6~7세",
+        "키": "115~125cm",
+        "몸무게": "19~23kg"
+      }
+    },
+    {
+      "brand": "린도",
+      "caption": "베베 의류",
+      "label": "1",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "1",
+        "숫자 / 호수": "1",
+        "나이 / 월령": "3~6개월",
+        "키": "약 65cm",
+        "몸무게": "약 8kg"
+      }
+    },
+    {
+      "brand": "린도",
+      "caption": "베베 의류",
+      "label": "2",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "2",
+        "숫자 / 호수": "2",
+        "나이 / 월령": "6~12개월",
+        "키": "약 75cm",
+        "몸무게": "약 10kg"
+      }
+    },
+    {
+      "brand": "린도",
+      "caption": "베베 의류",
+      "label": "3",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "3",
+        "숫자 / 호수": "3",
+        "나이 / 월령": "12~18개월",
+        "키": "약 85cm",
+        "몸무게": "약 12kg"
+      }
+    },
+    {
+      "brand": "마마스파파",
+      "reason": "no-eligible-body-guide"
+    },
+    {
+      "brand": "멜멜",
+      "caption": "사이즈 가이드",
+      "label": "L",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "L",
+        "키(cm)": "108~116",
+        "몸무게(kg)": "22~26",
+        "나이": "6~7세"
+      }
+    },
+    {
+      "brand": "멜멜",
+      "caption": "사이즈 가이드",
+      "label": "JS",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "JS",
+        "키(cm)": "116~125",
+        "몸무게(kg)": "26~30",
+        "나이": "7~8세"
+      }
+    },
+    {
+      "brand": "멜멜",
+      "caption": "사이즈 가이드",
+      "label": "JM",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "JM",
+        "키(cm)": "125~135",
+        "몸무게(kg)": "30~34",
+        "나이": "8~9세"
+      }
+    },
+    {
+      "brand": "멜멜",
+      "caption": "사이즈 가이드",
+      "label": "JL",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "JL",
+        "키(cm)": "135~145",
+        "몸무게(kg)": "34~38",
+        "나이": "9~10세"
+      }
+    },
+    {
+      "brand": "멜멜",
+      "caption": "사이즈 가이드",
+      "label": "JXL",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "JXL",
+        "키(cm)": "145~155",
+        "몸무게(kg)": "38~42",
+        "나이": "10~11세"
+      }
+    },
+    {
+      "brand": "모모앤",
+      "caption": "의류",
+      "label": "13호",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "13호",
+        "키": "120~130cm",
+        "나이": "6~7세"
+      }
+    },
+    {
+      "brand": "모모앤",
+      "caption": "의류",
+      "label": "15호 (주니어)",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "15호 (주니어)",
+        "키": "130~140cm",
+        "나이": "8~9세"
+      }
+    },
+    {
+      "brand": "미니로브",
+      "caption": "토들러 의류",
+      "label": "S",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "S",
+        "숫자 / 호수": "80",
+        "키": "70~80cm",
+        "몸무게": "최대 12kg"
+      }
+    },
+    {
+      "brand": "미니로브",
+      "caption": "토들러 의류",
+      "label": "M",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "M",
+        "숫자 / 호수": "90",
+        "키": "80~90cm",
+        "몸무게": "최대 15kg"
+      }
+    },
+    {
+      "brand": "미니로브",
+      "caption": "토들러 의류",
+      "label": "L",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "L",
+        "숫자 / 호수": "100",
+        "키": "90~100cm",
+        "몸무게": "최대 17kg"
+      }
+    },
+    {
+      "brand": "미니로브",
+      "caption": "토들러 의류",
+      "label": "XL",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "XL",
+        "숫자 / 호수": "110",
+        "키": "100~110cm",
+        "몸무게": "최대 19kg"
+      }
+    },
+    {
+      "brand": "미니로브",
+      "reason": "no-eligible-body-guide"
+    },
+    {
+      "brand": "미니봉봉",
+      "caption": "사이즈 안내",
+      "label": "XL",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "XL",
+        "키(cm)": "120~130",
+        "몸무게(kg)": "24~27",
+        "나이": "6~7"
+      }
+    },
+    {
+      "brand": "미니봉봉",
+      "caption": "사이즈 안내",
+      "label": "JS",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "JS",
+        "키(cm)": "130~137",
+        "몸무게(kg)": "27~30",
+        "나이": "7~8"
+      }
+    },
+    {
+      "brand": "미니봉봉",
+      "caption": "사이즈 안내",
+      "label": "JM",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "JM",
+        "키(cm)": "137~144",
+        "몸무게(kg)": "30~33",
+        "나이": "8~9"
+      }
+    },
+    {
+      "brand": "미니봉봉",
+      "caption": "사이즈 안내",
+      "label": "JL",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "JL",
+        "키(cm)": "144~150",
+        "몸무게(kg)": "33~36",
+        "나이": "9~10"
+      }
+    },
+    {
+      "brand": "미라이키",
+      "caption": "사이즈표",
+      "label": "3호(XS)",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "3호(XS)",
+        "몸무게(kg)": "~10",
+        "키(cm)": "~80",
+        "나이": "~24개월"
+      }
+    },
+    {
+      "brand": "미라이키",
+      "caption": "사이즈표",
+      "label": "11호(XL)",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "11호(XL)",
+        "몸무게(kg)": "20~25",
+        "키(cm)": "115~125",
+        "나이": "6~7세"
+      }
+    },
+    {
+      "brand": "미라이키",
+      "caption": "사이즈표",
+      "label": "13호(JS)(XXL)",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "13호(JS)(XXL)",
+        "몸무게(kg)": "25~30",
+        "키(cm)": "125~135",
+        "나이": "7~8세"
+      }
+    },
+    {
+      "brand": "미라이키",
+      "caption": "사이즈표",
+      "label": "15호(JM)",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "15호(JM)",
+        "몸무게(kg)": "30~35",
+        "키(cm)": "135~140",
+        "나이": "9~10세"
+      }
+    },
+    {
+      "brand": "바이미미",
+      "caption": "사이즈 가이드",
+      "label": "XL",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "XL",
+        "유아복": "120",
+        "아동복": "11호",
+        "나이": "7~8세",
+        "키(cm)": "115~125",
+        "몸무게(kg)": "21~25"
+      }
+    },
+    {
+      "brand": "바이미미",
+      "caption": "사이즈 가이드",
+      "label": "XXL",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "XXL",
+        "유아복": "130",
+        "아동복": "13호",
+        "나이": "8~9세",
+        "키(cm)": "125~130",
+        "몸무게(kg)": "25~30"
+      }
+    },
+    {
+      "brand": "벨루베베",
+      "caption": "의류 사이즈 안내",
+      "label": "6M",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "6M",
+        "키(cm)": "~70"
+      }
+    },
+    {
+      "brand": "벨루베베",
+      "caption": "베베 타이즈",
+      "label": "S",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "S",
+        "키(cm)": "~75"
+      }
+    },
+    {
+      "brand": "보니토",
+      "caption": "일반 의류",
+      "label": "12M",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "12M",
+        "숫자 / 호수": "80",
+        "나이 / 월령": "12~18개월",
+        "키": "약 80cm",
+        "몸무게": "약 10kg"
+      }
+    },
+    {
+      "brand": "보니토",
+      "caption": "일반 의류",
+      "label": "XS / 3호",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "XS / 3호",
+        "숫자 / 호수": "—",
+        "나이 / 월령": "2~3세",
+        "키": "80~85cm",
+        "몸무게": "약 12kg"
+      }
+    },
+    {
+      "brand": "보니토",
+      "caption": "일반 의류",
+      "label": "S / 5호",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "S / 5호",
+        "숫자 / 호수": "—",
+        "나이 / 월령": "3~4세",
+        "키": "85~95cm",
+        "몸무게": "약 14kg"
+      }
+    },
+    {
+      "brand": "보니토",
+      "caption": "일반 의류",
+      "label": "XL / 11호",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "XL / 11호",
+        "숫자 / 호수": "—",
+        "나이 / 월령": "6~7세",
+        "키": "115~125cm",
+        "몸무게": "20~24kg"
+      }
+    },
+    {
+      "brand": "보니토",
+      "caption": "일반 의류",
+      "label": "JS / 13호",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "JS / 13호",
+        "숫자 / 호수": "—",
+        "나이 / 월령": "7~8세",
+        "키": "125~135cm",
+        "몸무게": "25~30kg"
+      }
+    },
+    {
+      "brand": "보니토",
+      "caption": "일반 의류",
+      "label": "JM / 15호",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "JM / 15호",
+        "숫자 / 호수": "—",
+        "나이 / 월령": "9~10세",
+        "키": "135~140cm",
+        "몸무게": "30~35kg"
+      }
+    },
+    {
+      "brand": "블랙빈",
+      "caption": "베베 의류",
+      "label": "S",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "S",
+        "나이 / 월령": "3~7개월",
+        "키": "최대 69cm",
+        "핏 참고": "조금 커요"
+      }
+    },
+    {
+      "brand": "소이빈",
+      "caption": "사이즈 가이드",
+      "label": "XS",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "XS",
+        "키(cm)": "75~80",
+        "몸무게(kg)": "~11"
+      }
+    },
+    {
+      "brand": "소이빈",
+      "caption": "사이즈 가이드",
+      "label": "S",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "S",
+        "키(cm)": "80~90",
+        "몸무게(kg)": "~13"
+      }
+    },
+    {
+      "brand": "소이빈",
+      "caption": "사이즈 가이드",
+      "label": "M",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "M",
+        "키(cm)": "90~100",
+        "몸무게(kg)": "~15"
+      }
+    },
+    {
+      "brand": "소이빈",
+      "caption": "사이즈 가이드",
+      "label": "L",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "L",
+        "키(cm)": "100~110",
+        "몸무게(kg)": "~18"
+      }
+    },
+    {
+      "brand": "소이빈",
+      "caption": "사이즈 가이드",
+      "label": "XL",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "XL",
+        "키(cm)": "110~118",
+        "몸무게(kg)": "~21"
+      }
+    },
+    {
+      "brand": "소이빈",
+      "caption": "사이즈 가이드",
+      "label": "JS",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "JS",
+        "키(cm)": "119~125",
+        "몸무게(kg)": "~25"
+      }
+    },
+    {
+      "brand": "소이빈",
+      "caption": "사이즈 가이드",
+      "label": "JM",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "JM",
+        "키(cm)": "125~133",
+        "몸무게(kg)": "~30"
+      }
+    },
+    {
+      "brand": "소이빈",
+      "caption": "사이즈 가이드",
+      "label": "JL",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "JL",
+        "키(cm)": "133~140",
+        "몸무게(kg)": "~35"
+      }
+    },
+    {
+      "brand": "소이빈",
+      "reason": "no-eligible-body-guide"
+    },
+    {
+      "brand": "슈크림",
+      "caption": "베베·토들러 의류",
+      "label": "bebe S",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "bebe S",
+        "나이 / 월령": "6~10개월",
+        "키": "약 75cm",
+        "몸무게": "약 9kg"
+      }
+    },
+    {
+      "brand": "슈크림",
+      "caption": "베베·토들러 의류",
+      "label": "bebe M",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "bebe M",
+        "나이 / 월령": "10~18개월",
+        "키": "약 85cm",
+        "몸무게": "약 11kg"
+      }
+    },
+    {
+      "brand": "슈크림",
+      "caption": "베베·토들러 의류",
+      "label": "S",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "S",
+        "나이 / 월령": "10~18개월",
+        "키": "약 85cm",
+        "몸무게": "약 12kg"
+      }
+    },
+    {
+      "brand": "슈크림",
+      "caption": "베베·토들러 의류",
+      "label": "M",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "M",
+        "나이 / 월령": "18~24개월",
+        "키": "약 90cm",
+        "몸무게": "약 14kg"
+      }
+    },
+    {
+      "brand": "슈크림",
+      "caption": "베베·토들러 의류",
+      "label": "L",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "L",
+        "나이 / 월령": "24~36개월",
+        "키": "약 100cm",
+        "몸무게": "약 16kg"
+      }
+    },
+    {
+      "brand": "슈크림",
+      "reason": "no-eligible-body-guide"
+    },
+    {
+      "brand": "아오스타",
+      "caption": "일반 의류",
+      "label": "S",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "S",
+        "숫자 / 호수": "70",
+        "나이 / 월령": "0~1세",
+        "키": "약 70cm",
+        "몸무게": "3~10kg"
+      }
+    },
+    {
+      "brand": "아오스타",
+      "caption": "니트",
+      "label": "S",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "S",
+        "숫자 / 호수": "80",
+        "나이 / 월령": "0~2세",
+        "키": "약 80cm",
+        "몸무게": "3~10kg"
+      }
+    },
+    {
+      "brand": "아오스타",
+      "caption": "슈트·블루머",
+      "label": "S",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "S",
+        "숫자 / 호수": "66",
+        "나이 / 월령": "0~6개월",
+        "키": "약 66cm",
+        "몸무게": "0~7kg"
+      }
+    },
+    {
+      "brand": "아이아이",
+      "caption": "키즈 사이즈 안내",
+      "label": "13호(130)",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "호수": "13호(130)",
+        "사이즈": "XXL",
+        "나이": "6~7세",
+        "키(cm)": "125~135",
+        "몸무게(kg)": "22~24"
+      }
+    },
+    {
+      "brand": "아젤리아",
+      "caption": "키즈 사이즈표",
+      "label": "XL",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "XL",
+        "나이(세)": "7~8세",
+        "키(cm)": "110~120",
+        "몸무게(kg)": "19~24",
+        "바지길이(cm)": "65"
+      }
+    },
+    {
+      "brand": "아젤리아",
+      "caption": "키즈 사이즈표",
+      "label": "JS",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "JS",
+        "나이(세)": "8~9세",
+        "키(cm)": "120~130",
+        "몸무게(kg)": "24~29",
+        "바지길이(cm)": "70.5"
+      }
+    },
+    {
+      "brand": "에이모어",
+      "caption": "베베 사이즈 안내",
+      "label": "12m",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "12m",
+        "키(cm)": "75 이하"
+      }
+    },
+    {
+      "brand": "에이모어",
+      "caption": "베베 사이즈 안내",
+      "label": "18m",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "18m",
+        "키(cm)": "80 이하"
+      }
+    },
+    {
+      "brand": "에이모어",
+      "caption": "키즈 사이즈 안내",
+      "label": "11호(XL)",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "11호(XL)",
+        "나이": "6~7세",
+        "키(cm)": "112~118",
+        "몸무게(kg)": "20~22"
+      }
+    },
+    {
+      "brand": "에이모어",
+      "caption": "키즈 사이즈 안내",
+      "label": "13호(JS)",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "13호(JS)",
+        "나이": "7~8세",
+        "키(cm)": "118~122",
+        "몸무게(kg)": "22~25"
+      }
+    },
+    {
+      "brand": "에이모어",
+      "caption": "키즈 사이즈 안내",
+      "label": "15호(JM)",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "15호(JM)",
+        "나이": "8~9세",
+        "키(cm)": "122~133",
+        "몸무게(kg)": "25~28"
+      }
+    },
+    {
+      "brand": "오뜨베베",
+      "caption": "뉴본",
+      "label": "ONE SIZE",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "ONE SIZE",
+        "나이": "0~3개월"
+      }
+    },
+    {
+      "brand": "오뜨베베",
+      "caption": "베베",
+      "label": "BS",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "BS",
+        "나이": "0~6개월"
+      }
+    },
+    {
+      "brand": "오뜨베베",
+      "caption": "베베",
+      "label": "BM",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "BM",
+        "나이": "6~12개월"
+      }
+    },
+    {
+      "brand": "오뜨베베",
+      "caption": "키즈",
+      "label": "XL",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "XL",
+        "나이": "6~7세",
+        "몸무게(kg)": "17~20",
+        "키(cm)": "110~120"
+      }
+    },
+    {
+      "brand": "올올라라",
+      "caption": "사이즈표",
+      "label": "XL",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "XL",
+        "나이": "6~7",
+        "키(cm)": "108~116",
+        "몸무게(kg)": "22~26"
+      }
+    },
+    {
+      "brand": "재주소년",
+      "caption": "추천 사이즈표",
+      "label": "11호",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "11호",
+        "만 나이": "7~8세",
+        "키(cm)": "115~125",
+        "몸무게(kg)": "20~25"
+      }
+    },
+    {
+      "brand": "재주소년",
+      "caption": "추천 사이즈표",
+      "label": "13호",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "13호",
+        "만 나이": "8~9세",
+        "키(cm)": "125~135",
+        "몸무게(kg)": "25~30"
+      }
+    },
+    {
+      "brand": "재주소년",
+      "caption": "추천 사이즈표",
+      "label": "15호",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "15호",
+        "만 나이": "9~10세",
+        "키(cm)": "135~140",
+        "몸무게(kg)": "30~36"
+      }
+    },
+    {
+      "brand": "재주소년",
+      "caption": "추천 사이즈표",
+      "label": "17호",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "17호",
+        "만 나이": "10~11세",
+        "키(cm)": "140~145",
+        "몸무게(kg)": "36~43"
+      }
+    },
+    {
+      "brand": "재주소년",
+      "caption": "추천 사이즈표",
+      "label": "19호",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "19호",
+        "만 나이": "11~12세",
+        "키(cm)": "145~150",
+        "몸무게(kg)": "43~52"
+      }
+    },
+    {
+      "brand": "제이룸",
+      "caption": "표준 사이즈표",
+      "label": "11호(XL)",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "나이": "6~7세",
+        "키 범위(원본 2열)": "112~122",
+        "몸무게 범위(원본 3열)": "20~25",
+        "숫자 사이즈(원본 4열)": "140",
+        "호수": "11호(XL)"
+      }
+    },
+    {
+      "brand": "제이룸",
+      "caption": "표준 사이즈표",
+      "label": "13호(2XL)",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "나이": "8~9세",
+        "키 범위(원본 2열)": "122~135",
+        "몸무게 범위(원본 3열)": "25~30",
+        "숫자 사이즈(원본 4열)": "150",
+        "호수": "13호(2XL)"
+      }
+    },
+    {
+      "brand": "제이룸",
+      "caption": "표준 사이즈표",
+      "label": "15호(JS)",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "나이": "9~10세",
+        "키 범위(원본 2열)": "135~140",
+        "몸무게 범위(원본 3열)": "30~40",
+        "숫자 사이즈(원본 4열)": "160",
+        "호수": "15호(JS)"
+      }
+    },
+    {
+      "brand": "제이룸",
+      "caption": "표준 사이즈표",
+      "label": "17호(JM)",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "나이": "11~12세",
+        "키 범위(원본 2열)": "140~150",
+        "몸무게 범위(원본 3열)": "40~50",
+        "숫자 사이즈(원본 4열)": "—",
+        "호수": "17호(JM)"
+      }
+    },
+    {
+      "brand": "제이룸",
+      "caption": "표준 사이즈표",
+      "label": "19호(JL)",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "나이": "12세 이상",
+        "키 범위(원본 2열)": "150~160 초반",
+        "몸무게 범위(원본 3열)": "50 이상",
+        "숫자 사이즈(원본 4열)": "—",
+        "호수": "19호(JL)"
+      }
+    },
+    {
+      "brand": "제제우노시티",
+      "caption": "공통",
+      "label": "XS",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "XS",
+        "나이 / 월령": "1~2세",
+        "키": "80cm 이상"
+      }
+    },
+    {
+      "brand": "제제우노시티",
+      "caption": "공통",
+      "label": "S",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "S",
+        "나이 / 월령": "3~4세",
+        "키": "90cm 이상"
+      }
+    },
+    {
+      "brand": "제제우노시티",
+      "caption": "공통",
+      "label": "M",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "M",
+        "나이 / 월령": "4~5세",
+        "키": "100cm 이상"
+      }
+    },
+    {
+      "brand": "제제우노시티",
+      "caption": "공통",
+      "label": "L",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "L",
+        "나이 / 월령": "5~6세",
+        "키": "110cm 이상"
+      }
+    },
+    {
+      "brand": "제제우노시티",
+      "caption": "공통",
+      "label": "XL",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "XL",
+        "나이 / 월령": "6~7세",
+        "키": "120cm 이상"
+      }
+    },
+    {
+      "brand": "제제우노시티",
+      "caption": "공통",
+      "label": "JS",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "JS",
+        "나이 / 월령": "7~8세",
+        "키": "130cm 이상"
+      }
+    },
+    {
+      "brand": "제제우노시티",
+      "caption": "공통",
+      "label": "JM",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "JM",
+        "나이 / 월령": "8~9세",
+        "키": "140cm 이상"
+      }
+    },
+    {
+      "brand": "제제우노시티",
+      "caption": "오버롤",
+      "label": "L",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "L",
+        "나이 / 월령": "6~8세",
+        "키": "125~130cm"
+      }
+    },
+    {
+      "brand": "제제우노시티",
+      "caption": "오버롤",
+      "label": "XL",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "XL",
+        "나이 / 월령": "8~10세",
+        "키": "135~150cm"
+      }
+    },
+    {
+      "brand": "지안클로버",
+      "caption": "아우터·상의·하의·원피스",
+      "label": "3",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "3",
+        "Length(cm, 원본 표기)": "80~90"
+      }
+    },
+    {
+      "brand": "지안클로버",
+      "caption": "아우터·상의·하의·원피스",
+      "label": "5",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "5",
+        "Length(cm, 원본 표기)": "90~100"
+      }
+    },
+    {
+      "brand": "지안클로버",
+      "caption": "아우터·상의·하의·원피스",
+      "label": "7",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "7",
+        "Length(cm, 원본 표기)": "100~110"
+      }
+    },
+    {
+      "brand": "지안클로버",
+      "caption": "아우터·상의·하의·원피스",
+      "label": "9",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "9",
+        "Length(cm, 원본 표기)": "110~120"
+      }
+    },
+    {
+      "brand": "지안클로버",
+      "caption": "아우터·상의·하의·원피스",
+      "label": "11",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "11",
+        "Length(cm, 원본 표기)": "120~130"
+      }
+    },
+    {
+      "brand": "지안클로버",
+      "caption": "아우터·상의·하의·원피스",
+      "label": "13",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "13",
+        "Length(cm, 원본 표기)": "130~140"
+      }
+    },
+    {
+      "brand": "지안클로버",
+      "caption": "아우터·상의·하의·원피스",
+      "label": "15",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "15",
+        "Length(cm, 원본 표기)": "140~150"
+      }
+    },
+    {
+      "brand": "지안클로버",
+      "caption": "아우터·상의·하의·원피스",
+      "label": "17",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "17",
+        "Length(cm, 원본 표기)": "150~160"
+      }
+    },
+    {
+      "brand": "지안클로버",
+      "caption": "아우터·상의·하의·원피스",
+      "label": "19",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "19",
+        "Length(cm, 원본 표기)": "160 이상"
+      }
+    },
+    {
+      "brand": "지안클로버",
+      "caption": "니트",
+      "label": "S",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "S",
+        "대응 사이즈(원본 표기)": "3~5"
+      }
+    },
+    {
+      "brand": "지안클로버",
+      "caption": "니트",
+      "label": "M",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "M",
+        "대응 사이즈(원본 표기)": "5~7"
+      }
+    },
+    {
+      "brand": "지안클로버",
+      "caption": "니트",
+      "label": "L",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "L",
+        "대응 사이즈(원본 표기)": "7~9"
+      }
+    },
+    {
+      "brand": "지안클로버",
+      "caption": "니트",
+      "label": "XL",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "XL",
+        "대응 사이즈(원본 표기)": "11"
+      }
+    },
+    {
+      "brand": "지안클로버",
+      "caption": "니트",
+      "label": "JS",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "JS",
+        "대응 사이즈(원본 표기)": "13"
+      }
+    },
+    {
+      "brand": "지안클로버",
+      "caption": "니트",
+      "label": "JM",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "JM",
+        "대응 사이즈(원본 표기)": "15"
+      }
+    },
+    {
+      "brand": "지안클로버",
+      "caption": "니트",
+      "label": "JL",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "JL",
+        "대응 사이즈(원본 표기)": "17~19"
+      }
+    },
+    {
+      "brand": "지안클로버",
+      "reason": "no-eligible-body-guide"
+    },
+    {
+      "brand": "칸투치스튜디오",
+      "caption": "사이즈 안내",
+      "label": "XS",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "XS",
+        "나이": "1~2세",
+        "키(cm)": "~85",
+        "몸무게(kg)": "10~13"
+      }
+    },
+    {
+      "brand": "칸투치스튜디오",
+      "caption": "사이즈 안내",
+      "label": "XL",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "XL",
+        "나이": "6~7세",
+        "키(cm)": "112~120",
+        "몸무게(kg)": "20~23"
+      }
+    },
+    {
+      "brand": "칸투치스튜디오",
+      "caption": "사이즈 안내",
+      "label": "JS",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "JS",
+        "나이": "8~9세",
+        "키(cm)": "125~135",
+        "몸무게(kg)": "23~27"
+      }
+    },
+    {
+      "brand": "칸투치스튜디오",
+      "caption": "사이즈 안내",
+      "label": "JM",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "JM",
+        "나이": "9~10세",
+        "키(cm)": "135~145",
+        "몸무게(kg)": "27~30"
+      }
+    },
+    {
+      "brand": "키들리",
+      "reason": "no-eligible-body-guide"
+    },
+    {
+      "brand": "파이",
+      "caption": "사이즈 가이드",
+      "label": "XS",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "XS",
+        "나이": "1~2세",
+        "키(cm)": "~85",
+        "몸무게(kg)": "9~13"
+      }
+    },
+    {
+      "brand": "파이",
+      "caption": "사이즈 가이드",
+      "label": "XL",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "XL",
+        "나이": "6~7세",
+        "키(cm)": "115~125",
+        "몸무게(kg)": "20~25"
+      }
+    },
+    {
+      "brand": "페퍼",
+      "caption": "사이즈 가이드",
+      "label": "XS",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "XS",
+        "나이": "1~2세",
+        "키(cm)": "75~85",
+        "몸무게(kg)": "~10"
+      }
+    },
+    {
+      "brand": "페퍼",
+      "caption": "사이즈 가이드",
+      "label": "S",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "S",
+        "나이": "2~3세",
+        "키(cm)": "85~95",
+        "몸무게(kg)": "~14"
+      }
+    },
+    {
+      "brand": "페퍼",
+      "caption": "사이즈 가이드",
+      "label": "M",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "M",
+        "나이": "4~5세",
+        "키(cm)": "95~105",
+        "몸무게(kg)": "~17"
+      }
+    },
+    {
+      "brand": "페퍼",
+      "caption": "사이즈 가이드",
+      "label": "L",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "L",
+        "나이": "5~6세",
+        "키(cm)": "105~115",
+        "몸무게(kg)": "~20"
+      }
+    },
+    {
+      "brand": "페퍼",
+      "caption": "사이즈 가이드",
+      "label": "XL",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "사이즈": "XL",
+        "나이": "6~7세",
+        "키(cm)": "115~125",
+        "몸무게(kg)": "~24"
+      }
+    },
+    {
+      "brand": "페퍼",
+      "reason": "no-eligible-body-guide"
+    },
+    {
+      "brand": "플로",
+      "caption": "사이즈 가이드",
+      "label": "140",
+      "reason": "age-starts-at-six-or-older",
+      "raw": {
+        "병합 사이즈 표기(원본)": "L : 140",
+        "사이즈": "140",
+        "호수": "13",
+        "나이": "6~7세",
+        "키(cm)": "125~135",
+        "몸무게(kg)": "25~30"
+      }
+    },
+    {
+      "brand": "호제트",
+      "caption": "의류 사이즈 안내",
+      "label": "XS",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "XS",
+        "키(cm)": "~90",
+        "몸무게(kg)": "~13"
+      }
+    },
+    {
+      "brand": "호제트",
+      "caption": "니트 사이즈 안내",
+      "label": "S",
+      "reason": "no-unambiguous-bounded-body-guide",
+      "raw": {
+        "사이즈": "S",
+        "키(cm)": "~105",
+        "몸무게(kg)": "~15"
+      }
+    }
+  ],
+  "failures": [],
+  "sourceBrandCount": 63,
+  "reviewNotes": "Excluded 13 baby-brand prefix collisions after longest source-name validation; public data uses final counts."
+}

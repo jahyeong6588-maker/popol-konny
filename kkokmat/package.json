@@ -8,7 +8,8 @@
     "build": "node scripts/build-account-site.mjs",
     "db:generate": "drizzle-kit generate",
     "test:account": "node --test tests/account*.test.mjs",
-    "prepare:ocr": "node scripts/prepare-ocr.mjs"
+    "prepare:ocr": "node scripts/prepare-ocr.mjs",
+    "harvest:mona": "node scripts/harvest-mona.mjs"
   },
   "devDependencies": {
     "@tesseract.js-data/eng": "1.0.0",
