@@ -2,6 +2,21 @@
   "name": "little-fit-korea",
   "private": true,
   "type": "module",
-  "scripts": { "test": "node --test tests/*.test.mjs", "start": "wrangler dev --config dist/server/wrangler.json --local --persist-to .wrangler/state --ip 127.0.0.1 --port 4178", "build": "node scripts/build-account-site.mjs", "db:generate": "drizzle-kit generate", "test:account": "node --test tests/account*.test.mjs" },
-  "devDependencies": { "cheerio": "^1.1.2", "drizzle-kit": "0.31.10", "drizzle-orm": "0.45.2", "wrangler": "4.92.0" }
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "start": "wrangler dev --config dist/server/wrangler.json --local --persist-to .wrangler/state --ip 127.0.0.1 --port 4178",
+    "build": "node scripts/build-account-site.mjs",
+    "db:generate": "drizzle-kit generate",
+    "test:account": "node --test tests/account*.test.mjs",
+    "prepare:ocr": "node scripts/prepare-ocr.mjs"
+  },
+  "devDependencies": {
+    "@tesseract.js-data/eng": "1.0.0",
+    "@tesseract.js-data/kor": "1.0.0",
+    "cheerio": "^1.1.2",
+    "drizzle-kit": "0.31.10",
+    "drizzle-orm": "0.45.2",
+    "tesseract.js": "7.0.0",
+    "wrangler": "4.92.0"
+  }
 }

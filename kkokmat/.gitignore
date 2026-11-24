@@ -14,3 +14,6 @@ dist/
 .env
 .env.*
 !.env.example
+
+# Generated local OCR engine/model assets
+public/vendor/ocr/

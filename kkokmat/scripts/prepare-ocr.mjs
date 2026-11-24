@@ -1,0 +1,11 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+const out=path.resolve('public/vendor/ocr');
+await fs.mkdir(path.join(out,'core'),{recursive:true});
+await fs.mkdir(path.join(out,'lang'),{recursive:true});
+for(const file of ['tesseract.esm.min.js','worker.min.js','tesseract.min.js.LICENSE.txt','worker.min.js.LICENSE.txt'])await fs.copyFile('node_modules/tesseract.js/dist/'+file,path.join(out,file));
+await fs.copyFile('node_modules/tesseract.js/LICENSE.md',path.join(out,'LICENSE-tesseract.md'));
+for(const file of await fs.readdir('node_modules/tesseract.js-core'))if(/\.wasm(?:\.js)?$/.test(file)||file==='LICENSE')await fs.copyFile('node_modules/tesseract.js-core/'+file,path.join(out,'core',file));
+for(const lang of ['kor','eng'])await fs.copyFile(`node_modules/@tesseract.js-data/${lang}/4.0.0/${lang}.traineddata.gz`,path.join(out,'lang',lang+'.traineddata.gz'));
+await fs.writeFile(path.join(out,'SOURCES.txt'),'Tesseract.js 7.0.0 — https://github.com/naptha/tesseract.js (Apache-2.0)\nTesseract.js-core — see core/LICENSE\nLanguage data: @tesseract.js-data/kor and /eng 1.0.0, 4.0.0 — https://github.com/naptha/tessdata (Apache-2.0)\nGenerated with npm run prepare:ocr; images are processed locally in the browser.\n');
+console.log('Prepared same-origin OCR worker, core and Korean/English language data.');

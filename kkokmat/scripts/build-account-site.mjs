@@ -1,5 +1,6 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
+await import('./prepare-ocr.mjs');
 const root=process.cwd(),out=path.resolve(root,'dist');
 if(out!==path.join(root,'dist')||!await fs.stat(path.join(root,'public/index.html')).then(s=>s.isFile()))throw new Error('Missing public application');
 // The generated output is fully recoverable from public/ and worker/.
